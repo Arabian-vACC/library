@@ -1,0 +1,8413 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Access essential tools and information for pilots and controllers in the Arabian vACC. From charts and procedures to training and sector files, everything you need for a seamless and realistic experience on the VATSIM network is here.">
+      
+      
+      
+        <link rel="canonical" href="https://library.arabian-vacc.com/aerodrome/dubai/gmc/">
+      
+      
+        <link rel="prev" href="../gmp/">
+      
+      
+        <link rel="next" href="../air/">
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.9">
+    
+    
+      
+        <title>4. Ground Movement Control ("Dubai Ground") - Arabian vACC - Library</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.4af4bdda.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+  
+  
+    
+    
+  
+  
+  <style>:root{--md-admonition-icon--example:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20512%20512%22%3E%3C%21--%21%20Font%20Awesome%20Free%206.7.2%20by%20%40fontawesome%20-%20https%3A//fontawesome.com%20License%20-%20https%3A//fontawesome.com/license/free%20%28Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License%29%20Copyright%202024%20Fonticons%2C%20Inc.--%3E%3Cpath%20d%3D%22M256%2048C141.1%2048%2048%20141.1%2048%20256v40c0%2013.3-10.7%2024-24%2024S0%20309.3%200%20296v-40C0%20114.6%20114.6%200%20256%200s256%20114.6%20256%20256v144.1c0%2048.6-39.4%2088-88.1%2088l-110.3-.1c-8.3%2014.3-23.8%2024-41.6%2024h-32c-26.5%200-48-21.5-48-48s21.5-48%2048-48h32c17.8%200%2033.3%209.7%2041.6%2024l110.4.1c22.1%200%2040-17.9%2040-40V256c0-114.9-93.1-208-208-208M144%20208h16c17.7%200%2032%2014.3%2032%2032v112c0%2017.7-14.3%2032-32%2032h-16c-35.3%200-64-28.7-64-64v-48c0-35.3%2028.7-64%2064-64m224%200c35.3%200%2064%2028.7%2064%2064v48c0%2035.3-28.7%2064-64%2064h-16c-17.7%200-32-14.3-32-32V240c0-17.7%2014.3-32%2032-32z%22/%3E%3C/svg%3E');}</style>
+
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mulish:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Mulish";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/admonitions.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/navigation.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+   <link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#4-ground-movement-control-dubai-ground" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+        <aside class="md-banner">
+          <div class="md-banner__inner md-grid md-typeset">
+            
+            
+<strong>Please Note</strong>: This website is still under construction, this site should not be used as a source of information for the Arabian vACC (unless specified via Discord) or real-world operations.
+
+          </div>
+          
+        </aside>
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Arabian vACC - Library" class="md-header__button md-logo" aria-label="Arabian vACC - Library" data-md-component="logo">
+      
+  <img src="../../../assets/images/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Arabian vACC - Library
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              4. Ground Movement Control ("Dubai Ground")
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Go to the dark side.."  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Go to the dark side.." for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Shine some light on this!"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Shine some light on this!" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/arabian-vacc/library" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    arabian-vacc/library
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../foundations/" class="md-tabs__link">
+          
+  
+  Foundations
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../" class="md-tabs__link">
+          
+  
+  Aerodrome
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../terminal/" class="md-tabs__link">
+          
+  
+  Terminal
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../enroute/" class="md-tabs__link">
+          
+  
+  Enroute
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../pilots%20corner/" class="md-tabs__link">
+          
+  
+  Pilots Corner
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../policies/" class="md-tabs__link">
+          
+  
+  Policies
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Arabian vACC - Library" class="md-nav__button md-logo" aria-label="Arabian vACC - Library" data-md-component="logo">
+      
+  <img src="../../../assets/images/logo.png" alt="logo">
+
+    </a>
+    Arabian vACC - Library
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/arabian-vacc/library" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    arabian-vacc/library
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Foundations
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Foundations
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Controller Software Setup
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Controller Software Setup
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/controller%20software/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/controller%20software/audio/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Audio Clients
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/controller%20software/euroscope/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    EuroScope
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/controller%20software/vatis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    vATIS
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Manual of Air Traffic Services - Part 1
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Manual of Air Traffic Services - Part 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/vmats%20p1/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/vmats%20p1/intro/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/vmats%20p1/general/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. General Provisions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/vmats%20p1/separation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Separation Methods &amp; Minima
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/vmats%20p1/separation_aerodrome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4. Separation in the Vicinity of Aerodromes
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/vmats%20p1/surveillance/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5. ATS Surveillance Services
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/vmats%20p1/aerodrome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6. Aerodrome Control Service
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Manual of Air Traffic Services - Part 2
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Manual of Air Traffic Services - Part 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/vmats%20p2/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/vmats%20p2/horizontal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7. Horizontal Speed Control
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/vmats%20p2/vectoring/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    8. Vectoring
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/vmats%20p2/level_change/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    9. Level Change
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/vmats%20p2/vertical/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    10. Vertical Speed Control
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/vmats%20p2/holding/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    11. Holding
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/vmats%20p2/terminal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    12. Terminal Area (CTA) Techniques
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/vmats%20p2/aerodrome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    13. Aerodrome Techniques
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Radiotelephony Manual
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            Radiotelephony Manual
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/radiotelephony/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/radiotelephony/intro/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/radiotelephony/general/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. General Procedures and Phraseology
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/radiotelephony/specific/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Position Specific Phraseology
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/radiotelephony/urgency/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4. Distress &amp; Urgency Messages
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_6" id="__nav_2_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Wake Turbulence Separation
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_6">
+            <span class="md-nav__icon md-icon"></span>
+            Wake Turbulence Separation
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/wake%20turbulence%20separation/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/wake%20turbulence%20separation/application/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Application of Separation Minima
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/wake%20turbulence%20separation/icao_separation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2 ICAO Wake Turbulence Separation Minima
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/wake%20turbulence%20separation/ewts_separation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Dubai Enhanced Wake Turbulence Separation (eWTS)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/wake%20turbulence%20separation/recat_separation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4. Doha Recategorisation Wake Turbulence Separation Minima (RECAT)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/wake%20turbulence%20separation/icao_wake/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5. ICAO Wake Turbulence Categories
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/wake%20turbulence%20separation/ewts_wake/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6. Dubai eWTS Wake Turbulence Categories
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../foundations/wake%20turbulence%20separation/recat_wake/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7. Doha RECAT Wake Turbulence Categories
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Aerodrome
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Aerodrome
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Abu Dhabi
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Abu Dhabi
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../abu%20dhabi/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../abu%20dhabi/aerodrome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Aerodrome Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../abu%20dhabi/gmp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. Ground Movement Planner ("Abu Dhabi Delivery")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../abu%20dhabi/gmc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Ground Movement Control ("Abu Dhabi Ground")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../abu%20dhabi/air/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4. Air Control ("XXX Tower")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../abu%20dhabi/hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5. Aerodrome Incursion Hotspots
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../abu%20dhabi/appendix_taxi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6. Appendix - Taxi Diagrams
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../abu%20dhabi/appendix_aor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7. Appendix - Areas of Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../abu%20dhabi/appendix_hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    8. Appendix - Aerodrome Incursion Hotspot Diagram
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Al-Ain
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Al-Ain
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-ain/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-ain/aerodrome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Aerodrome Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-ain/gmp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. Ground Movement Planner ("XXX Delivery")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-ain/gmc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Ground Movement Control ("XXX Ground")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-ain/air/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4. Air Control ("XXX Tower")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-ain/hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5. Aerodrome Incursion Hotspots
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-ain/appendix_taxi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6. Appendix - Taxi Diagrams
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-ain/appendix_aor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7. Appendix - Areas of Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-ain/appendix_hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    8. Appendix - Aerodrome Incursion Hotspot Diagram
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Al-Bateen
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Al-Bateen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-bateen/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-bateen/aerodrome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Aerodrome Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-bateen/gmp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. Ground Movement Planner ("XXX Delivery")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-bateen/gmc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Ground Movement Control ("XXX Ground")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-bateen/air/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4. Air Control ("XXX Tower")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-bateen/hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5. Aerodrome Incursion Hotspots
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-bateen/appendix_taxi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6. Appendix - Taxi Diagrams
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-bateen/appendix_aor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7. Appendix - Areas of Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-bateen/appendix_hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    8. Appendix - Aerodrome Incursion Hotspot Diagram
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Al-Maktoum
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Al-Maktoum
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-maktoum/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-maktoum/aerodrome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Aerodrome Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-maktoum/gmp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. Ground Movement Planner ("XXX Delivery")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-maktoum/gmc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Ground Movement Control ("XXX Ground")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-maktoum/air/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4. Air Control ("XXX Tower")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-maktoum/hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5. Aerodrome Incursion Hotspots
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-maktoum/appendix_taxi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6. Appendix - Taxi Diagrams
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-maktoum/appendix_aor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7. Appendix - Areas of Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../al-maktoum/appendix_hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    8. Appendix - Aerodrome Incursion Hotspot Diagram
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_6" id="__nav_3_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Delma
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Delma
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../delma/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../delma/aerodrome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Aerodrome Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../delma/gmp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. Ground Movement Planner ("XXX Delivery")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../delma/gmc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Ground Movement Control ("XXX Ground")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../delma/air/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4. Air Control ("XXX Tower")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../delma/hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5. Aerodrome Incursion Hotspots
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../delma/appendix_taxi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6. Appendix - Taxi Diagrams
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../delma/appendix_aor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7. Appendix - Areas of Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../delma/appendix_hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    8. Appendix - Aerodrome Incursion Hotspot Diagram
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_7" id="__nav_3_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Doha
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_7">
+            <span class="md-nav__icon md-icon"></span>
+            Doha
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../doha/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../doha/aerodrome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Aerodrome Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../doha/gmc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. Ground Movement Planner ("Doha Ground")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../doha/air/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Air Control ("Doha Tower")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../doha/appendix_taxi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6. Appendix - Taxi Diagrams
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../doha/appendix_aor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7. Appendix - Areas of Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_8" id="__nav_3_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Doha-Hamad
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_8">
+            <span class="md-nav__icon md-icon"></span>
+            Doha-Hamad
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../doha-hamad/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../doha-hamad/aerodrome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Aerodrome Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../doha-hamad/gmp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. Ground Movement Planner ("Hamad Clearance Delivery")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../doha-hamad/gmc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Ground Movement Control ("Hamad Ground")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../doha-hamad/air/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4. Air Control ("Hamad Tower")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../doha-hamad/hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5. Aerodrome Incursion Hotspots
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../doha-hamad/appendix_taxi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6. Appendix - Taxi Diagrams
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../doha-hamad/appendix_aor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7. Appendix - Areas of Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../doha-hamad/appendix_hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    8. Appendix - Aerodrome Incursion Hotspot Diagram
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../doha-hamad/appendix_qrs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    9. Appendix - Aerodrome quick reference sheet
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_9" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3_9" id="__nav_3_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Dubai
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_9_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3_9">
+            <span class="md-nav__icon md-icon"></span>
+            Dubai
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../aerodrome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Aerodrome Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../aor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. Areas of Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../gmp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Ground Movement Planner ("Dubai Delivery")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    4. Ground Movement Control ("Dubai Ground")
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    4. Ground Movement Control ("Dubai Ground")
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#41-general-provisions" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.1 General provisions
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#42-pushback-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2 Pushback procedures
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.2 Pushback procedures">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#421-general-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.1 General procedure
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#422-pushback-types" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.2 Pushback types
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.2.2 Pushback types">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#4221-standard-pushback" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.2.1 Standard pushback
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4222-short-pushback" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.2.2 Short pushback
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4223-long-pushback" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.2.3 Long pushback
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#423-simultaneous-pushback-operations" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.3 Simultaneous pushback operations
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#424-dual-runway-30r-pushback-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.4 Dual runway 30R pushback procedures
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#425-dual-runway-12r-pushback-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.5 Dual runway 12R pushback procedures
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#426-single-runway-pushback-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.6 Single runway pushback procedures
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#43-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3 Taxi procedures
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.3 Taxi procedures">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#431-general-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.1 General procedures
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#432-taxiway-restrictions" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.2 Taxiway restrictions
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#433-dual-runway-30r" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.3 Dual runway 30R
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.3.3 Dual runway 30R">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#4331-departure-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.3.1 Departure taxi procedures
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4332-arrival-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.3.2 Arrival taxi procedures
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.3.3.2 Arrival taxi procedures">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#apron-a" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apron A
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apron-b-except-stand-b27" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apron B (except stand B27)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#stand-b27-and-f27" class="md-nav__link">
+    <span class="md-ellipsis">
+      Stand B27 and F27
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apron-c" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apron C
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apron-d" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apron D
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apron-e" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apron E
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apron-f-except-stand-f26l" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apron F (except stand F26L)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#434-single-runway-30r" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.4 Single runway 30R
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.3.4 Single runway 30R">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#4341-departure-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.4.1 Departure taxi procedures
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#435-single-runway-30l" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.5 Single runway 30L
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.3.5 Single runway 30L">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#4351-departure-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.5.1 Departure taxi procedures
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#436-dual-runway-12r-arrival-bias" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.6 Dual runway 12R (Arrival Bias)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.3.6 Dual runway 12R (Arrival Bias)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#4361-departure-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.6.1 Departure taxi procedures
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#438-single-runway-12r" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.8 Single runway 12R
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.3.8 Single runway 12R">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#4381-departure-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.8.1 Departure taxi procedures
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#439-single-runway-12l" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.9 Single runway 12L
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.3.9 Single runway 12L">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#4391-departure-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.9.1 Departure taxi procedures
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4310-handoff-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.10 Handoff procedures
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#444-single-runway-30l-arrival-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.4.4 Single runway 30L arrival taxi procedures
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#445-single-runway-30r-arrival-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.4.5 Single runway 30R arrival taxi procedures
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#446-dual-runway-12l-arrival-taxi-procedures-arrival-bias" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.4.6 Dual runway 12L arrival taxi procedures (Arrival Bias)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#447-single-runway-12l-arrival-taxi-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.4.7 Single runway 12L arrival taxi procedure
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#448-single-runway-12r-arrival-taxi-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.4.8 Single runway 12R arrival taxi procedure
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#449-stand-allocation-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.4.9 Stand allocation procedure
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4410-stand-restrictions" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.4.10 Stand restrictions
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#45-low-visibility-operations-lvo" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.5 Low visibility operations (LVO)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.5 Low visibility operations (LVO)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#451-lvo-taxi-routes" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.5.1 LVO taxi routes
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#46-designated-areas-of-responsibility" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.6 Designated areas of responsibility
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.6 Designated areas of responsibility">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#461-gmc-positions" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.6.1 GMC positions
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#462-handoff-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.6.2 Handoff procedures
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#463-splitting-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.6.3 Splitting procedure
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../air/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5. Air Control ("Dubai Tower")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5. Aerodrome Incursion Hotspots
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../appendix_taxi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6. Appendix - Taxi Diagrams
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../appendix_qrs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    9. Appendix - Aerodrome quick reference sheet
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_10" id="__nav_3_10_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Fujairah
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_10">
+            <span class="md-nav__icon md-icon"></span>
+            Fujairah
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fujairah/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fujairah/aerodrome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Aerodrome Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fujairah/gmp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. Ground Movement Planner ("XXX Delivery")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fujairah/gmc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Ground Movement Control ("XXX Ground")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fujairah/air/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4. Air Control ("XXX Tower")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fujairah/hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5. Aerodrome Incursion Hotspots
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fujairah/appendix_taxi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6. Appendix - Taxi Diagrams
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fujairah/appendix_aor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7. Appendix - Areas of Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fujairah/appendix_hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    8. Appendix - Aerodrome Incursion Hotspot Diagram
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_11" id="__nav_3_11_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Muscat
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_11">
+            <span class="md-nav__icon md-icon"></span>
+            Muscat
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../muscat/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../muscat/aerodrome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Aerodrome Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../muscat/gmp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. Ground Movement Planner ("Muscat Delivery")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../muscat/gmc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Ground Movement Control ("Muscat Ground")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../muscat/air/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4. Air Control ("Muscat Tower")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../muscat/hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5. Aerodrome Incursion Hotspots
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../muscat/appendix_taxi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6. Appendix - Taxi Diagrams
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../muscat/appendix_aor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7. Appendix - Areas of Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../muscat/appendix_hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    8. Appendix - Aerodrome Incursion Hotspot Diagram
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_12" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_12" id="__nav_3_12_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ras Al Khaimah
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_12_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_12">
+            <span class="md-nav__icon md-icon"></span>
+            Ras Al Khaimah
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ras%20al%20khaimah/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ras%20al%20khaimah/aerodrome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Aerodrome Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ras%20al%20khaimah/gmp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. Ground Movement Planner ("XXX Delivery")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ras%20al%20khaimah/gmc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Ground Movement Control ("XXX Ground")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ras%20al%20khaimah/air/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4. Air Control ("XXX Tower")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ras%20al%20khaimah/hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5. Aerodrome Incursion Hotspots
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ras%20al%20khaimah/appendix_taxi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6. Appendix - Taxi Diagrams
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ras%20al%20khaimah/appendix_aor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7. Appendix - Areas of Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ras%20al%20khaimah/appendix_hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    8. Appendix - Aerodrome Incursion Hotspot Diagram
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_13" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_13" id="__nav_3_13_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Salalah
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_13_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_13">
+            <span class="md-nav__icon md-icon"></span>
+            Salalah
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../salalah/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../salalah/aerodrome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Aerodrome Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../salalah/gmp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. Ground Movement Planner ("XXX Delivery")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../salalah/gmc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Ground Movement Control ("XXX Ground")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../salalah/air/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4. Air Control ("XXX Tower")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../salalah/hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5. Aerodrome Incursion Hotspots
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../salalah/appendix_taxi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6. Appendix - Taxi Diagrams
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../salalah/appendix_aor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    7. Appendix - Areas of Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../salalah/appendix_hotspots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    8. Appendix - Aerodrome Incursion Hotspot Diagram
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_14" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_14" id="__nav_3_14_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Sharjah
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_14_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_14">
+            <span class="md-nav__icon md-icon"></span>
+            Sharjah
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sharjah/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sharjah/aerodrome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. Aerodrome Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sharjah/gmc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. Ground Movement Control ("Sharjah Ground")
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sharjah/air/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Air Control (“Sharjah Tower”)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sharjah/appendix_taxi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    4. Appendix - Taxi Diagrams
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Terminal
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Terminal
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Abu Dhabi
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            Abu Dhabi
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/abu%20dhabi/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/abu%20dhabi/general_information/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/abu%20dhabi/general_procedures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General procedures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/abu%20dhabi/arrivals/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Arrivals
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/abu%20dhabi/departures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Departures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Doha
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            Doha
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/doha/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/doha/general_information/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1. General Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/doha/general_procedures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. General Procedures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/doha/arrivals/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3. Arrivals
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/doha/departures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Departures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_4" id="__nav_4_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Dubai
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_4">
+            <span class="md-nav__icon md-icon"></span>
+            Dubai
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/dubai/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/dubai/general_information/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/dubai/general_procedures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General procedures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/dubai/arrivals/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Arrivals
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/dubai/departures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Departures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_5" id="__nav_4_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Fujairah
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_5">
+            <span class="md-nav__icon md-icon"></span>
+            Fujairah
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/fujairah/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/fujairah/general_information/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/fujairah/general_procedures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General procedures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/fujairah/arrivals/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Arrivals
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/fujairah/departures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Departures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_6" id="__nav_4_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Muscat
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_6">
+            <span class="md-nav__icon md-icon"></span>
+            Muscat
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/muscat/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/muscat/general_information/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/muscat/general_procedures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General procedures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/muscat/arrivals/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Arrivals
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/muscat/departures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Departures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_7" id="__nav_4_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ras Al Khaimah
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_7">
+            <span class="md-nav__icon md-icon"></span>
+            Ras Al Khaimah
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/ras%20al%20khaimah/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/ras%20al%20khaimah/general_information/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/ras%20al%20khaimah/general_procedures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General procedures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/ras%20al%20khaimah/arrivals/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Arrivals
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/ras%20al%20khaimah/departures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Departures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_8" id="__nav_4_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Salalah
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_8">
+            <span class="md-nav__icon md-icon"></span>
+            Salalah
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/salalah/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/salalah/general_information/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/salalah/general_procedures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General procedures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/salalah/arrivals/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Arrivals
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../terminal/salalah/departures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Departures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Enroute
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Enroute
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../enroute/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2" id="__nav_5_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Doha
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            Doha
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../enroute/doha/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../enroute/doha/general_information/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../enroute/doha/general_procedures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General procedures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../enroute/doha/sectors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sectors
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_3" id="__nav_5_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Muscat
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            Muscat
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../enroute/muscat/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../enroute/muscat/general_information/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../enroute/muscat/general_procedures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General procedures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../enroute/muscat/sectors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sectors
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_4" id="__nav_5_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    U.A.E
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_4">
+            <span class="md-nav__icon md-icon"></span>
+            U.A.E
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../enroute/uae/info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Document Information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../enroute/uae/general_information/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General information
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../enroute/uae/general_procedures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General procedures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../enroute/uae/sectors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sectors
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pilots Corner
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Pilots Corner
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pilots%20corner/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Doha
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            Doha
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pilots%20corner/doha/otbd/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Doha
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pilots%20corner/doha/othh/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Doha-Hamad
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Muscat
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            Muscat
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pilots%20corner/muscat/ooms/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Muscat
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pilots%20corner/muscat/oosa/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Salalah
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    U.A.E
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_4">
+            <span class="md-nav__icon md-icon"></span>
+            U.A.E
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pilots%20corner/uae/omaa/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Abu Dhabi/Sheikh Zayed
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pilots%20corner/uae/omad/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Al-Bateen
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pilots%20corner/uae/omal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Al-Ain
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pilots%20corner/uae/omdb/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dubai
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pilots%20corner/uae/omdw/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Al-Maktoum
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pilots%20corner/uae/omfj/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fujairah
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pilots%20corner/uae/omrk/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ras Al Khaimah
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pilots%20corner/uae/omsj/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sharjah
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Policies
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Policies
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/controller_conduct/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Controller Conduct
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/events_and_bookings/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Controller Events & Bookings
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/data_protection/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data Protection
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/join_us/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Join Us
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#41-general-provisions" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.1 General provisions
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#42-pushback-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2 Pushback procedures
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.2 Pushback procedures">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#421-general-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.1 General procedure
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#422-pushback-types" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.2 Pushback types
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.2.2 Pushback types">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#4221-standard-pushback" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.2.1 Standard pushback
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4222-short-pushback" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.2.2 Short pushback
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4223-long-pushback" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.2.3 Long pushback
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#423-simultaneous-pushback-operations" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.3 Simultaneous pushback operations
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#424-dual-runway-30r-pushback-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.4 Dual runway 30R pushback procedures
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#425-dual-runway-12r-pushback-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.5 Dual runway 12R pushback procedures
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#426-single-runway-pushback-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.2.6 Single runway pushback procedures
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#43-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3 Taxi procedures
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.3 Taxi procedures">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#431-general-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.1 General procedures
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#432-taxiway-restrictions" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.2 Taxiway restrictions
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#433-dual-runway-30r" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.3 Dual runway 30R
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.3.3 Dual runway 30R">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#4331-departure-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.3.1 Departure taxi procedures
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4332-arrival-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.3.2 Arrival taxi procedures
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.3.3.2 Arrival taxi procedures">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#apron-a" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apron A
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apron-b-except-stand-b27" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apron B (except stand B27)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#stand-b27-and-f27" class="md-nav__link">
+    <span class="md-ellipsis">
+      Stand B27 and F27
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apron-c" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apron C
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apron-d" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apron D
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apron-e" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apron E
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apron-f-except-stand-f26l" class="md-nav__link">
+    <span class="md-ellipsis">
+      Apron F (except stand F26L)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#434-single-runway-30r" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.4 Single runway 30R
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.3.4 Single runway 30R">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#4341-departure-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.4.1 Departure taxi procedures
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#435-single-runway-30l" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.5 Single runway 30L
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.3.5 Single runway 30L">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#4351-departure-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.5.1 Departure taxi procedures
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#436-dual-runway-12r-arrival-bias" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.6 Dual runway 12R (Arrival Bias)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.3.6 Dual runway 12R (Arrival Bias)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#4361-departure-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.6.1 Departure taxi procedures
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#438-single-runway-12r" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.8 Single runway 12R
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.3.8 Single runway 12R">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#4381-departure-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.8.1 Departure taxi procedures
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#439-single-runway-12l" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.9 Single runway 12L
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.3.9 Single runway 12L">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#4391-departure-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.9.1 Departure taxi procedures
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4310-handoff-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.3.10 Handoff procedures
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#444-single-runway-30l-arrival-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.4.4 Single runway 30L arrival taxi procedures
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#445-single-runway-30r-arrival-taxi-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.4.5 Single runway 30R arrival taxi procedures
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#446-dual-runway-12l-arrival-taxi-procedures-arrival-bias" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.4.6 Dual runway 12L arrival taxi procedures (Arrival Bias)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#447-single-runway-12l-arrival-taxi-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.4.7 Single runway 12L arrival taxi procedure
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#448-single-runway-12r-arrival-taxi-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.4.8 Single runway 12R arrival taxi procedure
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#449-stand-allocation-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.4.9 Stand allocation procedure
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4410-stand-restrictions" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.4.10 Stand restrictions
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#45-low-visibility-operations-lvo" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.5 Low visibility operations (LVO)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.5 Low visibility operations (LVO)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#451-lvo-taxi-routes" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.5.1 LVO taxi routes
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#46-designated-areas-of-responsibility" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.6 Designated areas of responsibility
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4.6 Designated areas of responsibility">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#461-gmc-positions" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.6.1 GMC positions
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#462-handoff-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.6.2 Handoff procedures
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#463-splitting-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      4.6.3 Splitting procedure
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="4-ground-movement-control-dubai-ground">4. Ground Movement Control ("Dubai Ground")</h1>
+<h2 id="41-general-provisions">4.1 General provisions</h2>
+<p>The Ground Movement Controller (GMC) is responsible for managing aircraft movements on all aerodrome movement areas except for runways and their associated taxiways. Departing aircraft are given pushback instructions and instructions to taxi to the runway holding point. Arriving aircraft are assigned a stand and instructed to taxi as appropriate.</p>
+<h2 id="42-pushback-procedures">4.2 Pushback procedures</h2>
+<h3 id="421-general-procedure">4.2.1 General procedure</h3>
+<p>When aircraft have been handed off to GMC, they shall be fully ready for pushback, and are 5 minutes from their TOBT. Assuming no obstructions, they shall be instructed to push back immediately. If an aircraft is cleared for push and start but does not begin pushing within 2-5 minutes, the pushback clearance is canceled, and a new TOBT is assigned.</p>
+<p>Aircraft requesting push that are not squawking their assigned transponder code shall be instructed to hold position and squawk the correct code. They must not be allowed to move until doing so. </p>
+<p>Pushback direction is based primarily on aircraft location and runway configuration. </p>
+<p>All non-A380 traffic on aprons B shall be instructed to push back onto U. All code F (A380/B747-8) traffic on apron B shall be instructed to push back onto taxiway J and face the appropriate direction.</p>
+<p>On apron F and A, all traffic shall be instructed to push back onto Z. Pushbacks onto taxiway K shall not be permitted under any circumstances.</p>
+<p>A pushback clearance must be a variant of those provided in 3.2.2 and include an instruction to “FACE WEST” or “FACE EAST” as appropriate.</p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p><strong>Pilot</strong>: "Dubai Ground, UAE4CK, on stand A4 request pushback."</p>
+<p><strong>Controller</strong>: "UAE4CK, Dubai Ground, pushback approved, face east on Z."</p>
+<p><strong>Pilot</strong>: "Pushback approved, facing east on Z, UAE4CK."</p>
+</div>
+<p>Conditional pushback instructions may also be issued if an aircraft is taxiing behind another waiting for pushback.</p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p><strong>Pilot</strong>: "Dubai Ground, FDB647, on stand E8 request pushback."</p>
+<p><strong>Controller</strong>: "FDB647, Dubai Ground, behind the company 737 passing left to right, pushback approved, face east on P."</p>
+<p><strong>Pilot</strong>: "After the company 737 passes from left to right, pushback approved, facing east on P, FDB647."</p>
+</div>
+<h3 id="422-pushback-types">4.2.2 Pushback types</h3>
+<h4 id="4221-standard-pushback">4.2.2.1 Standard pushback</h4>
+<p>This type will normally have the aircraft stop abeam the adjacent stand. The phraseology for this type of pushback is identical to the pushback phraseology as provided in 3.2.1.</p>
+<h4 id="4222-short-pushback">4.2.2.2 Short pushback</h4>
+<p>A short pushback instruction shall require the aircraft to complete the pushback abeam the current stand such that the adjacent stand will not be blocked.</p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p><strong>Pilot</strong>: "Dubai Ground, UAE51, on stand F6 request pushback."</p>
+<p><strong>Controller</strong>: "UAE51, Dubai Ground, short pushback approved, face west on Z to finish abeam stand F6."</p>
+<p><strong>Pilot</strong>: "Short pushback approved, facing west on Z to finish abeam stand F6, UAE51."</p>
+</div>
+<h4 id="4223-long-pushback">4.2.2.3 Long pushback</h4>
+<p>A long pushback instruction shall require aircraft to complete the pushback operation two stands away from where the pushback was commenced. This manoeuvre may be used when aircraft are vacating a stand to be used by another aircraft that is taxiing in.</p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p><strong>Pilot</strong>: "Dubai Ground, UAE6LT, on stand A6 request pushback."</p>
+<p><strong>Controller</strong>: "UAE6LT, Dubai Ground, long pushback approved, face east on Z to finish abeam stand A4."</p>
+<p><strong>Pilot</strong>: "Long pushback approved, facing east on Z to finish abeam stand A4, UAE6LT."</p>
+</div>
+<h3 id="423-simultaneous-pushback-operations">4.2.3 Simultaneous pushback operations</h3>
+<p>Simultaneous pushbacks may be permitted from adjacent stands provided aircraft are instructed to manoeuvre in accordance with 3.2.2 such that on completion of both aircraft’s pushback operation, they will be separated on the taxiway by two aircraft stands.</p>
+<h3 id="424-dual-runway-30r-pushback-procedures">4.2.4 Dual runway 30R pushback procedures</h3>
+<p>When departing 30R, all aircraft parked on apron B and F shall be instructed to push back to “FACE WEST”.</p>
+<p>Aircraft on A, C, D and E aprons shall be in instructed to push back to “FACE EAST” as provided in 3.2.1.</p>
+<p>Traffic pushing back from stand C62, C63 and C64 shall be instructed to "FACE NORTH" on J1.</p>
+<p>Traffic pushing back from stand A1 and A2 shall be instructed to "FACE NORTH" on J2.</p>
+<p>Traffic pushing back from stand A10 and D10 shall be instructed to "FACE NORTH" on J3.</p>
+<p>Other traffic shall be pushed back in the appropriate direction for taxi as provided in 3.3. Care must be taken to ensure that the pushback will not block key taxiway intersections.</p>
+<div class="admonition important">
+<p class="admonition-title">Important</p>
+<p>For traffic parked on stand A1, A2 and D1, before issuing pushback instruction, GMC 1 must coordinate the pushback with AIR South to avoid blocking the high speed turn onto taxiway J2.</p>
+<p>For traffic parked on stand C62, C63 and C64, before issuing pushback instruction, GMC 2 must coordinate the pushback with GMC 1 to avoid blocking J1 for Code F traffic.</p>
+</div>
+<h3 id="425-dual-runway-12r-pushback-procedures">4.2.5 Dual runway 12R pushback procedures</h3>
+<p>When departing 12R, aircraft south of 12L shall push in the appropriate direction to give the shortest taxi possible to the standard departure point on 12R. </p>
+<p>Aircraft on aprons E and Q shall be instructed to push in the appropriate direction that will allow the shortest taxi time to holding point N2.</p>
+<h3 id="426-single-runway-pushback-procedures">4.2.6 Single runway pushback procedures</h3>
+<p>During single runway operations, aircraft shall be pushed back in the most convenient direction to join the appropriate taxi route as provided in 4.3 for the respective runway mode.</p>
+<h2 id="43-taxi-procedures">4.3 Taxi procedures</h2>
+<h3 id="431-general-procedures">4.3.1 General procedures</h3>
+<p>Departing aircraft from aprons F, B and D are usually taxied out using the taxiways closest to the concourses (U, W, Y, Z). The only exception to this is code F (A380/B747-8) traffic departing from apron B which must taxi using J and must not be allowed to taxi on U, W or Y.</p>
+<div class="admonition important">
+<p class="admonition-title">Important</p>
+<p>Where aircraft are taxied to runway holding points, transfer of control to AIR shall be made early enough such that the aircraft is not required to stop its taxi. For traffic taxiing between GMC areas of responsibility, aircraft should be handed off early enough to ensure a non-stop taxi, provided no conflicts are anticipated. </p>
+</div>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p><strong>Pilot</strong>: "Dubai Ground, UAE7TR, request taxi."</p>
+<p><strong>Controller</strong>: "UAE7TR, Dubai Ground, taxi via Z, L4, M, holding point M13A, runway 30R."</p>
+<p><strong>Pilot</strong>: "Taxi via Z, L4, M, holding point M13A, runway 30R, UAE7TR."</p>
+</div>
+<p>Several “cross-over” taxiways exist to allow aircraft to transfer between the inner and outer taxiways. These shall be used whenever necessary to allow efficient flow of traffic around the airport. </p>
+<p>To deconflict traffic, and to reduce the length of taxi clearances, intermediate holding points shall be used wherever possible.</p>
+<p>Intermediate holding points shall always be used when transferring aircraft between controllers to avoid conflicts and the area of responsibility boundaries.</p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p><strong>Pilot</strong>: "Dubai Ground, UAE9LT, request taxi."</p>
+<p><strong>Controller</strong>: "UAE9LT, Dubai Ground, taxi via Z, L4, hold L4A."</p>
+<p><strong>Pilot</strong>: "Taxi via Z, L4, hold L4A, UAE9LT."</p>
+</div>
+<p>Arriving aircraft shall not immediately be handed off by AIR. They must instead be given an initial taxi instruction onto M, N, J2 or K to keep traffic flowing. Therefore, GMC shall assign an arrival stand to aircraft when they are on final approach.</p>
+<p>Once the aircraft is handed off to GMC, they may be taxied to their stand. Arrivals shall generally be taxied via the outside taxiways that are farthest away from the stands. </p>
+<p>Aircraft are not required to cross-over to the inside taxiways before initiating the turn onto stand for aprons A, B, D, and F.</p>
+<h3 id="432-taxiway-restrictions">4.3.2 Taxiway restrictions</h3>
+<p>Code F aircraft shall not be permitted to taxi on U, Y, W. These taxiways are limited to code E and below.</p>
+<p>Code F aircraft shall not be permitted to use the curved portions of J, J1 and J2 if code E aircraft are simultaneously taxiing on the curved portions of U, Y or W and vice versa. </p>
+<p>In this case, traffic shall be instructed to hold short of the curved portion until the adjacent curved taxiway is clear.</p>
+<p>Taxiway Q shall be limited to code C and below.</p>
+<div class="admonition important">
+<p class="admonition-title">Important</p>
+<p>These taxiway restrictions must be adhered to to ensure adequate wingtip clearance during taxi.</p>
+</div>
+<h3 id="433-dual-runway-30r">4.3.3 Dual runway 30R</h3>
+<h4 id="4331-departure-taxi-procedures">4.3.3.1 Departure taxi procedures</h4>
+<p>When departing from 30R in the dual runway configuration, all aircraft pushing back on apron B and F shall be instructed to taxi via L4 and M.</p>
+<p>Aircraft on aprons A and D shall be instructed to taxi to holding point K14. During periods of lower aerodrome departure or arrival activity, K11 or K12 may be used for runway crossings only after coordination with AIR. </p>
+<p>Before reaching these holding points, aircraft shall be transferred to AIR North. </p>
+<p>Eastbound traffic flow on K shall not be permitted between K1 and K8, as this blocks the rapid exit taxiways from 30L. </p>
+<p>Departures from apron C shall be instructed to taxi via L1 and M. </p>
+<p>In all applicable cases, when traffic turns to enter taxiway M, transfer to AIR shall be initiated.</p>
+<p>Departures from apron E shall be instructed to cross over to and taxi via N.</p>
+<h4 id="4332-arrival-taxi-procedures">4.3.3.2 Arrival taxi procedures</h4>
+<p>Aircraft shall vacate 30L onto K9, K8 or K6, depending on the stand assignment described in 3.4.5. After initial taxi is issued by AIR, aircraft are handed off to GMC as provided below. </p>
+<h5 id="apron-a">Apron A</h5>
+<p>For aircraft parking on apron A vacating at K8, taxi routings shall be via K eastbound.</p>
+<h5 id="apron-b-except-stand-b27">Apron B (except stand B27)</h5>
+<p>Traffic shall vacate via K8 or K9 then be instructed by AIR South to taxi to J2A. Traffic shall then be transferred to GMC 1.</p>
+<p>Traffic shall be instructed by GMC1 to taxi right on J to the appropriate stand.</p>
+<h5 id="stand-b27-and-f27">Stand B27 and F27</h5>
+<p>Traffic parking on F27 and B27 shall be instructed by AIR South to taxi via J right onto Z then left onto W  to hold at WA. Traffic shall then be transferred to GMC 1 for further taxi. </p>
+<h5 id="apron-c">Apron C</h5>
+<p>Traffic shall vacate at K9, K8 or K6, AIR South shall instruct traffic to taxi via K and hold short at KL and initiate transfer to GMC 1.</p>
+<p>GMC 1 shall issue taxi via K westbound to hold at KF and transfer control to GMC 2. GMC 2 shall taxi the aircraft to the appropriate stand.</p>
+<h5 id="apron-d">Apron D</h5>
+<p>Traffic shall vacate via K8 or K9 then be instructed by AIR South to taxi to J2A. Traffic shall then be transferred to GMC 1.</p>
+<p>GMC 1 shall instruct traffic to taxi left on J for the appropriate stand.</p>
+<h5 id="apron-e">Apron E</h5>
+<p>Traffic shall vacate at K9, K8 or K6, AIR South shall instruct traffic to taxi via K and hold short at KL and initiate transfer to GMC 1.</p>
+<p>GMC 1 shall instruct traffic to taxi via K, L3 then to holding point M2. Before reaching M2, aircraft shall be transferred to AIR North for runway crossing.</p>
+<p>After runway crossing, traffic shall be transferred to GMC 2 to taxi to the appropriate stand.</p>
+<h5 id="apron-f-except-stand-f26l">Apron F (except stand F26L)</h5>
+<figure>
+<p><a class="glightbox" href="../img/OMDB_30_TITO.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Taxi routings - 30 dual config" src="../img/OMDB_30_TITO.png" /></a></p>
+</figure>
+<figure>
+<figcaption>Figure4-1: Taxi routings - 30 dual config</figcaption>
+</figure>
+<h3 id="434-single-runway-30r">4.3.4 Single runway 30R</h3>
+<h4 id="4341-departure-taxi-procedures">4.3.4.1 Departure taxi procedures</h4>
+<p>When departing 30R in the single runway configuration, all aircraft pushing back on apron A, B, D and F shall be instructed to taxi via K4, K7, or K11 and cross 30L as appropriate.</p>
+<p>Except for aircraft taxiing from apron C, the section of taxiway M west of K4 shall not be used for departure taxi as this blocks the arrival flow from 30R.</p>
+<p>The taxi routes from apron E shall be the same as with the dual runway 30 configuration.</p>
+<h3 id="435-single-runway-30l">4.3.5 Single runway 30L</h3>
+<h4 id="4351-departure-taxi-procedures">4.3.5.1 Departure taxi procedures</h4>
+<p>When departing 30L in the single runway configuration, all aircraft pushing back on aprons A, B, D and F shall taxi via Z until past 30L RETs after which they shall cross onto K and taxi to holding point K17.</p>
+<p>Eastbound flow shall not be permitted on K between K1 and K8.</p>
+<p>Aircraft on apron E shall cross 30R at N9 and taxi to holding point M20.</p>
+<h3 id="436-dual-runway-12r-arrival-bias">4.3.6 Dual runway 12R (Arrival Bias)</h3>
+<h4 id="4361-departure-taxi-procedures">4.3.6.1 Departure taxi procedures</h4>
+<p>When departing from 12R, aircraft parked on aprons A, B, D, F and C shall be taxied via the shortest appropriate route to the standard departure holding points K3, K4 and K5 avoiding conflicts with other departing or arriving traffic.</p>
+<p>Aircraft parked on apron E and Q shall be taxied via the standard route to holding point N2. Before reaching N2, aircraft are transferred to AIR North for runway crossing. Aircraft then shall taxi via L3, then K to holding point K3, K4 or K5 as appropriate.</p>
+<p>Use of full-length holding points (K1, K2) shall require coordination with AIR and shall not be assigned unless requested for performance reasons. These aircraft shall be advised of possible delays due to runway dependency.</p>
+<p>Departing traffic shall not be issued taxi to holding points M</p>
+<figure>
+<p><a class="glightbox" href="../img/OMDB%2012%20TITO%20AB.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Taxi routings - 12 dual config (arrival bias)" src="../img/OMDB%2012%20TITO%20AB.png" /></a></p>
+</figure>
+<figure>
+<p><a class="glightbox" href="../img/OMDB%2012%20TITO%20DB.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Taxi routings - 12 dual config (departure bias)" src="../img/OMDB%2012%20TITO%20DB.png" /></a></p>
+</figure>
+<h3 id="438-single-runway-12r">4.3.8 Single runway 12R</h3>
+<h4 id="4381-departure-taxi-procedures">4.3.8.1 Departure taxi procedures</h4>
+<p>Departure taxi routes for 12R single runway operation shall be the same as in dual runway operations, except that aircraft may be assigned full length holding points without restriction.</p>
+<h3 id="439-single-runway-12l">4.3.9 Single runway 12L</h3>
+<h4 id="4391-departure-taxi-procedures">4.3.9.1 Departure taxi procedures</h4>
+<p>When operating from 12L during single runway operation, aircraft pushing back on the southern aprons shall taxi westbound to join L3/L4 and then to M1.</p>
+<p>Aircraft departing the northern aprons shall taxi to N1.</p>
+<h3 id="4310-handoff-procedures">4.3.10 Handoff procedures</h3>
+<p>When departing traffic has been instructed to taxi to their departure holding points as per the standard taxi routings and when the handoff towards AIR is initiated as per AoR, GMC will ask departing aircraft to monitor the AIR frequency. </p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p><strong>Controller</strong>: "UAE530, monitor tower 118.750."</p>
+</div>
+<p>When departing traffic has been instructed to taxi to runway holding points for crossing as per the standard taxi routings and when the handoff towards AIR is initiated as per AoR, GMC will ask departing aircraft to contact the AIR frequency.</p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p><strong>Controller</strong>: "UAE8KC, contact tower 119.550."</p>
+</div>
+<div class="admonition important">
+<p class="admonition-title">Important</p>
+<p>The key distinction between monitor and contact is as follows: monitor instructs the pilot to switch to the assigned frequency and await a call from the next controller, while contact requires the pilot to switch frequencies and make an initial call. During periods of high traffic, the use of monitor is preferred over contact to reduce radio frequency congestion.</p>
+</div>
+<h3 id="444-single-runway-30l-arrival-taxi-procedures">4.4.4 Single runway 30L arrival taxi procedures</h3>
+<p>Routings are similar to 30L dual runway taxi, however caution should be exercised for traffic vacating onto J2, as this will cross the departure traffic taxiing eastbound on Z. Appropriate coordination shall be used to mitigate the risk of blocking the high speed exit.</p>
+<p>Aircraft are also permitted to vacate right onto M and cross 30R at M10A or M5A.</p>
+<h3 id="445-single-runway-30r-arrival-taxi-procedures">4.4.5 Single runway 30R arrival taxi procedures</h3>
+<p>Aircraft parking on the southern aprons shall vacate to the left and taxi via L3, L4 or M4 to cross 30L.</p>
+<p>Aircraft parking on the northern aprons shall vacate right and take the first appropriate turn onto P.</p>
+<h3 id="446-dual-runway-12l-arrival-taxi-procedures-arrival-bias">4.4.6 Dual runway 12L arrival taxi procedures (Arrival Bias)</h3>
+<p>Aircraft parking on the southern aprons shall vacate 12L onto M9 or M12A and be instructed by AIR to taxi via M to holding points M13B or M14B as appropriate.</p>
+<p>Once aircraft have crossed 12R, aircraft will be transferred from AIR to GMC.</p>
+<p>Taxi routes to most aprons on the south side will be via K. For aprons B and D, aircraft shall taxi via J2 and then left or right onto J as appropriate.</p>
+<p>Aircraft parking on the northern aprons shall vacate 12L onto N6 or N8 and then taxi via N or P as appropriate.</p>
+<p>In addition to the standard taxi routings outlined above, a ”bias” mode can be utilised for biasing arrival traffic flow in the Dual runway 12L arrival configuration.</p>
+<p>In the arrival bias, arriving traffic may vacate 12L to taxi westbound on M and then southbound on L3 and L4 to enter the C apron. Departing traffic will not interfere with the arrivals as they are prohibited from using any of the runway holding points along taxiway M.</p>
+<figure>
+<p><a class="glightbox" href="../img/OMDB%2012%20TITO%20AB.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Taxi routings - 12 dual config (arrival bias)" src="../img/OMDB%2012%20TITO%20AB.png" /></a></p>
+</figure>
+<figure>
+<p><a class="glightbox" href="../img/OMDB%2012%20TITO%20DB.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Taxi routings - 12 dual config (departure bias)" src="../img/OMDB%2012%20TITO%20DB.png" /></a></p>
+</figure>
+<h3 id="447-single-runway-12l-arrival-taxi-procedure">4.4.7 Single runway 12L arrival taxi procedure</h3>
+<p>Arrival taxi routes during 12L single runway operation shall be the same as 12 dual runway operations.</p>
+<h3 id="448-single-runway-12r-arrival-taxi-procedure">4.4.8 Single runway 12R arrival taxi procedure</h3>
+<p>Aircraft parking on the southern aprons shall vacate right and taxi in via K.</p>
+<p>Aircraft parking on the northern aprons shall vacate left and taxi via M to cross 12L at M10A.</p>
+<h3 id="449-stand-allocation-procedure">4.4.9 Stand allocation procedure</h3>
+<p>Aircraft shall be assigned stands automatically using Ground Radar Plugin Stand Assigner. If this is not possible, aircraft shall manually be assigned a stand in accordance with the following procedure:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Area</th>
+<th style="text-align: center;">Stand Allocation</th>
+<th style="text-align: center;">Operator</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Concourse A</td>
+<td style="text-align: center;">Stands A1 to A10, D1 to D10</td>
+<td style="text-align: center;">ACA, QFA, UAE, UAL</td>
+</tr>
+<tr>
+<td style="text-align: center;">Concourse B</td>
+<td style="text-align: center;">Stands B14 to B27, F16 to F27</td>
+<td style="text-align: center;">ACA, QFA, UAE, UAL</td>
+</tr>
+<tr>
+<td style="text-align: center;">Concourse C</td>
+<td style="text-align: center;">Stands B1 to B12, F2 to F13</td>
+<td style="text-align: center;">FDB (Stands: F2, B1 to B10), UAE</td>
+</tr>
+<tr>
+<td style="text-align: center;">Concourse D</td>
+<td style="text-align: center;">Stands C48 to C64</td>
+<td style="text-align: center;">International Operators</td>
+</tr>
+<tr>
+<td style="text-align: center;">Apron C (Remote)</td>
+<td style="text-align: center;">Stands C18 to C47</td>
+<td style="text-align: center;">FDB (Stands: C18 to C23, C27 to C40), International Operators, KAM (Stands: C36 to C40), UAE (Stands: C24 to C40)</td>
+</tr>
+<tr>
+<td style="text-align: center;">Apron E (Remote)</td>
+<td style="text-align: center;">Stands E1 to E27</td>
+<td style="text-align: center;">AXB, FDB, Cargo, low-cost</td>
+</tr>
+<tr>
+<td style="text-align: center;">Apron G (Remote)</td>
+<td style="text-align: center;">Stands G1 to G22</td>
+<td style="text-align: center;">UAE (Overflow)</td>
+</tr>
+<tr>
+<td style="text-align: center;">Apron H</td>
+<td style="text-align: center;">Stands H1 to H4</td>
+<td style="text-align: center;">AUH, DUB</td>
+</tr>
+<tr>
+<td style="text-align: center;">Apron Q (Remote)</td>
+<td style="text-align: center;">Stands Q1 to Q11</td>
+<td style="text-align: center;">FDB</td>
+</tr>
+<tr>
+<td style="text-align: center;">Apron S (Remote)</td>
+<td style="text-align: center;">Stands S1 to S15</td>
+<td style="text-align: center;">UAE (Overflow)</td>
+</tr>
+</tbody>
+</table>
+<figure>
+<figcaption>Table 4-1: Stand allocation procedure</figcaption>
+</figure>
+<h3 id="4410-stand-restrictions">4.4.10 Stand restrictions</h3>
+<p>All stands on Apron A and Apron D are up to code F (A380/B747-8) capable, as well as F18 to F22, F27, F12 and F13. All remaining stands are up to heavy (code E) capable except C18 to C23 and B1 to B7 which are up to medium (code C) capable.</p>
+<h2 id="45-low-visibility-operations-lvo">4.5 Low visibility operations (LVO)</h2>
+<h3 id="451-lvo-taxi-routes">4.5.1 LVO taxi routes</h3>
+<p>When LVO is in force, aircraft shall not cross the landing runway as far as practicable.</p>
+<p>Aircraft shall only be issued taxi instructions in accordance with the designated LVO taxi routes. </p>
+<p>Only designated CAT II/III holding points shall be used during LVO (4.7.2).</p>
+<h2 id="46-designated-areas-of-responsibility">4.6 Designated areas of responsibility</h2>
+<h3 id="461-gmc-positions">4.6.1 GMC positions</h3>
+<p>Dubai has two GMC positions, GMC 1 and GMC 2.</p>
+<p>GMC 1 controls aircraft movements on the following areas and their associated taxiways:
+- Apron A
+- Apron B
+- Apron D
+- Apron F
+- Apron G
+- Apron H</p>
+<p>GMC 2 controls aircraft movements on the following areas and their associated taxiways:
+- Apron C
+- Apron E
+- Apron S
+- Apron Q</p>
+<p>(See Section 2)</p>
+<h3 id="462-handoff-procedures">4.6.2 Handoff procedures</h3>
+<p>Where transfer of control is to be made between controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller. Intermediate holding points may be used to satisfy this requirement.</p>
+<h3 id="463-splitting-procedure">4.6.3 Splitting procedure</h3>
+<p>When there is only one GMC online, they shall cover all surface movement areas from the GMC 1 position. </p>
+<p>Unless otherwise authorised by the Arabian vACC staff, GMP (Dubai Delivery) must be online before two GMC (Dubai Ground) positions are be opened.</p>
+<p>When GMP is not online, GMC shall assume the responsibility of the lower controller.</p>
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Last update">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="March 24, 2025 10:41:39">March 24, 2025</span>
+  </span>
+
+    
+    
+    
+    
+  </aside>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <!-- Copyright and theme information -->
+<div class="md-copyright">
+    <div class="md-copyright__highlight">
+      <div style="display: block;">The content on this website is intended for Flight Simulation use only.</div>
+      <div style="display: block;">The Arabian vACC is in no way affiliated with the Civil Aviation Authorities of Oman, Qatar, and the United Arab Emirates.</div>
+      
+      
+    </div>
+  
+    Made with
+    <a
+      href="https://squidfunk.github.io/mkdocs-material/"
+      target="_blank" rel="noopener"
+    >
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://twitch.tv/arabianvacc" target="_blank" rel="noopener" title="twitch.tv" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M391.17 103.47h-38.63v109.7h38.63ZM285 103h-38.63v109.75H285ZM120.83 0 24.31 91.42v329.16h115.83V512l96.53-91.42h77.25L487.69 256V0Zm328.24 237.75-77.22 73.12h-77.24l-67.6 64v-64h-86.87V36.58h308.93Z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://discord.gg/Fk9Wspw" target="_blank" rel="noopener" title="discord.gg" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M524.531 69.836a1.5 1.5 0 0 0-.764-.7A485 485 0 0 0 404.081 32.03a1.82 1.82 0 0 0-1.923.91 338 338 0 0 0-14.9 30.6 447.9 447.9 0 0 0-134.426 0 310 310 0 0 0-15.135-30.6 1.89 1.89 0 0 0-1.924-.91 483.7 483.7 0 0 0-119.688 37.107 1.7 1.7 0 0 0-.788.676C39.068 183.651 18.186 294.69 28.43 404.354a2.02 2.02 0 0 0 .765 1.375 487.7 487.7 0 0 0 146.825 74.189 1.9 1.9 0 0 0 2.063-.676A348 348 0 0 0 208.12 430.4a1.86 1.86 0 0 0-1.019-2.588 321 321 0 0 1-45.868-21.853 1.885 1.885 0 0 1-.185-3.126 251 251 0 0 0 9.109-7.137 1.82 1.82 0 0 1 1.9-.256c96.229 43.917 200.41 43.917 295.5 0a1.81 1.81 0 0 1 1.924.233 235 235 0 0 0 9.132 7.16 1.884 1.884 0 0 1-.162 3.126 301.4 301.4 0 0 1-45.89 21.83 1.875 1.875 0 0 0-1 2.611 391 391 0 0 0 30.014 48.815 1.86 1.86 0 0 0 2.063.7A486 486 0 0 0 610.7 405.729a1.88 1.88 0 0 0 .765-1.352c12.264-126.783-20.532-236.912-86.934-334.541M222.491 337.58c-28.972 0-52.844-26.587-52.844-59.239s23.409-59.241 52.844-59.241c29.665 0 53.306 26.82 52.843 59.239 0 32.654-23.41 59.241-52.843 59.241m195.38 0c-28.971 0-52.843-26.587-52.843-59.239s23.409-59.241 52.843-59.241c29.667 0 53.307 26.82 52.844 59.239 0 32.654-23.177 59.241-52.844 59.241"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://facebook.com/arabianvacc" target="_blank" rel="noopener" title="facebook.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256c0 120 82.7 220.8 194.2 248.5V334.2h-52.8V256h52.8v-33.7c0-87.1 39.4-127.5 125-127.5 16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287v175.9C413.8 494.8 512 386.9 512 256"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://x.com/arabianvacc" target="_blank" rel="noopener" title="x.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8l164.9-188.5L26.8 48h145.6l100.5 132.9zm-24.8 373.8h39.1L151.1 88h-42z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://instagram.com/arabianvacc" target="_blank" rel="noopener" title="instagram.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141m0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7m146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8m76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8M398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/arabian-vacc" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.youtube.com/@ArabianVACC" target="_blank" rel="noopener" title="www.youtube.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305m-317.51 213.508V175.185l142.739 81.205z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking", "navigation.instant", "navigation.instant.progress", "search.suggest", "search.highlight", "search.share", "content.code.copy"], "search": "../../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": false, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>
