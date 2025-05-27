@@ -55,7 +55,7 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
 |:----------:|:----------------:|:---------:|-------------------------------------------------------------------|
 | OMDB_DEL   | Dubai Delivery   | 120.350   | - All IFR & VFR Clearances                                        |
 | OMDB_1_GND | Dubai Ground     | 118.350   | - Primary Ground Position - Concourse A, B, C, Apron G, Apron H   |
-| OMDB_2_GND | Dubai Ground     | 121.650   | - Concourse C, Apron C, Apron E, Apron Q, Apron S                 |
+| OMDB_2_GND | Dubai Ground     | 121.650   | - Concourse D, Apron C, Apron E, Apron Q, Apron S                 |
 | OMDB_1_TWR | Dubai Tower      | 118.750   | - Primary Tower Position - Runway 12L/30R                         |
 | OMDB_2_TWR | Dubai Tower      | 119.550   | - Runway 12R/30L                                                  |
 | OMDB_1_DEP | Dubai Departures | 121.025   | - Primary Departure Position                                      |
@@ -151,6 +151,14 @@ Pushback clearances will specify a direction to face, such as West or East, and 
     If pilots are unable to commence pushback within 2-3 minutes, the pushback clearance may be revoked, and slot times will be recalculated.
 
 ### Taxi
+Pilots must comply with all taxi instructions, including holds. Taxi instructions are given based on various factors such as aircraft type and traffic.
+
+!!! info
+    Controllers regularly make use of intermediate holding points to optimise traffic flow. These can be found on the **Taxi and Parking** charts.
+
+!!! example
+    **Controller**: "UAE9LT, Dubai Ground, taxi via Z, L4, hold L4A."
+
 #### Standard Intersection Departures
 For the purposes of takeoff performance planning the standard departure taxiways are:
 
