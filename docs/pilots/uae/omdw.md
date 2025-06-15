@@ -19,6 +19,6 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
 
 | Simulator      | Freeware                                                                                                           | Payware                            |
 |----------------|--------------------------------------------------------------------------------------------------------------------|------------------------------------|
-| MSFS           | test                                                                                                               |                                    |
+| MSFS           | [Sw1t23r flightsim.to](https://flightsim.to/file/92382/omdw)                                                       |                                    |
 | X-Plane        | X-Plane Default                                                                                                    |                                    |
 | Prepar3D V4/V5 | [AVSIM](https://library.avsim.net/search.php?CatID=root&SearchTerm=omdw*.zip&Sort=Added&ScanMode=0&Go=Change+View) |                                    |

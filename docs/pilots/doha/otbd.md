@@ -87,7 +87,7 @@ Controllers will assign a Standard Instrument Departure (SID) based on the first
   <tr>
     <td><b>PATOM</b></td>
     <td>3S</td>
-    <td>3N/td>
+    <td>3N</td>
   </tr>
   <tr>
     <td><b>TULUB</b></td>
@@ -215,7 +215,7 @@ Enter the CTR via ESE maintaining 500 FT. From ESE, route OH 34, SEA to hold, aw
     1. The Orange route shall be suspended when the cloud ceiling is below 2000 FT and/ or visibility is less than 3500 M.
     2. The Orange route shall be suspended during peak arrival periods and IPO.
     3. The OTHH Supervisor may for any other valid reasons suspend the Orange Route.
-    4 . When the route is suspended, the OTHH ATCO Supervisor shall inform OTBD Tower who shall inform GHC immediately. Best practice is to provide a minimum of
+    4. When the route is suspended, the OTHH ATCO Supervisor shall inform OTBD Tower, the GHC then shall be informed immediately. Best practice is to provide a minimum of
     5. 15 minutes’ notice to GHC.
 
 <table><thead>
@@ -278,7 +278,7 @@ Enter the CTR via MOR maintaining 500 FT. After MOR, route INT, SEF, and IZB to 
   <figcaption>Table 1-2: Helicopters arriving and departing OTBD.</figcaption>
 </figure>
 
-![VFR Helicopter Route Chart](img/helicopter_route_chart.png)
+![VFR Helicopter Route Chart](img/Helicopter Route Chart.png)
 
 ### VFR Civil Fixed Wing Aircraft Operations
 #### Visual Reporting Points
@@ -348,7 +348,7 @@ VFR departure and arrival routes for Civil Fixed Wing Aircraft to the North at O
 </figure>
 
 !!! note Note 1: Aircraft to contact Doha TWR at SML for inbound clearance.
-    Note 2: If more than two aircraft requesting to return to Doha from General Flying Area, and they will be required to Hold overhead ZUL for RWY 33 or VLG for RWY 15, succeeding aircraft will be advised to remain clear of the CTR and standby for joining instruction. Only one aircraft may hold at any one time over ZUL and VLG respectively. No Holding allowed overhead ASP.
+    Note 2: If more than two aircraft requesting to return to Doha from General Flying Area, and they will be required to Hold overhead ZUL for RWY 33 or VLG for RWY 15,        succeeding aircraft will be advised to remain clear of the CTR and standby for joining instruction. Only one aircraft may hold at any one time over ZUL and VLG              respectively. No Holding allowed overhead ASP.
     Note 3: VFR traffic arriving on the ASP arrival are independent of OTHH IFR traffic.
     Note 4: Aircraft proceeding to right base RWY 15 from VLG will maintain 1500 FT until established on final approach to avoid infringing the restricted area over the Amiri Diwan. After establishing the approach, touchdown may be expected approximately abeam intersection TWY Q, with roll-out and vacation at intersection TWY B or TWY B1.
     Note 5: Advanced students or instructors may be able to accomplish touchdown and roll-out earlier than the above, but no attempt should be made to request this from the pilot.
