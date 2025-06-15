@@ -23,10 +23,10 @@ If aircraft have not yet reached the holding point where they are expected to li
     **Controller**: "OMA661, via Y2, line up and wait runway 08L."
 
 ### 4.3.3 Take-off Clearances
-Aircraft will be cleared for takeoff once adequate separation is ensured as outlined in sections 4.3.4 and 4.6.
+Aircraft will be cleared for takeoff once adequate separation is ensured as outlined in sections 4.3.4 and 4.6. At the time of takeoff clearance, aircraft will be assigned their airborne frequency, for Muscat Radar or the next available station, such as Muscat Control North. If none of these stations are online, aircraft will be instructed to monitor UNICOM 122.8.
 
 !!! example
-    **Controller**: "QTR40P, wind 330 degrees 7 knots, runway 26R, cleared for take-off."
+   **Controller:** "OMA643, airborne contact Muscat Radar 121.200, wind 330 degrees 7 knots, runway 26L, cleared for take-off."
 
 ### 4.3.4 Separation Requirements
 #### 4.3.4.1 General
