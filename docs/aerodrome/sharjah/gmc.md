@@ -75,7 +75,7 @@ the first fix in the flight plan and runways in use.
   <figcaption>Table 2-1: RNAV SIDs</figcaption>
 </figure>
 
-### 2.3.2 RNAV instrument departures
+### 2.3.2 Radar Departure Procedure
 The radar departure procedure shall be used when aircraft are unable to accept an RNAV departure, such as one with outdated nav data. Whereas RNAV departures follow a prescribed track until leaving the Dubai Departures airspace, radar departures are given radar vectors to the first fix. 
 
 In the take-off clearance, Air Control (AIR) shall assign a heading to fly after departure appropriate to the Dubai CTA exit point.
