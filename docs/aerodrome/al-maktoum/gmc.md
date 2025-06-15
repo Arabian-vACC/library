@@ -412,8 +412,6 @@ A short pushback instruction shall require the aircraft to complete the pushback
 A long pushback instruction shall require aircraft to complete the pushback operation two stands away from where the pushback was commenced. This manoeuvre may be used when aircraft are vacating a stand to be used by another aircraft that is taxiing in.
 !!! example
     **Pilot**: "Al Maktoum Ground, UAE9154, on stand S295 request pushback."
-!!! example
-    **Pilot**: "Al Maktoum Ground, UAE9154, on stand S295 request pushback."
 
     **Controller**: "UAE9154, Al Maktoum Ground, long pushback approved, face north on Z5 to finish abeam stand S297."
 
@@ -431,37 +429,169 @@ Where aircraft are taxied to runway holding points, transfer of control to AIR s
 To deconflict traffic and to reduce the length of taxi clearances, intermediate holding points shall be used wherever possible.
 
 !!! example
-      **Controller:** UAE9254, Taxi via Z7, V, holding point V4, Runway 12.
+      **Pilot:** Al Maktoum Ground, UAE9876, request taxi.
 
-      **Pilot:** Taxi via A, A20, holding point B20, Runway 30, ABY436.
+      **Controller:** UAE9876, Al Maktoum Ground, Taxi via Z7, Z, hold ZM.
+
+      **Pilot:** Taxi via Z7, Z, hold ZM, UAE9876.
 
 ### 2.9.2 Runway 30 departure taxi procedures
 When departing from 30:
-- aircraft taxiing from stands S289-S313 shall be instructed to taxi via Z5/Z6, W7/W8, and W to holding point V16.
-- aircraft taxiing from stands S340-S348 and S440-S448 shall be instructed to taxi via Z and W16 to holding point V16.
-- aircraft taxiing from stands S324-S332 and S401-S410 shall be instructed to taxi via Z7/Z8, Z and W16 to holding point V16.
-- aircraft taxiing from stands S420-S425 shall be instructed to taxi viz Z9, Z and W16 to holding point V16.
-- aircraft taxiing from Apron G shall be instructed to taxi via Z11/Z12 and W16 to holding point runway V16.
 
-Aircraft requesting a departure from V13 shall be instructed to taxi via Z and W15 to holding point V13.
+<table style="margin: auto; align-content: center;">
+  <thead>
+    <tr>
+      <th>Stands</th>
+      <th>Taxi Route (part1)</th>
+      <th>Taxi Route (part2)</th>
+      <th>Holding Point</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>S289-S313</td>
+      <td>Z5/Z6, hold ZA/ZB</td>
+      <td rowspan=8>Z, W16</td>
+      <td rowspan=9>V16</td>
+    </tr>
+    <tr>
+      <td>S340-S348</td>
+      <td rowspan=2> direct to </td>
+    </tr>
+    <tr>
+      <td>S440-S448</td>
+    </tr>
+    <tr>
+      <td>S324-S332</td>
+      <td>Z7, hold ZE</td>
+    </tr>
+    <tr>
+      <td>S401-S410</td>
+      <td>Z8, hold ZF</td>
+    </tr>
+    <tr>
+      <td>S420-S425</td>
+      <td>Z9, hold Z9C</td>
+    </tr>
+    <tr>
+      <td>G100-G108</td>
+      <td>Z11, hold Z11A</td>
+    </tr>
+    <tr>
+        <td>S801-S812</td>
+        <td>Z, hold ZP</td>
+    </tr>
+    <tr>
+        <td>All other G stands</td>
+        <td>To Z12, hold Z12A</td>
+        <td>W16</td>
+    </tr>
+    <tr>
+      <td>S289-S313</td>
+      <td>Z5/Z6, hold ZA/ZB</td>
+      <td rowspan=8>Z, W15</td>
+      <td rowspan=9>V13</td>
+    </tr>
+    <tr>
+      <td>S340-S348</td>
+      <td rowspan=2> direct to </td>
+    </tr>
+    <tr>
+      <td>S440-S448</td>
+    </tr>
+    <tr>
+      <td>S324-S332</td>
+      <td>Z7, hold ZE</td>
+    </tr>
+    <tr>
+      <td>S401-S410</td>
+      <td>Z8, hold ZF</td>
+    </tr>
+    <tr>
+      <td>S420-S425</td>
+      <td>Z9, hold Z9C</td>
+    </tr>
+    <tr>
+      <td>G100-G108</td>
+      <td>Z11, hold Z11A</td>
+    </tr>
+    <tr>
+        <td>S801-S812</td>
+        <td>Z, hold ZP</td>
+    </tr>
+    <tr>
+        <td>All other G stands</td>
+        <td>To Z12, hold Z12A</td>
+        <td>W15</td>
+    </tr>
+  </tbody>
+</table>
+
+!!! note
+      Aircraft requesting a departure from V13 shall be instructed to taxi via Z and W15 to holding point V13.
 
 !!! warning
       Eastbound traffic flow on V must be avoided, as this blocks the exit taxiways from runway 30.
 
 *(See 4.1)*
 ### 2.9.3 Runway 12 departure taxi procedures
-When departing from 30:
-- aircraft taxiing from stands S289-S313 shall be instructed to taxi via Z5/Z6 and W to holding point V4.
-- aircraft taxiing from stands S340-S348 and S440-S448 shall be instructed to taxi via Z, W7 and W to holding point V4.
-- aircraft taxiing from stands S324-S332 and S401-S410 shall be instructed to taxi via Z7/Z8, Z, W7 and W to holding point V4.
-- aircraft taxiing from stands S420-S425 shall be instructed to taxi viz Z9, Z, W7 and W to holding point V4.
-- aircraft taxiing from stands G100-G108 shall be instructed to taxi via Z11, Z, W7 and W to holding point runway V4.
-- aircraft taxiing from Apron G shall be instructed to taxi via Z12 and W to holding point runway V4.
-  
+When departing from 12:
+<table style="margin: auto; align-content: center;">
+  <thead>
+    <tr>
+      <th>Stands</th>
+      <th>Taxi Route (part1)</th>
+      <th>Taxi Route (part2)</th>
+      <th>Holding Point</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>S289-S300</td>
+      <td>Z5</td>
+      <td>Z5, hold ZA</td>
+      <td rowspan=9>V4 or V1</td>
+    </tr>
+    <tr>
+      <td>S301-S313</td>
+      <td>Z6, hold ZB</td>
+      <td rowspan=7>Z, W7, W</td>
+    </tr>
+    <tr>
+      <td>S340-S348</td>
+      <td rowspan=2>direct via</td>
+    </tr>
+    <tr>
+      <td>S440-S448</td>
+    </tr>
+    <tr>
+      <td>S324-S332</td>
+      <td>Z7, hold ZE</td>
+    </tr>
+    <tr>
+      <td>S401-S410</td>
+      <td>Z8, hold ZF</td>
+    </tr>
+    <tr>
+      <td>S420-S425</td>
+      <td>Z9, hold Z9C</td>
+    </tr>
+    <tr>
+      <td>G100-G108</td>
+      <td>Z11, hold Z11A</td>
+    </tr>
+    <tr>
+      <td>All other G stands</td>
+      <td>To Z12, hold W16A</td>
+      <td>W</td>
+    </tr>
+  </tbody>
+</table>
+
 !!! warning
       Westbound traffic flow on V must be avoided, as this blocks the exit taxiways from runway 12.
 
-*(See 4.4)*
+*(See 4.3)*
 
 ## 2.10 Arrival taxi procedures
 ### 2.10.1 General arrival taxi procedures
@@ -482,7 +612,7 @@ Aircraft shall vacate 12 onto V7, V9 or V13 and are then handed off to GMC.
 
 Aircraft shall be taxied in accordance with 4.2
 
-*(See 4.3)*
+*(See 4.4)*
 
 ### 2.10.4 Stand allocation procedure
 |             Area             |                 Operator               |
@@ -501,7 +631,7 @@ Aircraft shall be taxied in accordance with 4.2
 </figure>
 
 ### 2.10.5 Stand restrictions
-Stands S291-S294, S306, S310, S325, S329, G100-G108 and S801-S806 are A380 (code F) capable.
+**ONLY** stands S291-S294, S306, S310, S325, S329, G100-G108 and S801-S806 are A380 (code F) capable.
 
 ## 2.11 Low visibility operations (LVO)
 ### 2.11.1 LVO taxi routes

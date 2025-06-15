@@ -10,7 +10,7 @@
 </figure>
 
 
-## 4.3 Runway 12 taxi-in diagram
+## 4.3 Runway 12 taxi-out diagram
 <figure markdown>
 ![Taxi out - 12 config](img/OMDW 12 dep.jpeg)
 </figure>
