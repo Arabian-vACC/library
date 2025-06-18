@@ -1,6 +1,5 @@
-# Al-Maktoum
-## Airport Overview
-### Information
+# Airport Overview
+## Information
 
 <figure markdown>
 ![OMDW - Al-Maktoum International](../img/omdw/omdw_header.jpg)
@@ -14,7 +13,7 @@ Al Maktoum International Airport, also known as Dubai World Central, is an inter
 
 Upon full completion (initially planned for 2027, now anticipated by 2030), the airport will integrate multiple transportation modes, logistics, and value-added services, such as manufacturing and assembly, within a single free economic zone. Al Maktoum International primarily supported freight operations, with limited passenger services offered by a few airlines.
 
-### Charts & Scenery
+## Charts & Scenery
 Pilots can access the latest charts through the following sources: [Chartfox (Free, VATSIM login required)](https://chartfox.org/), [the U.A.E eAIP (Free, account required)](https://www.gcaa.gov.ae/en/ais/Pages/default.aspx), or [Navigraph (Subscription required)](https://navigraph.com/).
 
 | Simulator      | Freeware                                                                                                           | Payware                            |

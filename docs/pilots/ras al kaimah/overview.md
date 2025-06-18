@@ -1,6 +1,5 @@
-# Ras Al Khaimah
-## Airport Overview
-### Information
+# Airport Overview
+## Information
 
 <figure markdown>
 ![OMRK - Ras Al Khaimah International](../img/omrk/omrk_header.jpg)
@@ -12,7 +11,7 @@
 
 Ras Al Khaimah International Airport also known as Ra's al-Khaymah, is an international airport in the Emirate of Ras al-Khaimah, United Arab Emirates, located 11 nautical miles south of Ras Al Khaimah on the Persian Gulf coast. The airport includes two passenger terminals, along with facilities for cargo, aircraft maintenance, and aviation training.
 
-### Charts & Scenery
+## Charts & Scenery
 Pilots can access the latest charts through the following sources: [Chartfox (Free, VATSIM login required)](https://chartfox.org/), [the U.A.E eAIP (Free, account required)](https://www.gcaa.gov.ae/en/ais/Pages/default.aspx), or [Navigraph (Subscription required)](https://navigraph.com/).
 
 | Simulator      | Freeware                                                                                                  | Payware                            |

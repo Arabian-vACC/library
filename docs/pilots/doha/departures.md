@@ -1,6 +1,5 @@
-# Doha
-## Departing Traffic
-### Flight Planning: Standard Instrument Departure (SID)
+# Departing Traffic
+## Flight Planning: Standard Instrument Departure (SID)
 Controllers will assign a Standard Instrument Departure (SID) based on the first waypoint in your flight plan to guide you out of the Doha Terminal Maneuvering Area (TMA). Refer to the table below to determine the expected SID. If your waypoint is not listed, ensure your AIRAC cycle is up to date. If using an outdated AIRAC, notify the controller promptly so an RNAV radar-vectored departure or an omnidirectional departure can be arranged.
 
 
@@ -67,7 +66,7 @@ Controllers will assign a Standard Instrument Departure (SID) based on the first
   </tr>
 </tbody></table>
 
-### Getting your clearance
+## Getting your clearance
 Departing aircraft shall contact Doha Ground **10 minutes prior to their estimated off block time (EOBT)** and pass the following information:
 <ul>
     <li>Aircraft Callsign</li>
@@ -77,10 +76,10 @@ Departing aircraft shall contact Doha Ground **10 minutes prior to their estimat
     <li>Destination</li>
 </ul>
 
-### Datalink Clearance (DCL)
+## Datalink Clearance (DCL)
 The preferred method for obtaining your clearance is through datalink. To request clearance via Hoppie datalink, send your request to **OTHH**. Please note that logging on to the station is not required. No readback is necessary.
 
-### Voice Clearance
+## Voice Clearance
 At Doha, if datalink clearances are unavailable, voice clearances will be provided. These will be brief, covering only your Standard Instrument Departure (SID), initial climb, and squawk code. Ensure you have the latest departure ATIS information before proceeding.
 
 !!! example
@@ -92,8 +91,8 @@ At Doha, if datalink clearances are unavailable, voice clearances will be provid
 
     **Controller**: "QTR6M, readback correct, QNH 1016, report ready for pushback."
   
-### VFR Helicopter Operations
-#### Visual Reporting Points
+## VFR Helicopter Operations
+### Visual Reporting Points
 | VFR Reporting Point|    Designator   |
 |:------------------:|:---------------:|
 |      AL HAZM       |       HZM       |
@@ -131,7 +130,7 @@ At Doha, if datalink clearances are unavailable, voice clearances will be provid
   <figcaption>Helicopter Route VRPs</figcaption>
 </figure>
 
-#### Standard VFR departure and arrival routes for helicopters
+### Standard VFR departure and arrival routes for helicopters
 VFR departure and arrival routes for helicopters are split in two:
   - Departures/Arrivals at OTBD, crossing OTHH and;
   - Departures/Arrivals at OTBD.
@@ -325,8 +324,8 @@ Pushback clearances will specify a direction to face, such as West or East, and 
 !!! warning
     If pilots are unable to commence pushback within 2-3 minutes, the pushback clearance may be revoked, and slot times will be recalculated.
 
-### Taxi
-#### Standard Intersection Departures
+## Taxi
+### Standard Intersection Departures
 For the purposes of takeoff performance planning the standard departure taxiways are:
 
 - **Runway 15:** A
@@ -336,19 +335,19 @@ Crews should base their performance calculations on departure from standard depa
 
 ATC may tactically use a different departure point nearer the runway end based on the traffic situation.
 
-#### Runway 15/33 Configuration
-##### Departures, Runway 15
+### Runway 15/33 Configuration
+#### Departures, Runway 15
 <figure markdown>
 ![OTBD - 15 Departure Configuration](../img/otbd/otbd_dep_15.png)
 </figure>
 
-##### Departures, Runway 33
+#### Departures, Runway 33
 <figure markdown>
 ![OTBD - 33 Departure Configuration](../img/otbd/otbd_dep_33.png)
 </figure>
 
-### Take-off
-#### Minimum Runway Occupancy
+## Take-off
+### Minimum Runway Occupancy
 On receipt of a line-up clearance pilots shall ensure, complying with safety and standard operating procedures, that they are able to line-up on the runway as soon as the preceding aircraft has commenced take-off roll.
 
 Wherever possible, pilots are encouraged to conduct a rolling takeoff to minimise runway occupancy time.

@@ -1,6 +1,5 @@
-# Doha-Hamad
-## Airport Overview
-### Information
+# Airport Overview
+## Information
 
 <figure markdown>
 ![OTHH - Doha-Hamad International](../img/othh/othh_header.jpg)
@@ -12,7 +11,7 @@
 
 Hamad International Airport is an international airport in Qatar and serves as the main hub for the national flag carrier, Qatar Airways. Located to the east of the capital city, Doha, it has replaced the nearby Doha International Airport as Qatar's primary national airport and has become one of the busiest airports in the Middle East.
 
-### Charts & Scenery
+## Charts & Scenery
 Pilots can access the latest charts through the following sources: [Chartfox (Free, VATSIM login required)](https://chartfox.org/), [Qatar eAIP](https://www.aim.gov.qa/eAIP1.html), or [Navigraph (Subscription required)](https://navigraph.com/).
 
 | Simulator      | Freeware                                                                           | Payware                                                                                                                           |
@@ -21,7 +20,7 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
 | X-Plane        | X-Plane Default                                                                    |                                                                                                                                   |
 | Prepar3D V4/V5 | [AVSIM](https://library.avsim.net/search.php?SearchTerm=othh&CatID=root&Go=Search) | [Taxi2Gate](https://secure.simmarket.com/taxi2gate-othh-v2-p3d5.phtml)                                                            |
 
-### Stand Allocation
+## Stand Allocation
 |  Apron/Concourse  |            Stand Allocation           |                     Operator                    |
 |:-----------------:|:-------------------------------------:|:-----------------------------------------------:|
 |    Concourse A    |            Stands A1 to A11           |           International Operators, QTR          |
@@ -41,7 +40,7 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
 !!! Info
     All arriving aircraft will be assigned a stand by the stand assigner using the Ground Radar Plugin. In real-world operations, aircraft may be parked at any apron, regardless of their arrival runway assignment.
 
-### Air Traffic Control positions
+## Air Traffic Control positions
 | Login Code |      Radio Callsign      | Frequency |                                                                                 Area of Responsibility                                                                                 |
 |:----------:|:------------------------:|:---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  OTHH_DEL  | Hamad Clearance Delivery |  120.875  |                                                                                                                                                                                        |

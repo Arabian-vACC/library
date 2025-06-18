@@ -1,6 +1,5 @@
-# Doha-Hamad
-## Arriving Traffic
-### STAR Assignment
+# Arriving Traffic
+## STAR Assignment
 STAR assignments are based on the waypoint at which you enter the Doha Terminal Maneuvering Area (TMA). The table below outlines the possible STARs for each entry point. ATC will assign the appropriate STAR depending on traffic conditions, with a preference for the shortest available routing whenever possible.
 
 !!! note
@@ -8,7 +7,7 @@ STAR assignments are based on the waypoint at which you enter the Doha Terminal 
 
     Aircraft can be sequenced on any of the STARs that guide them either to the east or west downwinds, depending on sector capacity.
 
-#### 3.1.2.1 Doha 15 / Hamad 16s
+### 3.1.2.1 Doha 15 / Hamad 16s
 | Procedure |        Type        | Length | Downwind |
 |:---------:|:------------------:|:------:|:--------:|
 |  ALKAN1F  |      Trombone      |  Long  |   West   |
@@ -26,7 +25,7 @@ STAR assignments are based on the waypoint at which you enter the Doha Terminal 
 |  VEDED1H  | Direct to Downwind |  Short |   East   |
 |  VEDED1P  |      Trombone      |  Long  |   East   |
 
-#### 3.1.2.2 Doha 33 / Hamad 34s
+### 3.1.2.2 Doha 33 / Hamad 34s
 | Procedure |        Type        | Length | Downwind |
 |:---------:|:------------------:|:------:|:--------:|
 |  ALKAN1L  |      Trombone      |  Long  |   West   |
@@ -48,15 +47,15 @@ STAR assignments are based on the waypoint at which you enter the Doha Terminal 
 !!! warning
     All STARs into Doha-Hamad include altitude and speed restrictions, which must be adhered to unless explicitly canceled by ATC. Pilots should verify clearance levels through instructions such as "**DESCEND VIA STAR**," "**DESCEND UNRESTRICTED**," or "**CANCEL STAR SPEEDS**."
 
-### Runway Assignment
+## Runway Assignment
 Runway assignments are issued by Doha Radar or Doha Approach and may be given with short notice during high-traffic periods. Pilots should be prepared for all arrival runways listed in the ATIS.
 
 If the aircraft supports a secondary flight plan, pilots should preload an alternate arrival runway to facilitate a swift transition if required.
 
-### Approach
+## Approach
 The standard approach at Doha-Hamad is the ILS, with independent parallel operations in effect. Pilots can expect a minimum diagonal separation of 3 NM from traffic on the opposite runway and 2 NM spacing from preceding aircraft on the opposite runway.
 
-### Speeds
+## Speeds
 The speed limits and recommended speeds within different segments of the Doha terminal area is as follows:
 
 |  Speed Range  |              Arrival Segment              |
@@ -77,8 +76,8 @@ To ensure accurate spacing, pilots are requested to comply with speed adjustment
 
 If traffic sequencing does not require speed limitations, ATC will advise, “**NO ATC SPEED RESTRICTION**.”  
 
-### Landing
-#### High Intensity Runway Operations (HIRO)
+## Landing
+### High Intensity Runway Operations (HIRO)
 During peak traffic periods, rapid runway vacating is essential to prevent go-arounds for following aircraft. Ensure your entire aircraft has passed the designated runway holding point before considering yourself clear. Avoid unnecessary stops before exiting completely.
 
 All rapid exit taxiways are equipped with rapid taxiway indicator lights. Pilots are encouraged to maintain the designated exit taxi speed of 50 knots.
@@ -96,10 +95,10 @@ All rapid exit taxiways are equipped with rapid taxiway indicator lights. Pilots
 !!! info
     Pilots are expected to vacate the runway using standard exit procedures unless instructed otherwise by the tower controller. If unable to comply with High-Intensity Runway Operations (HIRO), advise tower on first contact.
 
-#### ILS Glidepath Fluctuations
+### ILS Glidepath Fluctuations
 Aircraft arriving on Runway 34L may experience glidepath signal fluctuations due to taxiing and departing aircraft. Pilots should be prepared for potential glidepath interference and closely monitor their ILS profile, flight display indications, and autopilot behavior during both manual and coupled ILS approaches.
 
-### Taxi
+## Taxi
 After landing, aircraft must not stop on the rapid exit taxiways and shall continue taxiing according to the following procedures unless otherwise instructed by the tower controller:  
 
 - **Runway 16L:** Continue via B southbound.  
@@ -108,24 +107,24 @@ After landing, aircraft must not stop on the rapid exit taxiways and shall conti
 - **Runway 34L:** Continue via M northbound unless instructed to vacate to the east (if vacating east, HIRO not applicable).  
 - **Runway 34R:** Continue via B northbound.  
 
-#### Runway 16s Configuration
-##### Arrivals, Runway 16L
+### Runway 16s Configuration
+#### Arrivals, Runway 16L
 <figure markdown>
 ![OTHH - 16L Arrival Configuration](../img/othh/othh_arr_16L.png)
 </figure>
 
-##### Arrivals, Runway 16R
+#### Arrivals, Runway 16R
 <figure markdown>
 ![OTHH - 16R Arrival Configuration](../img/othh/othh_arr_16R.png)
 </figure>
 
-#### Runway 34s Configuration
-##### Arrivals, Runway 34L
+### Runway 34s Configuration
+#### Arrivals, Runway 34L
 <figure markdown>
 ![OTHH - 34L Arrival Configuration](../img/othh/othh_arr_34L.png)
 </figure>
 
-##### Arrivals, Runway 34R
+#### Arrivals, Runway 34R
 <figure markdown>
 ![OTHH - 34R Arrival Configuration](../img/othh/othh_arr_34R.png)
 </figure>

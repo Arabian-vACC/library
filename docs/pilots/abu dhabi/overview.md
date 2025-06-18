@@ -1,6 +1,5 @@
-# Abu Dhabi/Sheikh Zayed
-## Airport Overview
-### Information
+# Airport Overview
+## Information
 
 <figure markdown>
 ![OMAA - Sheikh Zayed International](../img/omaa/omaa_header.png)
@@ -14,7 +13,7 @@ Zayed International Airport, also known as Abu Dhabi International Airport, is t
 
 Located 16.5 nautical miles east of Abu Dhabi. It is served by 24 airlines connecting to 128 destinations. On February 9, 2024, the airport was renamed Zayed International Airport in honor of Sheikh Zayed bin Sultan Al Nahyan, the UAE's founding father.
 
-### Charts & Scenery
+## Charts & Scenery
 Pilots can access the latest charts through the following sources: [Chartfox (Free, VATSIM login required)](https://chartfox.org/), [the U.A.E eAIP (Free, account required)](https://www.gcaa.gov.ae/en/ais/Pages/default.aspx), or [Navigraph (Subscription required)](https://navigraph.com/).
 
 | Simulator      | Freeware        | Payware                            |

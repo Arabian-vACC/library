@@ -1,6 +1,5 @@
-# Fujairah
-## Airport Overview
-### Information
+# Airport Overview
+## Information
 
 <figure markdown>
 ![OMFJ - Fujairah International](../img/omfj/omfj_header.jpg)
@@ -12,7 +11,7 @@
 
 Fujairah International Airport is situated 1 nautical mile south of central Fujairah City. It features a single terminal that serves both passenger and cargo operations and is also home to the Fujairah Aviation Academy.
 
-### Charts & Scenery
+## Charts & Scenery
 Pilots can access the latest charts through the following sources: [Chartfox (Free, VATSIM login required)](https://chartfox.org/), [the U.A.E eAIP (Free, account required)](https://www.gcaa.gov.ae/en/ais/Pages/default.aspx), or [Navigraph (Subscription required)](https://navigraph.com/).
 
 | Simulator      | Freeware                                                                                                    | Payware                            |

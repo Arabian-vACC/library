@@ -1,6 +1,5 @@
-# Salalah
-## Airport Overview
-### Information
+# Airport Overview
+## Information
 
 <figure markdown>
 ![OOSH - Salalah International](../img/oosa/oosa_header.png)
@@ -12,7 +11,7 @@
 
 Salalah International Airport is Oman’s secondary international airport, following Muscat International Airport. Situated on the Salalah coastal plain in the Dhofar Governorate, it is located 2.6 nautical miles northeast of Salalah's city center. The airport offers flights to various regional destinations as well as a few intercontinental charter services from Europe.
 
-### Charts & Scenery
+## Charts & Scenery
 Pilots can access the latest charts through the following sources: [Chartfox (Free, VATSIM login required)](https://chartfox.org/), [the Oman eAIP](https://aim.caa.gov.om/index-en-GB.html), or [Navigraph (Subscription required)](https://navigraph.com/).
 
 | Simulator      | Freeware                                                                                                           | Payware                            |

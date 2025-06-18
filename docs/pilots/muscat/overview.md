@@ -1,6 +1,5 @@
-# Muscat
-## Airport Overview
-### Information
+# Airport Overview
+## Information
 
 <figure markdown>
 ![OOMS - Muscat International](../img/ooms/ooms_header.jpg)
@@ -12,7 +11,7 @@
 
 Muscat International Airport, previously known as Seeb International Airport, is the primary international airport in Oman. It is situated in Seeb, 27 nautical miles from the old city and capital of Muscat, within the Muscat metropolitan area. The airport serves as the hub for Oman Air, the national carrier, and Salam Air, the country's first budget airline. It offers flights to various regional destinations as well as intercontinental services to Asia, Africa, and Europe.
 
-### Charts & Scenery
+## Charts & Scenery
 Pilots can access the latest charts through the following sources: [Chartfox (Free, VATSIM login required)](https://chartfox.org/), [the Oman eAIP](https://aim.caa.gov.om/index-en-GB.html), or [Navigraph (Subscription required)](https://navigraph.com/).
 
 | Simulator      | Freeware                                                                                                           | Payware                            |

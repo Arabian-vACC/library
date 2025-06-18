@@ -1,6 +1,5 @@
-# Al-Ain
-## Airport Overview
-### Information
+# Airport Overview
+## Information
 
 <figure markdown>
 ![OMAL - Al-Ain International](../img/omal/omal_header.jpg)
@@ -12,7 +11,7 @@
 
 Al Ain International Airport is located 8 nautical miles north-west of Al Ain in the Eastern Region of Abu Dhabi, United Arab Emirates. Opened on 31 March 1994, it ranks as the fifth busiest airport in the UAE.
 
-### Charts & Scenery
+## Charts & Scenery
 Pilots can access the latest charts through the following sources: [Chartfox (Free, VATSIM login required)](https://chartfox.org/), [the U.A.E eAIP (Free, account required)](https://www.gcaa.gov.ae/en/ais/Pages/default.aspx), or [Navigraph (Subscription required)](https://navigraph.com/).
 
 | Simulator      | Freeware                                                                                  | Payware                            |

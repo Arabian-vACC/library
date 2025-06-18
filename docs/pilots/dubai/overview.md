@@ -1,6 +1,5 @@
-# Dubai
-## Airport Overview
-### Information
+# Airport Overview
+## Information
 
 <figure markdown>
 ![OMDB - Dubai International](../img/omdb/omdb_header.jpg)
@@ -19,7 +18,7 @@ Located 2.54 nautical miles east of Dubai's city center in the Al Garhoud distri
 
     **If you are new to the VATSIM Network**, we strongly recommend avoiding this airport until you have gained more experience flying on the network. During peak times, controllers are often too busy to offer additional assistance. Instead, consider flying to other airports within the Arabian vACC, where the traffic is lighter and procedures are less complex, allowing for a more accommodating experience.
 
-### Charts & Scenery
+## Charts & Scenery
 Pilots can access the latest charts through the following sources: [Chartfox (Free, VATSIM login required)](https://chartfox.org/), [the U.A.E eAIP (Free, account required)](https://www.gcaa.gov.ae/en/ais/Pages/default.aspx), or [Navigraph (Subscription required)](https://navigraph.com/). **VFR charts in Navigraph are listed under the "APP" category with "Runway Unspecified."**
 
 | Simulator      | Freeware                    | Payware                            |
@@ -32,7 +31,7 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
     The latest airport layout is reflected in MSFS, X-Plane, and the freeware Prepar3D sceneries. However, the payware Prepar3D scenery from FlyTampa features the 2012 airport layout, which lacks Concourse D and some taxiways/rapid-exits. Pilots using the FlyTampa scenery must inform the controller of this on initial contact.
 
 
-### Stand Allocation
+## Stand Allocation
 
 |       Area       |        Stand Allocation       |                                                      Operator                                                     |
 |:----------------:|:-----------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
@@ -50,7 +49,7 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
 !!! Info
     All arriving aircraft will be assigned stands by our stand assigner using the Ground Radar Plugin. Virtual Airlines can expect to be directed to park at Concourse D.
 
-### Air Traffic Control positions
+## Air Traffic Control positions
 | Login Code |  Radio Callsign  | Frequency | Area of Responsibility                                            |
 |:----------:|:----------------:|:---------:|-------------------------------------------------------------------|
 | OMDB_DEL   | Dubai Delivery   | 120.350   | - All IFR & VFR Clearances                                        |
@@ -66,14 +65,14 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
 !!! Warning
     It's crucial that you pay close attention to the frequency you're being transferred to. Do not attempt to guess the next frequency, and never switch frequencies without explicit instructions from the controller. Auto-handoffs are not used at Dubai International. If you're unsure, don’t hesitate to ask for the frequency again!
 
-### Reduced Runway Separation Minima (RRSM)
+## Reduced Runway Separation Minima (RRSM)
 Reduced runway separation may be implemented at any time, day or night, under the following scenarios:
 
 - A departing aircraft followed by another aircraft departing from the same runway.
 - Two consecutive landing aircraft.
 - Two consecutive departing aircraft.
 
-#### Conditions for Application:
+### Conditions for Application:
 
 - The tailwind component does not exceed **5 knots** at the landing threshold, and there are no pilot reports of **wind shear**.
 - Meteorological visibility is at least **5000 metres**, and the cloud ceiling is not below **1000 feet**. The AIR controller must be confident that the following aircraft can **continuously and completely observe** the relevant traffic.
