@@ -1,5 +1,5 @@
 # Sharjah
- ## Departing Traffic
+## Departing Traffic
 ### Flight Planning: Route(s)
 Pilots can find valid routes for most flights departing from Sharjah on SimBrief by choosing the "Preferred Route" option. Our operations department updates the "Preferred Route" on SimBrief with every AIRAC cycle, ensuring compliance with Air Traffic Flow Management (ATFM) regulations in the Middle East and Eurocontrol IFPS validation.
 
