@@ -1,18 +1,18 @@
 # Departing Traffic
 <figure markdown>
-![OMDB - Dubai International](img/omdb/omdb_header.jpg)
+![OMDB - Dubai International](../img/omdb/omdb_header.jpg)
 </figure>
 
 ## Flight Planning: Route(s)
 Pilots can find valid routes for most flights departing from Dubai on SimBrief by choosing the "Preferred Route" option. Our operations department updates the "Preferred Route" on SimBrief with every AIRAC cycle, ensuring compliance with Air Traffic Flow Management (ATFM) regulations in the Middle East and Eurocontrol IFPS validation.
 
 <figure markdown>
-![Simbrief Preferred Route](img/simbrief_preferred_route1.png){ width="600" }
+![Simbrief Preferred Route](../img/simbrief_preferred_route1.png){ width="600" }
   <figcaption>Figure 1-1: Simbrief Preferred Route</figcaption>
 </figure>
 
 <figure markdown>
-![Simbrief Preferred Route](img/simbrief_preferred_route2.png){ width="600" }
+![Simbrief Preferred Route](../img/simbrief_preferred_route2.png){ width="600" }
   <figcaption>Figure 1-2: Simbrief Preferred Route</figcaption>
 </figure>
 
@@ -108,23 +108,23 @@ ATC may tactically use a different departure point nearer the runway end based o
 ### Runway 30s Configuration
 #### General
 <figure markdown>
-![OMDB - 30s Configuration](img/omdb/OMDB_30_TITO.png)
+![OMDB - 30s Configuration](../img/omdb/OMDB_30_TITO.png)
 </figure>
 
 ### Runway 12s Configuration
 #### General
 <figure markdown>
-![OMDB - 12s Configuration](img/omdb/OMDB_12_TITO.png)
+![OMDB - 12s Configuration](../img/omdb/OMDB_12_TITO.png)
 </figure>
 
 #### Departure Bias
 <figure markdown>
-![OMDB - 12s Configuration, Departure Bias](img/omdb/OMDB_12_TITO_DB.png)
+![OMDB - 12s Configuration, Departure Bias](../img/omdb/OMDB_12_TITO_DB.png)
 </figure>
 
 #### Arrival Bias
 <figure markdown>
-![OMDB - 12s Configuration, Arrival Bias](img/omdb/OMDB_12_TITO_AB.png)
+![OMDB - 12s Configuration, Arrival Bias](../img/omdb/OMDB_12_TITO_AB.png)
 </figure>
 
 ## Take-off
