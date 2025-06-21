@@ -31,7 +31,7 @@
   <tr>
     <td>01/2025</td>
     <td>Complete rewrite of the Training Policy.<br>Introduction of a new Foundations section specifically for ATC students.<br>Definition and criteria for joining and maintaining position on the Waiting List added.<br>Controller activity requirements for all ratings (S1 and above) formalized in line with the Arabian vACC Membership Policy.<br>Clear definition of a Training Plan, including all prerequisites and enrolment criteria.<br>Increased emphasis on self-study and its critical role in training progress.<br>Full rewrite of the Solo Validations and Examinations sections for clarity and consistency.<br>Grading Criteria reviewed and refined for practical assessments.<br>Major updates to the ATC Training structure:<br>Removal of direct-entry Tier 1 endorsements.<br>Introduction of observer hour requirements.<br>Minimum 50-hour experience requirement before progressing to each higher rating.<br>Introduction and explanation of Training Facilities concept.<br>Split of Dubai Tier 1 endorsements into: DEL/GND (S1), TWR (S2), TMA (S3)<br>Preparatory groundwork laid for implementation of Tier 2 endorsements covering AFIS and Military operations.</td>
-    <td></td>
+    <td>01 JUL 2025</td>
   </tr>
 </tbody></table>
 
