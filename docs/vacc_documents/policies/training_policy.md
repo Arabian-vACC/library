@@ -9,7 +9,7 @@
 |---------------------|----------------------------------------------------|
 |         Type        |                      Policy                        |
 |       Revision      |                      01/2025                       |
-|    Effective Date   |                       TBA                          |
+|    Effective Date   |                     01 JUL 2025                    |
 |     Prepared by     |             Chriss Klosowski - ACCARB2             |
 |     Approved by     | Chris Marriott - ACCARB1 & Suprojit Paul - ACCARB3 |
 |   Next review date  |                       TBA                          |
