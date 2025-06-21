@@ -2,69 +2,18 @@
 ## Flight Planning: Standard Instrument Departure (SID)
 Controllers will assign a Standard Instrument Departure (SID) based on the first waypoint in your flight plan to guide you out of the Doha Terminal Maneuvering Area (TMA). Refer to the table below to determine the expected SID. If your waypoint is not listed, ensure your AIRAC cycle is up to date. If using an outdated AIRAC, notify the controller promptly so an RNAV radar-vectored departure or an omnidirectional departure can be arranged.
 
-
-<table><thead>
-  <tr>
-    <th>FIX</th>
-    <th colspan="2">RUNWAY</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td></td>
-    <td>15</td>
-    <td>33</td>
-  </tr>
-  <tr>
-    <td><b>ALSEM</b></td>
-    <td>3S</td>
-    <td>3N</td>
-  </tr>
-  <tr>
-    <td><b>ALVEN</b></td>
-    <td>3S</td>
-    <td>3N</td>
-  </tr>
-  <tr>
-    <td><b>BUNDU</b></td>
-    <td>3S</td>
-    <td>3N</td>
-  </tr>
-  <tr>
-    <td><b>DATRI</b></td>
-    <td>1S</td>
-    <td>1N</td>
-  </tr>
-  <tr>
-    <td><b>KUPRO</b></td>
-    <td>1S</td>
-    <td>1N</td>
-  </tr>
-  <tr>
-    <td><b>LUBET</b></td>
-    <td>2S</td>
-    <td>2N</td>
-  </tr>
-  <tr>
-    <td><b>PATOM</b></td>
-    <td>3S</td>
-    <td>3N</td>
-  </tr>
-  <tr>
-    <td><b>TULUB</b></td>
-    <td>2S</td>
-    <td>2N</td>
-  </tr>
-  <tr>
-    <td><b>ULIKA</b></td>
-    <td>1S</td>
-    <td>1N</td>
-  </tr>
-  <tr>
-    <td><b>VAXIN</b></td>
-    <td>3S</td>
-    <td>3N</td>
-  </tr>
-</tbody></table>
+| Waypoint |  15  |  33  |
+|----------|:----:|:----:|
+| ALSEM    |  3S  |  3N  |
+| ALVEN    |  3S  |  3N  |
+| BUNDU    |  3S  |  3N  |
+| DATRI    |  1S  |  1N  |
+| KUPRO    |  1S  |  1N  |
+| LUBET    |  2S  |  2N  |
+| PATOM    |  3S  |  3N  |
+| TULUB    |  2S  |  2N  |
+| ULIKA    |  1S  |  1N  |
+| VAXIN    |  3S  |  3N  |
 
 ## Getting your clearance
 Departing aircraft shall contact Doha Ground **10 minutes prior to their estimated off block time (EOBT)** and pass the following information:
@@ -76,10 +25,10 @@ Departing aircraft shall contact Doha Ground **10 minutes prior to their estimat
     <li>Destination</li>
 </ul>
 
-## Datalink Clearance (DCL)
+### Datalink Clearance (DCL)
 The preferred method for obtaining your clearance is through datalink. To request clearance via Hoppie datalink, send your request to **OTHH**. Please note that logging on to the station is not required. No readback is necessary.
 
-## Voice Clearance
+### Voice Clearance
 At Doha, if datalink clearances are unavailable, voice clearances will be provided. These will be brief, covering only your Standard Instrument Departure (SID), initial climb, and squawk code. Ensure you have the latest departure ATIS information before proceeding.
 
 !!! example

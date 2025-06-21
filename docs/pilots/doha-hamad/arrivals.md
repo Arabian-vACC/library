@@ -7,7 +7,7 @@ STAR assignments are based on the waypoint at which you enter the Doha Terminal 
 
     Aircraft can be sequenced on any of the STARs that guide them either to the east or west downwinds, depending on sector capacity.
 
-### 3.1.2.1 Doha 15 / Hamad 16s
+### 16L/R Arrivals
 | Procedure |        Type        | Length | Downwind |
 |:---------:|:------------------:|:------:|:--------:|
 |  ALKAN1F  |      Trombone      |  Long  |   West   |
@@ -25,7 +25,7 @@ STAR assignments are based on the waypoint at which you enter the Doha Terminal 
 |  VEDED1H  | Direct to Downwind |  Short |   East   |
 |  VEDED1P  |      Trombone      |  Long  |   East   |
 
-### 3.1.2.2 Doha 33 / Hamad 34s
+### 34L/R Arrivals
 | Procedure |        Type        | Length | Downwind |
 |:---------:|:------------------:|:------:|:--------:|
 |  ALKAN1L  |      Trombone      |  Long  |   West   |

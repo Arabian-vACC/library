@@ -16,111 +16,21 @@ Pilots departing from Doha-Hamad can obtain valid routes through SimBrief by sel
 Controllers will assign a Standard Instrument Departure (SID) based on the first waypoint in your flight plan to guide you out of the Doha Terminal Maneuvering Area (TMA). Refer to the table below to determine the expected SID. If your waypoint is not listed, ensure your AIRAC cycle is up to date. If using an outdated AIRAC, notify the controller promptly so an RNAV radar-vectored departure or an omnidirectional departure can be arranged.
 
 
-<table><thead>
-  <tr>
-    <th>FIX</th>
-    <th colspan="4">RUNWAY</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td></td>
-    <td>16L</td>
-    <td>16R</td>
-    <td>34L</td>
-    <td>34R</td>
-  </tr>
-  <tr>
-    <td><b>ALSEM</b></td>
-    <td>2M</td>
-    <td>-</td>
-    <td>-</td>
-    <td>2E</td>
-  </tr>
-  <tr>
-    <td><b>ALVEN</b></td>
-    <td>2M</td>
-    <td>-</td>
-    <td>-</td>
-    <td>3E</td>
-  </tr>
-  <tr>
-    <td><b>BUNDU</b></td>
-    <td>-</td>
-    <td>2C</td>
-    <td>-</td>
-    <td>2E</td>
-  </tr>
-  <tr>
-    <td><b>DATRI</b></td>
-    <td>-</td>
-    <td>1C</td>
-    <td>1W</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td><b>DEMBO</b></td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td><b>IVENA</b></td>
-    <td>-</td>
-    <td>2</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td><b>KASIS</b></td>
-    <td>2</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td><b>KUPRO</b></td>
-    <td>1M</td>
-    <td>-</td>
-    <td>-</td>
-    <td>1E</td>
-  </tr>
-  <tr>
-    <td><b>LUBET</b></td>
-    <td>1M/1Y</td>
-    <td>1C</td>
-    <td>1A/1W</td>
-    <td>2Z</td>
-  </tr>
-  <tr>
-    <td><b>PARES</b></td>
-    <td>-</td>
-    <td>-</td>
-    <td>2</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td><b>TULUB</b></td>
-    <td>1M</td>
-    <td>-</td>
-    <td>1A/1W</td>
-    <td>2E</td>
-  </tr>
-  <tr>
-    <td><b>ULIKA</b></td>
-    <td>-</td>
-    <td>1C</td>
-    <td>1A/1W</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td><b>VAXIN</b></td>
-    <td>2M</td>
-    <td>-</td>
-    <td>-</td>
-    <td>2E</td>
-  </tr>
-</tbody></table>
+| Waypoint |  16L  |  16R  |  34L  |  34R  | 
+|----------|:-----:|:-----:|:-----:|:-----:|
+| ALSEM    |  2M   |   -   |   -   |  2E   |
+| ALVEN    |  2M   |   -   |   -   |  3E   |
+| BUNDU    |   -   |  2C   |   -   |  2E   |
+| DATRI    |   -   |  1C   |  1W   |   -   |
+| DEMBO    |   -   |   -   |   -   |   3   |
+| IVENA    |   -   |   2   |   -   |   -   |
+| KASIS    |   2   |   -   |   -   |   -   |
+| KUPRO    |  1M   |   -   |   -   |  1E   |
+| LUBET    | 1M/1Y |  1C   | 1A/1W | 2E/2Z |
+| PARES    |   -   |   -   |   2   |  7F   |
+| TULUB    |  1M   |  1C   | 1A/1W |  2E   |
+| ULIKA    |   -   |  1C   | 1A/1W |   -   |
+| VAXIN    |  2M   |   -   |   -   |  2E   |
 
 !!! Note
     The departures listed above are runway-specific and cannot be used on any runway other than those published. As a result, your clearance will not specify a designated runway. Pilots must cross-check their charts to determine their assigned departure runway. For example, if parked on Apron 6 and assigned Runway 34R, expect a long taxi.
