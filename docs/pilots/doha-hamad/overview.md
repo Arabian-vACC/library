@@ -16,7 +16,7 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
 
 | Simulator      | Freeware                                                                           | Payware                                                                                                                           |
 |----------------|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| MSFS           | [flightsim.to](https://flightsim.to/file/14639/doha-city-and-hamad-airport-v2-wip) | [MXI Design](https://orbxdirect.com/product/mxidesign-othh-msfs?srsltid=AfmBOorSUbpAdfQPk3byohWDT66taPrJvg6F9c4L9nO8NxV93QifouBE) |
+| MSFS           | [flightsim.to](https://flightsim.to/file/14639/doha-city-and-hamad-airport-v2-wip) | [iniBuilds](https://inibuilds.com/products/inibuilds-doha-hamad-othh-msfs-2024?srsltid=AfmBOopGyyuFog29bdf_R0ebiqTBS1iIJgQBmDtk7tDJEv4Z9Je3nLCk) |
 | X-Plane        | X-Plane Default                                                                    |                                                                                                                                   |
 | Prepar3D V4/V5 | [AVSIM](https://library.avsim.net/search.php?SearchTerm=othh&CatID=root&Go=Search) | [Taxi2Gate](https://secure.simmarket.com/taxi2gate-othh-v2-p3d5.phtml)                                                            |
 
