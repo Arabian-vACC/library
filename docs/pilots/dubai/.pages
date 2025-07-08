@@ -3,3 +3,4 @@ sort_type: natural
 nav:
     - overview.md
     - departures.md
+    - arrivals.md
