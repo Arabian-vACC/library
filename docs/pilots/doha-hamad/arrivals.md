@@ -107,6 +107,8 @@ After landing, aircraft must not stop on the rapid exit taxiways and shall conti
 - **Runway 34L:** Continue via M northbound unless instructed to vacate to the east (if vacating east, HIRO not applicable).  
 - **Runway 34R:** Continue via B northbound.  
 
+The following taxi diagrams depict the standard taxi routings. Note that it may be necessary for operational reasons to deviate from these routings and pilots should follow ATC instructions at all times.
+
 ### Runway 16s Configuration
 #### Arrivals, Runway 16L
 <figure markdown>

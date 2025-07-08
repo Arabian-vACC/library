@@ -104,6 +104,8 @@ Crews should base their performance calculations on departure from standard depa
 
 ATC may tactically use a different departure point nearer the runway end based on the traffic situation.
 
+The following taxi diagrams depict the standard taxi routings. Note that it may be necessary for operational reasons to deviate from these routings and pilots should follow ATC instructions at all times.
+
 ### Runway 16s Configuration
 #### Departures, Runway 16L
 <figure markdown>
