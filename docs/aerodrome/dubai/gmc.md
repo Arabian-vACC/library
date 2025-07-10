@@ -139,9 +139,9 @@ When departing from 30R in the dual runway configuration, all aircraft pushing b
 ##### Apron A, D and G
 GMC 1 shall instruct aircraft on aprons A, D and G to taxi to holding point K14. During periods of lower aerodrome departure or arrival activity, K11 or K12 may be used for runway crossings only after coordination with AIR South. 
 
-GMC 1 shall make use of Z16 crossover to permit pushbacks from stand A9 and A10. If use of Z16 is not possible or practical due to the position of the aircraft after pushback, J2 link shall be used by traffic to join K (or K11 if coordinated with AIR).
+GMC 1 shall make use of Z16 crossover to permit pushbacks from stand A9 and A10. If use of Z16 is not possible or practical due to the position of the aircraft after pushback, J3 link shall be used by traffic to join K (or K11 if coordinated with AIR).
 
-Eastbound flow of traffic from Apron A on Z East of J2 should be avoided.
+Eastbound flow of traffic from Apron A on Z East of J3 should be avoided.
 
 Before reaching the runway holding points, aircraft shall be transferred to AIR South for crossing clearance. 
 
@@ -260,7 +260,7 @@ Departing traffic shall not be issued taxi to holding points M4, M5B, M7B and M1
 
 Code E and F shall cross behind others at holding point K1, K2, K3, K4 and K5 using Z.
 
-##### Apron A and D
+##### Apron A
 GMC 1 shall instruct traffic to taxi via Z and crossover at Z17 or Z15 as appropriate to taxi via K to holding points K5 or K4.
 
 If use of these crossovers is not possible, or practical due to the position of the aircraft after pushback, traffic shall be instructed to cross over at J2 link.
@@ -285,6 +285,11 @@ Traffic shall then be handed over to GMC 1 to taxi to the appropriate runway hol
 
 GMC 1 shall then hand over traffic to AIR South once sequenced and no conflicts exist.
 
+##### Apron D
+GMC 1 shall taxi traffic via J2 or J1 as appropriate to join K or Z. 
+
+Taxi routings thereafter shall be the same as Apron A once traffic has joined K or Z.
+
 ##### Apron E and Q
 Aircraft parked on apron E and Q shall be taxied by GMC 2 via the standard route to holding point N2. Before reaching N2, aircraft are transferred from GMC 2 to AIR North for runway crossing. 
 
@@ -298,12 +303,21 @@ GMC 1 shall instruct aircraft to taxi via the shortest appropriate route to the 
 Prudent use of crossover taxiways is advised to facilitate continuous pushbacks onto Z.
 
 #### 4.3.6.2 Arrival taxi procedures
-Aircraft parking on the southern aprons shall vacate 12L onto M9 or M12A and be instructed by AIR to taxi via M to holding points M13B or M14B as appropriate.
+##### Apron A, B, D and F
+Aircraft parking on the southern aprons shall be instructed by AIR North to vacate via M7A, M9 or M12A and taxi via M to holding points M13B or M14B as appropriate. They shall then be transferred to AIR South for crossing.
 
-Once aircraft have crossed 12R, aircraft will be transferred from AIR to GMC.
+Once aircraft have crossed 12R, aircraft will be instructed to hold at J3A (for Apron D) or right on K to hold at KR (other aprons). Traffic shall then be transferred to GMC 1
 
 Taxi routes to most aprons on the south side will be via K. For aprons B and D, aircraft shall taxi via J2 and then left or right onto J as appropriate.
 
+##### Apron C
+AIR North shall instruct traffic to vacate via M7A or M9 and taxi via M westbound and hold at MD. Traffic shall be transferred to GMC 1.
+
+GMC 1 shall taxi traffic via L3 or L4 to K and hold at KF. Traffic shall be transferred to GMC 2 for taxi to the appropriate stand.
+
+Alternatively, AIR North may transfer traffic to GMC 2 directly. In this case, traffic will taxi via L1 to the appropriate stand.
+
+##### Apron E and Q
 Aircraft parking on the northern aprons shall vacate 12L onto N6 or N8 and then taxi via N or P as appropriate.
 
 In addition to the standard taxi routings outlined above, a ”bias” mode can be utilised for biasing arrival traffic flow in the Dual runway 12L arrival configuration.
@@ -312,11 +326,20 @@ In the arrival bias, arriving traffic may vacate 12L to taxi westbound on M and 
 
 ### 4.3.7 Dual runway 12L/R (Departure Bias)
 #### 4.3.7.1 Departure taxi procedures
-#####
-Taxi routings are similar to the arrival bias, except traffic crossing from N2 to M2 is permitted to taxi Eastbound on M, and use departure holding points on M
+##### Apron E and Q
+Taxi routings are similar to the arrival bias mode, except traffic crossing from N2 to M2 is permitted to taxi Eastbound on M, and use departure holding points on M.
+
+##### All other aprons
+Taxi routings are the same as the arrival bias mode. Traffic may be crossed over south to north using L4 to make use of departure holding points on M.
 
 #### 4.3.7.2 Arrival taxi procedures
-#####
+##### Apron C
+Taxi routings are similar to the arrival bias mode, except traffic parking on Apron C shall be instructed by AIR North to vacate via N5A, N6 or N8 and taxi left onto N to taxi to N2 for crossing.
+
+Traffic shall then be transferred to GMC 2 for further taxi via M Westbound to L1 to the appropriate stand.
+
+##### All other aprons
+Taxi routings are similar to the arrival bias mode.
 
 ### 4.3.8 Single runway 12R
 #### 4.3.8.1 Departure taxi procedures
