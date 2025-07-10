@@ -125,12 +125,14 @@ Code F aircraft shall not be permitted to use the curved portions of J, J1 and J
 
 In this case, traffic shall be instructed to hold short of the curved portion until the adjacent curved taxiway is clear.
 
+Code F aircraft are only permitted to taxi behind on K when code D or smaller aircraft is at the runway holding point at K1, K2, K3, K4, and K5.
+
 Taxiway Q shall be limited to code C and below.
 
 !!! important
     These taxiway restrictions must be adhered to to ensure adequate wingtip clearance during taxi.
 
-### 4.3.3 Dual runway 30R
+### 4.3.3 Dual runway 30L/R
 #### 4.3.3.1 Departure taxi procedures
 When departing from 30R in the dual runway configuration, all aircraft pushing back on apron B and F shall be instructed to taxi via L4 and M.
 
@@ -193,7 +195,9 @@ Traffic parking on B27 shall be instructed by AIR South to taxi via J right onto
 ##### Apron C
 Traffic shall vacate at K9, K8 or K6, AIR South shall instruct traffic to taxi via K and hold short at KL and initiate transfer to GMC 1.
 
-GMC 1 shall issue taxi via K westbound to hold at KF and transfer control to GMC 2. GMC 2 shall taxi the aircraft to the appropriate stand.
+GMC 1 shall issue taxi via K westbound to hold at KF and transfer control to GMC 2. 
+
+GMC 2 shall taxi the aircraft to the appropriate stand.
 
 ##### Apron D
 Traffic shall vacate via K8 or K9 then be instructed by AIR South to taxi to J2A. Traffic shall then be transferred to GMC 1.
@@ -248,17 +252,50 @@ Routings are similar to 30L dual runway taxi, however caution should be exercise
 
 Aircraft are also permitted to vacate right onto M and cross 30R at M10A or M5A.
 
-### 4.3.6 Dual runway 12R (Arrival Bias)
+### 4.3.6 Dual runway 12L/R (Arrival Bias)
 #### 4.3.6.1 Departure taxi procedures
-When departing from 12R, aircraft parked on aprons A, B, D, F and C shall be taxied via the shortest appropriate route to the standard departure holding points K3, K4 and K5 avoiding conflicts with other departing or arriving traffic.
+Use of full-length holding points (K1, K2, M4, M5B) shall require coordination with AIR and shall not be assigned unless requested for performance reasons. These aircraft shall be advised of possible delays due to runway dependency.
 
-Aircraft parked on apron E and Q shall be taxied via the standard route to holding point N2. Before reaching N2, aircraft are transferred from GMC 2 to AIR North for runway crossing. 
+Departing traffic shall not be issued taxi to holding points M4, M5B, M7B and M10B, as this interferes with the flow of arrival traffic on M.
+
+Code E and F shall cross behind others at holding point K1, K2, K3, K4 and K5 using Z.
+
+##### Apron A and D
+GMC 1 shall instruct traffic to taxi via Z and crossover at Z17 or Z15 as appropriate to taxi via K to holding points K5 or K4.
+
+If use of these crossovers is not possible, or practical due to the position of the aircraft after pushback, traffic shall be instructed to cross over at J2 link.
+
+For sequencing, traffic may also be instructed to taxi via Z to holding points K3 or K4.
+
+Aircraft shall be transferred to AIR once sequenced and no conflicts exist.
+
+##### Apron B
+GMC 1 shall instruct traffic to taxi via U then either Y or W depending on the direction of taxi.
+
+Prudent use of crossover taxiways is advised to facilitate continuous pushbacks onto U. These aircraft shall join either J1 or J2 depending on direction of taxi.
+
+Traffic via Y and J1 shall taxi via K to holding point K3 or K4 or via Z to holding point K4 or K5.
+
+Traffic via W and J2 shall taxi via K to holding point K5 or K4 or via Z to holding point K4 or K3.
+
+##### Apron C
+GMC 2 shall instruct traffic to taxi via Z and where possible, use a convenient crossover onto K and hold short of KF. If crossover is not possible, traffic shall hold on Z short of ZE.
+
+Traffic shall then be handed over to GMC 1 to taxi to the appropriate runway holding point.
+
+GMC 1 shall then hand over traffic to AIR South once sequenced and no conflicts exist.
+
+##### Apron E and Q
+Aircraft parked on apron E and Q shall be taxied by GMC 2 via the standard route to holding point N2. Before reaching N2, aircraft are transferred from GMC 2 to AIR North for runway crossing. 
 
 After crossing, traffic is handed over to GMC 1. Aircraft then shall taxi via L3, then K to holding point K3, K4 or K5 as appropriate.
 
-Use of full-length holding points (K1, K2) shall require coordination with AIR and shall not be assigned unless requested for performance reasons. These aircraft shall be advised of possible delays due to runway dependency.
+GMC 1 shall then hand over traffic to AIR South once sequenced and no conflicts exist.
 
-Departing traffic shall not be issued taxi to holding points M4, M5B, M7B and M10B, as this interferes with the flow of arrival traffic on M.
+##### Apron F
+GMC 1 shall instruct aircraft to taxi via the shortest appropriate route to the standard departure holding points K3, K4 and K5 avoiding conflicts with other departing or arriving traffic.
+
+Prudent use of crossover taxiways is advised to facilitate continuous pushbacks onto Z.
 
 #### 4.3.6.2 Arrival taxi procedures
 Aircraft parking on the southern aprons shall vacate 12L onto M9 or M12A and be instructed by AIR to taxi via M to holding points M13B or M14B as appropriate.
@@ -272,6 +309,14 @@ Aircraft parking on the northern aprons shall vacate 12L onto N6 or N8 and then 
 In addition to the standard taxi routings outlined above, a ”bias” mode can be utilised for biasing arrival traffic flow in the Dual runway 12L arrival configuration.
 
 In the arrival bias, arriving traffic may vacate 12L to taxi westbound on M and then southbound on L3 and L4 to enter the C apron. Departing traffic will not interfere with the arrivals as they are prohibited from using any of the runway holding points along taxiway M.
+
+### 4.3.7 Dual runway 12L/R (Departure Bias)
+#### 4.3.7.1 Departure taxi procedures
+#####
+Taxi routings are similar to the arrival bias, except traffic crossing from N2 to M2 is permitted to taxi Eastbound on M, and use departure holding points on M
+
+#### 4.3.7.2 Arrival taxi procedures
+#####
 
 ### 4.3.8 Single runway 12R
 #### 4.3.8.1 Departure taxi procedures
