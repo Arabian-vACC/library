@@ -222,13 +222,6 @@ Traffic shall vacate via K8 or K9, AIR South shall instruct instruct traffic to 
 
 AIR South should issue taxi clearance via W till the stand to facilitate efficient flow of traffic. In this case, traffic shall be instructed to monitor GMC 1 frequency after taxi clearance has been issued.
 
-<figure markdown>
-![Taxi routings - 30 dual config](img/OMDB_30_TITO.png)
-</figure>
-<figure markdown>
-  <figcaption>Figure4-1: Taxi routings - 30 dual config</figcaption>
-</figure>
-
 ### 4.3.4 Single runway 30R
 #### 4.3.4.1 Departure taxi procedures
 When departing 30R in the single runway configuration, all aircraft pushing back on apron A, B, D and F shall be instructed to taxi via K4, K7, or K11 and cross 30L as appropriate.
@@ -237,7 +230,7 @@ Except for aircraft taxiing from apron C, the section of taxiway M west of K4 sh
 
 The taxi routes from apron E shall be the same as with the dual runway 30 configuration.
 
-##### 4.3.4.2 Arrival taxi procedures
+#### 4.3.4.2 Arrival taxi procedures
 Aircraft parking on the southern aprons shall vacate to the left and taxi via L3, L4 or M4 to cross 30L.
 
 Aircraft parking on the northern aprons shall vacate right and take the first appropriate turn onto P.
