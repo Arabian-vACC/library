@@ -1,4 +1,4 @@
-# 5. Air Control ("Dubai Tower")
+# 5. Air Control Procedures
 ## 5.1 General provisions
 Air Control (AIR) is responsible for all aerodrome movements on runways and their associated taxiways. AIR shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information to VFR aircraft operating within the aerodrome control zone.
 

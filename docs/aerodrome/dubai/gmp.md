@@ -1,4 +1,4 @@
-# 3. Ground Movement Planner ("Dubai Delivery")
+# 3. Departure Clearance Procedures
 ## 3.1 General provisions
 Airways clearance/Ground Movement Planner (GMP) is responsible for validating routes and shall provide IFR clearance to departing aircraft. The controller shall assign the correct departure procedure to the aircraft based on the first point that is filed on the flight plan.
 
