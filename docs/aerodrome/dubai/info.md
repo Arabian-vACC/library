@@ -95,7 +95,7 @@
   </tr>
   <tr>
     <td>01/2025</td>
-    <td>Updated section nomenclature,<br>Added detailed taxi procedure description,<br>Layout changes</td>
+    <td>Updated section nomenclature,<br>Added detailed taxi procedure description,<br>Updated taxiway restrictions,<br>Layout changes</td>
     <td>10 JUL 2025</td>
   </tr>
 </tbody></table>
