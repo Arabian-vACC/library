@@ -3,11 +3,11 @@
 |                     |                                                      |
 |---------------------|------------------------------------------------------|
 |         Type        |                    Procedure                         |
-|       Revision      |                     01/2024                          |
-|    Effective Date   |                    01 DEC 2024                       |
+|       Revision      |                     01/2025                          |
+|    Effective Date   |                    10 JUL 2025                       |
 |     Prepared by     | Suprojit Paul - ACCARB3 & Shahzin Shajid - ACCARB31  |
 |     Approved by     |             Chris Marriott - ACCARB1                 |
-|   Next review date  |                    01 DEC 2025                       |
+|   Next review date  |                    10 JUL 2026                       |
 | Cancelled documents |                SOP OMDB R05/2021                     |
 
 ## Record of Revisions
@@ -92,5 +92,10 @@
     <td>01/2024</td>
     <td>Updated AIR handoff phraseology,<br>Updated ATS frequencies,<br>Updated GMC stand allocation procedures,<br>Updated appendix diagrams,<br>Updated GMC standard taxi routings,<br>Updated AIR standard departure points,<br>Updated SRO RRSM criteria,<br>Added GMC "bias" taxi routings,<br>Revised GMP flight-plan amendment procedures,<br>Revised GMP VFR flight procedures,<br>Added document &amp; external references,<br>Removed RouteChecker,<br>Removed D-APO</td>
     <td>22 NOV 2024</td>
+  </tr>
+  <tr>
+    <td>01/2025</td>
+    <td>Updated section nomenclature,<br>Added detailed taxi procedure description,<br>Layout changes</td>
+    <td>10 JUL 2025</td>
   </tr>
 </tbody></table>
