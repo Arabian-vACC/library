@@ -33,3 +33,27 @@ Clearances to proceed direct to waypoints, radar vectors before the downwind or 
 Where handoffs are to be made between controllers, traffic shall be handed off to the next sector early enough such that they may conduct a continuous climb/descent provided no conflicts exist with other traffic and separation has been assured.
 ### 2.4.3 Radiotelephony procedures
 When providing a departures service, Dubai Arrivals shall do so under the callsign “DUBAI DEPARTURES”.
+
+### 2.4.4 Sector order
+Unless otherwise authorised by UAE vACC staff, sectors within the Dubai CTA shall be opened in the following order.
+
+For each online sector, a prerequisite sector is required which shall be online before the CTA is split into further sectors. If a prerequisite sector goes offline, the CTA must revert to the previous configuration.
+
+Sectors not listed in this order of priority may be opened at any time.
+
+| Online sector | Next sector to open | Prerequisite sector |
+|---------------|---------------------|---------------------|
+| OMDB_APP      | OMDB_1_DEP          | OMDB_1_TWR          |
+| OMDB_1_DEP    | OMDB_F_APP<br>**OR**<br>OMDB_2_DEP | OMDB_1_TWR,<br>OMDB_APP,<br>OMDB_1_DEP |
+| OMDB_F_APP    | OMDB_2_DEP | OMDB_1_TWR,<br>OMDB_APP,<br>OMDB_1_DEP |
+
+### 2.4.5 Sector top-down coverage
+When the lower sector is offline, in addition to the designated areas of responsibility, top-down sector coverage shall be as follows:
+
+| Online sector | Offline sector | Top-down coverage |
+|---------------|---------------------|---------------------|
+| OMDB_APP      | AMR,<br>AIR,<br>GND | OMDW       |
+| OMDB_1_DEP      | AIR SJ,<br>GND SJ,<br>DEP 2 | OMSJ   |
+| OMDB_2_DEP      | AIR SJ,<br>GND SJ | OMSJ      |
+
+When all lower sectors are offline, Dubai APP shall provide top-down coverage for all airports within the Dubai CTA.
