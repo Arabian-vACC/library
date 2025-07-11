@@ -24,13 +24,15 @@ Due to the interactions between the departure and arrival procedures, the runway
 ### 2.3.2 Al Maktoum (OMDW)
 Al Maktoum (OMDW) may operate in a runway configuration that is independent from Dubai and Sharjah.
 
-## 2.4 Designated areas of responsibility
+## 2.4 Sectorisation
 ### 2.4.1 General
 To reduce workload during peak times, the Dubai CTA may be split into a maximum of five sectors. Each sector is responsible for specific departures and arrivals and as such, shall comply with standard level clearance and handoff procedures to ensure separation.
+
 ### 2.4.2 Coordination between controllers
 Clearances to proceed direct to waypoints, radar vectors before the downwind or deviation from standard level clearances shall not be given without prior coordination between the concerned controllers.
 
-Where handoffs are to be made between controllers, traffic shall be handed off to the next sector early enough such that they may conduct a continuous climb/descent provided no conflicts exist with other traffic and separation has been assured.
+Where handoffs are to be made between controllers, traffic shall be handed off to the next sector early enough such that they may conduct a continuous climb/descent, wherever possible, provided no conflicts exist with other traffic and separation has been assured.
+
 ### 2.4.3 Radiotelephony procedures
 When providing a departures service, Dubai Arrivals shall do so under the callsign “DUBAI DEPARTURES”.
 

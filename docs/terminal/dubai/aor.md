@@ -1,6 +1,22 @@
 # 3. Areas of Responsibility
-## 3.1 Sectors - Dubai CTA 30 operation
-Refer to Figure 3-1 for pictoral overview of Areas of Responsibility
+## 3.1 General
+### 3.1.1 Concept
+The Dubai CTA Areas of Responsibility (AoR) are designed to minimise the need for coordination between sectors when climbing and descending traffic. This reduces controller workload, and allows a predictable flow of traffic through a complex network of SIDs and STARs.
+
+These AoRs must be adhered to in order to prevent possible loss of separation between traffic.
+
+### 3.1.2 Level clearances
+Where traffic is to be given a climb or descent to the vertical boundary of an AoR, the descent clearance shall be 500 ft offset from the AoR boundary.
+
+For example, if the AoR boundary is 7500 ft, a descent clearance may only be given to a minimum altitude of 8000 ft. Similarly, climbing traffic reaching the same AoR boundary may only be given a maximum altitude of 7000 ft.
+
+Clearances per the AoRs will facilitate compliance with published level restrictions.
+
+### 3.1.3 Transfer of control
+Where aircraft cross between adjacent AoRs, transfer of control shall be made to the respective controller in accordance with the transfer procedures given in section 4.
+
+## 3.2 AoR Sectors - Dubai CTA 30 operation
+Refer to Figure 3-1 for pictoral overview of Areas of Responsibility.
 
 | Login                |       Sector       |     Radio Callsign   | Area of Responsibility   |
 |----------------------|--------------------|----------------------|--------------------------|
@@ -16,8 +32,8 @@ Refer to Figure 3-1 for pictoral overview of Areas of Responsibility
   <figcaption>Figure 3-1: Dubai CTA 30 Config Areas of Responsibility</figcaption>
 </figure>
 
-## 3.2 Sectors - Dubai CTA 12 operation
-Refer to Figure 3-2 for pictoral overview of Areas of 
+## 3.3 AoR Sectors - Dubai CTA 12 operation
+Refer to Figure 3-2 for pictoral overview of Areas of Responsibility.
 
 | Login                |       Sector       |     Radio Callsign   | Area of Responsibility   |
 |----------------------|--------------------|----------------------|--------------------------|

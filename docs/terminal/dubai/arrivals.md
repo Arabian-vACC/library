@@ -57,24 +57,55 @@ High speed may be permitted in the CTA provided the aircraft is not expected to 
 
 ## 5.3 Final approach sequencing
 ### 5.3.1 Final descent
-Descent for final approach shall be to the appropriate platform altitude for the respective runway as provided in 5.3.3.
+Descent for final approach shall be to the appropriate platform altitude for the respective runway as provided in 5.4.3.
 
 Clearances to descend below the platform altitude are not recommended, however, this may be permitted provided that they are not below the minimum radar manoeuvring altitude for the sector and horizontal separation is assured with other traffic.
 
 Due consideration shall be given to aircraft on opposite downwind legs. Descent clearances to the same level for aircraft on opposite downwind are not recommended to avoid a loss of separation in case of a localiser overshoot.
 
-### 5.3.2 Final sequencing
-Traffic separation in the base-to-final segment shall be ensured at all times. Due consideration shall be given to wake turbulence category, aircraft performance and landing runway when sequencing base-to-final.
+### 5.3.2 Sequencing requirements
+At all times, it shall be the endeavour of the sequencing sector to maximise runway utilisation by achieving the minimum safe separation between traffic on final approach. Large gaps in the sequence are to be avoided, as this reduces hourly arrival rate.
+
+Notwithstanding the above, minimum traffic separation in the base-to-final segment shall be ensured at all times. Due consideration shall be given to enhanced wake turbulence category, aircraft performance and landing runway when sequencing base-to-final.
 
 Speed control shall be applied in the same manner as provided in 5.2.2.
 
 If separation cannot be maintained, aircraft may be instructed to maintain visual wake turbulence separation if meteorological conditions permit. If this is not possible, aircraft shall be sent around and re-sequenced.
 
+### 5.3.3 Use of standard headings
 Standard 90-degree base-legs and 30-degree intercepts shall be used when vectoring aircraft from the downwind.
 
-### 5.3.3 Longitudinal separation requirements
-#### 5.3.3.1 Single runway operations
+### 5.3.4 Longitudinal separation requirements
+#### 5.3.4.1 Single runway operations
 At OMSJ and OMDW and when operating in single runway configuration at OMDB, minimum longitudinal separation of 7 NM shall be applied between arriving aircraft unless otherwise coordinated with the appropriate AIR controller.
 
-#### 5.3.3.2 Low-visibility operations
+#### 5.3.4.2 Low-visibility operations
 When operating under LVO conditions, minimum longitudinal separation of 7 NM shall always be applied between arriving aircraft.
+
+### 5.4.4 Platform altitudes
+#### 5.4.4.1 Dubai (OMDB)
+Traffic establishing on final approach course at Dubai shall be cleared to a level as follows.
+
+The platform altitudes provided below shall be mandatory during all operations. 
+
+| Arrival runway | Final descent |
+|----------------|---------------|
+| OMDB 30L | 2000 ft |
+| OMDB 30R | 3000 ft |
+| OMDB 12L | 2000 ft |
+
+#### 5.4.4.2 Sharjah (OMSJ)
+Traffic establishing on final approach course at Sharjah shall be cleared to a level as follows. 
+
+| Arrival runway | Final descent |
+|----------------|---------------|
+| OMSJ 30 | 2000 ft |
+| OMSJ 12 | 2000 ft |
+
+#### 5.4.4.3 Al Maktoum (OMDW)
+Traffic establishing on final approach course at Al Maktoum shall be cleared to a level as follows. 
+
+| Arrival runway | Final descent |
+|----------------|---------------|
+| OMDW 30 | 2000 ft |
+| OMDW 12 | 2000 ft |
