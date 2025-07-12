@@ -404,10 +404,20 @@ Stands 2 to 8 are heavy (code E) capable only.
 
 Stands 50 to 62 are A380 (code F) capable. 
 ## 2.11 Low visibility operations (LVO)
-### 2.11.1 LVO taxi routes
-When LVO is in force shall only be issued taxi instructions in accordance with the designated LVO taxi routes.
+Low visibility operations are commenced at Sharjah when:
+- Touchdown RVR is indicated to be 1500m or less;
+- Reported meteorological visibility is 1500m or less;
+- The reported cloud ceiling is 500ft or less
 
-Only CAT II/III holding points may be used during LVO (3.3.1).
+LVO may be pre-emptively initiated when RVR or meteorological visibility is reported at or below 3000 m and forecast to reduce below LVO minima, or the cloud ceiling is reported as 700 ft and forecast to reduce below LVO minima.  
+
+Runway crossings shall be kept to a minimum and must only occur at designated LVO runway crossing points.
+
+!!! warning
+      All operations shall be suspended if RVR falls below 350 metres. 
+
+Only CAT II/III holding points may be used during LVO.
+
 ## 2.12 Designated areas of responsibility
 ### 2.12.1 GMC positions
 GMC is responsible for all aprons and associated taxiways.

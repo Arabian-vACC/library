@@ -222,7 +222,7 @@ AIR shall provide ample notice to GMP before changing runway configuration. The 
 Aircraft that have already been cleared to depart using the old configuration shall be re-cleared if they have not already requested pushback.
 
 ## 3.8 VFR aircraft
-VFR flight activity should be planned in accordance to published VFR charts, specifically the “**Dubai Creek VFR Routes**” chart for traffic navigating within the CTR and the “**Dubai CTA VFR**” chart for VFR traffic navigating out of the Dubai CTR into neighbouring airspaces. GMP may use the appropriate charts as per the requirements of the pilot’s intentions in accordance with 2.8.1, 2.8.2 and 2.8.3.  
+VFR flight activity should be planned in accordance to published VFR charts, specifically the “**Dubai Creek VFR Routes**” chart for traffic navigating within the CTR and the “**Dubai CTA VFR**” chart for VFR traffic navigating out of the Dubai CTR into neighbouring airspaces. GMP may use the appropriate charts as per the requirements of the pilot’s intentions in accordance with 3.8.1, 3.8.2 and 3.8.3.  
 
 At any time, AIR control and Approach/Departure control may impose partial or full restrictions to VFR operations out of OMDB during periods of increased IFR activity or due to restrictions and limitations to aircraft type. It is imperative that GMP is in continuous coordination with AIR control and Approach/Departure control for departing VFR traffic.
 
@@ -261,7 +261,7 @@ All VFR departures shall be assigned a discrete SSR code so that they may be ide
 ### 3.8.3 VFR traffic remaining in circuit
 VFR traffic wishing to remain in the circuit shall be cleared only after prior coordination with AIR and Approach/Departure control.
 
-As per possible restrictions mentioned in 2.8, VFR traffic may be encouraged to carry out circuits at neighbouring aerodromes such as OMDW, OMSJ and OMRK during periods of increased IFR activity and due to restrictions to aircraft type. GMP must coordinate with AIR control and Arrivals/Departures control in such cases and relay the information to the pilot in accordance with 2.8.1 or 2.8.2.
+As per possible restrictions mentioned in 3.8, VFR traffic may be encouraged to carry out circuits at neighbouring aerodromes such as OMDW, OMSJ and OMRK during periods of increased IFR activity and due to restrictions to aircraft type. GMP must coordinate with AIR control and Arrivals/Departures control in such cases and relay the information to the pilot in accordance with 3.8.1 or 3.8.2.
 
 VFR circuits shall not be permitted out of OMDB if any of the aforementioned restrictions from AIR and Approach/Departure control is in effect. 
 

@@ -167,3 +167,27 @@ Inbound VFR aircraft shall be instructed to contact AIR with enough time such th
       **Controller:** A6-CTA, Sharjah tower, join left hand downwind runway 30, 1000ft VFR, QNH 1017
 
 VFR arrivals may be denied entry into the control zone during times of increased IFR arrival activity and instructed to hold outside controller airspace awaiting further instructions.  
+
+### 3.6 Low visibility operations
+Where transfer of control is to be made between aerodrome controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller. Intermediate holding points may be used to satisfy this requirement.
+
+### 3.6.1 LVO departure procedures
+During LVO, aircraft must taxi via the appropriate linking taxiway (TWY Z2 to Z15) or directly on to A, then proceed to direct to the CAT I holding points (B2 for runway 12 and B20 for runway 30).
+
+Intersection departures during LVO are not permitted. 
+
+CAT I holding points shall be used during LVO for departing aircraft *(Table 4-4).* 
+
+|   Runway   |   Holding Point   |
+|:----------:|:-----------------:|
+|     30     |       B20         |
+|     12     |       B2          |
+<figure markdown>
+  <figcaption>Table 3-2: CAT I holding points</figcaption>
+</figure>
+
+### 3.6.2 LVO arrival procedures
+Arriving aircraft must report fully vacated.  
+
+## 3.7 Designated areas of responsibility
+AIR is responsible for runway 30/12 and all associated taxiways. 
