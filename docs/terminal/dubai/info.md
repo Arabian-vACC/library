@@ -60,6 +60,6 @@
   </tr>
   <tr>
     <td>01/2025</td>
-    <td>Updated logon callsigns,<br>Added CTA Areas of Responsibility,<br>Updated climb and descent procedures with new AoR concept,<br>Added release conditions,<td>Removed D-APO</td>
+    <td>Updated logon callsigns,<br>Added CTA Areas of Responsibility,<br>Updated climb and descent procedures with new AoR concept,<br>Added release conditions,<br>Removed D-APO</td>
     <td>XX JUL 2021</td>
 </tbody></table>
