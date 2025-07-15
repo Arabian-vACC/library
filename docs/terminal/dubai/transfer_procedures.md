@@ -26,3 +26,49 @@
 #### 4.1.2.2 Arriving traffic
 | Arrival airport   | Entry waypoint | Transfer procedure and release conditions |
 |-------------------|----------------|-------------------------------------------|
+
+### 4.1.3 Arrivals (ARR)
+| Arrival airport   | Entry waypoint | Transfer procedure and release conditions |
+|-------------------|----------------|-------------------------------------------|
+
+### 4.1.4 Al Maktoum Radar (AMR)
+#### 4.1.4.1 Departing traffic
+| Departure airport | Exit waypoint | Transfer procedure and release conditions |
+|-------------------|---------------|-------------------------------------------|
+
+#### 4.1.4.2 Arriving traffic
+| Arrival airport   | Entry waypoint | Transfer procedure and release conditions |
+|-------------------|----------------|-------------------------------------------|
+
+## 4.2 CTA 12 config
+### 4.2.1 Departure South (DEP 1)
+#### 4.2.1.1 Departing traffic
+| Departure airport | Exit waypoint | Transfer procedure and release conditions |
+|-------------------|---------------|-------------------------------------------|
+
+#### 4.2.1.2 Arriving traffic
+| Arrival airport   | Entry waypoint | Transfer procedure and release conditions |
+|-------------------|----------------|-------------------------------------------|
+
+### 4.2.2 Departure North (DEP 2)
+#### 4.2.2.1 Departing traffic
+| Departure airport | Exit waypoint | Transfer procedure and release conditions |
+|-------------------|---------------|-------------------------------------------|
+
+#### 4.2.2.2 Arriving traffic
+| Arrival airport   | Entry waypoint | Transfer procedure and release conditions |
+|-------------------|----------------|-------------------------------------------|
+
+### 4.2.3 Arrivals (ARR)
+| Arrival airport   | Entry waypoint | Transfer procedure and release conditions |
+|-------------------|----------------|-------------------------------------------|
+
+### 4.2.4 Al Maktoum Radar (AMR)
+#### 4.2.4.1 Departing traffic
+| Departure airport | Exit waypoint | Transfer procedure and release conditions |
+|-------------------|---------------|-------------------------------------------|
+
+#### 4.2.4.2 Arriving traffic
+| Arrival airport   | Entry waypoint | Transfer procedure and release conditions |
+|-------------------|----------------|-------------------------------------------|
+
