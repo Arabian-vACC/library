@@ -13,9 +13,9 @@ In most cases, the ILS approach is the preferred approach type, however for D-AP
 RNAV approaches are also available, however, should not be used unless specifically requested by the pilot, or due to any other reason such as ILS unserviceability.
 
 ### 5.1.3 Visual approach
-Visual approaches may be initiated by APP or requested by the pilot. Pilot acceptance of a visual approach means that they will be able to visually maintain safe terrain clearance and accepts responsibility for establishing a safe landing interval behind the preceding aircraft.
+Visual approaches may be initiated by ARR or requested by the pilot. Pilot acceptance of a visual approach means that they will be able to visually maintain safe terrain clearance and accepts responsibility for establishing a safe landing interval behind the preceding aircraft.
 
-A visual approach may be initiated by APP under the following conditions:
+A visual approach may be initiated by ARR under the following conditions:
 
 - The pilot concurs;
 - The pilot reports the preceding aircraft in sight and accepts responsibility to maintain own separation;
@@ -41,7 +41,7 @@ The speed limits and recommended speeds within different segments of the Dubai C
 |-----------------|------------------------------|---------------------|
 | 210 - 250 knots | 230 - 250 knots         | CTA entry           |
 | 190 - 230 knots | 210 knots; maximum for aircraft initiating turn from upwind to downwind leg | Approaching downwind |
-| 180 - 210 knots | 190 knots; this must be enforced before handoff to Dubai Director (FIN) | From downwind to base leg |
+| 180 - 210 knots | 190 knots; this must be enforced before handoff to Dubai Director (DIR) | From downwind to base leg |
 | 170 - 210 knots | 170 - 190 knots          | Closing heading to final approach |
 | 160 - 190 knots | 170 - 190 knots          | At 10 NM from touchdown |
 | 160 knots       | 160 knots                | Until 4 NM from         |
@@ -73,14 +73,14 @@ Speed control shall be applied in the same manner as provided in 5.2.2.
 If separation cannot be maintained, aircraft may be instructed to maintain visual wake turbulence separation if meteorological conditions permit. If this is not possible, aircraft shall be sent around and re-sequenced.
 
 ### 5.3.3 Use of standard headings
-Standard 90-degree base-legs and 30-degree intercepts shall be used when vectoring aircraft from the downwind.
+**Standard 90-degree base-legs and 30-degree intercepts shall be used** when vectoring aircraft from the downwind.
 
 ### 5.3.4 Longitudinal separation requirements
 #### 5.3.4.1 Single runway operations
-At OMSJ and OMDW and when operating in single runway configuration at OMDB, minimum longitudinal separation of 7 NM shall be applied between arriving aircraft unless otherwise coordinated with the appropriate AIR controller.
+At OMSJ and OMDW and when operating in single runway configuration at OMDB, minimum longitudinal separation of **7 NM** shall be applied between arriving aircraft unless otherwise coordinated with the appropriate AIR controller.
 
 #### 5.3.4.2 Low-visibility operations
-When operating under LVO conditions, minimum longitudinal separation of 7 NM shall always be applied between arriving aircraft.
+When operating under LVO conditions, minimum longitudinal separation of **7 NM** shall always be applied between arriving aircraft.
 
 ### 5.4.4 Platform altitudes
 #### 5.4.4.1 Dubai (OMDB)

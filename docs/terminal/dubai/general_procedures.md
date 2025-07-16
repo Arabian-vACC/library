@@ -58,4 +58,4 @@ When the lower sector is offline, in addition to the designated areas of respons
 | OMDB_1_DEP      | AIR SJ,<br>GND SJ,<br>DEP 2 | OMSJ   |
 | OMDB_2_DEP      | AIR SJ,<br>GND SJ | OMSJ      |
 
-When all lower sectors are offline, Dubai APP shall provide top-down coverage for all airports within the Dubai CTA.
+When all lower sectors are offline, Dubai ARR shall provide top-down coverage for all airports within the Dubai CTA.
