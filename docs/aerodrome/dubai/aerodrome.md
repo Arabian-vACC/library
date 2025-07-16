@@ -20,8 +20,8 @@
 | Dubai Tower (South)         | OMDB_2_TWR       | AIR 2 (South)  | 119.550     |
 | Dubai Departures (South)    | OMDB_1_DEP       | DEP 1 (South)  | 121.025     |
 | Dubai Departures (North)    | OMDB_2_DEP       | DEP 2 (North)  | 124.675     |
-| Dubai Arrivals              | OMDB_APP         | APP            | 124.900     |
-| Dubai Director              | OMDB_F_APP       | FIN            | 127.900     |
+| Dubai Arrivals              | OMDB_APP         | ARR            | 124.900     |
+| Dubai Director              | OMDB_F_APP       | DIR            | 127.900     |
 | Dubai Tower (Information)   | OMDB_I_TWR       | FIS            | 126.775     |
 
 ### 1.2.2 ATS airspace

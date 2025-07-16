@@ -16,8 +16,8 @@
 | Academy Tower               | OMDW_A_TWR       | AIR DWA        | 118.775     |
 | Dubai Departures (South)    | OMDB_1_DEP       | DEP 1 (South)  | 121.025     |
 | Dubai Departures (North)    | OMDB_2_DEP       | DEP 2 (North)  | 124.675     |
-| Dubai Arrivals              | OMDB_APP         | APP            | 124.900     |
-| Dubai Director              | OMDB_F_APP       | FIN            | 127.900     |
+| Dubai Arrivals              | OMDB_APP         | ARR            | 124.900     |
+| Dubai Director              | OMDB_F_APP       | DIR            | 127.900     |
 | Al Maktoum Radar            | OMDW_APP         | AMR            | 124.025     |
 | Dubai South Radar           | OMDW_S_APP       | DSR            | 120.400     |
 | Minhad Approach             | OMDM_APP         | MIN            | 122.500     |
