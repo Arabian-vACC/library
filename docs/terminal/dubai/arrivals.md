@@ -1,4 +1,4 @@
-# 5. Arrivals
+# 5. Arrival Procedures
 ## 5.1 Approach and runway assignment
 ### 5.1.1 Initial contact
 On initial contact with aircraft, aircraft shall be assigned the arrival runway and expected approach type for the appropriate aerodrome.

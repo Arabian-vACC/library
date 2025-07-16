@@ -1,4 +1,4 @@
-# 6. Departures
+# 6. Departure Procedures
 ## 6.1 Longitudinal separation requirements
 Except as provided in 6.3, all aircraft departing the Dubai CTA via a common exit point shall be separated longitudinally by at least **8 NM constant or increasing**.
 
@@ -25,3 +25,5 @@ Where multiple airports share a common FIR exit point, longitudinal separation b
 | OMDW                | NOLSU      | LALDO/GOMTA    | 290 knots     | 20 NM (3 minutes)       |
 
 *Note: LALDO and GOMTA are to be considered a common FIR exit point. These procedures do not apply to traffic landing at Oman airports.*
+
+## 6.4 Lateral profile
