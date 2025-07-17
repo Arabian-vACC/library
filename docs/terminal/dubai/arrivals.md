@@ -165,6 +165,7 @@ Only cross-AoR directs specified in the table below shall be permitted. Pre-coor
 | OMDB | LORID 4D | Direct within Area D1 | Shall not adversely affect ARR sequence | DEP 1 to ARR |
 | OMDB | PUVAL 5C | Direct GIRGO or DB530 | Shall not adversely affect ARR sequence,<br> released for descent by ARR to 6000 ft within Area A2 | DEP 1 to ARR |
 | OMSJ | LORID 4M | Direct UKTAD | Traffic to remain above 11,000 ft, further descent to be coordinated | DEP 1 to DEP 2 and ARR |
+| OMSJ | NOLSU 2M | Direct DAPAD | Traffic to remain below 5000 ft within Area A4, and below 3000 ft within Area A5 | pre-coordinated |
 
 #### 5.7.2.3 CTA 12 operation
 Only cross-AoR directs specified in the table below shall be permitted. Pre-coordinated directs do not require coordination, provided all required conditions are met.
@@ -174,3 +175,4 @@ Only cross-AoR directs specified in the table below shall be permitted. Pre-coor
 | OMDB | PUVAL 5B | Direct DB421 | Shall not adversely affect ARR sequence,<br> released for descent to 4000 ft within Area A5 | DEP 1 to ARR |
 | OMDB | VUTEB 3B | Direct REREK | Traffic shall remain within Area F1 after issuance of direct | pre-coordinated |
 | OMDB | VUTEB 3B | Direct ALNET, SOGAP or PASEV from upwind leg | Shall not adversely affect ARR sequence | pre-coordinated |
+| OMSJ | GONVI 3K | Direct BOMIV | Traffic to remain below 5000 ft within Area A4, and below 3000 ft within Area A5 | pre-coordinated |

@@ -11,6 +11,8 @@ Aircraft may be instructed to maintain high speed below 10,000 ft to maximise th
 
 ANVIX departures from 30 at OMDB shall not be instructed to maintain high speed until all initial turns have been completed.
 
+RIDAP, SENPA, NABIX and KUTLI departures from 12 at OMDB shall not be instructed to maintain high speed until established on downwind track.
+
 To reduce controller workload, aircraft may also be instructed to maintain published speeds on the SID.
 
 ## 6.3 Muscat FIR flow control
@@ -77,6 +79,6 @@ Only cross-AoR directs specified in the table below shall be permitted. Pre-coor
 !!! important
     In all instances, departing aircraft shall **not be permitted to cross north of ORLAD** to avoid infringement of UAE delegated airspace
     
-    Traffic departing OMDB shall **not be issued direct to RIDAP or SENPA** to avoid proximity to south downwind arrivals
+    Traffic departing OMDB shall **not be issued direct routings when following RIDAP or SENPA departures** to avoid proximity to south downwind arrivals
 
     Direct KUTLI shall not be permitted if OM(AS)-03 or OM(AS)-04 are active until aircraft are clear of these areas.
