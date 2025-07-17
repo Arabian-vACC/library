@@ -1,15 +1,17 @@
 # 4. Transfer Procedures
-## 4.1 Compliance with procedures
+## 4.1 General
 The transfer procedures mentioned hereunder shall be adhered to at all times. These procedures are release agreements between different Dubai CTA sectors, as well as between UAE enroute sectors and the Dubai CTA.
 
 Any deviation from these procedures shall required coordination between all concerned sectors.
 
+The AoRs represented hereunder with alphanumeric identifiers, are the same as those defined in section 3.
+
 ## 4.2 Transfer from Arrivals (ARR) to Director (DIR)
 Traffic shall always be handed off to DIR with a speed restriction on **190 knots** unless otherwise coordinated (e.g. for a straight-in approach).
 
-In case it is not possible for APP to transfer traffic at the agreed level as described hereunder, traffic may be transferred at **6000 ft**, **5000 ft**, and **4000 ft with vertical separation assured** without coordinating with DIR.
+In case it is not possible for ARR to transfer traffic at the agreed level as described hereunder, traffic may be transferred at **6000 ft**, **5000 ft**, and **4000 ft with vertical separation assured** without coordinating with DIR.
 
-## 4.3 CTA 30 config
+## 4.3 CTA 30 operation
 ### 4.3.1 Departure South (DEP 1)
 #### 4.3.1.1 Departing traffic
 | Departure airport | SID waypoint | Transfer procedure and release conditions |
@@ -21,7 +23,7 @@ In case it is not possible for APP to transfer traffic at the agreed level as de
 | OMSJ | KUTLI | Transfer from **DEP 2 (North)** at **13,000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC Hotel** released for further climb |
 | OMDW | DAVMO | Transfer from **AMR** at **7000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC Romeo** released for further climb,<br> traffic to cross **Area A1** at or above **12,000 ft** |
 | OMDW | RIDAP, SENPA, NABIX | Transfer from **AMR** at **7000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC Delta** released for further climb |
-| OMRK | PUVAL |
+| OMRK | PUVAL | 
 
 #### 4.3.1.2 Arriving traffic
 | Arrival airport   | STAR waypoint | Transfer procedure and release conditions |
@@ -41,8 +43,8 @@ In case it is not possible for APP to transfer traffic at the agreed level as de
 | OMSJ | RIDAP, SENPA, NABIX | Initial **2000 ft**,<br> climb to **5000 ft** within **Area A2**,<br> climb to **7000 ft** within **Area D2** (maximum altitude within **Area A1**),<br> transfer to **DEP 1 (South)** |
 | OMSJ | ANVIX | Initial **3000 ft**,<br> climb to **13,000 ft**,<br> transfer to **AMR** if unable to reach **13,000 ft** by **Area F1** boundary,<br> otherwise transfer to **ACC East** at **FL150** if able to reach by **Area F1** boundary |
 | OMSJ | KUTLI | Initial **3000 ft**,<br> climb to to **13,000 ft**,<br> transfer to **DEP 1 (South)** if unable to reach **13,000 ft** by **Area F1** boundary,<br> otherwise transfer to **ACC East** at **FL150** if able to reach by **Area F1** boundary |
-| OMDW | NOLSU | Transfer from **AMR** at **12,000 ft**,<br climb to **FL150**,<br> transfer to **ACC Romeo**, released for further climb |
-| OMRK | PUVAL | Transfer from Ras Al Khaimah CTA at **5000 ft** released for further climb,<br> climb to **13,000 ft**,<br> transfer to **DEP 1 (South)** if unable to reach **13,000 ft** by **Area F1** boundary,<br> otherwise transfer to **ACC Delta** at **FL150** if able to reach by **Area F1** boundary |
+| OMDW | NOLSU | Transfer from **AMR** at **12,000 ft**,<br> climb to **FL150**,<br> transfer to **ACC Romeo**, released for further climb |
+| OMRK | PUVAL | Transfer from **Ras Al Khaimah CTA** at **5000 ft** released for further climb,<br> climb to **13,000 ft**,<br> transfer to **DEP 1 (South)** if unable to reach **13,000 ft** by **Area F1** boundary,<br> otherwise transfer to **ACC Delta** at **FL150** if able to reach by **Area F1** boundary |
 
 #### 4.3.2.2 Arriving traffic
 | Arrival airport   | STAR waypoint | Transfer procedure and release conditions |
@@ -52,7 +54,7 @@ In case it is not possible for APP to transfer traffic at the agreed level as de
 | OMSJ | GONVI | Transfer from **ACC West** at 9,000 ft released for further descent,<br> descend to platform altitude within **Area D2**, ensuring traffic is below **5000 ft** before entering **Area A4** and below **3000 ft** before entering **Area A5** |
 | OMSJ | NOLSU | Transfer from **ACC Yankee** at **10,000 ft** released for further descent,<br> descend to platform altitude within **Area D2**, ensuring traffic is below **5000 ft** before entering **Area A4** and below **3000 ft** before entering **Area A5** |
 | OMSJ | LORID | Transfer from **DEP 1 (South)** at **12,000 ft**,<br> descend to platform altitude within **Area D2**, ensuring traffic is below **5000 ft** before entering **Area A4** and below **3000 ft** before entering **Area A5** |
-| OMRK | ALSIL | Transfer from **ACC Yankee** at **10,000 ft** released for further descent,<br> descend to **6000 ft** within **Area D2**, ensuring traffic is below **7000 ft** before entering Ras Al Khaimah CTA |
+| OMRK | ALSIL | Transfer from **ACC Yankee** at **10,000 ft** released for further descent,<br> descend to **6000 ft** within **Area D2**,<br> transfer to **Ras Al Khaimah APP** released for further descent,<br> traffic to be below **7000 ft** before entering Ras Al Khaimah CTA |
 
 ### 4.3.3 Arrivals (ARR)
 | Arrival airport   | STAR | Transfer procedure and release conditions |
@@ -68,7 +70,7 @@ In case it is not possible for APP to transfer traffic at the agreed level as de
 ### 4.3.4 Director (DIR)
 | Arrival airport   | STAR waypoint | Transfer procedure and release conditions |
 |-------------------|---------------|-------------------------------------------|
-| OMDB | All | Transfer from ARR released for further descent,<br> descend to platform altitude |
+| OMDB | All | Transfer from **ARR** released for further descent,<br> descend to platform altitude |
 
 ### 4.3.5 Al Maktoum Radar (AMR)
 #### 4.3.5.1 Departing traffic
@@ -76,7 +78,7 @@ In case it is not possible for APP to transfer traffic at the agreed level as de
 |-------------------|--------------|-------------------------------------------|
 | OMDW | ANVIX | Initial **3000 ft**,<br> climb to to **7000 ft** within **Area M2**,<br> climb to **FL150** within **Area M1**,<br> transfer **ACC East** released for further climb |
 | OMDW | RIDAP, SENPA, NABIX, DAVMO | Climb to **7000 ft** within **Area M2** and **Area M3**,<br> transfer to **DEP 1 (South)** released for further climb |
-| OMDW | KUTLI | Initial **3000 ft**,<br> climb to to **7000 ft** within **Area M2**,<br> transfer to Abu Dhabi APP West released for further climb,<br> coordinated level up to **9000 ft** with Abu Dhabi available |
+| OMDW | KUTLI | Initial **3000 ft**,<br> climb to to **7000 ft** within **Area M2**,<br> transfer to **Abu Dhabi APP West** released for further climb,<br> coordinated level up to **9000 ft** with Abu Dhabi available |
 | OMDW | NOLSU | Initial **3000 ft**,<br> climb to to **7000 ft** within **Area M2**,<br> climb to **12,000 ft** within **Area M1**,<br> transfer to **DEP 2 (North)** released for further climb,<br> traffic to cross **Area A3** above **9000 ft** |
 | OMDB | ANVIX | Transfer from **DEP 1 (South)** at **9000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC East** released for further climb |
 | OMSJ | ANVIX | Transfer from **DEP 2 (North)** at 1**3000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC East** released for further climb |
@@ -85,12 +87,12 @@ In case it is not possible for APP to transfer traffic at the agreed level as de
 | Arrival airport   | STAR waypoint | Transfer procedure and release conditions |
 |-------------------|---------------|-------------------------------------------|
 | OMDW | GONVI, DATOB, PUVAL | Transfer from **DEP 1 (South)** at **10,000 ft**,<br> descend within **Area M1** to platform altitude |
-| OMDW | LORID, ELOVU | Transfer from Abu Dhabi APP West at **9000 ft** released for further descent,<br> descend within **Area M2** and **Area M1** to platform altitude |
+| OMDW | LORID, ELOVU | Transfer from **Abu Dhabi APP West** at **9000 ft** released for further descent,<br> descend within **Area M2** and **Area M1** to platform altitude |
 | OMDW | GERUL | Transfer from **ACC Delta** at **10,000 ft** released for further descent,<br> descend within **Area M2** and **Area M1** to platform altitude |
 | OMDW | GIDIS | Transfer from **ACC East** at **10,000 ft** released for further descent,<br> descend within **Area M1** to platform altitude |
 | OMDW | UMAMI | Transfer from **ACC Yankee** at **12,000 ft** released for further descent,<br> descend within **Area M1** to platform altitude |
 
-## 4.4 CTA 12 config
+## 4.4 CTA 12 operation
 ### 4.4.1 Departure South (DEP 1)
 #### 4.4.1.1 Departing traffic
 | Departure airport | SID waypoint | Transfer procedure and release conditions |
@@ -125,7 +127,7 @@ In case it is not possible for APP to transfer traffic at the agreed level as de
 | OMSJ | IVURO | Initial **3000 ft**,<br> climb to **5000 ft** within **Area A2**,<br> climb to **13,000 ft** within **Area D2**,<br> transfer to **ACC Romeo** released for further climb |
 | OMSJ | KUTLI | Initial **3000 ft**,<br> climb to **5000 ft** within **Area A2**,<br> climb to **11,000 ft** within **Area D2**,<br> transfer to **DEP 1 (South)** released for further climb,<br> traffic to cross **Area A5** above **9000 ft** |
 | OMDW | NOLSU | Transfer from **AMR** at **12,000 ft**,<br climb to **FL150**,<br> transfer to **ACC Romeo** released for further climb |
-| OMRK | PUVAL | Transfer from Ras Al Khaimah CTA at **5000 ft** released for further climb,<br> climb to **11,000 ft**,<br> transfer to **DEP 1 (South)** released for further climb |
+| OMRK | PUVAL | Transfer from **Ras Al Khaimah APP** at **5000 ft** released for further climb,<br> climb to **11,000 ft**,<br> transfer to **DEP 1 (South)** released for further climb |
 
 #### 4.4.2.2 Arriving traffic
 | Arrival airport   | STAR waypoint | Transfer procedure and release conditions |
@@ -135,7 +137,7 @@ In case it is not possible for APP to transfer traffic at the agreed level as de
 | OMSJ | GONVI | Transfer from **ACC West** at 9,000 ft released for further descent,<br> descend to platform altitude within **Area D2**, ensuring traffic is below **5000 ft** before entering **Area A4** and below **3000 ft** before entering **Area A5** |
 | OMSJ | NOLSU | Transfer from **ACC Yankee** at **10,000 ft** released for further descent,<br> descend to platform altitude within **Area D2**, ensuring traffic is below **5000 ft** before entering **Area A4** and below **3000 ft** before entering **Area A5** |
 | OMSJ | LORID | Transfer from ARR at **5000 ft**,<br> descend to platform altitude within **Area A4** and **Area A5**, ensuring traffic is below **3000 ft** before entering **Area A5** |
-| OMRK | ALSIL | Transfer from **ACC Yankee** at **10,000 ft** released for further descent,<br> descend to **6000 ft** within **Area D2**, ensuring traffic is below **7000 ft** before entering Ras Al Khaimah CTA |
+| OMRK | ALSIL | Transfer from **ACC Yankee** at **10,000 ft** released for further descent,<br> descend to **6000 ft** within **Area D2**,<br> transfer to **Ras Al Khaimah APP** released for further descent,<br> traffic to be below **7000 ft** before entering Ras Al Khaimah CTA |
 
 ### 4.4.3 Arrivals (ARR)
 | Arrival airport   | STAR | Transfer procedure and release conditions |
@@ -153,13 +155,16 @@ In case it is not possible for APP to transfer traffic at the agreed level as de
 |-------------------|---------------|-------------------------------------------|
 | OMDB | All | Transfer from **ARR** released for further descent,<br> descend to platform altitude |
 
+!!! important
+    Ensure traffic is not cleared below Burj Khalifa radar minimum altitude of 4000 ft
+
 ### 4.4.5 Al Maktoum Radar (AMR)
 #### 4.4.5.1 Departing traffic
 | Departure airport | SID waypoint | Transfer procedure and release conditions |
 |-------------------|--------------|-------------------------------------------|
 | OMDW | ANVIX | Initial **3000 ft**,<br> climb to **FL150**,<br> transfer **ACC East** released for further climb |
 | OMDW | RIDAP, SENPA, NABIX, DAVMO | Climb to **9000 ft** within **Area M1**,<br> transfer to **DEP 1 (South)** released for further climb |
-| OMDW | KUTLI | Initial **3000 ft**,<br> climb to **7000 ft** within **Area M1**,<br> transfer to Abu Dhabi APP West released for further climb,<br> coordinated level up to **9000 ft** with Abu Dhabi available |
+| OMDW | KUTLI | Initial **3000 ft**,<br> climb to **7000 ft** within **Area M1**,<br> transfer to **Abu Dhabi APP West** released for further climb,<br> coordinated level up to **9000 ft** with Abu Dhabi available |
 | OMDW | NOLSU | Initial **3000 ft**,<br> climb to **12,000 ft** within **Area M1**,<br> transfer to **DEP 2 (North)** released for further climb,<br> traffic to cross **Area A1** above 11000 ft |
 | OMDB | ANVIX | Transfer from **DEP 1 (South)** at **5000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC East** released for further climb |
 | OMSJ | ANVIX | Transfer from **DEP 2 (North)** at **7000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC East** released for further climb |

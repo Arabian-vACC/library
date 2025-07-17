@@ -5,12 +5,16 @@ The Dubai CTA Areas of Responsibility (AoR) are designed to minimise the need fo
 
 These AoRs must be adhered to in order to prevent possible loss of separation between traffic.
 
+For easy identification, each AoR is represented by shaded areas of different intensity. The different shades represent different vertical extents of each AoR and thus mean that each sector will have a minimum or maximum altitude that traffic may be cleared to.  However, for clarity, each AoR has also been given an alphanumeric identifier which will be used to define their vertical extents hereunder and the specific transfer procedures which are detailed in section 4. 
+
+Although this may initially seem complex, the use of visual AoRs to represent climb and descent limits is far more intuitive and versatile than other methods.
+
 ### 3.1.2 Level clearances
 Where traffic is to be given a climb or descent to the vertical boundary of an AoR, the descent clearance shall be 500 ft offset from the AoR boundary.
 
 For example, if the AoR boundary is 7500 ft, a descent clearance may only be given to a minimum altitude of 8000 ft. Similarly, climbing traffic reaching the same AoR boundary may only be given a maximum altitude of 7000 ft.
 
-Clearances per the AoRs will facilitate compliance with published level restrictions.
+Clearances per the AoRs will facilitate compliance with published level restrictions on SIDs and STARs.
 
 ### 3.1.3 Transfer of control
 Where aircraft cross between adjacent AoRs, transfer of control shall be made to the respective controller in accordance with the transfer procedures given in section 4.

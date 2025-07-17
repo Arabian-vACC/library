@@ -4,10 +4,10 @@
 |---------------------|---------------------------------------------------|
 |         Type        |                    Procedure                      |
 |       Revision      |                     01/2025                       |
-|    Effective Date   |                    XX XXX XXXX                    |
+|    Effective Date   |                    17 JUL 2025                    |
 |     Prepared by     |             Suprojit Paul - ACCARB3               |
 |     Approved by     |             Chris Marriott - ACCARB1              |
-|   Next review date  |                    XX XXX XXXX                    |
+|   Next review date  |                    17 JUL 2026                    |
 | Cancelled documents |                SOP DBCTA R05/2021                 |
 
 ## Record of Revisions
@@ -60,6 +60,6 @@
   </tr>
   <tr>
     <td>01/2025</td>
-    <td>Updated logon callsigns,<br>Added CTA Areas of Responsibility,<br>Updated climb and descent procedures with new AoR concept,<br>Added release conditions,<br>Removed D-APO</td>
-    <td>XX JUL 2021</td>
+    <td>Updated logon callsigns,<br>Added CTA Areas of Responsibility,<br>Updated climb and descent procedures with new AoR concept,<br>Added transfer procedures and release conditions,<br>Removed D-APO</td>
+    <td>17 JUL 2025</td>
 </tbody></table>
