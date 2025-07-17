@@ -32,7 +32,7 @@ The lateral profile of the SIDs within the Dubai CTA is designed to keep arrivin
 
 ### 6.4.2 Direct routings
 #### 6.4.2.1 Issuance
-Direct routings within the Dubai CTA shall only be permitted within each specified AoR. If a direct routing is issued, due consideration must be given to any potential conflicts that may arise. As such, there are limitations on the directs that may be given to traffic.
+Unless specified, direct routings within the Dubai CTA shall only be permitted within each specified AoR. If a direct routing is issued, due consideration must be given to any potential conflicts that may arise. As such, there are limitations on the directs that may be given to traffic.
 
 Direct routings across AoR boundaries shall not be permitted, except in specific cases, and only after coordination between all concerned sectors. Permitted direct routings across AoR boundaries are specified hereunder.
 
@@ -65,9 +65,10 @@ Only cross-AoR directs specified in the table below shall be permitted. Pre-coor
 
 | Departure aerodrome |    SID      | Direct | Conditions | Coordination sectors |
 |---------------------|-------------|--------|------------|----------------------|
-| OMDB      | KUTLI 3Q | Direct KUTLI | Traffic will cross Area M3 above 11,000 ft | pre-coordinated |
-| OMSJ      | RIDAP 3Q, SENPA 3Q, NABIX 3Q | Direct ORLAD | Traffic above 5000 ft and no conflict with OMDB departures | DEP 2 to DEP 1 |
+| OMDB      | KUTLI 4G | Direct KUTLI | Traffic will cross Area M3 above 11,000 ft | pre-coordinated |
+| OMSJ      | RIDAP 3Q, SENPA 3Q, NABIX 3Q | Direct ORLAD | Traffic above 9000 ft | DEP 2 to DEP 1 |
 | OMSJ      | RIDAP 3Q, SENPA 3Q, NABIX 3Q | From ORLAD direct RIDAP/SENPA/NABIX | None | pre-coordinated |
+| OMSJ      | KUTLI 3Q | Direct KUTLI | Traffic above 9000 ft | DEP 2 to DEP 1 | 
 | OMDW      | RIDAP 3J | Direct RIDAP | No traffic via SENPA or NABIX | AMR to DEP 1 |
 | OMDW      | RIDAP 3J | Direct TUMAK | No traffic via SENPA or NABIX | AMR to DEP 1 and ACC Delta,<br> or DEP 1 to ACC Delta |
 | OMDW      | SENPA 3J | Direct SENPA | No traffic via NABIX | AMR to DEP 1 |

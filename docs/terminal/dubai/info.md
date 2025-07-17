@@ -60,6 +60,6 @@
   </tr>
   <tr>
     <td>01/2025</td>
-    <td>Updated logon callsigns,<br>Added CTA Areas of Responsibility,<br>Updated climb and descent procedures with new AoR concept,<br>Added transfer procedures and release conditions,<br>Removed D-APO</td>
+    <td>Updated logon callsigns,<br>Updated sector identifiers,<br>Added CTA Areas of Responsibility,<br>Updated climb and descent procedures with new AoR concept,<br>Added transfer procedures and release conditions,<br>Removed D-APO,<br>Revised direct routings and added coordination procedures,<br>Revised speed control procedures,<br>Revised arrival separation requirements,<br>Added standard headings table,<br>Added agreed levels diagram to appendix</td>
     <td>17 JUL 2025</td>
 </tbody></table>

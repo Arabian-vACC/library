@@ -147,8 +147,30 @@ Traffic establishing on final approach course at Al Maktoum shall be cleared to 
 The lateral profile of the STARs within the Dubai CTA is designed to keep arriving traffic separated from departures, as well as from arrivals into other airports. However, when the traffic situation permits, aircraft may be given direct routings to shorten track miles.
 
 ### 5.7.2 Direct routings
-Direct routings within the Dubai CTA shall only be permitted provided traffic levels are low. If a direct routing is issued, due consideration must be given to any potential conflicts that may arise. As such, there are limitations on the directs that may be given to arriving traffic.
+#### 5.7.2.1 Issuance
+Unless specified, direct routings within the Dubai CTA shall only be permitted within each specified AoR. If a direct routing is issued, due consideration must be given to any potential conflicts that may arise. As such, there are limitations on the directs that may be given to traffic.
 
-In addition, directs may be issued from the “trombone” portion of the arrival straight to a fix on the downwind to aid in sequencing traffic. This method is preferred during periods of high intensity arrivals as opposed to vectors as it minimises controller workload.
+Direct routings across AoR boundaries shall not be permitted, except in specific cases, and only after coordination between all concerned sectors. Permitted direct routings across AoR boundaries are specified hereunder.
 
-### 5.7.3 Direct routing procedure
+The transfer procedures specified in section 4 shall be applied in the same manner when direct routings are used. AoR vertical limits shall be respected at all times unless release has been specifically coordinated.
+
+### 5.7.2.2 CTA 30 operation
+Only cross-AoR directs specified in the table below shall be permitted. Pre-coordinated directs do not require coordination, provided all required conditions are met.
+
+| Arrival aerodrome |    STAR      | Direct | Conditions | Coordination sectors |
+|-------------------|--------------|--------|------------|----------------------|
+| OMDB | IMPED 3C | Direct ULDOT | Traffic shall remain within Area F1 after issuance of direct | pre-coordinated |
+| OMDB | IMPED 3C | Direct GIRGO, VELAR or RIDEV from upwind leg | Shall not adversely affect ARR sequence | pre-coordinated |
+| OMDB | LORID 4C | Direct DB530 | Shall not adversely affect ARR sequence | DEP 1 to ARR |
+| OMDB | LORID 4D | Direct within Area D1 | Shall not adversely affect ARR sequence | DEP 1 to ARR |
+| OMDB | PUVAL 5C | Direct GIRGO or DB530 | Shall not adversely affect ARR sequence,<br> released for descent by ARR to 6000 ft within Area A2 | DEP 1 to ARR |
+| OMSJ | LORID 4M | Direct UKTAD | Traffic to remain above 11,000 ft, further descent to be coordinated | DEP 1 to DEP 2 and ARR |
+
+#### 5.7.2.3 CTA 12 operation
+Only cross-AoR directs specified in the table below shall be permitted. Pre-coordinated directs do not require coordination, provided all required conditions are met.
+
+| Arrival aerodrome |    STAR      | Direct | Conditions | Coordination sectors |
+|-------------------|--------------|--------|------------|----------------------|
+| OMDB | PUVAL 5B | Direct DB421 | Shall not adversely affect ARR sequence,<br> released for descent to 4000 ft within Area A5 | DEP 1 to ARR |
+| OMDB | VUTEB 3B | Direct REREK | Traffic shall remain within Area F1 after issuance of direct | pre-coordinated |
+| OMDB | VUTEB 3B | Direct ALNET, SOGAP or PASEV from upwind leg | Shall not adversely affect ARR sequence | pre-coordinated |
