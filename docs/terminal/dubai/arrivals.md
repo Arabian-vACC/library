@@ -109,7 +109,7 @@ For single runway operations, minimum longitudinal separation of **7 NM** shall 
 
 Lower separation may be used after coordination with AIR during periods of low departure activity. However, in case a departure is to be released between arrivals, the aforementioned separation shall be applied in order to "slot-in" the departing traffic.
 
-If lower separation is coordinated, the separation requirements in 5.4.4.1 shall still apply.
+If lower separation is coordinated, the separation requirements in 5.5.1 shall still apply.
 
 ### 5.5.3 Low-visibility operations
 When operating under LVO conditions, minimum longitudinal separation of **7 NM** shall always be applied between arriving aircraft.
@@ -154,7 +154,7 @@ Direct routings across AoR boundaries shall not be permitted, except in specific
 
 The transfer procedures specified in section 4 shall be applied in the same manner when direct routings are used. AoR vertical limits shall be respected at all times unless release has been specifically coordinated.
 
-### 5.7.2.2 CTA 30 operation
+#### 5.7.2.2 CTA 30 operation
 Only cross-AoR directs specified in the table below shall be permitted. Pre-coordinated directs do not require coordination, provided all required conditions are met.
 
 | Arrival aerodrome |    STAR      | Direct | Conditions | Coordination sectors |
