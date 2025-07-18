@@ -129,6 +129,10 @@ Code F aircraft are only permitted to taxi behind on K when code D or smaller ai
 
 Taxiway Q shall be limited to code C and below.
 
+All aircraft taxiing on M or N shall not be permitted to taxi behind aircraft holding at any runway holding point.
+
+No aircraft at K10, K11 and K12 shall be permitted to cross runway 30L/12R until the holding points M13A, M14A and M15 respectively are clear of traffic and vice versa.
+
 !!! important
     These taxiway restrictions must be adhered to to ensure adequate wingtip clearance during taxi.
 

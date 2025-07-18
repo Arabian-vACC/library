@@ -3,7 +3,7 @@
 |                     |                                                      |
 |---------------------|------------------------------------------------------|
 |         Type        |                    Procedure                         |
-|       Revision      |                     02/2025                          |
+|       Revision      |                     01/2025                          |
 |    Effective Date   |                    17 JUL 2025                       |
 |     Prepared by     | Suprojit Paul - ACCARB3 & Shahzin Shajid - ACCARB31  |
 |     Approved by     |             Chris Marriott - ACCARB1                 |
@@ -95,12 +95,6 @@
   </tr>
   <tr>
     <td>01/2025</td>
-    <td>Updated section nomenclature,<br>Added detailed taxi procedure description,<br>Updated taxiway restrictions,<br>Layout changes</td>
-    <td>10 JUL 2025</td>
-  </tr>
-  <tr>
-    <td>02/2025</td>
-    <td>Updated station codes,<br>Added taxi restrictions</td>
+    <td>Updated station codes,<br>Updated section nomenclature,<br>Added detailed taxi procedure description,<br>Updated taxiway restrictions,<br>Fixed incorrect VFR references,<br>Layout changes</td>
     <td>17 JUL 2025</td>
-  </tr>
 </tbody></table>
