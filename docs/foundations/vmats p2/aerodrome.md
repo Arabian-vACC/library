@@ -18,4 +18,4 @@ Effective planning of the departure sequence ensures that the average delay expe
 
 ### 13.2.2 Planning the departure sequence
 In general, ensuring that aircraft on the same departure are always paired with an aircraft on a departure in a different direction will minimise average delay, regardless of wake turbulence category. Where there are different weight categories of aircraft, aircraft should in general be paired with an aircraft of the same category.
-Whenever there is a choice between sending two aircraft on the same SID, versus sending two aircraft on different SIDs, the latter option shall always be used regardless of wake turbulence category as this will always minimise the departure delay.
+Whenever there is a choice between sending two aircraft on the same SID, versus sending two aircraft on different SIDs, the latter option shall always be used regardless of wake turbulence category as this will always minimise the toal departure delay.

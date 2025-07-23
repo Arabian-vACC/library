@@ -4,13 +4,13 @@
 |---------------------|---------------------------------------------------|
 |         Type        |                    Procedure                      |
 |       Revision      |                     01/2025                       |
-|    Effective Date   |                    14 MAY 2025                    |
+|    Effective Date   |                    18 MAY 2025                    |
 |     Prepared by     |            Chriss Klosowski - ACCARB2             |
 |     Approved by     |             Chris Marriott - ACCARB1              |
-|   Next review date  |                    14 MAY 2026                    |
+|   Next review date  |                    18 MAY 2026                    |
 | Cancelled documents |                       NIL                         |
 
-## Record of Revisions
+# Record of Revisions
 <table><thead>
   <tr>
     <th>Revision Number</th>
@@ -21,22 +21,22 @@
   <tr>
     <td>01/2025</td>
     <td>Initial issue</td>
-    <td>14 MAY 2025</td>
+    <td>18 MAY 2025</td>
   </tr>
 </tbody></table>
 
 ## Purpose & Scope
-This Standard Operating Procedure (SOP) outlines the procedures, responsibilities, and coordination requirements for terminal area operations within the Salalah CTA on the VATSIM network. Its primary goal is to ensure safe, efficient, and standardized handling of IFR and VFR traffic across all sectors.
+This Standard Operating Procedure (SOP) outlines the procedures, responsibilities, and coordination requirements for enroute air traffic control operations within the Muscat Flight Information Region (FIR) on the VATSIM network. Its primary goal is to ensure safe, efficient, and standardized handling of IFR and VFR traffic across all enroute sectors.
 
-This document serves as a reference for both newly certified and experienced controllers operating within the Salalah CTA.
+This document serves as a reference for both newly certified and experienced controllers operating within the Muscat FIR.
 
-While this SOP focuses specifically on terminal area operations, it complements and should be used in nonjunction with other local SOPs, including those for aerodromes within the CTA, as well as Letters of Agreement (LoAs) with adjacent sectors, and the Arabian vACC vMATS Part 1 and Part 2.
+While this SOP focuses specifically on enroute operations, it complements and should be used in nonjunction with other local SOPs, including those for Muscat and Salalah CTAs, as well as Letters of Agreement (LoAs) with adjacent FIRs, and the Arabian vACC vMATS Part 1 and Part 2.
 
 ## Applicability
-This SOP is applicable to all VATSIM air traffic controllers operating within the Doha FIR at the enroute level, including:
+This SOP is applicable to all VATSIM air traffic controllers operating within the Muscat FIR at the enroute level, including:
 
-- Salalah CTA controllers.
-- Controllers operating in a top-down capacity from an enroute (CTR) position.
+- Muscat FIR enroute radar controllers.
+- Controllers operating in a top-down capacity from a Center (CTR) position.
 - Visiting controllers approved by the relevant division or vACC.
 - Trainees working under supervision within enroute airspace.
 
