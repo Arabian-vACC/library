@@ -3,11 +3,11 @@
 |                     |                                                       |
 |:-------------------:|:-----------------------------------------------------:|
 |         Type        |                      Foundations                      |
-|       Revision      |                        01/2025                        |
-|    Effective Date   |                      01 JAN 2025                      |
+|       Revision      |                        02/2025                        |
+|    Effective Date   |                      23 JUL 2025                      |
 |     Prepared By     | Chriss Klosowski - ACCARB2<br>Suprojit Paul - ACCARB3 |
 |     Approved by     |                Chris Marriott - ACCARB1               |
-|   Next review date  |                      01 JAN 2026                      |
+|   Next review date  |                      23 JUL 2026                      |
 | Cancelled documents |                UAE MATS P2 R01-2021.pdf               |
 
 ## Record of Revisions
@@ -17,6 +17,7 @@
 |     01/2021     | Initial issue for 2021                                                                                                                                   |   25 FEB 2021  |
 |     02/2021     | Minor Updates to the wording                                                                                                                             |   04 NOV 2021  |
 |     01/2025     | Material moved from .pdf to the Arabian vACC - Library,<br>Updated table and figure numbering,<br>Updated "UAE" to Arabian (to account for all the FIRs) |   01 JAN 2025  |
+| 02/2025 | Added Coordination & Trasnfer of Control procedures,<br> Added Traffic Flow & Sequencing Procedures,<br> Added Safety & Monitoring Procedures,<br> Added Contingency & Emergency procedures | 23 JUL 2025 |
 
 ## Scope
 This document is a generalised manual for the provision of air traffic control services within the Arabian vACC airspace. It contains the techniques, procedures and essential information required to provide effective air traffic control service. Some procedures have been modified slightly from their real-world counterparts so that they are compatible with the expected skill level of pilots on the VATSIM network.
