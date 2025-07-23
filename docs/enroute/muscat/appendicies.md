@@ -1,4 +1,4 @@
-# 12. Appendices
+# Appendices
 ## A. ICAO Flight Level Allocation Scheme
 
 

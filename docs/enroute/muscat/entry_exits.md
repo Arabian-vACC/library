@@ -1,13 +1,13 @@
-# 5. Entry & Exit Procedures
+# 3. Entry & Exit Procedures
 Controllers shall refer to any existing **Letters of Agreement (LoAs)** between adjacent FIRs for detailed procedures regarding entry, exit, and coordination at FIR boundaries. These agreements provide important supplemental guidance to ensure safe and efficient transfer of traffic and should be consulted alongside this SOP whenever applicable.
 
-## 5.1 Standard Entry Points
+## 3.1 Standard Entry Points
 Standard entry points into the Muscat FIR are established to facilitate orderly traffic flow and efficient coordination with adjacent FIRs. Controllers shall ensure that all inbound aircraft enter through these designated fixes or reporting points, unless otherwise coordinated. These entry points are published on aeronautical charts and sector files and must be adhered to for effective traffic management.
 
-## 5.2 Standard Exit Points
+## 3.2 Standard Exit Points
 Similarly, standard exit points are predefined locations where aircraft leave the Muscat FIR to enter adjacent FIRs. Controllers must ensure aircraft are handed over at these points with appropriate separation and coordination. Compliance with standard exit points supports seamless transfer of control and communication to downstream sectors.
 
-## 5.3 Air Traffic Flow Management (ATFM)
+## 3.3 Air Traffic Flow Management (ATFM)
 <table><thead>
   <tr>
     <th>Entry point/Departure</th>
@@ -340,7 +340,7 @@ Similarly, standard exit points are predefined locations where aircraft leave th
 - **Note 4**: Planning to route through the Tehran FIR.
 - **Note 5**: LABRI is not available for traffic overflying OMAE FIR exiting OOMM FIR via DENDA, APELO, ALPOR, RASKI and PARAR.
 
-## 5.4 Coordination Levels at FIR Boundaries
+## 3.4 Coordination Levels at FIR Boundaries
 Coordination between adjacent FIRs is critical to ensure safe and efficient traffic transfer. The required level of coordination depends on the nature of the boundary (radar vs. procedural) and the capabilities of adjacent FIRs. Typically, coordination involves:
 
 - Verification of flight data and handoff confirmation.
@@ -349,17 +349,17 @@ Coordination between adjacent FIRs is critical to ensure safe and efficient traf
 
 Effective coordination shall be conducted in accordance with ICAO PANS-ATM and any bilateral agreements.
 
-## 5.5 SID/STAR Assignemnt Rules
+## 3.5 SID/STAR Assignemnt Rules
 Controllers shall refer to the **local aerodrome SOP** for the assignment of Standard Instrument Departures (SIDs) and to the **local Terminal SOP** for Standard Terminal Arrival Routes (STARs), especially when managing traffic in a top-down control environment.
 
 SID and STAR assignments must align with current runway usage, weather conditions, and airspace capacity constraints. Controllers are responsible for ensuring that these procedures are communicated clearly and timely to pilots to facilitate smooth transitions between the enroute and terminal phases of flight.
 
 Adherence to the relevant local SOPs ensures consistency, safety, and coordination between enroute and terminal sectors.
 
-## 5.6 Transfer to/from Procedural FIRs
+## 3.6 Transfer to/from Procedural FIRs
 When transferring control to or from procedural FIRs (non-radar or limited radar coverage), controllers shall apply appropriate longitudinal and vertical separation standards as per ICAO guidance. Coordination should be timely, and transfer of communication must occur with sufficient advance notice (generally no less than 20 NM or 10 minutes from boundary) to allow for compliance with procedural separation minima.
 
-## 5.7 Transition from Enroute to TMA
+## 3.7 Transition from Enroute to TMA
 The transition from enroute to Terminal Control Area (TMA) requires early coordination and sequencing to ensure safe and efficient traffic flow into the terminal airspace. Controllers shall assign arrival routes or STARs where applicable, coordinate handoff and transfer of communication well in advance, and provide appropriate speed and altitude instructions to achieve proper sequencing. It is essential that all aircraft are established on their planned routes before transfer to the TMA controller to minimize holding and delays while maintaining separation and situational awareness.
 
 For aircraft entering the Muscat and Salalah TMAs via a common entry point, a minimum of **10 NM** longitudinal separation—either constant or increasing—shall be maintained. Aircraft shall normally be transferred to the Muscat and Salalah TMA controller **at or above FL150** unless otherwise coordinated.
