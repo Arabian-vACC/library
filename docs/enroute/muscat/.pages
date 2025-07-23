@@ -1,15 +1,11 @@
 title: Muscat
 sort_type: natural
 nav:
-    - introduction.md
+    - info.md
     - general_procedures.md
-    - coordination.md
     - separation.md
     - entry_exits.md
     - equipment.md
     - loa.md
-    - contingency.md
-    - fmp.md
-    - safety.md
     - sectors.md
     - appendicies.md

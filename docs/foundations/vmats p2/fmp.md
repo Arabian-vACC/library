@@ -1,5 +1,5 @@
-# 9. Traffic Flow & Sequencing
-## 9.1 Flow Management Tools
+# 15. Traffic Flow & Sequencing
+## 15.1 Flow Management Tools
 Flow Managers may issue **Miles-in-Trail (MIT)** or **Minutes-in-Trail (MINIT)** restrictions via the **European Collaboration & Flow Management Project (ECFMP)** to manage enroute spacing and regulate demand into constrained airspace or TMAs.
 
 - **MIT**: Requires aircraft to be spaced by a specified number of nautical miles at a designated fix or along a common airway.
@@ -7,7 +7,7 @@ Flow Managers may issue **Miles-in-Trail (MIT)** or **Minutes-in-Trail (MINIT)**
 
 Controllers shall ensure compliance with any ECFMP-issued flow restrictions and coordinate adjustments with adjacent sectors or FIRs when necessary. These restrictions may be supported by speed control or tactical rerouting as needed to maintain orderly flow.
 
-## 9.2 Holding Procedures
+## 15.2 Holding Procedures
 Enroute holding may be used for traffic metering, weather delays, or coordination issues. Controllers should:
 
 - Assign published holding fixes or define ad-hoc holding patterns with clear instructions.
@@ -19,23 +19,23 @@ Use of holding should be minimized where possible to reduce pilot and controller
 
 There are currently no published enroute holding fixes within the Muscat FIR. Most holding procedures are established within the Muscat and Salalah TMAs to support arrival sequencing and terminal area operations.
 
-## 9.3 STAR Assignment & Expectations
+## 15.3 STAR Assignment & Expectations
 Enroute controllers are responsible for assigning STARs (Standard Terminal Arrival Routes) when applicable, particularly during periods of high traffic volume or when coordination with TMA sectors requires early sequencing. STAR assignment should align with the expected runway and traffic flow for the destination aerodrome.
 
 Controllers shall ensure that the assigned STAR is appropriate for the aircraft's routing and performance. Pilots should be informed to expect the assigned STAR, and any changes coordinated with approach or TMA controllers should be communicated promptly.
 
 Where STARs are not assigned, aircraft may be expected to receive arrival routing from the TMA controller closer to destination.
 
-## 9.4 Vertical & Speed Control Techniques
+## 15.4 Vertical & Speed Control Techniques
 Controllers may apply **speed control** and/or **vertical speed control** to manage aircraft spacing and sequencing within enroute airspace. However, care must be taken to consider aircraft performance and energy management limitations when issuing such instructions.
 
-### 9.4.1 Speed Control
+### 15.4.1 Speed Control
 Airspeed instructions (e.g., “Maintain 280 knots”) may be issued to achieve longitudinal spacing or flow regulation. However, speed control must be coordinated with vertical maneuvering to ensure feasibility.
 
-### 9.4.2 Vertical Speed Control
+### 15.4.2 Vertical Speed Control
 Controllers may instruct aircraft to maintain a specific **rate of climb or descent** (e.g., “Descend at 2,000 feet per minute or greater”) to expedite level changes or achieve vertical separation. These instructions must remain within reasonable performance limits and should not conflict with other clearances.
 
-### 9.4.3 Energy Management Considerations
+### 15.4.3 Energy Management Considerations
 Controllers shall avoid issuing conflicting instructions that may compromise aircraft performance. For example:
 
 - Instructing an aircraft to **expedite climb while maintaining high speed** is generally unfeasible, as aircraft typically require **lower speeds to achieve a higher rate of climb**.
@@ -43,7 +43,7 @@ Controllers shall avoid issuing conflicting instructions that may compromise air
 
 All climb/descent and speed instructions must be issued with an understanding of the aircraft’s energy state, type, and phase of flight to ensure safe and practical compliance.
 
-## 9.5 Merging and Sequencing Traffic for TMA Entry
+## 15.5 Merging and Sequencing Traffic for TMA Entry
 Controllers must ensure orderly traffic flows into TMAs (Terminal Manoeuvring Areas):
 
 - Establish **appropriate in-trail spacing** prior to TMA boundary (e.g., 10–15 NM depending on the Terminal SOP).
@@ -52,7 +52,7 @@ Controllers must ensure orderly traffic flows into TMAs (Terminal Manoeuvring Ar
 
 Ensure that aircraft handed over to the TMA controller are properly sequenced, levelled, and compliant with STAR or RNAV transitions.
 
-## 9.6 Deconfliction of Crossing Routes
+## 15.6 Deconfliction of Crossing Routes
 When managing traffic on **intersecting or converging routes**, controllers shall:
 
 - Apply lateral, vertical, or longitudinal separation to prevent conflicts at crossing points.

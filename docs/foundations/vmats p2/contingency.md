@@ -1,5 +1,5 @@
-# 8. Contigency & Emergency Procedures
-## 8.1 Communication Failure
+# 17. Contigency & Emergency Procedures
+## 17.1 Communication Failure
 In the event of a **pilot communication failure**:
 
 - **Attempt contact on all available frequencies**, including guard (121.5 MHz), any previous frequency, or through CPDLC if available.
@@ -12,7 +12,7 @@ In the event of a **controller voice communication failure** (e.g., station audi
 
 - Attempt to re-establish service via backup frequencies, text, or via coordination with adjacent sectors to relay instructions.
 
-## 8.2 Radar Failure
+## 17.2 Radar Failure
 A partial or full **radar outage** may require a transition from radar to **procedural control**:
 
 - Notify all aircraft under control of the failure and request position reports at designated waypoints.
@@ -21,8 +21,8 @@ A partial or full **radar outage** may require a transition from radar to **proc
 - Coordinate with adjacent FIRs for transfer via procedural means if applicable.
 - Once radar is restored, verify all targets against position reports before resuming standard surveillance-based separation.
 
-## 8.3 CPDLC/Surveillance Failure
-Although CPDLC is not yet operational within the Muscat FIR, sector files are CPDLC-ready. If using Hoppie or simulated CPDLC services and a failure occurs:
+## 17.3 CPDLC/Surveillance Failure
+Although CPDLC is not yet operational within the Doha, Emirates and Muscat FIRs, sector files are CPDLC-ready. If using Hoppie or simulated CPDLC services and a failure occurs:
 
 - **Revert to standard voice communication** procedures.
 - Advise pilots to disregard any pending uplinks and resume voice contact.
@@ -34,7 +34,7 @@ In the event of a **surveillance failure** (loss of radar data):
 - Request squawk code re-entry or set 2000 as needed.
 - Treat affected aircraft as non-radar for the duration of the outage.
 
-## 8.4 Aircraft Emergency Handling
+## 17.4 Aircraft Emergency Handling
 When a pilot declares an emergency (e.g., MAYDAY or PAN PAN):
 
 - Acknowledge immediately and provide **priority handling**.
@@ -50,7 +50,7 @@ Common scenarios:
 !!! info
     As per VATSIM Code of Conduct Section B6, controllers may deny or terminate emergency situations at their discretion. If an emergency is not permitted or must be discontinued, the pilot may be instructed to disconnect from the network to maintain orderly traffic flow and network integrity.
 
-## 8.5 Weather Diversions
+## 17.5 Weather Diversions
 In the case of **significant weather** (e.g., CB activity, sandstorms, or low visibility at destination):
 
 - Allow deviation from cleared routing where safe, preferably with prior coordination.
@@ -62,7 +62,7 @@ In the case of **significant weather** (e.g., CB activity, sandstorms, or low vi
 
 Controllers shall actively monitor METARs and available weather information for key aerodromes and regions within the FIR, providing timely advisories to pilots when adverse conditions are observed or forecasted. The TopSky ATM system offers a basic weather radar overlay, which highlights convective activity and weather cells within the FIR to support situational awareness.
 
-## 8.6 Lost Aircraft or Aircraft Deviation
+## 17.6 Lost Aircraft or Aircraft Deviation
 If an aircraft deviates from its cleared route, altitude, or squawk code:
 
 - Attempt to re-establish communication immediately.
