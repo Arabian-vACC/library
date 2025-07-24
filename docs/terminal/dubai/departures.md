@@ -34,11 +34,14 @@ The lateral profile of the SIDs within the Dubai CTA is designed to keep arrivin
 
 ### 6.4.2 Direct routings
 #### 6.4.2.1 Issuance
-Unless specified, direct routings within the Dubai CTA shall only be permitted within each specified AoR. If a direct routing is issued, due consideration must be given to any potential conflicts that may arise. As such, there are limitations on the directs that may be given to traffic.
+**Within each specific AoR, direct routings may be used without restriction**, except where specified, **provided they will not cause traffic to cross into an adjacent AoR**. If a direct routing is issued, due consideration must be given to any potential conflicts that may arise. As such, there are limitations on the directs that may be given to traffic.
 
 Direct routings across AoR boundaries shall not be permitted, except in specific cases, and only after coordination between all concerned sectors. Permitted direct routings across AoR boundaries are specified hereunder.
 
 The transfer procedures specified in section 4 shall be applied in the same manner when direct routings are used. AoR vertical limits shall be respected at all times unless release has been specifically coordinated.
+
+!!! important
+    In all instances, departing aircraft shall **not be permitted to cross north of ORLAD** to avoid infringement of UAE delegated airspace
 
 #### 6.4.2.2 CTA 30 operation
 Only cross-AoR directs specified in the table below shall be permitted. Pre-coordinated directs do not require coordination, provided all required conditions are met.
@@ -56,8 +59,6 @@ Only cross-AoR directs specified in the table below shall be permitted. Pre-coor
 | OMDW      | SENPA 3L | Direct ALPOB | No traffic via NABIX | AMR to DEP 1 and ACC Delta,<br> or DEP 1 to ACC Delta |
 
 !!! important
-    In all instances, departing aircraft shall **not be permitted to cross north of ORLAD** to avoid infringement of UAE delegated airspace
-
     Traffic turning right after departure from OMSJ shall **not be issued a direct routing until commencement of the turn**, in order to prevent overflying OM(P)-45
 
     Direct KUTLI shall not be permitted if OM(AS)-03 or OM(AS)-04 are active until aircraft are clear of these areas.
@@ -77,8 +78,6 @@ Only cross-AoR directs specified in the table below shall be permitted. Pre-coor
 | OMDW      | SENPA 3J | Direct ALPOB | No traffic via NABIX | AMR to DEP 1 and ACC Delta,<br> or DEP 1 to ACC Delta |
 
 !!! important
-    In all instances, departing aircraft shall **not be permitted to cross north of ORLAD** to avoid infringement of UAE delegated airspace
-    
     Traffic departing OMDB shall **not be issued direct routings when following RIDAP or SENPA departures** to avoid proximity to south downwind arrivals
 
     Direct KUTLI shall not be permitted if OM(AS)-03 or OM(AS)-04 are active until aircraft are clear of these areas.

@@ -1,6 +1,27 @@
 # 5. ATS Surveillance Services
-## 5.1 General Procedures
-### 5.1.1 Aircraft identification
+## 5.1 Radar Fundamentals
+### 5.1.1 Primary Surveillance Radar (PSR)
+Primary Surveillance Radar (PSR) detects aircraft by transmitting pulses and receiving reflected signals, allowing identification of aircraft without the need for a transponder. PSR is essential for detecting non-transponder-equipped aircraft and provides a backup layer of surveillance in the event of secondary radar or transponder failures.
+
+While PSR does not provide altitude or identification data, it plays a critical role in short-range surveillance and conflict alerting near major airports. Controllers must be aware of PSR limitations, its short range (up to 80NM), especially at lower altitudes and in areas with terrain masking or clutter.
+
+### 5.1.2 Secondary Surveillance Radar (SSR)
+Secondary Surveillance Radar (SSR) is the primary means of enroute and terminal surveillance in the Muscat FIR. It provides highly accurate position, identification, and altitude data by interrogating aircraft transponders (Modes A, C, and S) which then send a reply signal with coded information about aircraft altitude, squawk code and other datalinked information depending on the transponder type.
+
+SSR has a much longer range that PSR, up to 256 NM allowing it to cover much larger volumes of airspace.
+
+### 5.1.3 Automatic Dependent Surveillance - Broadcast (ADS-B)
+Automatic Dependent Surveillance - Broadcast (ADS-B) is somewhat simial to SSR, however, it does not require an interrogation signal. Instead, the aircraft trasnponder will regularly broadcast identification, position, and other datalink information.
+
+ADS-B does not require a PSR or SSR antenna and can simply use an ADS-B receiver.
+
+### 5.1.4 Multilateration (MLAT)
+Multilateration is based on receiving equipment spread out over an area, which relies on SSR transponder reply or broadcast signals to determine the position of the aircraft using a method known as time difference of arrival (TDOA). Additional information, including identification, can be extracted from the received signals.
+
+As such, MLAT does not require an SSR or PSR antenna.
+
+## 5.2 General Procedures
+### 5.2.1 Aircraft identification
 For aircraft to be provided ATS surveillance services, aircraft identification must be established, and the pilot informed. Identification should then be maintained until the termination of ATS surveillance.
 
 Identification on a secondary surveillance radar system (SSR) is established by one of the following methods:
@@ -10,7 +31,7 @@ Identification on a secondary surveillance radar system (SSR) is established by 
 
 Once radar identification has been established the pilot shall be informed. If at any time identification is lost or ATS surveillance service terminated, this pilot shall also be informed.
 
-### 5.1.2 Position information
+### 5.2.2 Position information
 Where identification has been performed the aircraft should be informed of its position except in the following cases:
 
 - Transfer of identification from one controller to another; or
@@ -27,7 +48,7 @@ Position information shall be passed in the following forms:
 
 Wherever practical, position information shall be made with reference to positions or routes relevant to the aircraft concerned.
 
-## 5.2 Radar vectoring
+## 5.3 Radar vectoring
 Vectoring is achieved by assigning aircraft specific headings which will enable the aircraft to maintain the desired track.
 
 When vectoring an aircraft, controllers should comply with the following:
@@ -39,20 +60,20 @@ When vectoring an IFR flight and when giving an IFR flight a direct routing whic
 
 When radar vectors are terminated, the controller shall issue an appropriate instruction to the aircraft to return it to its pre-planned route, and the aircraft should be instructed to resume own navigation.
 
-## 5.3 Application of separation
+## 5.4 Application of separation
 Separation shall only be applied with reference to ATS surveillance systems if there is reasonable assurance that identification of aircraft will be obtained and maintained.
 
 When the control of an identified aircraft will be transferred to a sector that applies procedural separation, or a higher separation minima, this separation must be applied before the aircraft enters the next sector, or the sector of airspace where the higher separation minima applies.
 
 Under no circumstances should the symbols on the radar screen touch or overlap unless vertical separation is assured.
 
-## 5.4 Separation minima based on ATS surveillance
-### 5.4.1 SSR/ADS-B/MLAT based separation minima
+## 5.5 Separation minima based on ATS surveillance
+### 5.5.1 SSR/ADS-B/MLAT based separation minima
 When aircraft are under ATS surveillance either from SSR, ADS-B or MLAT, the minimum horizontal separation is 5.0 NM.
 
 This may be reduced to 3.0 NM when radar and/or ADS-B and MLAT systems capabilities at a given location permit.
 
-### 5.4.2 Separation minima on final approach
+### 5.5.2 Separation minima on final approach
 A minimum separation of 2.5 NM may be applied between aircraft under ATS surveillance when established on the final approach course within 10 NM of the runway threshold provided:
 
 - The average runway occupancy of aircraft is not more than 50 seconds; and
@@ -62,10 +83,10 @@ A minimum separation of 2.5 NM may be applied between aircraft under ATS surveil
 - Aircraft approach speeds are closely monitored by the controller and adjusted where necessary to ensure minimum separation; and
 - Aircraft operators and pilots have been made fully aware of the need to exit the runway in an expeditious manner at the assigned exit taxiway
 
-### 5.4.3 Separation from adjacent airspace
+### 5.5.3 Separation from adjacent airspace
 Except where transfer of control to be made, aircraft shall not be vectored closer than 2.5 NM to the boundary of the airspace that a controller is responsible for unless there has been prior coordination with the controller of the adjacent sector. This ensures that minimum horizontal separation will always exist between aircraft in different sectors.
 
-### 5.4.4 Distance-based wake turbulence separation minima
+### 5.5.4 Distance-based wake turbulence separation minima
 The following distance-based wake turbulence separation minima shall by applied (Table 5-1) when aircraft are under ATS surveillance during the approach and departure phases of flight.
 
 These minima shall be applied under the following circumstances:
