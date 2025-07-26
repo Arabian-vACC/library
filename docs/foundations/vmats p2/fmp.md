@@ -15,9 +15,7 @@ Enroute holding may be used for traffic metering, weather delays, or coordinatio
 - Monitor spacing within the hold and adjust entries or exit order as required.
 - Coordinate holding instructions with adjacent sectors if aircraft may enter their airspace while holding.
 
-Use of holding should be minimized where possible to reduce pilot and controller workload.
-
-There are currently no published enroute holding fixes within the Muscat FIR. Most holding procedures are established within the Muscat and Salalah TMAs to support arrival sequencing and terminal area operations.
+Use of holding should be minimized where possible to reduce pilot and controller workload, unless required for flow control measures.
 
 ## 15.3 STAR Assignment & Expectations
 Enroute controllers are responsible for assigning STARs (Standard Terminal Arrival Routes) when applicable, particularly during periods of high traffic volume or when coordination with TMA sectors requires early sequencing. STAR assignment should align with the expected runway and traffic flow for the destination aerodrome.

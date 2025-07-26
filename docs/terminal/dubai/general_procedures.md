@@ -59,3 +59,13 @@ When the lower sector is offline, in addition to the designated areas of respons
 | OMDB_2_DEP      | AIR SJ,<br>GND SJ | OMSJ      |
 
 When all lower sectors are offline, Dubai ARR shall provide top-down coverage for all airports within the Dubai CTA.
+
+### 2.4.5 Maximum number of aircraft per sector
+To optimise traffic flow and minimise frequency congestion, the following maximum number of aircraft shall be permitted within each sector at any given time:
+
+| Online sector | Max number of aircraft |
+|---------------|------------------------|
+| OMDB_APP      | up to 8<br>(up to 12 permiited if DIR online) |
+| OMDB_F_APP    | up to 6                |
+| OMDB_1_DEP    | up to 10               |
+| OMDB_2_DEP    | up to 10               |
