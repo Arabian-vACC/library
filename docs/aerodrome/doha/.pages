@@ -3,7 +3,8 @@ sort_type: natural
 nav:
     - info.md
     - aerodrome.md
+    - aor.md
+    - gmp.md
     - gmc.md
     - air.md
     - appendix_taxi.md
-    - appendix_aor.md
