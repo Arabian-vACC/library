@@ -9,14 +9,22 @@ The reccommended practice is to issue taxi clearances to hold short of any inter
 
 This technique reduces potential conflicts, as well as allows for efficient sequencing of departing traffic towards a runway holding point.
 
+!!! example
+    "AFR662, taxi via K hold KG"
+
+    **OR**
+
+    "ADY043, taxi via K, right H, hold short C"
+
+
 ### 13.1.2 Conditional clearances
 To optimise traffic flow, aircraft may also be issued conditional clearances or be instructed to "GIVE WAY" or "FOLLOW" other traffic for pushback and taxi.
 
 !!! example
-    **Conditional clearance**
+    **Conditional clearance**<br>
     "UAE4KC, give way to the company Boeing 777 taxiing left to right, taxi via L4, M, holding point M13A, runway 30R"
 
-    **"Follow" clearance**
+    **"Follow" clearance**<br>
     "UAE5R, follow the IndiGo A320 taxiing via M to holding point M13A, runway 30R"
 
 ## 13.2 Departure separation
@@ -42,3 +50,9 @@ In general, ensuring that aircraft on the same departure are always paired with 
 Whenever there is a choice between sending two aircraft on the same SID, versus sending two aircraft on different SIDs, the latter option shall always be used regardless of wake turbulence category. This approach will always minimise the overall departure delay.
 
 Planning of the departure sequence should start at the taxi phase, with controllers aiming to alternate departure SIDs wherever possible without causing unreasonable delay to traffic. 
+
+### 13.3.3 Conditional line up clearances
+To maximise departure rate and throughput, conditional line up clearances should be used.
+
+!!! example
+    "UAE51, behind the departing Flydubai Boeing 737, line up and wait runway 30R, behind"
