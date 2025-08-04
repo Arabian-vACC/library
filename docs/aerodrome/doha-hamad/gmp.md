@@ -1,13 +1,13 @@
-# 2. Ground Movement Planner ("Hamad Clearance Delivery")
-## 2.1 General provisions
+# 3. Departure Clearance Procedures
+## 3.1 General provisions
 Airways clearance/Ground Movement Planner (GMP) is responsible for validating routes and shall provide IFR clearance to departing aircraft. The controller shall assign the correct departure procedure to the aircraft based on the first point that is filed on the flight plan.
 
 Where the flight plan contains an invalid route, level, or departure procedure, GMP must ensure that the error is corrected before the aircraft is given its clearance.
 
 GMP is also responsible for minimizing taxiway delays and taxiway congestion for departing aircraft. During times of increased departure activity, aircraft are held at the gate to save fuel and lessen taxiway congestion.
 
-## 2.2 Departure clearance
-### 2.2.1 General
+## 3.2 Departure clearance
+### 3.2.1 General
 GMP is responsible for issuing clearances for departing aircraft. Pilots may be expected to report the following information on first contact: 
 
 - Callsign;
@@ -17,7 +17,7 @@ GMP is responsible for issuing clearances for departing aircraft. Pilots may be 
 - Requested flight level;
 - Destination;
 
-### 2.2.2 Information contained in a departure clearance
+### 3.2.2 Information contained in a departure clearance
 An IFR clearance shall be in the following format:
 
 - Callsign;
@@ -28,7 +28,7 @@ An IFR clearance shall be in the following format:
 
 GMP shall obtain a full readback of the clearance. If the pilot does not report the current ATIS letter on first contact, GMP shall pass the current ATIS letter and QNH.
 
-Departing aircraft shall be instructed to remain on the delivery frequency and report ready to push before being handed off to GMC. This is so aircraft may be held at the gate, as per the procedures laid down in 2.6.
+Departing aircraft shall be instructed to remain on the delivery frequency and report ready to push before being handed off to GMC. This is so aircraft may be held at the gate, as per the procedures laid down in 3.6.
 
 !!! example
     **Pilot**: "Hamad Clearance Delivery, QTR6M, Boeing 777-300ER, information X, stand B3, requesting FL310, to Melbourne."
@@ -43,22 +43,22 @@ Departing aircraft shall be instructed to remain on the delivery frequency and r
     The initial cleared altitude is stated as "Climb via the SID." At Doha-Hamad, SIDs do not include a preset initial climb. The clearance issued corresponds to the first hard altitude restriction. It's crucial for controllers to understand the difference between standard "initial climb" phraseology and correctly use "climb via the SID" at Doha-Hamad.
 
 !!! warning
-    As per the Qatari eAIP "***Requests for the runway in use should be avoided.***" This must be adhered to on frequency, as outlined in section 2.3.1, where each SID is specific to its assigned runway.
+    As per the Qatari eAIP "***Requests for the runway in use should be avoided.***" This must be adhered to on frequency, as outlined in section 3.3.1, where each SID is specific to its assigned runway.
 
-### 2.2.3 Datalink clearance (DCL)
+### 3.2.3 Datalink clearance (DCL)
 Aircraft clearance may also be delivered by DCL. This type of clearance reduces controller workload and frequency congestion. For suitably equipped aircraft, this will be through the ACARS system on board the aircraft.
 
 !!! info
     Controllers shall ensure that DCL is available to be used at all times.
 
-### 2.2.4 Aircraft requiring a reroute
+### 3.2.4 Aircraft requiring a reroute
 Aircraft requiring a reroute shall not be given a DCL. Instead, a voice clearance must be used. This shall be communicated by ACARS datalink message or on frequency.
 
-### 2.2.5 Voice clearance
-Aircraft requesting clearance via voice shall be given a voice clearance as per the format in 2.2.2.
+### 3.2.5 Voice clearance
+Aircraft requesting clearance via voice shall be given a voice clearance as per the format in 3.2.2.
 
-## 2.3 Departure Procedures
-### 2.3.1 RNAV Standard instrument departures
+## 3.3 Departure Procedures
+### 3.3.1 RNAV Standard instrument departures
 Doha-Hamad primarily uses RNAV standard instrument departures (SIDs) and is the preferred departure type for IFR aircraft. Departing aircraft shall be assigned an appropriate RNAV departure according to the first fix in the flight plan and the direction of their flight plan.
 
 Check the table below to see which SID corresponds to each runway. Keep in mind that these SIDs are assigned based on the flight's direction. 
@@ -183,7 +183,7 @@ For instance, flights departing the TMA toward the northeast will use runway 16L
 !!! warning
     The TULUB1A, LUBET1A and ULIKA1A are temporary procedures, so always check the latest NOTAMs for updates. The ULIKA1A departure is available from 22:00 to 01:00 UTC the following day, while the TULUB1A and LUBET1A are available from 07:00 to 04:00 UTC the following day .
 
-### 2.3.2 RNP radar departure
+### 3.3.2 RNP radar departure
 The RNP radar departure procedure shall be used when aircraft are unable to accept a one of the published RNP departures. Whereas regular RNP departures follow a prescribed track until leaving the Doha TMA, the RNP radar departures proceed to a fix beyond the extended runway centerline before continuing along the transition out of the TMA.
 
 An RNP radar departure clearance shall contain the following information:
@@ -205,7 +205,7 @@ Aircraft on an RNP radar departure shall have the appropriate SID inserted on th
 
     **Controller**: "IGO1346, readback correct, QNH 1016, report ready for pushback."
 
-### 2.3.3 Radar vector departure
+### 3.3.3 Radar vector departure
 The radar vector departure procedure shall be used when aircraft are unable to accept an RNP departure, such as one with outdated nav data. Whereas RNP departures follow a prescribed track until leaving the Doha TMA, radar vector departures are given radar vectors to the first fix.
 
 A radar departure clearance shall contain the following information:
@@ -231,7 +231,7 @@ Departures heading eastbound shall be handed over to Doha Approach (East), while
 
     **Controller**: "TCM1TM, readback correct, QNH 1014, report ready for pushback."
 
-## 2.4 Rerouting aircraft
+## 3.4 Rerouting aircraft
 An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2. 
 
 Several routing restrictions exist within Qatari airspace and are detailed in the Qatari Route Manual which must be complied with when issuing a departure clearance. 
@@ -299,14 +299,14 @@ The Arabian vACC Operations Department maintains an up-to-date route database on
   <figcaption>Table 2-2: Standard routes</figcaption>
 </figure>
 
-## 2.5 Requested cruising level
-### 2.5.1 Level restrictions
+## 3.5 Requested cruising level
+### 3.5.1 Level restrictions
 Aircraft routes out of the aerodrome must comply with all routing and level restrictions as described in section 3.1 of Arabian MATS P1, Arabian Route Manual and Table 2-2. This is based on direction and type of flight. 
 
 Should an aircraft file an invalid cruise level, GMP shall advise the aircraft of this when delivering the clearance. In all cases, the next lowest valid cruise level shall be assigned, and the aircraft advised.
 
-## 2.6 Delay mitigation
-### 2.6.1 Target off-block time (TOBT)
+## 3.6 Delay mitigation
+### 3.6.1 Target off-block time (TOBT)
 When A-CDM procedures are active, pilots must report their confirmed TOBT on vacdm.vatsim.me, which is then displayed in the controller's client on the departure list. A fully green time indicates a confirmed TOBT. If a pilot has not confirmed their TOBT, the controller should request it on frequency and update the departure list accordingly.
 
 The TOBT system allows aircraft to push back, taxi to the runway holding point, and depart on schedule without extended delays in the departure queue. If an aircraft reports ready for pushback before its assigned TOBT, it will be instructed to hold position and will be given its place in the pushback sequence, unless aerodrome conditions permit and a slot is available. If an aircraft is cleared for push and start but does not begin pushing within 2-5 minutes, the pushback clearance is canceled, and a new TOBT is assigned.
@@ -314,10 +314,10 @@ The TOBT system allows aircraft to push back, taxi to the runway holding point, 
 !!! example
     **Controller**: "QTR1, hold position. Number 5 for startup, expect pushback at time 15."
 
-## 2.7 Runway change procedure
+## 3.7 Runway change procedure
 AIR shall provide ample notice to GMP before changing runway configuration. The last departure using the old configuration shall be coordinated between AIR, GMP, GMC and approach/departure. 
 
 Aircraft that have already been cleared to depart using the old configuration shall be re-cleared if they have not already requested pushback.
 
-## 2.8 VFR aircraft
+## 3.8 VFR aircraft
 VFR traffic is not allowed at Hamad International Airport. Pilots intending to fly VFR are advised to operate from Doha International Airport (OTBD) instead.
