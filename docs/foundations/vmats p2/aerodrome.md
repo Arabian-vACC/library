@@ -9,6 +9,16 @@ The reccommended practice is to issue taxi clearances to hold short of any inter
 
 This technique reduces potential conflicts, as well as allows for efficient sequencing of departing traffic towards a runway holding point.
 
+### 13.1.2 Conditional clearances
+To optimise traffic flow, aircraft may also be issued conditional clearances or be instructed to "GIVE WAY" or "FOLLOW" other traffic for pushback and taxi.
+
+!!! example
+    **Conditional clearance**
+    "UAE4KC, give way to the company Boeing 777 taxiing left to right, taxi via L4, M, holding point M13A, runway 30R"
+
+    **"Follow" clearance**
+    "UAE5R, follow the IndiGo A320 taxiing via M to holding point M13A, runway 30R"
+
 ## 13.2 Departure separation
 ### 13.2.1 General
 Departure separation often has a major effect on the handling capacity of an aerodrome. Effective use of departure separation and departure sequence planning maximises efficiency while still complying with minimum time-based separation requirements.
