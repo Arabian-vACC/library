@@ -1,6 +1,6 @@
 # 18. Datalink Functions
 ## 18.1 Set up
-All Arabian vACC sector files are equipped with datalink function, including datalink clearance, wherever applicable, as well as en route CPDLC. The datalink funtions make use of the Hoppie ACARS system.
+All Arabian vACC sector files are equipped with datalink functions, including datalink clearance, wherever applicable, as well as en route CPDLC. The datalink funtions make use of the Hoppie ACARS system.
 
 Datalink requires minimal setup out of the box. However, controllers will require a unique Hoppie code which is available [here](https://www.hoppie.nl/acars/).
 
