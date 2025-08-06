@@ -1,11 +1,11 @@
-# 4. Air Control (“Abu Dhabi Tower”)
-## 4.1 General provisions
+# 5. Air Control Procedures
+## 5.1 General provisions
 
 Air Control (AIR) is responsible for all aerodrome movements on runways and their associated taxiways. AIR shall also ensure separation between IFR and VFR aircraft that are arriving at and
 departing the aerodrome, as well as VFR aircraft operating within the aerodrome control zone.
 
-## 4.2 Runway configuration
-### 4.2.1 Simultaneous operation of instrument runways (SOIR)
+## 5.2 Runway configuration
+### 5.2.1 Simultaneous operation of instrument runways (SOIR)
 The Abu Dhabi International Airport runways are 2,000 metres apart and comply with ICAO requirements for Simultaneous Operations of Instrument Runways (SOIR).
 Segregated Runway Operations, i.e. one runway exclusively for arrivals and one exclusively for departures, are normally in use during busy arrival and departure times.
 
@@ -30,8 +30,8 @@ During SOIR, in the event of a blockage/unserviceability on the arrival runway, 
 Training flights will not be facilitated at Abu Dhabi International Airport during parallel runway Operations.
 
 
-## 4.3 Departure procedures
-### 4.3.1 Standard departure points
+## 5.3 Departure procedures
+### 5.3.1 Standard departure points
 
 | Runway | Standard departure points |
 |:------:|:-------------------------:|
@@ -43,7 +43,7 @@ Training flights will not be facilitated at Abu Dhabi International Airport duri
   <figcaption>Table 4-1: Standard departure points</figcaption>
 </figure>
 
-### 4.3.2 Line up clearances
+### 5.3.2 Line up clearances
 
 Conditional line up instructions must also include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission. 
 It is suggested to only have a maximum of two conditional line up clearances active at one i.e. one aircraft lining up behind a departure, and another aircraft lining up behind them.
@@ -54,22 +54,22 @@ If aircraft have not yet reached the holding point where they are expected to li
 !!! example
     **Controller**: “ETD11K, via e15, line up runway 31L”
 	
-### 4.3.3 Take-off clearances
+### 5.3.3 Take-off clearances
 
-Aircraft shall be cleared for take-off once adequate separation exists as provided in 4.3.4 and 4.5.
+Aircraft shall be cleared for take-off once adequate separation exists as provided in 5.3.4 and 5.5.
 !!! example
     **Controller**: "ETD11K, Wind 330 degrees 7 knots, runway 31R, cleared for take-off"
 
-### 4.3.4 Separation requirements
-#### 4.3.4.1 General
+### 5.3.4 Separation requirements
+#### 5.3.4.1 General
 
-Aircraft shall be separated on departure in compliance with standard IFR departure separation minima, wake turbulence separation requirements or as provided in 4.5 where applicable.
+Aircraft shall be separated on departure in compliance with standard IFR departure separation minima, wake turbulence separation requirements or as provided in 5.5 where applicable.
 
-Except as provided in 4.3.4.2, succeeding aircraft on the same SID shall be separated by a minimum of 2 minutes.
+Except as provided in 5.3.4.2, succeeding aircraft on the same SID shall be separated by a minimum of 2 minutes.
 
 VFR aircraft may be instructed to maintain visual separation with preceding aircraft and given a take- off clearance if no wake turbulence separation minima exists.
 
-#### 4.3.4.2 Muscat FIR flow control procedure
+#### 5.3.4.2 Muscat FIR flow control procedure
 
 Special flow control procedures are required for traffic entering the Muscat FIR via certain entry points after departure from UAE airports.
 
@@ -83,12 +83,12 @@ During off-peak times, this separation minima may be disregarded, and standard s
   <figcaption>Table 4-2: Flow control procedures for traffic entering the Muscat FIR</figcaption>
 </figure>
 
-#### 4.3.4.3 Low visibility and IMC
+#### 5.3.4.3 Low visibility and IMC
 
-### 4.3.5 IFR handoff procedure
-#### 4.3.5.1 General
+### 5.3.5 IFR handoff procedure
+#### 5.3.5.1 General
 
-#### 4.3.5.2 Procedure for 30 configuration
+#### 5.3.5.2 Procedure for 30 configuration
 
 <table><thead>
   <tr>
@@ -106,7 +106,7 @@ During off-peak times, this separation minima may be disregarded, and standard s
   <figcaption>Table 4-3: Departure handoff procedure (30)</figcaption>
 </figure>
 
-#### 4.3.5.3 Procedure for 12 configuration
+#### 5.3.5.3 Procedure for 12 configuration
 
 <table><thead>
   <tr>
@@ -125,12 +125,12 @@ During off-peak times, this separation minima may be disregarded, and standard s
   <figcaption>Table 4-4: Departure handoff procedure (12)</figcaption>
 </figure>
 
-### 4.3.6 Omnidirectional departures
+### 5.3.6 Omnidirectional departures
 
-### 4.3.7 Stopping a departure
+### 5.3.7 Stopping a departure
 
-## 4.4 Arrival Procedures
-### 4.4.1 Preferred exit points
+## 5.4 Arrival Procedures
+### 5.4.1 Preferred exit points
 
 | Landing Runway | Preferred Exit POint |
 |:--------------:|:--------------------:|
@@ -142,43 +142,43 @@ During off-peak times, this separation minima may be disregarded, and standard s
   <figcaption>Table 4-5: Preferred exit points</figcaption>
 </figure>
 
-### 4.4.2 Separation requirements
-#### 4.4.2.1 General
+### 5.4.2 Separation requirements
+#### 5.4.2.1 General
 
-#### 4.4.2.2 Speed control
+#### 5.4.2.2 Speed control
 
-#### 4.4.2.3 Visual separation
+#### 5.4.2.3 Visual separation
 
-### 4.4.3 Go-around instruction
-#### 4.4.3.1 General go-around procedure
+### 5.4.3 Go-around instruction
+#### 5.4.3.1 General go-around procedure
 
-#### 4.4.3.2 Go-around with simultaneous departure in VMC
+#### 5.4.3.2 Go-around with simultaneous departure in VMC
 
-#### 4.4.3.2 Go-around with simultaneous departure in IMC or during LVO
+#### 5.4.3.2 Go-around with simultaneous departure in IMC or during LVO
 
-### 4.4.4 Arrival taxi procedures
+### 5.4.4 Arrival taxi procedures
 
-## 4.5 Reduced runway separation minima (RRSM)
-### 4.5.1 Conditions for the application of RRSM
+## 5.5 Reduced runway separation minima (RRSM)
+### 5.5.1 Conditions for the application of RRSM
 
-### 4.5.2 Single runway mode procedure
-#### 4.5.2.1 Landing following landing
+### 5.5.2 Single runway mode procedure
+#### 5.5.2.1 Landing following landing
 
-#### 4.5.2.2 Landing following departure
+#### 5.5.2.2 Landing following departure
 
-### 4.5.3 Dual dependent runway mode
+### 5.5.3 Dual dependent runway mode
 
-## 4.6 VFR procedures
-### 4.6.1 VFR departures
+## 5.6 VFR procedures
+### 5.6.1 VFR departures
 
-### 4.6.2 VFR traffic remaining in the circuit
+### 5.6.2 VFR traffic remaining in the circuit
 
-### 4.6.3 VFR arrivals
+### 5.6.3 VFR arrivals
 
-## 4.7 Low visibility operations (LVO)
-### 4.7.1 Commencement of LVO
+## 5.7 Low visibility operations (LVO)
+### 5.7.1 Commencement of LVO
 
-### 4.7.2 LVO departure procedures
+### 5.7.2 LVO departure procedures
 
 | Runway | Holding Point |
 |:------:|:-------------:|
@@ -190,11 +190,11 @@ During off-peak times, this separation minima may be disregarded, and standard s
   <figcaption>Table 4-9: CATII/III holding points</figcaption>
 </figure>
 
-### 4.7.3 LVO arrival procedures
+### 5.7.3 LVO arrival procedures
 
-## 4.8 Designated areas of responsibility
-### 4.8.1 AIR positions
+## 5.8 Designated areas of responsibility
+### 5.8.1 AIR positions
 
-### 4.8.2 Handoff procedure
+### 5.8.2 Handoff procedure
 
-### 4.8.3 Splitting procedure
+### 5.8.3 Splitting procedure

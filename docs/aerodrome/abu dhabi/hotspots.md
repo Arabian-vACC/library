@@ -1,16 +1,16 @@
-# 5. Aerodrome Incursion Hotspots
-## 5.1 General guidance
+# 6. Aerodrome Incursion Hotspots
+## 6.1 General guidance
 
-## 5.2 Hotspot A
+## 6.2 Hotspot A
 
-## 5.3 Hotspot B
+## 6.3 Hotspot B
 
-## 5.4 Hotspot C
+## 6.4 Hotspot C
 
-## 5.5 Hotspot D
+## 6.5 Hotspot D
 
-## 5.6 Hotspot E
+## 6.6 Hotspot E
 
-## 5.7 Hotspot F
+## 6.7 Hotspot F
 
-## 5.8 Hotspot G
+## 6.8 Hotspot G
