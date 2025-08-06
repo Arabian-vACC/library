@@ -1,13 +1,13 @@
-# 2. Ground Movement Planner ("Muscat Delivery")
-## 2.1 General Provisions
+# 3. Departure Clearance Procedures
+## 3.1 General Provisions
 Airways clearance/Ground Movement Planner (GMP) is responsible for validating routes and shall provide IFR clearance to departing aircraft. The controller shall assign the correct departure procedure to the aircraft based on the first point that is filed on the flight plan.
 
 Where the flight plan contains an invalid route, level, or departure procedure, GMP must ensure that the error is corrected before the aircraft is given its clearance.
 
 GMP is also responsible for minimizing taxiway delays and taxiway congestion for departing aircraft. During times of increased departure activity, aircraft are held at the gate to save fuel and lessen taxiway congestion.
 
-## 2.2 Departure clearance
-### 2.2.1 General
+## 3.2 Departure clearance
+### 3.2.1 General
 GMP is responsible for issuing clearances for departing aircraft. Pilots may be expected to report the following information on first contact: 
 
 - Callsign;
@@ -17,7 +17,7 @@ GMP is responsible for issuing clearances for departing aircraft. Pilots may be 
 - Destination;
 - Requested flight level;
 
-### 2.2.2 Information contained in a departure clearance
+### 3.2.2 Information contained in a departure clearance
 An IFR clearance shall be in the following format:
 
 - Callsign;
@@ -40,17 +40,17 @@ Departing aircraft shall be instructed to remain on the delivery frequency and r
 
     **Controller**: "OMS735, readback correct, QNH 1016, report ready for pushback."
 
-### 2.2.3 Datalink clearance (DCL)
+### 3.2.3 Datalink clearance (DCL)
 Muscat Aerodrome does not support the issuance of departure clearances via datalink (ACARS). All clearances shall be obtained through voice communication.
 
-### 2.2.4 Aircraft requiring a reroute
+### 3.2.4 Aircraft requiring a reroute
 Aircraft requiring a reroute shall be communicated through voice communication or via private message.
 
-### 2.2.5 Voice clearance
-Aircraft requesting clearance via voice shall be given a voice clearance as per the format in 2.2.2.
+### 3.2.5 Voice clearance
+Aircraft requesting clearance via voice shall be given a voice clearance as per the format in 3.2.2.
 
-## 2.3 Departure Procedures
-### 2.3.1 RNAV Standard instrument departures
+## 3.3 Departure Procedures
+### 3.3.1 RNAV Standard instrument departures
 Muscat has published RNAV Standard Instrument Departures (SIDs), which are the preferred departure procedures for IFR aircraft. However, as of the current publication, these RNAV SIDs are suspended due to ongoing aerodrome and airspace restructuring.
 
 In the interim, only four temporary SIDs are in use. As such, only the following SIDs shall be assigned:
@@ -69,8 +69,8 @@ In the absence of an online Approach controller, pilots are responsible for self
 !!! warning
     Runway 08R/26L is fully operational in the real world. However, in most simulator sceneries, this runway is either nonexistent or still under construction. Therefore, by default, this runway shall not be used and may only be assigned when requested by the pilot and confirmed to be available in their scenery.
 
-## 2.4 Rerouting aircraft
-An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2. 
+## 3.4 Rerouting aircraft
+An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 3-2. 
 
 Several routing restrictions exist within Muscat airspace and are detailed in the Oman Route Manual which must be complied with when issuing a departure clearance. 
 
@@ -140,18 +140,18 @@ The Arabian vACC Operations Department maintains an up-to-date route database on
   </tr>
 </tbody></table>
 
-## 2.5 Requested cruising level
-### 2.5.1 Level restrictions
-Aircraft routes out of the aerodrome must comply with all routing and level restrictions as described in section 3.1 of Arabian MATS P1, Arabian Route Manual and Table 2-2. This is based on direction and type of flight. 
+## 3.5 Requested cruising level
+### 3.5.1 Level restrictions
+Aircraft routes out of the aerodrome must comply with all routing and level restrictions as described in section 3.1 of Arabian MATS P1, Arabian Route Manual and Table 3-2. This is based on direction and type of flight. 
 
 Should an aircraft file an invalid cruise level, GMP shall advise the aircraft of this when delivering the clearance. In all cases, the next lowest valid cruise level shall be assigned, and the aircraft advised.
 
-## 2.6 Runway change procedure
+## 3.6 Runway change procedure
 AIR shall provide ample notice to GMP before changing runway configuration. The last departure using the old configuration shall be coordinated between AIR, GMP, GMC and approach/departure. 
 
 Aircraft that have already been cleared to depart using the old configuration shall be re-cleared if they have not already requested pushback.
 
-## 2.8 VFR aircraft
+## 3.8 VFR aircraft
 VFR traffic clearances are managed by AIR at the holding point. When an aircraft first contacts the delivery frequency, it must provide the following information:
 
 - Callsign;
@@ -180,10 +180,10 @@ Upon handoff from the delivery controller, the Ground controller shall taxi the 
 
 Once the aircraft reaches the designated holding point, it shall be transferred to the Tower frequency, where the pilot will receive their VFR departure clearance.
 
-### 2.8.1 VFR departures into uncontrolled airspace
-VFR flight activity should be planned in accordance to published VFR charts, specifically the “**Muscat Visual Approach**” chart for VFR traffic navigating out of the Muscat CTR into neighbouring airspaces. GMP may use the appropriate charts as per the requirements of the pilot’s intentions in accordance with 2.7.1 and 2.7.2.
+### 3.8.1 VFR departures into uncontrolled airspace
+VFR flight activity should be planned in accordance to published VFR charts, specifically the “**Muscat Visual Approach**” chart for VFR traffic navigating out of the Muscat CTR into neighbouring airspaces. GMP may use the appropriate charts as per the requirements of the pilot’s intentions in accordance with 3.7.1 and 3.7.2.
 
-### 2.7.1 VFR Departures into Controlled Airspace
+### 3.7.1 VFR Departures into Controlled Airspace
 VFR traffic shall be cleared via the most appropriate VFR route towards their destination. As Muscat Approach operates within the Muscat CTR (Class C), coordination with Muscat Approach is required when online for all VFR departures.
 
 All VFR departures shall initially be assigned a squawk code of 7000. Muscat Approach may issue a discrete squawk code for identification purposes if necessary.
@@ -197,7 +197,7 @@ All VFR departures shall initially be assigned a squawk code of 7000. Muscat App
 
       **Controller:** A4O-OAD, readback correct. QNH 1004, Report ready for departure.
 
-### 2.7.2 VFR Traffic Remaining in Circuit
+### 3.7.2 VFR Traffic Remaining in Circuit
 All VFR aircraft shall be instructed to conduct circuits to the north of the aerodrome (left-hand circuits for 08L and right-hand circuits for 26R) at an altitude of 1,000 ft.
 
 All VFR departures shall initially be assigned a squawk code of 7000. Muscat Tower may issue a discrete squawk code for identification purposes if necessary.

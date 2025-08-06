@@ -1,9 +1,9 @@
-# 3. Ground Movement Control ("Muscat Ground")
-## 3.1 General Provisions
+# 4. Ground Movement Procedures
+## 4.1 General Provisions
 The Ground Movement Controller (GMC) is responsible for managing aircraft movements on all aerodrome movement areas except for runways and their associated Taxiways. Departing aircraft are given pushback instructions and instructions to taxi to the runway holding point. Arriving aircraft are assigned a stand and instructed to taxi as appropriate.
 
-## 3.2 Departure Pushback Procedures
-### 3.2.1 General Pushback Procedures
+## 4.2 Departure Pushback Procedures
+### 4.2.1 General Pushback Procedures
 When aircraft have been handed off from GMP, they shall be fully ready for pushback. Assuming no obstructions, they shall be instructed to push back immediately. If an aircraft is cleared for push and start but does not begin pushing within 2-5 minutes, the pushback clearance is canceled.
 
 - **Transponders** must remain **on standby** while on the apron, unless **explicitly approved by ATC**.
@@ -12,7 +12,7 @@ When aircraft have been handed off from GMP, they shall be fully ready for pushb
 
 Pushback direction is based primarily on aircraft location and runway configuration. 
 
-A pushback clearance must be a variant of those provided in 3.2.2 and include an instruction to “FACE NORTH”, “FACE EAST", “FACE SOUTH" or “FACE WEST” as appropriate with the Taxiway to push onto.
+A pushback clearance must be a variant of those provided in 4.2.2 and include an instruction to “FACE NORTH”, “FACE EAST", “FACE SOUTH" or “FACE WEST” as appropriate with the Taxiway to push onto.
 
 !!! example
     **Pilot**: "Muscat Ground, OMA601, on stand 105 request pushback."
@@ -30,11 +30,11 @@ Conditional pushback instructions may also be issued if an aircraft is taxiing b
 
     **Pilot**: "After the company 737 passes from left to right, pushback approved, facing North on UE, OMA667."
 
-### 3.2.2 Pushback Types
-#### 3.2.2.1 Standard Pushback
-This type will normally have the aircraft stop abeam the adjacent stand. The phraseology for this type of pushback is identical to the pushback phraseology as provided in 3.2.1.
+### 4.2.2 Pushback Types
+#### 4.2.2.1 Standard Pushback
+This type will normally have the aircraft stop abeam the adjacent stand. The phraseology for this type of pushback is identical to the pushback phraseology as provided in 4.2.1.
 
-#### 3.2.2.2 Short Pushback
+#### 4.2.2.2 Short Pushback
 A short pushback instruction shall require the aircraft to complete the pushback abeam the current stand such that the adjacent stand will not be blocked.
 
 !!! example
@@ -44,7 +44,7 @@ A short pushback instruction shall require the aircraft to complete the pushback
 
     **Pilot**: "Short pushback approved, facing East on T to finish abeam stand 303, OMA643."
 
-#### 3.2.2.3 Long Pushback
+#### 4.2.2.3 Long Pushback
 A long pushback instruction shall require aircraft to complete the pushback operation two stands away from where the pushback was commenced. This manoeuvre may be used when aircraft are vacating a stand to be used by another aircraft that is taxiing in.
 
 !!! example
@@ -54,10 +54,10 @@ A long pushback instruction shall require aircraft to complete the pushback oper
 
     **Pilot**: "Long pushback approved, facing East on T to finish abeam stand 305, OMA849."
 
-### 3.2.3 Simultaneous Pushback Operations
-Simultaneous pushbacks may be permitted from adjacent stands provided aircraft are instructed to manoeuver in accordance with 3.2.2 such that on completion of both aircraft’s pushback operation, they will be separated on the Taxiway by two aircraft stands.
+### 4.2.3 Simultaneous Pushback Operations
+Simultaneous pushbacks may be permitted from adjacent stands provided aircraft are instructed to manoeuver in accordance with 4.2.2 such that on completion of both aircraft’s pushback operation, they will be separated on the Taxiway by two aircraft stands.
 
-### 3.2.4 Pushback Operations
+### 4.2.4 Pushback Operations
 | **Concourse/Apron**        | **Instruction Details**                                                                               |
 |----------------------------|-------------------------------------------------------------------------------------------------------|
 | North of the Main Terminal | Stands 101-106 & 151/152: Face North.<br>Stands 201-203: Face North.<br>Stands 301-313: Face West.    |
@@ -68,8 +68,8 @@ Simultaneous pushbacks may be permitted from adjacent stands provided aircraft a
 | Old Terminal               | Face North or Taxi-out stand.                                                                         |
 | MRO Apron                  | Face East or West as appropriate or Taxi-out stand.                                                   |
 
-## 3.3 Departure Taxi Procedures
-### 3.3.1 General Departure Taxi Procedures
+## 4.3 Departure Taxi Procedures
+### 4.3.1 General Departure Taxi Procedures
 Except as specified in Section 3.6, departing aircraft shall be taxied via the Taxiways closest to their assigned stands.
 
 When taxiing aircraft to runway holding points, Ground shall ensure timely coordination and transfer of control to Tower. The transfer shall occur early enough to allow continuous taxi without requiring the aircraft to stop at the holding point.
@@ -93,7 +93,7 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 !!! warning
     Controllers shall exercise heightened vigilance when taxiing aircraft to or from the aprons south of Runway 08R/26L. These aprons are connected to the main aerodrome layout by **a single intersection (D1)**, increasing the risk of head-on (nose-to-nose) conflicts. Strategic sequencing and timely coordination are essential.
 
-### 3.3.2 Runway 08L Departure Taxi Procedures
+### 4.3.2 Runway 08L Departure Taxi Procedures
 | **Concourse/Apron**                                            | **Instruction Details**                                                                                                                                                          |
 |----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | North of the Main Concourse                                    | Aircraft shall taxo to join Taxiway V to reach Holding Point Y1.                                                                                                                 |
@@ -101,7 +101,7 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 | Cargo Apron                                                    | Aircraft shall taxi to join Taxiway H, then continue via Taxiways R and V to reach Holding Point Y1.                                                                             |
 | Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft shall taxi to join Taxiway A, proceed to Intersection D1, and cross Runway 08R. After crossing, they shall continue via Taxiways H, R, and V to reach Holding Point Y1. |
 
-### 3.3.3 Runway 08R Departure Taxi Procedures
+### 4.3.3 Runway 08R Departure Taxi Procedures
 | **Concourse/Apron**                                            | **Instruction Details**                                                                              |
 |----------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | North of the Main Concourse                                    | Aircraft shall taxi to join Taxiway V, then continue via Taxiways N and H to reach Holding Point E1. |
@@ -109,7 +109,7 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 | Cargo Apron                                                    | Aircraft shall taxi to join Taxiway H to reach Holding Point E1.                                     |
 | Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft shall taxi to join Taxiway A to reach Holding Point D1.                                     |
 
-### 3.3.4 Runway 26L Departure Taxi Procedures
+### 4.3.4 Runway 26L Departure Taxi Procedures
 | **Concourse/Apron**                                            | **Instruction Details**                                                                                                                                        |
 |----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | North of the Main Concourse                                    | Aircraft shall taxi to join Taxiway V, then proceed via Taxiways N and H to reach Holding Point E9.                                                            |
@@ -117,7 +117,7 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 | Cargo Apron                                                    | Aircraft shall taxi to join Taxiway H to reach Holding Point E9.                                                                                               |
 | Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft shall taxi to join Taxiway A to reach Holding Point D7.                                                                                               |
 
-### 3.3.5 Runway 26R Departure Taxi Procedures
+### 4.3.5 Runway 26R Departure Taxi Procedures
 | **Concourse/Apron**                                            | **Instruction Details**                                                                                                                                                          |
 |----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | North of the Main Concourse                                    | Aircraft shall taxi to join Taxiway V to reach Holding Point Y8.                                                                                                                 |
@@ -125,8 +125,8 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 | Cargo Apron                                                    | Aircraft shall taxi to join Taxiway H, then continue via Taxiways R and V to reach Holding Point Y8.                                                                             |
 | Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft shall taxi to join Taxiway A, proceed to Intersection D1, and cross Runway 08R. After crossing, they shall continue via Taxiways H, R, and V to reach Holding Point Y8. |
 
-## 3.4 Arrival Taxi Procedures
-### 3.4.1 General Arrival Taxi Procedures
+## 4.4 Arrival Taxi Procedures
+### 4.4.1 General Arrival Taxi Procedures
 Arriving aircraft should not be handed off by AIR immediately upon landing. Instead, they must receive initial taxi instructions to Taxiways G, V, or W to maintain traffic flow.  
 
 Aircraft must avoid stopping on rapid exit Taxiways and should proceed as follows, unless otherwise directed by the tower:  
@@ -140,7 +140,7 @@ Therefore, GMC should assign an arrival stand to aircraft as soon as they appear
 
 Once the aircraft is handed off to GMC, they can be directed to their assigned stand.  
 
-### 3.4.2 Runway 08L Arrival Taxi Procedures
+### 4.4.2 Runway 08L Arrival Taxi Procedures
 | **Concourse/Apron**                                            | **Instruction Details**                                                                                                                                           |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | North of the Main Concourse                                    | Aircraft vacating via Taxiway Y5 shall taxi via Taxiway W, then taxi via Taxiway T, UE, or S, as instructed.                                                      |
@@ -148,7 +148,7 @@ Once the aircraft is handed off to GMC, they can be directed to their assigned s
 | Cargo Apron                                                    | Aircraft vacating via Taxiway Y5 shall taxi via Taxiway W, then taxi via Taxiways N and G.                                                                        |
 | Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft vacating via Taxiway Y5 shall taxi via Taxiway W, then taxi via Taxiways N and H, join Intersection E1, cross Runway 08R, and taxi via Taxiway A.        |
 
-### 3.4.3 Runway 08R Arrival Taxi Procedures
+### 4.4.3 Runway 08R Arrival Taxi Procedures
 | **Concourse/Apron**                                            | **Instruction Details**                                                                                                                                  |
 | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | North of the Main Concourse                                    | Aircraft vacating via Taxiway E5 or E6 shall taxi via Taxiways G, R, and V, then taxi via Taxiway T, UE, or S, as instructed.                            |
@@ -156,7 +156,7 @@ Once the aircraft is handed off to GMC, they can be directed to their assigned s
 | Cargo Apron                                                    | Aircraft vacating via Taxiway E5 or E6 shall taxi via Taxiway G.                                                                                         |
 | Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft vacating via Taxiway D4, D5, or D6 shall taxi via Taxiway A.                                                                                    |
 
-### 3.4.4 Runway 26L Arrival Taxi Procedures
+### 4.4.4 Runway 26L Arrival Taxi Procedures
 | **Concourse/Apron**                                            | **Instruction Details**                                                                                                                                  |
 | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | North of the Main Concourse                                    | Aircraft vacating via Taxiway E3 or E4 shall taxi via Taxiways G, R, and V, then taxi via Taxiway T, UE, or S, as instructed.                            |
@@ -164,7 +164,7 @@ Once the aircraft is handed off to GMC, they can be directed to their assigned s
 | Cargo Apron                                                    | Aircraft vacating via Taxiway E3 or E4 shall taxi via Taxiway G.                                                                                         |
 | Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft vacating via Taxiway D2 or D3 shall taxi via Taxiway A.                                                                                         |
 
-### 3.4.5 Runway 26R Arrival Taxi Procedures
+### 4.4.5 Runway 26R Arrival Taxi Procedures
 | **Concourse/Apron**                                            | **Instruction Details**                                                                                                                                                     |
 | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | North of the Main Concourse                                    | Aircraft vacating via Taxiway Y4 shall taxi via Taxiway V, then taxi via Taxiway T, UE, or S, as instructed.                                                                |
@@ -172,7 +172,7 @@ Once the aircraft is handed off to GMC, they can be directed to their assigned s
 | Cargo Apron                                                    | Aircraft vacating via Taxiway Y4 shall taxi via Taxiways V, N, and G.                                                                                                       |
 | Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft vacating via Taxiway Y4 shall taxi via Taxiway V, then taxi via Taxiways N and H, join Intersection E1, cross Runway 08R, and taxi via Taxiway A.                  |
 
-### 3.4.6 Stand Allocation Procedure
+### 4.4.6 Stand Allocation Procedure
 Stand assignments shall be managed automatically via the Ground Radar Plugin (GRplugin) system wherever feasible.
 
 Muscat International Airport does not utilize operator-specific stands. As such, all passenger operators shall be assigned a stand at the terminal on a randomized basis, with priority given to stands at the new passenger terminal for all commercial passenger flights.
@@ -181,7 +181,7 @@ Cargo operators shall be assigned stands on the dedicated cargo apron, located o
 
 The south side of the airport is reserved for General Aviation (GA), VIP, and military operations. These aprons are not used for commercial passenger aircraft.
 
-### 3.4.7 Stand Restrictions
+### 4.4.7 Stand Restrictions
 | **Stands**                                                                                                         | **Aircraft Code Handling** |
 |--------------------------------------------------------------------------------------------------------------------|----------------------------|
 | 1                                                                                                                  | Up to Code-B               |
@@ -194,33 +194,33 @@ The south side of the airport is reserved for General Aviation (GA), VIP, and mi
 | 5, 8, 301, 312, 313, 401, 412, 413, 414                                                                            | Up to Code-F               |
 | 901, 902, 903                                                                                                      | Up to Code-F               |
 
-## 3.5 Low Visibility Operations (LVO)
-### 3.5.1 LVO Taxi Routes
+## 4.5 Low Visibility Operations (LVO)
+### 4.5.1 LVO Taxi Routes
 As no active runway crossings are required during taxi, there are no specific additional operational procedures in place for low visibility conditions.
 
 However, when Runway Visual Range (RVR) falls below 550 meters, departures are not permitted.
 
-## 3.6 Designated Areas of Responsibility
-### 3.6.1 GMC Positions
+## 4.6 Designated Areas of Responsibility
+### 4.6.1 GMC Positions
 Muscat has recently introduced a second ground position, allowing ground control to be split into two positions when necessary: Ground North (GMC 1) and Ground South (GMC 2).
 
 When both GMC 1 and GMC 2 are online, departing aircraft taxiing from the south side of the aerodrome via Taxiway R shall be instructed by GMC 2 to taxi via R to hold short at Taxiway V, before being transferred to GMC 1 (Ground North).
  
 Similarly, arriving aircraft taxiing from the north to the south side of the aerodrome shall be instructed to taxi via Taxiway N to hold short at Taxiway H, before being transferred to GMC 2 (Ground South).
 
-#### 3.6.1.1 GMC 1 Responsibilities  
+#### 4.6.1.1 GMC 1 Responsibilities  
 GMC 1 manages aircraft movements in the following areas and their associated taxiways:  
 - North of the Main Concourse  
 
-#### 3.6.1.2 GMC 2 Responsibilities  
+#### 4.6.1.2 GMC 2 Responsibilities  
 GMC 2 manages aircraft movements in the following areas and their associated taxiways:  
 - South of the Main Concourse  
 - Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron
 
-### 3.6.2 Handoff Procedures
+### 4.6.2 Handoff Procedures
 When transferring control between controllers, aircraft must not be cleared beyond the current controller’s designated area of responsibility unless prior coordination has been completed with the next controller. Hold short instructions may be issued to meet this requirement.
 
-### 3.6.3 Splitting Procedure
+### 4.6.3 Splitting Procedure
 When a single GMC controller is online, they shall manage all surface movement areas from the GMC 1 position. 
 
 Unless otherwise authorized by Arabian vACC staff, GMP (Muscat Clearance Delivery) must be online before two GMC (Muscat Ground) positions can be opened.
