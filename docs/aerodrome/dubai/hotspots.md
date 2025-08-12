@@ -21,7 +21,7 @@ Plain language instructions may be required to hold traffic short of K8 to avoid
 Area with a history of runway incursions dure to aircraft confusing taxiway M1 and M2 with taxiway L3 and L4.
 
 ## 6.6 Hotspot E
-Area prone to runway incursions by traffic vacating runway 12L via taxiway N9 and turning right onto taxiway M10B or taxiway M11 and entering runway 12R.
+Area prone to runway incursions by traffic vacating runway 12L via taxiway M9 and turning right onto taxiway M10B or taxiway M11 and entering runway 12R.
 
 Controllers shall ensure that traffic correctly read back the initial taxi instruction which shall include the words “TURN LEFT ONTO M” to avoid ambiguity.
 

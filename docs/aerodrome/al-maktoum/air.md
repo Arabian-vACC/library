@@ -1,9 +1,9 @@
-# 3. Air Control (“Al Maktoum Tower”)
-## 3.1 General provisions
+# 5. Air Control Procedures
+## 5.1 General provisions
 Air Control (AIR) is responsible for all aerodrome movements on runways and their associated taxiways. AIR shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information between IFR and VFR aircraft operating within the aerodrome control zone.
 
-## 3.2 Departure procedures
-### 3.2.1 Standard departure points
+## 5.2 Departure procedures
+### 5.2.1 Standard departure points
 Al Maktoum has “standard departure points” from which pilots are expected to base their performance calculations. Aircraft may be tactically issued holding points closer to the runway end to optimise traffic flow or to yield a more efficient departure sequence. If the standard departure point is insufficient, crews must advice ATC of the required departure on first contact. The AIR controller may issue delays for such departures based on runway dependency requirements, as priority is given to the standard departure points.
 
 | Runway | Standard departure points |
@@ -19,7 +19,7 @@ Al Maktoum has “standard departure points” from which pilots are expected to
 !!! note
     V13 intersection departure may be used for departing aircraft on runway 30 
 
-### 3.2.2 Line up clearances
+### 5.2.2 Line up clearances
 Aircraft that have reached the runway holding points for departure shall be told to line-up once the runway is vacant and there is room to maneuver the aircraft onto the runway.
 
 !!! example
@@ -34,24 +34,24 @@ Conditional line up instructions must also include the traffic that the aircraft
 
       **Pilot:** Behind the departing Cathay B747, via V16, line up runway 30, behind.
 
-### 3.2.3 Take-off clearances
-Aircraft shall be cleared for take-off once adequate separation exists as provided in 3.3.4 
+### 5.2.3 Take-off clearances
+Aircraft shall be cleared for take-off once adequate separation exists as provided in 5.3.4 
 
 !!! example
       **Controler:** ABW255, (surface) wind 330 degrees, 7 knots, runway 30, cleared for takeoff.
 
       **Pilot:** Cleared for takeoff, runway 30, ABW255.
       
-### 3.2.4 Separation requirements
-#### 3.2.4.1 General
+### 5.2.4 Separation requirements
+#### 5.2.4.1 General
 Aircraft shall be separated on departure in compliance with standard IFR departure separation minima or enhanced wake turbulence separation (eWTS) requirements. 
  
-Except as provided in 3.2.4.2, succeeding aircraft on the same SID shall be separated by a minimum of **2 minutes.**  
+Except as provided in 5.2.4.2, succeeding aircraft on the same SID shall be separated by a minimum of **2 minutes.**  
 
 VFR aircraft may be instructed to maintain visual separation with preceding aircraft and given a take-off clearance if no wake turbulence separation minima exists.
 are able to achieve minimum separation requirements when reaching the respective Dubai CTA exit point. 
 
-### 3.2.4.2 Muscat FIR flow control procedure
+### 5.2.4.2 Muscat FIR flow control procedure
 Special flow control procedures are required for traffic entering the Muscat FIR via certain entry 
 points after departure from UAE airports.  
 
@@ -68,14 +68,14 @@ During off-peak times, this separation minima may be disregarded, and standard s
 !!! note
       LALDO and GOMTA are to be considered a common FIR exit point. These procedures do not apply to traffic landing at Oman airports. 
 
-### 3.2.5 IFR handoff procedure
+### 5.2.5 IFR handoff procedure
 IFR departures shall be handed off to Al Maktoum Radar. 
 
 Where Al Maktoum Radar is offline, all handoffs shall be to OMDB_1_DEP. If DEP 1 is offline, handoffs shall be made to OMDB_APP.
 
 Where no approach controller is present, aircraft shall be handed off directly to the appropriate UAE controller.
 
-### 3.2.6 Radar departures
+### 5.2.6 Radar departures
 Aircraft on a radar departure shall be instructed to fly a specific heading on departure to increase separation or to clear the departure path for a following aircraft. This departure instruction shall be delivered to the aircraft before issuing the take-off clearance. 
 
 The headings to be issued shall be coordinated with departures control. 
@@ -85,7 +85,7 @@ The headings to be issued shall be coordinated with departures control.
 
       **Pilot:** After departure fly heading 320, maintain altitude 3000ft, wind 280 degrees, 6 knots, runway 30, cleared for takeoff, QTR801.
 
-### 3.2.7 Stopping a departure
+### 5.2.7 Stopping a departure
 Aircraft that have commenced their take-off roll may be instructed to stop immediately to avert a collision due to a runway incursion or any other dangerous situation.
 
 !!! warning
@@ -99,21 +99,21 @@ For aircraft that have been given a take-off clearance, but have not yet started
 !!! example
       **Controller:** UAE9282, hold position, cancel takeoff, I say again cancel takeoff, aircraft entering the runway, acknowledge.
 
-## 3.3 Arrival procedures
-### 3.3.1 Speed control
-#### 3.3.1.1 General
+## 5.3 Arrival procedures
+### 5.3.1 Speed control
+#### 5.3.1.1 General
 Although the radar controllers are responsible for separating arriving aircraft, the AIR controller shall still ensure that minimum separation is maintained until the preceding aircraft crosses the runway threshold.
 
-#### 3.3.1.2 Speed control
+#### 5.3.1.2 Speed control
 If it is apparent that minimum separation may not exist as provided in Dubai Enhanced Wake Turbulence Separation (eWTS) or minimum radar separation minima, AIR may use a tactical reduction in aircraft speed.
 
 !!! example
       **Controller:** EJO21M, reduce to final approach speed.
 
-#### 3.3.1.3 Visual separation
+#### 5.3.1.3 Visual separation
 Aircraft may be instructed to maintain own separation visually, if speed control alone will not resolve the conflict. This shall only be done in VMC and with agreement with the pilot. If no other solutions are practical, the succeeding aircraft shall be instructed to go around. 
 
-### 3.3.2 Go around instruction
+### 5.3.2 Go around instruction
 At any time should a runway become unsuitable for an aircraft landing, or separation minima is not met, aircraft shall be instructed to go-around. 
 
 !!! example
@@ -124,7 +124,7 @@ Once aircraft are observed to be safely climbing away, they shall be handed off 
 !!! example
       **Controller:** EJO21M, Climb to 3000ft via standard missed approach, contact Al Maktoum Radar 124.025.
 
-### 3.3.3 Arrival taxi procedures
+### 5.3.3 Arrival taxi procedures
 Aircraft shall be provided an initial taxi clearance to ensure they are kept moving such that the exit taxiway (RET) is clear for the next arrival and to minimise runway occupancy times. 
 
 The initial taxi shall include instructions to taxi “LEFT” or “RIGHT” onto the relevant taxiway as appropriate and hold at a suitable intermediate holding point. 
@@ -140,18 +140,18 @@ Once aircraft have been observed to be taxiing and completely clear of the exit,
 !!! note
       If required for separation and to expedite traffic, aircraft may be instructed to vacate via the appropriate rapid exit taxiway on initial contact. 
 
-## 3.4 VFR procedures
-### 3.4.1 VFR departures
+## 5.4 VFR procedures
+### 5.4.1 VFR departures
 Once VFR aircraft are ready for departure, they should be cleared for take-off in sequence. As they begin their crosswind turn (the first turn after departure) they shall be instructed to report leaving the control zone.
 
 Once aircraft are clear of the zone, they shall be instructed to remain outside controlled airspace and monitor advisory.
 
 Aircraft climbing into controlled airspace shall be handed off to departure control. 
 
-### 3.4.2 VFR traffic remaining in the circuit
+### 5.4.2 VFR traffic remaining in the circuit
 AIR control is responsible for managing circuit traffic. Circuits must always be conducted to the south of the aerodrome for runways 31/13 and to the north of the aerodrome for runways 
 
-Circuits shall be conducted in accordance with the procedures laid down in 2.7.3.
+Circuits shall be conducted in accordance with the procedures laid down in 3.7.3.
 
 Once aircraft are ready for departure, they should be cleared for take-off in sequence. As they begin their crosswind turn (the first turn after departure) they shall be instructed to report when they are on the downwind with their intentions. 
 
@@ -170,7 +170,7 @@ Aircraft on the downwind should be passed the following information:
 !!! example
       **Controller:** EFC54L, report final runway 31, number 1, traffic is an B777 on a 5 mile final runway 30.
 
-### 3.4.3 VFR arrivals
+### 5.4.3 VFR arrivals
 Inbound VFR aircraft shall be instructed to contact AIR with enough time such that two-way radio communications has been established before aircraft enter the aerodrome control zone. On first contact, AIR will pass circuit joining instructions, as well as any other pertinent information. 
 
 !!! example
