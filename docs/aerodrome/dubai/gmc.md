@@ -14,7 +14,7 @@ All non-A380 traffic on aprons B shall be instructed to push back onto U. All co
 
 On apron F and A, all traffic shall be instructed to push back onto Z. Pushbacks onto taxiway K shall not be permitted under any circumstances.
 
-A pushback clearance must be a variant of those provided in 3.2.2 and include an instruction to “FACE WEST” or “FACE EAST” as appropriate.
+A pushback clearance must be a variant of those provided in 4.2.2 and include an instruction to “FACE WEST” or “FACE EAST” as appropriate.
 
 !!! example
     **Pilot**: "Dubai Ground, UAE4CK, on stand A4 request pushback."
@@ -34,7 +34,7 @@ Conditional pushback instructions may also be issued if an aircraft is taxiing b
 
 ### 4.2.2 Pushback types
 #### 4.2.2.1 Standard pushback
-This type will normally have the aircraft stop abeam the adjacent stand. The phraseology for this type of pushback is identical to the pushback phraseology as provided in 3.2.1.
+This type will normally have the aircraft stop abeam the adjacent stand. The phraseology for this type of pushback is identical to the pushback phraseology as provided in 4.2.1.
 
 #### 4.2.2.2 Short pushback
 A short pushback instruction shall require the aircraft to complete the pushback abeam the current stand such that the adjacent stand will not be blocked.
@@ -57,12 +57,12 @@ A long pushback instruction shall require aircraft to complete the pushback oper
     **Pilot**: "Long pushback approved, facing east on Z to finish abeam stand A4, UAE6LT."
 
 ### 4.2.3 Simultaneous pushback operations
-Simultaneous pushbacks may be permitted from adjacent stands provided aircraft are instructed to manoeuvre in accordance with 3.2.2 such that on completion of both aircraft’s pushback operation, they will be separated on the taxiway by two aircraft stands.
+Simultaneous pushbacks may be permitted from adjacent stands provided aircraft are instructed to manoeuvre in accordance with 4.2.2 such that on completion of both aircraft’s pushback operation, they will be separated on the taxiway by two aircraft stands.
 
 ### 4.2.4 Dual runway 30R pushback procedures
 When departing 30R, all aircraft parked on apron B and F shall be instructed to push back to “FACE WEST”.
 
-Aircraft on A, C, D and E aprons shall be in instructed to push back to “FACE EAST” as provided in 3.2.1.
+Aircraft on A, C, D and E aprons shall be in instructed to push back to “FACE EAST” as provided in 4.2.1.
 
 Traffic pushing back from stand C62, C63 and C64 shall be instructed to "FACE NORTH" on J1.
 
@@ -70,7 +70,7 @@ Traffic pushing back from stand A1 and A2 shall be instructed to "FACE NORTH" on
 
 Traffic pushing back from stand A10 and D10 shall be instructed to "FACE NORTH" on J3.
 
-Other traffic shall be pushed back in the appropriate direction for taxi as provided in 3.3. Care must be taken to ensure that the pushback will not block key taxiway intersections.
+Other traffic shall be pushed back in the appropriate direction for taxi as provided in 4.3. Care must be taken to ensure that the pushback will not block key taxiway intersections.
 
 !!! important
     For traffic parked on stand A1, A2 and D1, before issuing pushback instruction, GMC 1 must coordinate the pushback with AIR South to avoid blocking the high speed turn onto taxiway J2.
@@ -179,7 +179,7 @@ Prudent use of crossovers to taxiway K is recommended to facilitate continuous p
 Traffic shall be instructed to hold at holding point M13A and be transferred to AIR North once on M and no conflicts exist.
 
 #### 4.3.3.2 Arrival taxi procedures
-Aircraft shall vacate 30L onto K9, K8 or K6, depending on the stand assignment described in 3.4.5. After initial taxi is issued by AIR, aircraft are handed off to GMC as provided below. 
+Aircraft shall vacate 30L onto K9, K8 or K6, depending on the stand assignment described in 4.4.5. After initial taxi is issued by AIR, aircraft are handed off to GMC as provided below. 
 
 ##### Apron A
 Traffic shall vacate via K9 or K8, AIR South shall instruct traffic to taxi via K to the appropriate stand.
