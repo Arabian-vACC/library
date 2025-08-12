@@ -1,6 +1,6 @@
 # 6. Aerodrome Incursion Hotspots
 ## 6.1 General guidance
-Due to the complex layout of the aerodrome, several areas exist which are prone to taxiway/runway incursions. Controllers must exercise caution and remain vigilant when aircraft are operating in these areas.
+Due to the complex layout of the aerodrome, several areas exist which are prone to taxiway/runway incursions. Controllers must exercise caution and remain vigilant when aircraft are operating in these areas. The diagram below displays critical areas in Dubai
 
 ## 6.2 Hotspot A
 Area with a history of taxiway incursions during pushback due to confusion between taxiway Z and taxiway K. 
@@ -34,3 +34,11 @@ Controllers shall include the word “LEFT” or “RIGHT” when instructing ai
 Area with a history of taxiway incursions due to confusion between intersecting taxiways Z, K, Y and J1.
 
 Controllers shall pay close attention to aircraft taxiing in this area and include explicit instructions to taxi via each taxiway.
+
+## 6.9 Hotspots Diagram
+<figure markdown>
+![Dubai Hotspots](img/OMDB_Hotspots.png)
+</figure>
+<figure markdown>
+  <figcaption>Figure 6-1: Dubai Hotspots </figcaption>
+</figure>
