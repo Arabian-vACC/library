@@ -2,8 +2,8 @@
 ## 1.1 Aerodrome Details
 | ICAO Code                          |                      |
 |------------------------------------|----------------------|
-| Aerodrome Reference Point (ARP)    |                      |
-| Elevation                          |                      |
+| Aerodrome Reference Point (ARP)    | N 24 25.7 E 054 27.5 |
+| Elevation                          |         18 ft        |
 | Magnetic Variation / Annual Change |                      |
 | Transition Altitude / Level        | 13,000 ft / FL150    |
 
@@ -11,14 +11,8 @@
 ### 1.2.1 List of ATS callsigns
 | Radio Callsign              | Logon Callsign   | Abbreviation   | Frequency   |
 |:---------------------------:|:----------------:|:--------------:|:-----------:|
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
+| Al Bateen Ground            | OMAD_GND         | GMC            | 120.375     |
+| Al Bateen Tower             | OMAD_TWR         | AIR            | 119.900     |
 
 ### 1.2.2 ATS airspace
 | Airspace                    | Classification   | Vertical Limits    | Transition Altitude   | Transition Level   |

@@ -349,16 +349,12 @@ Once the aircraft is handed off to GMC, they shall be taxied to their stand in a
 ### 4.5.2 Runway 30 arrival taxi procedures
 Aircraft shall vacate 30 onto V10, V12 or V6 and are then handed off to GMC.
 
-Aircraft shall be taxied in accordance with 4.2
-
-*(See 4.2)*
+Aircraft shall be taxied in accordance with 6.2
 
 ### 4.5.3 Runway 12 arrival taxi procedures
 Aircraft shall vacate 12 onto V7, V9 or V13 and are then handed off to GMC.
 
-Aircraft shall be taxied in accordance with 4.2
-
-*(See 4.4)*
+Aircraft shall be taxied in accordance with 6.4
 
 ### 4.5.4 Stand allocation procedure
 |             Area             |                 Operator               |
@@ -373,7 +369,7 @@ Aircraft shall be taxied in accordance with 4.2
 |        G17 and G20           |        Private Jet Hangars             | 
 |        G1-G8                 |               VIP Terminal             | 
 |        S801-S812             |               Dubai Airshow            | 
-  <figcaption>Table 2-3: Stand allocation procedure</figcaption>
+  <figcaption>Table 4-3: Stand allocation procedure</figcaption>
 </figure>
 
 ### 4.5.5 Stand restrictions

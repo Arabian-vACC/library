@@ -311,9 +311,10 @@ GMC 1 controls aircraft movements on the following areas and their associated ta
 - Apron F
 - Apron G
 - Apron H
+- Stands C62-64
 
 GMC 2 controls aircraft movements on the following areas and their associated taxiways:
-- Apron C
+- Apron C (except Stands C62-64)
 - Apron E
 - Apron S
 - Apron Q

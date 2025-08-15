@@ -61,8 +61,9 @@ During off-peak times, this separation minima may be disregarded, and standard s
 |:-----:|:--------------:|:-----------------------:|
 | ANVIX |      TARDI     |        3 minutes        |
 | IVURO |  LALDO/GOMTA   |        3 minutes        |
+
 <figure markdown>
-  <figcaption>Table 3-1: Flow control procedures for traffic entering the Muscat FIR</figcaption>
+  <figcaption>Table 5-2: Flow control procedures for traffic entering the Muscat FIR</figcaption>
 </figure>
 
 !!! note
