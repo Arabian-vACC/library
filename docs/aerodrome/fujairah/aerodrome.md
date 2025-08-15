@@ -3,9 +3,10 @@
 | ICAO Code                          | OMFJ                 |
 |------------------------------------|----------------------|
 | Aerodrome Reference Point (ARP)    | N 25 06.7 E 056 19.5 |
-| Elevation                          | 153 ft                |
+| Elevation                          | 153 ft               |
 | Magnetic Variation / Annual Change | 2° E (2017) / +0.05° |
 | Transition Altitude / Level        | 13,000 ft / FL150    |
+
 ## 1.2 Air traffic services
 ### 1.2.1 List of ATS callsigns
 | Radio Callsign              | Logon Callsign   | Abbreviation   | Frequency   |
