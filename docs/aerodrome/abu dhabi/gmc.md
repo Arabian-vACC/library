@@ -32,7 +32,7 @@ A maximum of 4 multiple pushback operations are permitted on Apron 1.
 Aircraft parked on stands 101 and 102 may expect to:
 
 - Pushback to face north.
-- Pushback onto the taxiway on Apron 3 abeam stand 309 west of taxiway E9 intersectionfacing east.
+- Pushback onto the taxiway on Apron 3 abeam stand 309 west of taxiway E9 intersection facing east.
 - Pushback on taxiway F abeam stand 309 west of taxiway E9 intersection facing east.
 - Pushback on taxiway F abeam stand 112 east of taxiway E9 facing west.
 
@@ -159,7 +159,7 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 **ATC**: “ETD89G, TAXI VIA ECHO 8, ECHO, HOLDING POINT ECHO 15”
 
 ### 4.3.2 Dual runway 31L/R departure taxi procedures
-When departing from 31R, aircraft pushing back on apron 1 shall be instructed to taxi via E9 or E11 to join E and taxi to holding point E15.
+When departing from 31L, aircraft pushing back on apron 1 shall be instructed to taxi via E9 or E11 to join E and taxi to holding point E15.
 Aircraft on apron 2 shall be instructed to taxi via E13 or E14 to join E and taxi to holding point E15.
 
 Aircraft on apron 3 shall be instructed to taxi via E6 or E9 as appropriate to join E and taxi to holding point E15. Caution must be exercised at E8 and E6 taxiway intersection as this may be in use by arriving traffic.
@@ -173,7 +173,7 @@ Aircraft departing from 31R shall be instructed to cross 31L at E6, taxi via H, 
 (See 5.1)
 
 ### 4.3.3 Dual runway 13L/R departure taxi procedures
-When departing from 13L, aircraft pushing back on apron 1 shall be instructed to taxi via E9 or E11to join E and taxi to holding point E2 or E3.
+When departing from 13L, aircraft pushing back on apron 1 shall be instructed to taxi via E9 or E11 to join E and taxi to holding point E2 or E3.
 
 Aircraft on apron 2 shall be instructed to taxi via E13 or E14 to join E and taxi to holding point E2 or E3. Caution must be exercised at taxiway E13 and E10 intersection as this may be in use by arriving aircraft on 13R.
 
