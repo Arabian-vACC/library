@@ -292,7 +292,7 @@ During LVO, only designated CAT II/III holding points shall be used (4.6.2).
 Doha-Hamad Airport operates three GMC positions: GMC 1, GMC 2, and GMC 3.
 
 #### 4.6.1.1 GMC 1 Responsibilities
-GMC 1 manages aircraft movements in the following areas and their associated taxiways:
+GMC 1 manages aircraft movements in the following areas and their associated taxiways .
 - Concourse B  
 - Concourse C (East Side)  
 - Concourse E  
