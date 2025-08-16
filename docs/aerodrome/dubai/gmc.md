@@ -168,7 +168,7 @@ Aircraft shall vacate 30L onto K9, K8 or K6, depending on the stand assignment d
 | **Stand F26L and F27** | Vacate via K8 or K9, taxi right on K then turn left onto W. AIR South should issue taxi clearance via W till the stand to facilitate efficient flow of traffic. In this case, traffic shall be instructed to monitor GMC 1 frequency after taxi clearance has been issued. |
 
 !!!important
-Eastbound traffic flow on K shall not be permitted between K1 and K8, as this blocks the rapid exit taxiways from 30L.
+    Eastbound traffic flow on K shall not be permitted between K1 and K8, as this blocks the rapid exit taxiways from 30L.
 
 ### 4.3.4 Single runway 30R
 #### 4.3.4.1 Departure taxi procedures
@@ -187,7 +187,8 @@ Aircraft parking on the northern aprons shall vacate right and take the first ap
 #### 4.3.5.1 Departure taxi procedures
 When departing 30L in the single runway configuration, all aircraft pushing back on aprons A, B, D and F shall taxi via Z until past 30L RETs after which they shall cross onto K and taxi to holding point K17.
 
-Eastbound flow shall not be permitted on K between K1 and K8.
+!!! important
+    Eastbound flow shall not be permitted on K between K1 and K8.
 
 Aircraft on apron E shall cross 30R at N9 and taxi to holding point M20.
 
