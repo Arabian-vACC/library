@@ -18,22 +18,22 @@ A pushback clearance must include the stand at which aircraft is located and an 
 In accordance with the pushback restrictions laid down in 4.2, aircraft shall generally be pushed back facing the departure runway threshold unless otherwise specified.
 
 !!! example
-**ATC**: “RJA613, ABU DHABI GROUND, STAND 112, PUSH AND START APPROVED, FACE WEST ON FOXTROT”
+    **ATC**: “RJA613, ABU DHABI GROUND, STAND 112, PUSH AND START APPROVED, FACE WEST ON FOXTROT”
 
 Conditional pushback instructions may also be issued if an aircraft is taxiing behind another waiting for pushback.
 
 !!! example
-**ATC**:“ETD562, BEHIND THE COMPANY A330 PASSING LEFT TO RIGHT, STAND 306, PUSH AND
-START APPROVED, FACE EAST BEHIND”
+    **ATC**:“ETD562, BEHIND THE COMPANY A330 PASSING LEFT TO RIGHT, STAND 306, PUSH AND START APPROVED, FACE EAST BEHIND”
 
 
 #### 4.2.2.2 Apron 1 pushback procedures
 A maximum of 4 multiple pushback operations are permitted on Apron 1.
 Aircraft parked on stands 101 and 102 may expect to:
-• Pushback to face north.
-• Pushback onto the taxiway on Apron 3 abeam stand 309 west of taxiway E9 intersectionfacing east.
-• Pushback on taxiway F abeam stand 309 west of taxiway E9 intersection facing east.
-• Pushback on taxiway F abeam stand 112 east of taxiway E9 facing west.
+
+- Pushback to face north.
+- Pushback onto the taxiway on Apron 3 abeam stand 309 west of taxiway E9 intersection facing east.
+- Pushback on taxiway F abeam stand 309 west of taxiway E9 intersection facing east.
+- Pushback on taxiway F abeam stand 112 east of taxiway E9 facing west.
 
 
 In the event of two aircraft requesting pushback at the same time, pushback approval for the second aircraft shall only be granted after the first aircraft has pushed back clear of taxiway E9.
@@ -42,12 +42,13 @@ Aircraft shall be instructed to “FACE EAST” or “FACE WEST”.
 
 
 !!!info
-Pushing an aircraft from stand 111 on taxiway F facing west will block taxiway E11; pushing an aircraft from stand 113 on taxiway F facing east will block taxiway E9.
+    Pushing an aircraft from stand 111 on taxiway F facing west will block taxiway E11; pushing an aircraft from stand 113 on taxiway F facing east will block taxiway E9.
 
 
 Aircraft parked on stands 121 to 122 and 131 to 132 may expect to:
-• Pushback to start-up on a position on the taxiway abeam stand 133 facing north; or
-• Pushback to start-up on a position on taxiway F abeam stand 112 west of taxiway E11 intersection facing east. It should be noted that this manoeuvre will block pushback from stands 111 to 113.
+
+- Pushback to start-up on a position on the taxiway abeam stand 133 facing north; or
+- Pushback to start-up on a position on taxiway F abeam stand 112 west of taxiway E11 intersection facing east. It should be noted that this manoeuvre will block pushback from stands 111 to 113.
 
 
 In the event of two aircraft requesting pushback at the same time, the pushback approval for the second aircraft will be granted after the first aircraft is pushed onto taxiway F west of taxiway E11
@@ -59,8 +60,8 @@ Any preceding aircraft pushing from stands 121 to 122 or 131 to 132 must be push
 #### 4.2.2.3 Apron 2 pushback procedures
 Aircraft shall push pushback on the Apron 2 taxiway centreline facing either east or west with the following restrictions:
 
-• Aircraft pushing back from stand 201 shall be instructed to “FACE WEST”
-• Aircraft pushing back from stand 222 shall be instructed to “FACE EAST”
+- Aircraft pushing back from stand 201 shall be instructed to “FACE WEST”
+- Aircraft pushing back from stand 222 shall be instructed to “FACE EAST”
 
 Multiple pushbacks of aircraft facing the same direction or “nose to nose” shall be permitted provided that the aircraft are separated by 2 or more other parking stands.
 
@@ -69,18 +70,18 @@ Multiple pushbacks of aircraft facing “tail to tail” shall be permitted prov
 #### 4.2.2.4 Apron 3 pushback procedures
 Aircraft shall pushback on the Apron 3 taxiway centreline facing east or west with the following restrictions:
 
-• Aircraft pushing back from stand 309 shall be instructed to “FACE EAST”;
-• Aircraft pushing back from stand 301 shall be instructed to “FACE WEST”
+- Aircraft pushing back from stand 309 shall be instructed to “FACE EAST”;
+- Aircraft pushing back from stand 301 shall be instructed to “FACE WEST”
 
 Multiple pushbacks of aircraft facing same direction or “nose to nose” shall only be permitted provided that the aircraft are separated by 2 or more other parking stands.
 
 Multiple pushbacks of aircraft “tail to tail” shall only be permitted provided that the aircraft are separated by 3 or more other parking stands.
 
 !!!info 
-In the ‘nose to nose’ scenario ATC shall ensure that one taxiway is available between the two aircraft.
+    In the ‘nose to nose’ scenario ATC shall ensure that one taxiway is available between the two aircraft.
 
 !!!info 
-Aircraft taxiing out via taxiway E9 (including Code F aircraft) are deemed to be separated from aircraft that have completed a pushback on taxiway E9 from stands 101, 102 or 103.
+    Aircraft taxiing out via taxiway E9 (including Code F aircraft) are deemed to be separated from aircraft that have completed a pushback on taxiway E9 from stands 101, 102 or 103.
 
 #### 4.2.2.5 Apron 4 pushback procedures
 Aircraft shall pushback on the Apron 4 North taxiway centreline facing east or west.
@@ -105,20 +106,23 @@ Simultaneous multiple pushbacks are not permitted on Apron 5 West On Apron 5 Eas
 #### 4.2.2.7 Pushback restrictions
 ##### 4.2.2.7.1 Apron 1
 Stand 101:
-• Code D and E aircraft shall push to face east abeam stand 309 on the terminal 3 taxiway.
-• Code C aircraft and smaller shall face north on taxiway E9 abeam stand 102.
-• An aircraft that has pushed abeam stand 309 and has completed the push is deemed separated from taxiway E9.
-• An aircraft that is pushing to abeam stand 309 is deemed separated from an aircraft pushing from stand 307 to face east.
+
+- Code D and E aircraft shall push to face east abeam stand 309 on the terminal 3 taxiway.
+- Code C aircraft and smaller shall face north on taxiway E9 abeam stand 102.
+- An aircraft that has pushed abeam stand 309 and has completed the push is deemed separated from taxiway E9.
+- An aircraft that is pushing to abeam stand 309 is deemed separated from an aircraft pushing from stand 307 to face east.
 
 Stand 102:
-• Aircraft shall push to face north on taxiway E9 abeam stand 102.
-• An aircraft that has pushed from stand 102 and has completed the push is deemed separated from taxiwayE9 north of the terminal 3 taxiway and the terminal 3 taxiway.
+
+- Aircraft shall push to face north on taxiway E9 abeam stand 102.
+- An aircraft that has pushed from stand 102 and has completed the push is deemed separated from taxiwayE9 north of the terminal 3 taxiway and the terminal 3 taxiway.
 
 Stand 103:
-• Aircraft shall push to face east abeam stand 309 on the terminal 3 taxiway.
-• An aircraft that has pushed abeam stand 309 and has completed the push is deemed separated from taxiway E9.
-• An aircraft that is pushing to be abeam stand 309 is deemed separated from an aircraft pushing from stand 307 to face east.
-• Aircraft shall not be pushed to face north on taxiway E9.
+
+- Aircraft shall push to face east abeam stand 309 on the terminal 3 taxiway.
+- An aircraft that has pushed abeam stand 309 and has completed the push is deemed separated from taxiway E9.
+- An aircraft that is pushing to be abeam stand 309 is deemed separated from an aircraft pushing from stand 307 to face east.
+- Aircraft shall not be pushed to face north on taxiway E9.
 
 Parking on 121 or 131 is permitted if an aircraft has completed pushback from stands 122, 123, 133,134 or 135.
 
@@ -151,10 +155,10 @@ Where aircraft are taxied to runway holding points, transfer of control to AIR s
 To deconflict traffic, and to reduce the length of taxi clearances, intermediate holding points shall be used wherever possible.
 
 !!! example
-**ATC**: “ETD89G, TAXI VIA ECHO 8, ECHO, HOLDING POINT ECHO 15”
+    **ATC**: “ETD89G, TAXI VIA ECHO 8, ECHO, HOLDING POINT ECHO 15”
 
 ### 4.3.2 Dual runway 31L/R departure taxi procedures
-When departing from 31R, aircraft pushing back on apron 1 shall be instructed to taxi via E9 or E11 to join E and taxi to holding point E15.
+When departing from 31L, aircraft pushing back on apron 1 shall be instructed to taxi via E9 or E11 to join E and taxi to holding point E15.
 Aircraft on apron 2 shall be instructed to taxi via E13 or E14 to join E and taxi to holding point E15.
 
 Aircraft on apron 3 shall be instructed to taxi via E6 or E9 as appropriate to join E and taxi to holding point E15. Caution must be exercised at E8 and E6 taxiway intersection as this may be in use by arriving traffic.
@@ -168,7 +172,7 @@ Aircraft departing from 31R shall be instructed to cross 31L at E6, taxi via H, 
 (See 5.1)
 
 ### 4.3.3 Dual runway 13L/R departure taxi procedures
-When departing from 13L, aircraft pushing back on apron 1 shall be instructed to taxi via E9 or E11to join E and taxi to holding point E2 or E3.
+When departing from 13L, aircraft pushing back on apron 1 shall be instructed to taxi via E9 or E11 to join E and taxi to holding point E2 or E3.
 
 Aircraft on apron 2 shall be instructed to taxi via E13 or E14 to join E and taxi to holding point E2 or E3. Caution must be exercised at taxiway E13 and E10 intersection as this may be in use by arriving aircraft on 13R.
 
@@ -244,21 +248,24 @@ Only CAT II/III holding points may be used during LVO (4.7.2).
 Abu Dhabi has three GMC positions, GMC 1, GMC 2 and GMC 3.
 
 GMC 1 controls aircraft movements on the following areas and their associated taxiways:
-• Apron 1
-• Apron 2
-• Apron 3
-• Apron 4
-• Apron 5
-• Apron 7
-• Apron 8
-• Presidential Apron
-• General Aviation Apron
+
+- Apron 1
+- Apron 2
+- Apron 3
+- Apron 4
+- Apron 5
+- Apron 7
+- Apron 8
+- Presidential Apron
+- General Aviation Apron
 
 GMC 2 controls aircraft movements on the following areas and their associated taxiways:
-• Apron 6
+
+- Apron 6
 
 GMC 3 controls aircraft movements on the following areas and their associated taxiways:
-• Area Z?
+
+- Area Z?
 
 (See 7.2)
 
