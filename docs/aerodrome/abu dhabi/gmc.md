@@ -18,13 +18,12 @@ A pushback clearance must include the stand at which aircraft is located and an 
 In accordance with the pushback restrictions laid down in 4.2, aircraft shall generally be pushed back facing the departure runway threshold unless otherwise specified.
 
 !!! example
-**ATC**: “RJA613, ABU DHABI GROUND, STAND 112, PUSH AND START APPROVED, FACE WEST ON FOXTROT”
+    **ATC**: “RJA613, ABU DHABI GROUND, STAND 112, PUSH AND START APPROVED, FACE WEST ON FOXTROT”
 
 Conditional pushback instructions may also be issued if an aircraft is taxiing behind another waiting for pushback.
 
 !!! example
-**ATC**:“ETD562, BEHIND THE COMPANY A330 PASSING LEFT TO RIGHT, STAND 306, PUSH AND
-START APPROVED, FACE EAST BEHIND”
+    **ATC**:“ETD562, BEHIND THE COMPANY A330 PASSING LEFT TO RIGHT, STAND 306, PUSH AND START APPROVED, FACE EAST BEHIND”
 
 
 #### 4.2.2.2 Apron 1 pushback procedures
@@ -42,7 +41,7 @@ Aircraft shall be instructed to “FACE EAST” or “FACE WEST”.
 
 
 !!!info
-Pushing an aircraft from stand 111 on taxiway F facing west will block taxiway E11; pushing an aircraft from stand 113 on taxiway F facing east will block taxiway E9.
+    Pushing an aircraft from stand 111 on taxiway F facing west will block taxiway E11; pushing an aircraft from stand 113 on taxiway F facing east will block taxiway E9.
 
 
 Aircraft parked on stands 121 to 122 and 131 to 132 may expect to:
@@ -77,10 +76,10 @@ Multiple pushbacks of aircraft facing same direction or “nose to nose” shall
 Multiple pushbacks of aircraft “tail to tail” shall only be permitted provided that the aircraft are separated by 3 or more other parking stands.
 
 !!!info 
-In the ‘nose to nose’ scenario ATC shall ensure that one taxiway is available between the two aircraft.
+    In the ‘nose to nose’ scenario ATC shall ensure that one taxiway is available between the two aircraft.
 
 !!!info 
-Aircraft taxiing out via taxiway E9 (including Code F aircraft) are deemed to be separated from aircraft that have completed a pushback on taxiway E9 from stands 101, 102 or 103.
+    Aircraft taxiing out via taxiway E9 (including Code F aircraft) are deemed to be separated from aircraft that have completed a pushback on taxiway E9 from stands 101, 102 or 103.
 
 #### 4.2.2.5 Apron 4 pushback procedures
 Aircraft shall pushback on the Apron 4 North taxiway centreline facing east or west.
@@ -151,7 +150,7 @@ Where aircraft are taxied to runway holding points, transfer of control to AIR s
 To deconflict traffic, and to reduce the length of taxi clearances, intermediate holding points shall be used wherever possible.
 
 !!! example
-**ATC**: “ETD89G, TAXI VIA ECHO 8, ECHO, HOLDING POINT ECHO 15”
+    **ATC**: “ETD89G, TAXI VIA ECHO 8, ECHO, HOLDING POINT ECHO 15”
 
 ### 4.3.2 Dual runway 31L/R departure taxi procedures
 When departing from 31R, aircraft pushing back on apron 1 shall be instructed to taxi via E9 or E11 to join E and taxi to holding point E15.
