@@ -30,6 +30,7 @@ START APPROVED, FACE EAST BEHIND”
 #### 4.2.2.2 Apron 1 pushback procedures
 A maximum of 4 multiple pushback operations are permitted on Apron 1.
 Aircraft parked on stands 101 and 102 may expect to:
+
 - Pushback to face north.
 - Pushback onto the taxiway on Apron 3 abeam stand 309 west of taxiway E9 intersectionfacing east.
 - Pushback on taxiway F abeam stand 309 west of taxiway E9 intersection facing east.
@@ -46,6 +47,7 @@ Pushing an aircraft from stand 111 on taxiway F facing west will block taxiway E
 
 
 Aircraft parked on stands 121 to 122 and 131 to 132 may expect to:
+
 - Pushback to start-up on a position on the taxiway abeam stand 133 facing north; or
 - Pushback to start-up on a position on taxiway F abeam stand 112 west of taxiway E11 intersection facing east. It should be noted that this manoeuvre will block pushback from stands 111 to 113.
 
@@ -105,16 +107,19 @@ Simultaneous multiple pushbacks are not permitted on Apron 5 West On Apron 5 Eas
 #### 4.2.2.7 Pushback restrictions
 ##### 4.2.2.7.1 Apron 1
 Stand 101:
+
 - Code D and E aircraft shall push to face east abeam stand 309 on the terminal 3 taxiway.
 - Code C aircraft and smaller shall face north on taxiway E9 abeam stand 102.
 - An aircraft that has pushed abeam stand 309 and has completed the push is deemed separated from taxiway E9.
 - An aircraft that is pushing to abeam stand 309 is deemed separated from an aircraft pushing from stand 307 to face east.
 
 Stand 102:
+
 - Aircraft shall push to face north on taxiway E9 abeam stand 102.
 - An aircraft that has pushed from stand 102 and has completed the push is deemed separated from taxiwayE9 north of the terminal 3 taxiway and the terminal 3 taxiway.
 
 Stand 103:
+
 - Aircraft shall push to face east abeam stand 309 on the terminal 3 taxiway.
 - An aircraft that has pushed abeam stand 309 and has completed the push is deemed separated from taxiway E9.
 - An aircraft that is pushing to be abeam stand 309 is deemed separated from an aircraft pushing from stand 307 to face east.
@@ -244,6 +249,7 @@ Only CAT II/III holding points may be used during LVO (4.7.2).
 Abu Dhabi has three GMC positions, GMC 1, GMC 2 and GMC 3.
 
 GMC 1 controls aircraft movements on the following areas and their associated taxiways:
+
 - Apron 1
 - Apron 2
 - Apron 3
@@ -255,9 +261,11 @@ GMC 1 controls aircraft movements on the following areas and their associated ta
 - General Aviation Apron
 
 GMC 2 controls aircraft movements on the following areas and their associated taxiways:
+
 - Apron 6
 
 GMC 3 controls aircraft movements on the following areas and their associated taxiways:
+
 - Area Z?
 
 (See 7.2)
