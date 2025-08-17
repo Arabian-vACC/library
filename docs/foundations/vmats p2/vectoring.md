@@ -23,10 +23,12 @@ This technique of “locking” the heading ensures that the minimum separation 
 ### 8.2.4 Conflict solving
 If a level change is not possible, or practical, aircraft may be issued a heading change in order to ensure horizontal separation minima is maintained. In most cases, only a relatively small change in heading is required to achieve the desired result. This results in a minimal change to the aircraft’s total flight distance and therefore to its fuel consumption.
 
-After the conflict has been solved and separation is assured aircraft may be instructed to resume their own navigation.
+After the conflict has been solved and separation is assured aircraft may be instructed to resume their own navigation direct to a waypoint, usually at the controller's sector boundary.
 
 ### 8.2.5 Sequencing
 Aircraft may be sequenced to a sector boundary point using a combination of speeds and vectors. The objective of sequencing is to establish and maintain a minimum separation between the leading and following aircraft.
+
+Early intervention is important to prevent "running out of airspace" at the transfer point, which may require holding to be used, which is not desirable. This will also mean that the magnitude of any assigned heading changes is minimal.
 
 ## 8.3 Vectoring geometry
 ### 8.3.1 Conflict geometry
@@ -63,6 +65,10 @@ This is usually done in three steps, first a vector is given to establish latera
 
 #### 8.3.2.4 More complex situations
 In more complex situations where the aforementioned techniques would not necessarily, generally controllers should follow the principle of requiring minimal intervention to achieve the desired result.
+
+It is reiterated that it is important to prevent over-controlling, especially when using a combination of speeds and headings. Return to track headings must also be anticipated, in order to prevent separation from becoming excessive. 
+
+It is also important to take careful note of the cleared levels given to aircraft, especially when vectoring across the path of one another in order to prevent conflicts from being created. It is desirable to descend traffic in sequence, and only to the level vacated by the preceding traffic, if vectoring traffic in close proximity to each other.
 
 ### 8.3.3 Turn direction
 #### 8.3.3.1 Aircraft on reciprocal tracks
@@ -102,7 +108,7 @@ The general impact of the crossing angle is as follows:
 ### 8.4.1 Forgetting that an aircraft has been issued a vector
 This has a negative impact on flight efficiency and may also “surprise” the next controller if the airway or arrival procedure makes a sharp turn at the transfer point and the aircraft does not. 
 
-To mitigate this risk, the aircraft tag is marked before handoff to the next controller when the aircraft is placed under radar vectors.
+To mitigate this risk, the aircraft tag is marked before handoff to the next controller when the aircraft is placed under radar vectors. It must also be checked that before transfer to the next controller, the aircraft has been assigned a direct in case it was earlier vectored for sequencing.
 
 ### 8.4.2 Miscalculation of wind impact
 If a controller attempts to sequence an aircraft behind another and by turning but instructs the aircraft to turn so the tailwind increases, the manoeuvre may have no effect as the tailwinds increases the aircraft’s speed effectively reducing the expected benefit from vectoring.

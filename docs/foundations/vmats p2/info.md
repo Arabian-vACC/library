@@ -3,11 +3,11 @@
 |                     |                                                       |
 |:-------------------:|:-----------------------------------------------------:|
 |         Type        |                      Foundations                      |
-|       Revision      |                        03/2025                        |
-|    Effective Date   |                      05 AUG 2025                      |
-|     Prepared By     | Chriss Klosowski - ACCARB2<br>Suprojit Paul - ACCARB3 |
-|     Approved by     |                Chris Marriott - ACCARB1               |
-|   Next review date  |                      05 AUG 2026                      |
+|       Revision      |                        04/2025                        |
+|    Effective Date   |                      18 AUG 2025                      |
+|     Prepared By     | Chriss Klosowski - ACCARB1<br>Suprojit Paul - ACCARB3 |
+|     Approved by     |                Chriss Klosowski - ACCARB1             |
+|   Next review date  |                      18 AUG 2026                      |
 | Cancelled documents |                UAE MATS P2 R01-2021.pdf               |
 
 ## Record of Revisions
@@ -48,6 +48,11 @@
     <td>03/2025</td>
     <td>Expanded on Aerodrome Techniques section,<br>Added Datalink usage guide,<br>Update scope to be consistent with new SOPs</td>
     <td>05 AUG 2025</td>
+  </tr>
+  <tr>
+    <td>04/2025</td>
+    <td>Expanded on Horizontal Speed control and included phraseology examples,<br>Expanded on Vectoring - confict solving, sequencing and more complex situations,<br> Corrected several formatting and section numbering errors</td>
+    <td>18 AUG 2025</td>
   </tr>
 </tbody></table>
 
