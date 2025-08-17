@@ -282,4 +282,4 @@ Controllers can report non-compliance via [this form](https://vats.im/arb/feedba
 
 ## Non-compliance with this Policy
 
-Ignorance of policies is not an acceptable defense. It is each member’s responsibility to stay informed of the latest procedures. Repeated violations may result in the revocation of approvals or sign-offs.
+Ignorance of policies is not an acceptable defense. It is each member’s responsibility to stay informed of the latest procedures. Repeated violations will result in the revocation of approvals.

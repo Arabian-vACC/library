@@ -8,11 +8,11 @@
 |                     |                                                    |
 |---------------------|----------------------------------------------------|
 |         Type        |                      Policy                        |
-|       Revision      |                      01/2025                       |
-|    Effective Date   |                     01 JUL 2025                    |
-|     Prepared by     |             Chriss Klosowski - ACCARB2             |
-|     Approved by     | Chris Marriott - ACCARB1 & Suprojit Paul - ACCARB3 |
-|   Next review date  |                       TBA                          |
+|       Revision      |                      02/2025                       |
+|    Effective Date   |                     18 AUG 2025                    |
+|     Prepared by     | Chriss Klosowski - ACCARB1 & Suprojit Paul - ACCARB3 |
+|     Approved by     | Chriss Klosowski - ACCARB1                         |
+|   Next review date  |                       18 AUG 2026                  |
 | Cancelled documents |                   Arabian ATC TRP                  |
 
 ### Record of Revisions
@@ -33,6 +33,10 @@
     <td>Complete rewrite of the Training Policy.<br>Introduction of a new Foundations section specifically for ATC students.<br>Definition and criteria for joining and maintaining position on the Waiting List added.<br>Controller activity requirements for all ratings (S1 and above) formalized in line with the Arabian vACC Membership Policy.<br>Clear definition of a Training Plan, including all prerequisites and enrolment criteria.<br>Increased emphasis on self-study and its critical role in training progress.<br>Full rewrite of the Solo Validations and Examinations sections for clarity and consistency.<br>Grading Criteria reviewed and refined for practical assessments.<br>Major updates to the ATC Training structure:<br>Removal of direct-entry Tier 1 endorsements.<br>Introduction of observer hour requirements.<br>Minimum 50-hour experience requirement before progressing to each higher rating.<br>Introduction and explanation of Training Facilities concept.<br>Split of Dubai Tier 1 endorsements into: DEL/GND (S1), TWR (S2), TMA (S3)<br>Preparatory groundwork laid for implementation of Tier 2 endorsements covering AFIS and Military operations.</td>
     <td>01 JUL 2025</td>
   </tr>
+  <tr>
+    <td>02/2025</td>
+    <td>Implemented standardised process for Tier 1 training and rating re-instatement,</td>
+    <td>18 AUG 2025</td>
 </tbody></table>
 
 ## Scope
@@ -58,7 +62,7 @@ Sector files for each FIR can be downloaded from the [AeroNav GNG website](https
 
 - [Doha FIR (OTDF)](https://files.aero-nav.com/OTDF)
 - [Muscat FIR (OOMM)](https://files.aero-nav.com/OOMM)
-- [U.A.E FIR (OMAE)](https://files.aero-nav.com/OMAE)
+- [Emirates FIR (OMAE)](https://files.aero-nav.com/OMAE)
 
 A detailed setup guide for installing Euroscope and the Arabian vACC sector files is available under the "Controller Software Setup" section of the [Arabian vACC Library](https://library.arabian-vacc.com/foundations/).
 
@@ -110,10 +114,10 @@ Failure to meet this requirement will result in **automatic removal** from the r
 
 The calendar quarters are defined as follows:
 
-- **1st January – 31st March**
-- **1st April – 30th June**
-- **1st July – 30th September**
-- **1st October – 31st December**
+- **Quarter 1 (Q1) - 1st January to 31st March**
+- **Quarter 2 (Q2) - 1st April to 30th June**
+- **Quarter 3 (Q3) - 1st July to 30th September**
+- **Quarter 4 (Q4) - 1st October to 31st December**
 
 ### Training Plan
 To be eligible for enrollment in a training plan on Hayya, students must meet the following criteria:
@@ -134,7 +138,7 @@ Members on the waiting list may be offered a training plan for a specific aerodr
 This policy ensures fair and efficient use of training resources and minimizes delays for all members in the training pipeline.
 
 #### Training Facilities Across Arabian vACC FIRs
-Training may be conducted within any of the Arabian vACC's three FIRs, with the exception of Tier-1 positions. The available training facilities are as follows:
+Training may be conducted within any of the Arabian vACC's three FIRs, with the exception of Tier 1 positions. The available training facilities are as follows:
 
 - **Aerodrome (S1/S2)**
     - Doha-Hamad International Airport (OTHH)
@@ -143,15 +147,15 @@ Training may be conducted within any of the Arabian vACC's three FIRs, with the 
     - Sheikh Zayed International Airport (OMAA)
 
 - **Terminal (S3)**
-    - Abu Dhabi TMA (OMAA/OMAD/OMAL)
+    - Abu Dhabi CTA (OMAA/OMAD/OMAL)
     - Doha TMA (OTHH/OTBD)
     - Muscat TMA (OOMS)
 
 - **Enroute (C1)**
     - Doha FIR (OTDF)
     - Muscat FIR (OOMS)
-    - U.A.E FIR (OMAE)  
-      - *Note: Controllers seeking Enroute training within the U.A.E FIR must possess all Tier-1 endorsements. In the absence of these endorsements, training will be limited to the U.A.E South Sector, which excludes the Dubai TMA.*
+    - Emirates FIR (OMAE)  
+      - *Note: Controllers seeking Enroute training within the Emirates FIR must possess all Tier 1 endorsements. In the absence of these endorsements, if the member still wishes to do training in the Emirates FIR, training will be limited to the UAE South Sector, which excludes the Dubai CTA.*
 
 #### Training Engagement and Availability Expectations
 ATC training within the Arabian vACC is a rigorous process. Given the high number of students and the limited number of available mentors and instructors, training resources must be used efficiently. To support this, members enrolled in a training plan are expected to demonstrate consistent engagement and flexibility.
@@ -197,7 +201,7 @@ Students are expected to engage with the theoretical content provided in the [Ar
 
 After each mentoring session, mentors and instructors will provide comprehensive feedback. It is the student's responsibility to carefully review these reports and address any areas highlighted by the mentor for improvement. This may involve independent study on certain topics or revisiting specific techniques. Research consistently shows that students who actively engage with feedback and make necessary adjustments tend to progress more rapidly through training and perform better on exams.
 
-Arriving unprepared for a session—whether through a lack of review of session reports or theoretical material—is considered unprofessional. Mentors and instructors are within their rights to end a session prematurely if they feel that the student has not made adequate efforts to prepare. In such cases, a report will be submitted to the ATC Training Department Director for further review. This may lead to the student's removal from the training plan if insufficient progress or engagement is noted.
+Arriving unprepared for a session, whether through a lack of review of session reports or theoretical material, is considered unprofessional. Mentors and instructors are within their rights to end a session prematurely if they feel that the student has not made adequate efforts to prepare. In such cases, a report will be submitted to the ATC Training Department Director for further review. This may lead to the student's removal from the training plan if insufficient progress or engagement is noted.
 
 ### Asking for Help
 In aviation, there are no "stupid" questions—it's always better to ask than to remain silent. The ATC Training Department staff, instructors, and mentors are always available and happy to assist students with any questions related to their training. Students are encouraged to direct their questions to the #training-text channel on the Arabian vACC Discord.
@@ -301,23 +305,23 @@ All members participating in the fast-track program are still required to comple
 Controllers will be graded during each session with a mentor or instructor based on the relevant syllabus for their current rating or endorsement. These evaluations are designed using Competency-Based Training and Assessment (CBTA) principles to ensure that controllers are progressing in both skills and knowledge.
 
 #### Performance Levels
-Controllers will be assessed according to their **competency** and **performance** in each session. The following performance levels exist:
+Controllers will be assessed according to specific core **competencies** and will have **performance** graded for each competency in each session. The following performance levels exist:
 
 - **Below:** The controller's performance is below the expected standard for their current rating or endorsement.
 - **At:** The controller meets the expected standard for their rating or endorsement.
 - **Above:** The controller exceeds the expected standard for their rating or endorsement.
 
-Controllers should aim to be **"At"** the expected performance level as they progress through their training. If a controller is rated **"Below,"** additional sessions will be required to address and correct the issues identified during training.
+Controllers should aim to be **"At"** the expected performance level as they progress through their training, after which they will be deemed **"Competent"**. If a controller is rated **"Below"**, the controller is deemed **Not Yet Competent**, additional sessions will be required to address and correct the issues identified during training.
 
 #### Input Required from the Mentor or Instructor
 In addition to performance evaluation, controllers will be assessed based on the level of input required from the mentor or instructor during the session. This helps identify the controller's ability to operate independently and effectively. The following input levels are used:
 
 - **Constant:** The controller requires frequent reminders throughout the session, indicating a need for further development.
 - **Intermittent:** The controller needs occasional reminders, showing progress but still requiring guidance.
-- **Minor:** The controller requires very few reminders, indicating good progress and near independence.
-- **N/A:** The controller requires no reminders, demonstrating full autonomy in their role.
+- **Minor:** The controller requires no or very few reminders, indicating good progress and near independence.
+- **N/A:** The specific was not covered or did not apply during this session.
 
-Controllers should strive for **"N/A"** where no input is required from the mentor or instructor. If a controller is rated as **"Constant,"** additional sessions will be necessary to address gaps in their knowledge or performance.
+Controllers should strive for **"Minor"** where no input is required from the mentor or instructor. If a controller is rated as **"Constant,"** additional sessions will be necessary to address gaps in their knowledge or performance.
 
 This grading system helps ensure that controllers receive the support and training they need to meet the required standards for their ratings and endorsements. Continuous feedback and targeted training sessions are crucial for controllers to advance to higher levels of proficiency.
 
@@ -459,9 +463,35 @@ Access to the theoretical course will only be granted once the controller has me
 Upon successful completion of the theoretical examination, the controller must submit a support ticket to the Arabian vACC ATC Training Department confirming they have passed and completed the theoretical examination. Once the department has verified the result, the controller will be eligible to proceed to the practical phase. 
 
 ##### Practical Training
-Controllers who have passed the specific Tier 1 Dubai theoretical examination will then be able to proceed to the practical phase and undergo sessions with a mentor or instructor. These sessions will cover the practical aspects of the training, applying all theoretical knowledge to ensure the controller understands the procedures and operations of the position.
+Controllers who have passed the specific Tier 1 Dubai theoretical examination will then be able to proceed to the practical phase and undergo sessions with a mentor or instructor. These sessions will cover the practical aspects of the training, applying all theoretical knowledge to ensure the controller understands the procedures and operations of the position. The conduct of these sessions is outlined below.
 
-After completing the practical phase and once a mentor or instructor is satisfied with the controller's performance, the endorsement will be added to the controller's profile on Hayya.
+##### Tier 1 Ground
+Practical training will be as follows:
+
+- One sweatbox familiarisation session
+- One practical assessment session online on the network where the student is graded on an assessment scoresheet
+
+At the discretion of the mentor or instructor, the student may be granted an additional session before the assessment.
+
+##### Tier 1 Tower
+Practical training will be as follows:
+
+- Two sweatbox familiarisation sessions
+- One online familiarisation session
+- One practical assessment session online on the network where the student is graded on an assessment scoresheet
+
+##### Tier 1 Terminal Area
+Practical training will be as follows:
+
+- Two sweatbox familiarisation sessions
+- One familiarisation session on the live network or sweatbox at the discretion of the mentor or instructor
+- One online familiarisation session
+- One practical assessment session online on the network where the student is graded on an assessment scoresheet
+
+##### Granting of Tier 1 Approvals
+After successfully completing the practical phase and once a mentor or instructor is satisfied with the controller's performance such that the student is deemed "Competent", the endorsement will be added to the controller's profile on Hayya.
+
+At any point, if the controller fails to meet the required level of competency during the practical assessment, they will be deemed "Not Yet Competent" and they must reapply for Tier 1 approvals **after a minimum of 30 days from the day of the assessment**.
 
 Controllers are not permitted to connect on any Dubai positions until the endorsement is visible on the controller roster on Hayya.
 
@@ -536,3 +566,19 @@ Access to the theoretical examination will only be granted once the controller h
 Upon successful completion of the theoretical examination, the controller must submit a support ticket to the Arabian vACC ATC Training Department confirming they have passed the assessment. Once the department has verified the result, the military endorsement will be added to the controller's profile.
 
 Controllers are not permitted to connect on any military positions until the endorsement is visible on their controller roster in Hayya.
+
+### Reinstatement to Roster
+#### Unrestricted Positions
+A controller may be reinstated to the controller roster for all **unrestricted positions** (i.e. all positions except those defined as Tier 1) after roster removal subject to the following requirements:
+- The controller reads and acknowledges all necessary SOP documents that are applicable to their rating
+- The controller completes one familiarisation session with an Arbain vACC Mentor approved to instruct up the applicant's rating
+
+#### Tier 1 Positions
+A controller may be reinstated to the controller roster for **Tier 1 positions** after roster removal subject to the following requirements:
+- The controller is in good standing and does not have any adverse feedback against them
+- The controller reads and acknowledges all necessary SOP documents that are applicable to the Tier 1 position
+- The controller demonstrates acceptable competency in a **practical assessment session** on the online network. At the discretion of the instructor, this may be a fully top-down assessment.
+
+If the controller is deemed "Competent" during the assessment, Tier 1 approvals will be reinstated. In case the controller is deemed "Not Yet Competent" they must reapply for Tier 1 approvals after a minimum of 30 days from the day of the assessment.
+
+Controllers may wish to opt for preparatory sweatbox before the Tier 1 assessment, however **this shall not count towards the session requirement for Tier 1 approval reinstatement**.

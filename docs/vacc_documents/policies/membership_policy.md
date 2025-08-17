@@ -7,12 +7,12 @@
 ### Control Details
 |                     |                            |
 |---------------------|----------------------------|
-|         Type        |           Policy           |
-|       Revision      |           01/2025          |
-|    Effective Date   |         06 APR 2025        |
-|     Prepared by     | Chriss Klosowski - ACCARB2 |
-|     Approved by     |  Chris Marriott - ACCARB1  |
-|   Next review date  |         06 APR 2026        |
+|         Type        |                      Policy                        |
+|       Revision      |                      02/2025                       |
+|    Effective Date   |                     18 AUG 2025                    |
+|     Prepared by     | Chriss Klosowski - ACCARB1 & Suprojit Paul - ACCARB3 |
+|     Approved by     | Chriss Klosowski - ACCARB1                         |
+|   Next review date  |                       18 AUG 2026                  |
 | Cancelled documents |       POL CMA R10/2021     |
 
 ### Record of Revisions
@@ -58,6 +58,10 @@
     <td>Full policy rewrite to ensure full compliance with VATSIM’s Global Controller Administration Policy (GCAP), Transfer &amp; Visiting Controller Policy, and VATMENA Divisional Policies,<br>Removed Emirates vACC branding and updated to align with the new Arabian vACC branding, including the addition of two additional FIRs.</td>
     <td>10 APR 2025</td>
   </tr>
+  <tr>
+    <td>02/2025</td>
+    <td>Added references to Tier 1 standarised training as defined in the Arabian vACC Training Policy</td>
+    <td>18 AUG 2025</td>
 </tbody></table>
 
 
@@ -108,7 +112,12 @@ The Arabian vACC abides by Sections **7, 8, and 9** of the **VATMENA Membership 
 ## Controller Activity Requirements
 To maintain a high level of operational readiness and service, all controllers assigned to the Arabian vACC are required to meet the following **minimum quarterly activity** threshold:
 
-- **6 hours of controlling** must be logged every **three months (quarter)** on the controller’s **highest approved position**.
+- **3 hours of controlling** must be logged every **calendar quarter** on the controller’s **highest approved position** or,
+- **3 hours of controlling** must be logged every **calendar quarter** on the controller’s **highest approved Tier 1 position** if the controller holds Tier 1 approvals.
+
+Controllers who control a **Tier 1** position, shall have these hours counted towards their total quarterly activity requirement. However, if a Tier 1 rated controller only controls **unrestricted** or **Tier 2** positions, these shall not count towards the activity requirement to retain Tier 1 approvals.
+
+Calendar quarter ar those as defined in the Arabian vACC Membership Policy.
 
 This activity requirement supports the Arabian vACC's core values of **#ClearVision** and **#ClearMission**, ensuring service consistency and procedural compliance.
 
@@ -118,7 +127,7 @@ Controllers who fail to meet the quarterly activity requirement will be:
 - Removed from the Arabian vACC roster;
 - Have all **endorsements and position approvals revoked**.
 
-**Roster cleanups** are conducted on the final day of March, June, September, and December. A general notice will be issued on the Arabian vACC Discord server and, where possible, by mass email **1–2 weeks in advance**.
+**Roster cleanups** are conducted on the final day of March, June, September, and December. A general notice will be issued on the Arabian vACC Discord server and, if possible, by email **1–2 weeks in advance**.
 
 ### Leave of Absence (LoA)
 Controllers may request a **Leave of Absence (LoA)** if unable to meet activity requirements. The following conditions apply:
@@ -131,15 +140,12 @@ Controllers may request a **Leave of Absence (LoA)** if unable to meet activity 
 
 Controllers may **cancel or modify** their LoA by notifying the Membership Department. Upon completion, the controller will return to their previously approved status. A **recurrency session** may be required if the LoA was extended.
 
-### Regaining Active Status
+### Reinstatement to Roster
 #### Resident Controllers
-Controllers removed due to inactivity may request reinstatement once able to meet the required standards. This is done by submitting a **support ticket via Discord**. Depending on the duration of inactivity, a **recurrency session** may be required before active status is restored.
+Resident controllers removed from the roster due to inactivity may request reinstatement to the controller roster. This is done by submitting a **support ticket via Discord**. Once accepted for reinstatement, they shall follow the process as defined in the Arabian vACC Training Policy "Reinstatement to Roster" section.
 
 #### Visiting Controllers
-Visiting controllers removed for inactivity or other reasons may **reapply after a minimum of 30 days**. Upon re-acceptance:
-
-- At least **one recurrency session** must be completed on the position(s) held at the time of removal.
-- Further training may be required if the controller does not meet performance standards.
+Visiting controllers removed from the roster for inactivity or other reasons (such as disciplinary or failure to meet competency requirements) may **reapply after a minimum of 30 days**. This is done by submitting a **support ticket via Discord**. Once accepted for reinstatement, they shall follow the process as defined in the Arabian vACC Training Policy "Reinstatement to Roster" section.
 
 **Exemptions**:
 
