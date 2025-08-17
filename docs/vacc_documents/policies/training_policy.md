@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>02/2025</td>
-    <td>Implemented standardised process for Tier 1 training and rating re-instatement,</td>
+    <td>Implemented standardised process for Tier 1 training and rating re-instatement,<br>Updated grading sheet definitions</td>
     <td>18 AUG 2025</td>
 </tbody></table>
 
