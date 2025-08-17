@@ -570,15 +570,17 @@ Controllers are not permitted to connect on any military positions until the end
 ### Reinstatement to Roster
 #### Unrestricted Positions
 A controller may be reinstated to the controller roster for all **unrestricted positions** (i.e. all positions except those defined as Tier 1) after roster removal subject to the following requirements:
+
 - The controller reads and acknowledges all necessary SOP documents that are applicable to their rating
 - The controller completes one familiarisation session with an Arbain vACC Mentor approved to instruct up the applicant's rating
 
 #### Tier 1 Positions
 A controller may be reinstated to the controller roster for **Tier 1 positions** after roster removal subject to the following requirements:
+
 - The controller is in good standing and does not have any adverse feedback against them
 - The controller reads and acknowledges all necessary SOP documents that are applicable to the Tier 1 position
 - The controller demonstrates acceptable competency in a **practical assessment session** on the online network. At the discretion of the instructor, this may be a fully top-down assessment.
 
-If the controller is deemed "Competent" during the assessment, Tier 1 approvals will be reinstated. In case the controller is deemed "Not Yet Competent" they must reapply for Tier 1 approvals after a minimum of 30 days from the day of the assessment.
+If the controller is deemed "Competent" during the assessment, Tier 1 approvals will be reinstated. In case the controller is deemed "Not Yet Competent" they must reapply for Tier 1 approvals **after a minimum of 30 days from the day of the assessment**.
 
 Controllers may wish to opt for preparatory sweatbox before the Tier 1 assessment, however **this shall not count towards the session requirement for Tier 1 approval reinstatement**.
