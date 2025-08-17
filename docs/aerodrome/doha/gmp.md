@@ -59,6 +59,7 @@ All IFR departures shall be instructed to contact Doha Approach (West) once airb
 |:---------:|:-------:|:-------:|
 |   ALSEM   |    3S   |    3N   |
 |   ALVEN   |    3S   |    3N   |
+|   BUNDU   |    3S   |    3N   |
 |   DATRI   |    1S   |    1N   |
 |   KUPRO   |    1S   |    1N   |
 |   LUBET   |    2S   |    2N   |
@@ -66,6 +67,7 @@ All IFR departures shall be instructed to contact Doha Approach (West) once airb
 |   TULUB   |    2S   |    2N   |
 |   ULIKA   |    1S   |    1N   |
 |   VAXIN   |    3S   |    3N   |
+
 <figure markdown>
   <figcaption>Table 3-1: RNAV SIDs</figcaption>
 </figure>
@@ -106,58 +108,17 @@ The Arabian vACC Operations Department maintains an up-to-date route database on
 !!! example
     **Controller**: "QQE650, cleared to Dubai, runway 15 via ALSEM3S, ALSEM - L305 - ITBUL, flight planned route. Climb via the SID altitude 6000ft, squawk 2612."
 
-<table><thead>
-  <tr>
-    <th>Destination</th>
-    <th>Level Restriction</th>
-    <th>Routing</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>Northern Emirates (OMDB, OMDW, OMFJ, OMFJ, OMRK, OMDM)</td>
-    <td>FL210</td>
-    <td>ALSEM L305 ASTOG</td>
-  </tr>
-  <tr>
-    <td>Transiting Tehran FIR (FL200- @ ALKAN)</td>
-    <td>FL230</td>
-    <td>VAXIN T800 DASUT</td>
-  </tr>
-  <tr>
-    <td>Transiting Tehran FIR (FL190 @RAGAS)</td>
-    <td>FL190</td>
-    <td>ALVEN T430 RAGAS</td>
-  </tr>
-  <tr>
-    <td>Southern Emirates (OMAA, OMAD, OMAM, OMAL)</td>
-    <td>FL270</td>
-    <td>KUPRO</td>
-  </tr>
-  <tr>
-    <td>Bahrain (OBBI, OBBS, OBKH)</td>
-    <td>12,000ft</td>
-    <td>TULUB B457 / M444 / T444 KINID</td>
-  </tr>
-  <tr>
-    <td>Transiting Bahrain FIR onwards landing Kuwait FIR</td>
-    <td>FL430</td>
-    <td>TULUB M444 KINID</td>
-  </tr>
-  <tr>
-    <td>Transiting Jeddah FIR onwards landing Kuwait FIR</td>
-    <td>FL280</td>
-    <td>TULUB B457 KINID</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Transiting Kuwait FIR</td>
-    <td>FL430</td>
-    <td>LUBET T934 IMLAD</td>
-  </tr>
-  <tr>
-    <td>FL320</td>
-    <td>LUBET L934 IMLAD</td>
-  </tr>
-</tbody></table>
+| Destination                                              | Level Restriction         | Routing                        |
+|----------------------------------------------------------|--------------------------|--------------------------------|
+| Northern Emirates (OMDB, OMDW, OMFJ, OMFJ, OMRK, OMDM)   | FL210                    | ALSEM L305 ASTOG               |
+| Transiting Tehran FIR (FL200 @ ALKAN)                    | FL230                    | VAXIN T800 DASUT               |
+| Transiting Tehran FIR (FL190 @ RAGAS)                    | FL190                    | ALVEN T430 RAGAS               |
+| Southern Emirates (OMAA, OMAD, OMAM, OMAL)               | FL270                    | KUPRO                          |
+| Bahrain (OBBI, OBBS, OBKH)                               | 12,000ft                 | TULUB B457 / M444 / T444 KINID |
+| Transiting Bahrain FIR onwards landing Kuwait FIR         | FL430                    | TULUB M444 KINID               |
+| Transiting Jeddah FIR onwards landing Kuwait FIR          | FL280                    | TULUB B457 KINID               |
+| Transiting Kuwait FIR                                    | FL430                    | LUBET T934 IMLAD               |
+| Transiting Kuwait FIR                                    | FL320                    | LUBET L934 IMLAD               |
 <figure markdown>
   <figcaption>Table 3-2: Standard routes</figcaption>
 </figure>

@@ -2,6 +2,32 @@
 ## 4.1 General Provisions
 The Ground Movement Controller (GMC) is responsible for managing aircraft movements on all aerodrome movement areas except for runways and their associated taxiways. Departing aircraft are given pushback instructions and instructions to taxi to the runway holding point. Arriving aircraft are assigned a stand and instructed to taxi as appropriate.
 
+## 4.2 Parking Stands
+### 4.2.1 Concourse Details
+Throughout this document references will be made to the various concourses/aprons at Hamad. Below are the concourses and their associated stand references. This information is visible on the Parking Chart.
+
+| **Concourse**         | **Stand Information**                  |
+|-----------------------|----------------------------------------|
+| **Concourse A**       | Stands A1-A11                          |
+| **Concourse B**       | Stands B1-B10                          |
+| **Concourse C**       | Stands C1-C13                          |
+| **Concourse D**       | Stands 217-226                         |
+| **Concourse E**       | Stands 118-126                         |
+| **Remote Transfer G** | Stands G1-G10                          |
+| **Remote Transfer H** | Stands H1-H10                          |
+| **Apron 3**           | Stands 301-309                         |
+| **Apron 4**           | Stands W425E-W429E                     |
+| **Apron 5**           | Stands 501-564                         |
+| **Apron 6**           | Stands 601-637                         |
+| **Cargo**             | Stands F1-F16                          |
+| **Maintenance**       | Stands Q1-Q51                          |
+| **Victor Apron**      | Stands V6-V12                          |
+| **Emiri Apron**       | Stands V1-V5                           |
+
+
+### 4.2.2
+
+
 ## 4.2 Departure pushback procedures
 ### 4.2.1 General pushback procedures
 When aircraft have been handed off from GMP, they shall be fully ready for pushback, and have reached their TOBT. Assuming no obstructions, they shall be instructed to push back immediately. If an aircraft is cleared for push and start but does not begin pushing within 2-5 minutes, the pushback clearance is canceled, and a new TOBT is assigned.
@@ -58,21 +84,25 @@ A long pushback instruction shall require aircraft to complete the pushback oper
 Simultaneous pushbacks may be permitted from adjacent stands provided aircraft are instructed to manoeuvre in accordance with 4.2.2 such that on completion of both aircraft’s pushback operation, they will be separated on the taxiway by two aircraft stands.
 
 ### 4.2.4 Pushback Operations
-| **Concourse/Apron**     | **Instruction Details**                                                                                                                                                                                                                                           |
-|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Concourse A**         | Aircraft face West onto taxiway W and W1. <br> Stand A11: face North or South depending on departure runway. <br> Occasionally pushed onto W2 facing West.                                                                                                        |
-| **Concourse B**         | Aircraft face East onto taxiway E and E1. <br> Stand B10: face North or South depending on departure runway. <br> Occasionally pushed onto E2 facing East.                                                                                                        |
-| **Concourse C**         | Stands C1-C8: push back facing South onto E1 or W1. <br> Stands C9-C12: push back facing North onto E4 or W4. <br> Occasionally pushed onto E2/W2 (South) or E3/W3 (North).                                                                                       |
-| **Concourse D**         | Aircraft face North onto W4. <br> Occasionally pushed onto W3 facing North.                                                                                                                                                                                       |
-| **Concourse E**         | Aircraft face North onto E4. <br> Occasionally pushed onto E3 facing North.                                                                                                                                                                                       |
-| **Central Concourse**   | Aircraft face East or West depending on departure runway onto N.                                                                                                                                                                                                  |
+| **Concourse/Apron**     | **Instruction Details**                                                                                                                                                    |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Concourse A**         | Aircraft face West onto taxiway W and W1. <br> Stand A11: face North or South depending on departure runway. <br> Occasionally pushed onto W2 facing West.                 |
+| **Concourse B**         | Aircraft face East onto taxiway E and E1. <br> Stand B10: face North or South depending on departure runway. <br> Occasionally pushed onto E2 facing East.                 |
+| **Concourse C**         | Stands C1-C8: push back facing South onto E1 or W1. <br> Stands C9-C12: push back facing North onto E4 or W4. <br> Occasionally pushed onto E2/W2 (South) or E3/W3 (North).|
+| **Concourse D**         | Aircraft face North onto W4. <br> Occasionally pushed onto W3 facing North. <br> Stands 223-226 push on to J in the appropriate direction based on active runway |
+| **Concourse E**         | Aircraft face North onto E4. <br> Occasionally pushed onto E3 facing North. <br> Stands 124R, 125 and 126 push on to C in the appropriate direction based on active runway. |
+| **Apron 3**   | Aircraft face East or West depending on departure runway onto N.                                                                                                           |
 | **Remote Transfer H**   | Stands H1-H2: push back facing West onto W2. <br> Stand H3C: push back facing South onto W2. <br> Stands H4-H6: push back facing North onto W3. <br> Stands H7-H10: push back North or South onto J. <br> Occasionally pushed onto W1 (South/West) or W4 (North). |
 | **Remote Transfer G**   | Stands G1-G2: push back facing East onto E2. <br> Stand G3C: push back facing South onto E2. <br> Stands G4-G6: push back facing North onto E3. <br> Stands G7-G10: push back North or South onto C. <br> Occasionally pushed onto E1 (South/East) or E4 (North). |
-| **Apron Cargo**         | Aircraft face North or South depending on departure runway onto F.                                                                                                                                                                                                |
-| **Apron V**             | Stands V1-V7: face North or South onto V. <br> Stands V8-V12: push back North or South onto C.                                                                                                                                                                    |
-| **Apron 4**             | Aircraft face North or South depending on departure runway onto C or Q.                                                                                                                                                                                           |
-| **Apron 5**             | Aircraft face North or South depending on departure runway onto K. <br> Stands 551-564: face West onto Y.                                                                                                                                                         |
-| **Apron 6**             | Departures from runway 34L: face South onto S2 or S4. <br> Departures from runway 34R: face North. <br> Departures from runways 16L or 16R: face North onto S2 or S4.                                                                                             |
+| **Apron Cargo**         | Aircraft face North or South depending on departure runway onto F.                                                                                                         |
+| **Apron V & Emiri Apron** | Stands V1-V7: face North or South onto V. <br> Stands V8-V12: push back North or South onto C.                                                                           |
+| **Apron 4**             | Aircraft face North or South depending on departure runway onto C or Q.                                                                                                    |
+| **Apron 5**             | Aircraft face North or South depending on departure runway onto K. <br> Stands 551-564: face West onto Y.                                                                  |
+| **Apron 6**             | Departures from runway 34L: face South onto S2 or S4. <br> Departures from runway 34R: face North. <br> Departures from runways 16L or 16R: face North onto S2 or S4.      |
+
+!!! warning
+    Particular caution should be exercised when pushing traffic on Concourse D and E on to taxiway J and C respectively
+
 
 ## 4.3 Departure taxi procedures
 ### 4.3.1 General departure taxi procedures
@@ -108,9 +138,9 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 | **Concourse B, C (East), E, Remote Transfer G** | Aircraft on taxiways E, E1, E2, E3, E4: taxi to join B to hold short taxiway A10.                                               |
 |                                                 | Aircraft on taxiway D: taxi to join E1 and B to hold short taxiway A10.                                                         |
 |                                                 | Aircraft on taxiway C: taxi to join B to hold short taxiway A10.                                                                |
-| **Central Concourse**                           | Aircraft on taxiway N: taxi to join R and B to hold short taxiway A10.                                                          |
+| **Apron 3**                           | Aircraft on taxiway N: taxi to join R and B to hold short taxiway A10.                                                          |
 | **Apron Cargo**                                 | Aircraft on taxiway F: taxi to join B to hold short taxiway A10.                                                                |
-| **Apron V**                                     | Aircraft on taxiway V: taxi to join B to hold short taxiway A10.                                                                |
+| **Apron V & Emiri Apron**                       | Aircraft on taxiway V: taxi to join B to hold short taxiway A10.                                                                |
 |                                                 | Aircraft on taxiway C: taxi to join B to hold short taxiway A10.                                                                |
 | **Apron 4**                                     | Aircraft on taxiway Q: taxi to join C or B to hold short taxiway A10.                                                           |
 | **Apron 5**                                     | Aircraft on taxiway K: taxi to join R and B to hold short taxiway A10.                                                          |
@@ -126,9 +156,9 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 | **Concourse B, C (East), E, Remote Transfer G** | Aircraft on taxiways E, E1, E2, E3, E4: taxi to join C, S, and K to hold short taxiway L10.                                     |
 |                                                 | Aircraft on taxiway D: taxi to join E1, C, S, and K to hold short taxiway L10.                                                  |
 |                                                 | Aircraft on taxiway C: taxi to join S, and K to hold short taxiway L10.                                                         |
-| **Central Concourse**                           | Aircraft on taxiway N: taxi to join S and K to hold short taxiway L10.                                                          |
+| **Apron 3**                           | Aircraft on taxiway N: taxi to join S and K to hold short taxiway L10.                                                          |
 | **Apron Cargo**                                 | Aircraft on taxiway F: taxi to join C, S, and K to hold short taxiway L10.                                                      |
-| **Apron V**                                     | Aircraft on taxiway V: taxi to join C, S, and K to hold short taxiway L10.                                                      |
+| **Apron V & Emiri Apron**                       | Aircraft on taxiway V: taxi to join C, S, and K to hold short taxiway L10.                                                      |
 |                                                 | Aircraft on taxiway C: taxi to join S and K to hold short taxiway L10.                                                          |
 | **Apron 4**                                     | Aircraft on taxiway Q: taxi to join F or B, then continue onto S and K to hold short taxiway L10.                               |
 | **Apron 5**                                     | Aircraft on taxiway K: taxi to hold short taxiway L10.                                                                          |
@@ -144,9 +174,9 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 | **Concourse B, C (East), E, Remote Transfer G** | Aircraft on taxiways E, E1, E2, E3, E4: taxi to join C, S, and K and hold short taxiway L2.                                                                       |
 |                                                 | Aircraft on taxiway D: taxi to join C, S, and K and hold short taxiway L2.                                                                                        |
 |                                                 | Aircraft on taxiway C: taxi to join S, K, and hold short taxiway L2.                                                                                              |
-| **Central Concourse**                           | Aircraft on taxiway N: taxi to join S, K, and hold short taxiway L2.                                                                                              |
+| **Apron 3**                           | Aircraft on taxiway N: taxi to join S, K, and hold short taxiway L2.                                                                                              |
 | **Apron Cargo**                                 | Aircraft on taxiway F: taxi to join C, S, K, and hold short taxiway L2.                                                                                           |
-| **Apron V**                                     | Aircraft on taxiway V: taxi to join C, S, K, and hold short taxiway L2.                                                                                           |
+| **Apron V & Emiri Apron**                       | Aircraft on taxiway V: taxi to join C, S, K, and hold short taxiway L2.                                                                                           |
 |                                                 | Aircraft on taxiway C: taxi to join S, K, and hold short taxiway L2.                                                                                              |
 | **Apron 4**                                     | Aircraft on taxiway C or Q: taxi to join F, C, S, K, and hold short taxiway L2.                                                                                   |
 | **Apron 5**                                     | Aircraft on taxiway K: taxi and hold short taxiway L2.                                                                                                            |
@@ -163,9 +193,9 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 | **Concourse B, C (East), E, Remote Transfer G** | Aircraft on taxiways E, E1, E2, E3, E4: taxi to join either B or C and hold short taxiway A2.                                              |
 |                                                 | Aircraft on taxiway D: taxi to join B and hold short taxiway A2.                                                                           |
 |                                                 | Aircraft on taxiway C: taxi to join B and hold short taxiway A2.                                                                           |
-| **Central Concourse**                           | Aircraft on taxiway N: taxi to join R, B, and continue and hold short taxiway A2.                                                          |
+| **Apron 3**                           | Aircraft on taxiway N: taxi to join R, B, and continue and hold short taxiway A2.                                                          |
 | **Apron Cargo**                                 | Aircraft on taxiway F: taxi to join B and hold short taxiway A2.                                                                           |
-| **Apron V**                                     | Aircraft on taxiway V: taxi to join C and hold short taxiway A2.                                                                           |
+| **Apron V & Emiri Apron**                       | Aircraft on taxiway V: taxi to join C and hold short taxiway A2.                                                                           |
 |                                                 | Aircraft on taxiway C: taxi and hold short taxiway A2.                                                                                     |
 | **Apron 4**                                     | Aircraft on taxiway C: taxi to join B and hold short taxiway A2.                                                                           |
 |                                                 | Aircraft on taxiway Q: taxi to join B and hold short taxiway A2.                                                                           |
@@ -195,11 +225,11 @@ Once the aircraft is handed off to GMC, they can be directed to their assigned s
 | **Concourse A, C (West), D, Remote Transfer H** | Aircraft vacating via A8 and A7: Taxi to join S, K, and proceed to W1, W2, W3, W4, or H.      |
 |                                                 | Aircraft vacating via A3: Taxi to join C, S, K, and proceed to W1, W2, W3, W4, or H.          |
 | **Concourse B, C (East), D, Remote Transfer G** | Aircraft vacating via A8, A7, and A3: Taxi to join B and proceed to E1, E2, E3, E4, or D.     |
-| **Central Concourse**                           | Aircraft vacating via A8 and A7: Taxi to join S and proceed to T1 or T4 to join N.            |
+| **Apron 3**                           | Aircraft vacating via A8 and A7: Taxi to join S and proceed to T1 or T4 to join N.            |
 |                                                 | Aircraft vacating via A3: Taxi to join C, S and proceed to T1 or T4 to join N.                |
 | **Cargo Apron**                                 | Aircraft vacating via A8 and A7: Taxi to join B.                                              |
 |                                                 | Aircraft vacating via A3: Taxi to join C.                                                     |
-| **Apron V**                                     | Aircraft vacating via A8, A7, and A3: Taxi to join B to join C or D.                          |
+| **Apron V & Emiri Apron**                       | Aircraft vacating via A8, A7, and A3: Taxi to join B to join C or D.                          |
 | **Apron 4**                                     | Aircraft vacating via A8 and A7: Taxi to join B and then Q.                                   |
 |                                                 | Aircraft vacating via A3: Taxi to join C and then Q.                                          |
 | **Apron 5**                                     | Aircraft vacating via A8 and A7: Taxi to join S and K.                                        |
@@ -213,11 +243,11 @@ Once the aircraft is handed off to GMC, they can be directed to their assigned s
 | **Concourse A, C (West), D, Remote Transfer H** | Aircraft vacating via L8 and L5: Taxi to join K, R, B, and proceed to join E1, E2, E3, E4, or D. |
 |                                                 | Aircraft vacating via L3: Taxi to join J, R, B, and proceed to join E1, E2, E3, E4, or D.        |
 | **Concourse B, C (East), D, Remote Transfer G** | Aircraft vacating via L8, L5, and L3: Taxi to join K and proceed to join W1, W2, W3, W4, or H.   |
-| **Central Concourse**                           | Aircraft vacating via L8 and L5: Taxi to join K, R and proceed via T1 or T4 to join N.           |
+| **Apron 3**                           | Aircraft vacating via L8 and L5: Taxi to join K, R and proceed via T1 or T4 to join N.           |
 |                                                 | Aircraft vacating via L3: Taxi to join J, R, and proceed via T1 or T4 to join N.                 |
 | **Cargo Apron**                                 | Aircraft vacating via L8 and L5: Taxi to join K, R, and C.                                       |
 |                                                 | Aircraft vacating via L3: Taxi to join J, R, and C.                                              |
-| **Apron V**                                     | Aircraft vacating via L8 and L5: Taxi to join K, R, and B to join C or D.                        |
+| **Apron V & Emiri Apron**                       | Aircraft vacating via L8 and L5: Taxi to join K, R, and B to join C or D.                        |
 |                                                 | Aircraft vacating via L3: Taxi to join J, K, R, and B to join C or D.                            |
 | **Apron 4**                                     | Aircraft vacating via L8 and L5: Taxi to join K, R, and C or B.                                  |
 |                                                 | Aircraft vacating via L3: Taxi to join J, R, and C or B.                                         |
@@ -231,9 +261,9 @@ Once the aircraft is handed off to GMC, they can be directed to their assigned s
 |-------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | **Concourse A, C (West), D, Remote Transfer H** | Aircraft vacating via L4, L6, and L9 shall taxi to join K and then proceed to W1, W2, W3, W4, or H.        |
 | **Concourse B, C (East), D, Remote Transfer G** | Aircraft vacating via L4, L6, and L9 shall taxi to join K, R, B, and then proceed to E1, E2, E3, E4, or D. |
-| **Central Concourse**                           | Aircraft vacating via L4, L6, and L9 shall taxi to join K, R, and then T1 or T2 to join N.                 |
+| **Apron 3**                           | Aircraft vacating via L4, L6, and L9 shall taxi to join K, R, and then T1 or T2 to join N.                 |
 | **Cargo Apron**                                 | Aircraft vacating via L4, L6, and L9 shall taxi to join K, R, and then C or B.                             |
-| **Apron V**                                     | Aircraft vacating via L4, L6, and L9 shall taxi to join K, R, and B, and then proceed to C or D.           |
+| **Apron V & Emiri Apron**                       | Aircraft vacating via L4, L6, and L9 shall taxi to join K, R, and B, and then proceed to C or D.           |
 | **Apron 4**                                     | Aircraft vacating via L4, L6, and L9 shall taxi to join K, R, and B to join Q.                             |
 | **Apron 5**                                     | Aircraft vacating via L4, L6, and L9 shall taxi to join K.                                                 |
 | **Apron 6**                                     | Aircraft vacating via M6, M8, and M10 shall taxi to join M, S1, and then proceed to S2 or S4.              |
@@ -243,9 +273,9 @@ Once the aircraft is handed off to GMC, they can be directed to their assigned s
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | **Concourse A, C (West), D, Remote Transfer H** | Aircraft vacating via A4, A5, and A9 shall taxi to join B, S, and proceed to W1, W2, W3, W4, or H.      |
 | **Concourse B, C (East), D, Remote Transfer G** | Aircraft vacating via A4, A5, and A9 shall taxi to join B and proceed to E1, E2, E3, E4, or D.          |
-| **Central Concourse**                           | Aircraft vacating via A4, A5, and A9 shall taxi to join B, S, and then T1 or T2 to join N.              |
+| **Apron 3**                           | Aircraft vacating via A4, A5, and A9 shall taxi to join B, S, and then T1 or T2 to join N.              |
 | **Cargo Apron**                                 | Aircraft vacating via A4, A5, and A9 shall taxi to join B or C.                                         |
-| **Apron V**                                     | Aircraft vacating via A4, A5, and A9 shall taxi to join B and then proceed to C or D.                   |
+| **Apron V & Emiri Apron**                       | Aircraft vacating via A4, A5, and A9 shall taxi to join B and then proceed to C or D.                   |
 | **Apron 4**                                     | Aircraft vacating via A4, A5, and A9 shall taxi to join B to join Q.                                    |
 | **Apron 5**                                     | Aircraft vacating via A4, A5, and A9 shall taxi to join B, S, and K.                                    |
 | **Apron 6**                                     | Aircraft vacating via A4, A5, and A9 shall taxi to join B, S, and S2, and then proceed to S2 or S4.     |
@@ -258,7 +288,7 @@ Once the aircraft is handed off to GMC, they can be directed to their assigned s
 |    Concourse C    |            Stands C1 to C13           |           International Operators, QTR          |
 |    Concourse D    |            Stands D1 and D3           |           International Operators, QTR          |
 |    Concourse E    |            Stands E1 and E3           |           International Operators, QTR          |
-| Central Concourse |           Stands 301 to 309           |                       QTR                       |
+| Apron 3 |           Stands 301 to 309           |                       QTR                       |
 | Remote Transfer G |            Stands H1 to H10           | Low Cost Carriers, International Operators, QTR |
 | Remote Transfer H |            Stands G1 to G10           | Low Cost Carriers, International Operators, QTR |
 |    Cargo Apron    |            Stands F1 to F16           |              Cargo, QTR (Overflow)              |
@@ -273,9 +303,9 @@ Once the aircraft is handed off to GMC, they can be directed to their assigned s
 ### 4.4.7 Stand restrictions
 | **Location**                                                                  | **Aircraft Code Handling**                                                                                                                                                      |
 |-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Concourse A to E (including Central Concourse and Remote Transfer Aprons)** | All stands can handle aircraft up to code E. Stands with designators of L or R are limited to code C.                                                                           |
+| **Concourse A to E (including Apron 3 and Remote Transfer Aprons)** | All stands can handle aircraft up to code E. Stands with designators of L or R are limited to code C.                                                                           |
 | **Cargo Apron**                                                               | All stands can handle aircraft up to code E.                                                                                                                                    |
-| **Apron V**                                                                   | All stands can handle aircraft up to code E. Stands with designators of L or R are limited to code C.                                                                           |
+| **Apron V & Emiri Apron**                       | All stands can handle aircraft up to code E. Stands with designators of L or R are limited to code C.                                                                           |
 | **Apron 4**                                                                   | All stands can handle aircraft up to code C.                                                                                                                                    |
 | **Apron 5**                                                                   | All stands can handle aircraft up to code E. Stands with designators of L or R are limited to code C. Stands 551 to 564 are limited to code C.                                  |
 | **Apron 6**                                                                   | All stands can handle aircraft up to code E. Stands with designators of L or R are limited to code C.                                                                           |
@@ -296,7 +326,7 @@ GMC 1 manages aircraft movements in the following areas and their associated tax
 - Concourse B  
 - Concourse C (East Side)  
 - Concourse E  
-- Central Concourse (shared with GMC 2)  
+- Apron 3 (shared with GMC 2)  
 - Remote Transfer G  
 - Cargo Apron  
 - Maintenance Apron  
@@ -307,7 +337,7 @@ GMC 2 manages aircraft movements in the following areas and their associated tax
 - Concourse A  
 - Concourse C (West Side)  
 - Concourse D  
-- Central Concourse (shared with GMC 1)  
+- Apron 3 (shared with GMC 1)  
 - Remote Transfer H1  
 - Apron 5  
 

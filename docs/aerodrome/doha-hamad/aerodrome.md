@@ -53,174 +53,39 @@
 |         34R        |      338° / 336°      |    4850 x 60   |
 
 ### 1.4.2 Declared distances (take-off)
-<table><thead>
-  <tr>
-    <th>Runway</th>
-    <th>Intersection</th>
-    <th>Take-off Run Available (TORA)</th>
-    <th>Accelerate Stop Distance Available (ASDA)</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td rowspan="4">16L</td>
-    <td>FULL LENGTH</td>
-    <td>4850 m</td>
-    <td>4850 m</td>
-  </tr>
-  <tr>
-    <td>A11</td>
-    <td>4730 m</td>
-    <td>4730 m</td>
-  </tr>
-  <tr>
-    <td>A10</td>
-    <td>4082 m</td>
-    <td>4082 m</td>
-  </tr>
-  <tr>
-    <td>A6</td>
-    <td>2497 m</td>
-    <td>2497 m</td>
-  </tr>
-  <tr>
-    <td rowspan="5">34R</td>
-    <td>FULL LENGTH</td>
-    <td>4850 m</td>
-    <td>4850 m</td>
-  </tr>
-  <tr>
-    <td>A1</td>
-    <td>4730 m</td>
-    <td>4730 m</td>
-  </tr>
-  <tr>
-    <td>A2</td>
-    <td>4266 m</td>
-    <td>4266 m</td>
-  </tr>
-  <tr>
-    <td>A3</td>
-    <td>3077 m</td>
-    <td>3077 m</td>
-  </tr>
-  <tr>
-    <td>A6</td>
-    <td>2386 m</td>
-    <td>2386 m</td>
-  </tr>
-  <tr>
-    <td rowspan="11">16R</td>
-    <td>FULL LENGTH</td>
-    <td>4250 m</td>
-    <td>4250 m</td>
-  </tr>
-  <tr>
-    <td>M13</td>
-    <td>4212 m</td>
-    <td>4212 m</td>
-  </tr>
-  <tr>
-    <td>L11</td>
-    <td>4130 m</td>
-    <td>4130 m</td>
-  </tr>
-  <tr>
-    <td>M12</td>
-    <td>3817 m</td>
-    <td>3817 m</td>
-  </tr>
-  <tr>
-    <td>L10</td>
-    <td>3614 m</td>
-    <td>3614 m</td>
-  </tr>
-  <tr>
-    <td>M11</td>
-    <td>3613 m</td>
-    <td>3613 m</td>
-  </tr>
-  <tr>
-    <td>L7</td>
-    <td>2348 m</td>
-    <td>2348 m</td>
-  </tr>
-  <tr>
-    <td>R</td>
-    <td>1704 m</td>
-    <td>1704 m</td>
-  </tr>
-  <tr>
-    <td>R1</td>
-    <td>1704 m</td>
-    <td>1704 m</td>
-  </tr>
-  <tr>
-    <td>S</td>
-    <td>1604 m</td>
-    <td>1604 m</td>
-  </tr>
-  <tr>
-    <td>S1</td>
-    <td>1604 m</td>
-    <td>1604 m</td>
-  </tr>
-  <tr>
-    <td rowspan="11">34L</td>
-    <td>FULL LENGTH</td>
-    <td>4250 m</td>
-    <td>4250 m</td>
-  </tr>
-  <tr>
-    <td>M2</td>
-    <td>4195 m</td>
-    <td>4195 m</td>
-  </tr>
-  <tr>
-    <td>L1</td>
-    <td>4122 m</td>
-    <td>4122 m</td>
-  </tr>
-  <tr>
-    <td>M3</td>
-    <td>3785 m</td>
-    <td>3785 m</td>
-  </tr>
-  <tr>
-    <td>L2</td>
-    <td>3646 m</td>
-    <td>3646 m</td>
-  </tr>
-  <tr>
-    <td>M4</td>
-    <td>3646 m</td>
-    <td>3646 m</td>
-  </tr>
-  <tr>
-    <td>S</td>
-    <td>2672 m</td>
-    <td>2672 m</td>
-  </tr>
-  <tr>
-    <td>S1</td>
-    <td>2672 m</td>
-    <td>2672 m</td>
-  </tr>
-  <tr>
-    <td>R</td>
-    <td>2572 m</td>
-    <td>2572 m</td>
-  </tr>
-  <tr>
-    <td>R1</td>
-    <td>2572 m</td>
-    <td>2572 m</td>
-  </tr>
-  <tr>
-    <td>L7</td>
-    <td>1935 m</td>
-    <td>1935 m</td>
-  </tr>
-</tbody></table>
+| Runway | Intersection   | Take-off Run Available (TORA) | Accelerate Stop Distance Available (ASDA) |
+|:------:|:--------------:|:-----------------------------:|:-----------------------------------------:|
+| 16L    | FULL LENGTH    | 4850 m                        | 4850 m                                    |
+| 16L    | A11            | 4730 m                        | 4730 m                                    |
+| 16L    | A10            | 4082 m                        | 4082 m                                    |
+| 16L    | A6             | 2497 m                        | 2497 m                                    |
+| 34R    | FULL LENGTH    | 4850 m                        | 4850 m                                    |
+| 34R    | A1             | 4730 m                        | 4730 m                                    |
+| 34R    | A2             | 4266 m                        | 4266 m                                    |
+| 34R    | A3             | 3077 m                        | 3077 m                                    |
+| 34R    | A6             | 2386 m                        | 2386 m                                    |
+| 16R    | FULL LENGTH    | 4250 m                        | 4250 m                                    |
+| 16R    | M13            | 4212 m                        | 4212 m                                    |
+| 16R    | L11            | 4130 m                        | 4130 m                                    |
+| 16R    | M12            | 3817 m                        | 3817 m                                    |
+| 16R    | L10            | 3614 m                        | 3614 m                                    |
+| 16R    | M11            | 3613 m                        | 3613 m                                    |
+| 16R    | L7             | 2348 m                        | 2348 m                                    |
+| 16R    | R              | 1704 m                        | 1704 m                                    |
+| 16R    | R1             | 1704 m                        | 1704 m                                    |
+| 16R    | S              | 1604 m                        | 1604 m                                    |
+| 16R    | S1             | 1604 m                        | 1604 m                                    |
+| 34L    | FULL LENGTH    | 4250 m                        | 4250 m                                    |
+| 34L    | M2             | 4195 m                        | 4195 m                                    |
+| 34L    | L1             | 4122 m                        | 4122 m                                    |
+| 34L    | M3             | 3785 m                        | 3785 m                                    |
+| 34L    | L2             | 3646 m                        | 3646 m                                    |
+| 34L    | M4             | 3646 m                        | 3646 m                                    |
+| 34L    | S              | 2672 m                        | 2672 m                                    |
+| 34L    | S1             | 2672 m                        | 2672 m                                    |
+| 34L    | R              | 2572 m                        | 2572 m                                    |
+| 34L    | R1             | 2572 m                        | 2572 m                                    |
+| 34L    | L7             | 1935 m                        | 1935 m                                    |
 
 ### 1.4.3 Declared distances (landing)
 | Runway | Landing Distance Available (at Threshold) |

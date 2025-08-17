@@ -7,12 +7,12 @@
 
 | IATA | ICAO | Charts                                          | NOTAM(s)   |
 |:----:|:----:|:-----------------------------------------------:|:----------:|
-| DOH  | OTHH | [Qatar eAIP](https://www.aim.gov.qa/eAIP1.html) |            |
+| DOH  | OTHH | [Qatar eAIP](https://www.caa.gov.qa/en/aeronautical-information-management) |            |
 
 Hamad International Airport is an international airport in Qatar and serves as the main hub for the national flag carrier, Qatar Airways. Located to the east of the capital city, Doha, it has replaced the nearby Doha International Airport as Qatar's primary national airport and has become one of the busiest airports in the Middle East.
 
 ## Charts & Scenery
-Pilots can access the latest charts through the following sources: [Chartfox (Free, VATSIM login required)](https://chartfox.org/), [Qatar eAIP](https://www.aim.gov.qa/eAIP1.html), or [Navigraph (Subscription required)](https://navigraph.com/).
+Pilots can access the latest charts through the following sources: [Chartfox (Free, VATSIM login required)](https://chartfox.org/), [Qatar eAIP](https://www.caa.gov.qa/en/aeronautical-information-management), or [Navigraph (Subscription required)](https://navigraph.com/).
 
 | Simulator      | Freeware                                                                           | Payware                                                                                                                           |
 |----------------|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|

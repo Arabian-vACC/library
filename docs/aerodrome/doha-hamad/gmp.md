@@ -85,7 +85,7 @@ For instance, flights departing the TMA toward the northeast will use runway 16L
 | VAXIN2M      | 5000ft        |              |               | ULIKA1W      | 4000ft        | TULUB2E      | 4000ft        |
 |              |               |              |               |              |               | VAXIN3E      | 4000ft        |
 <figure markdown>
-  <figcaption>Table 2-1: RNAV SIDs</figcaption>
+  <figcaption>Table 3-1: RNAV SIDs</figcaption>
 </figure>
 
 !!! warning
@@ -140,7 +140,7 @@ Departures heading eastbound shall be handed over to Doha Approach (East), while
     **Controller**: "TCM1TM, readback correct, QNH 1014, report ready for pushback."
 
 ## 3.4 Rerouting aircraft
-An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2. 
+An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 3-2. 
 
 Several routing restrictions exist within Qatari airspace and are detailed in the Qatari Route Manual which must be complied with when issuing a departure clearance. 
 
@@ -151,65 +151,25 @@ The Arabian vACC Operations Department maintains an up-to-date route database on
 !!! example
     **Controller**: "QTR30N, cleared to Zagreb via the TULUB2E departure, ALSEM - B457 - KINID, flight planned route. Climb via the SID altitude 4000ft, squawk 2612."
 
-<table><thead>
-  <tr>
-    <th>Destination</th>
-    <th>Level Restriction</th>
-    <th>Routing</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>Northern Emirates (OMDB, OMDW, OMFJ, OMFJ, OMRK, OMDM) (FL210 @ ASTOG)</td>
-    <td>FL210</td>
-    <td>ALSEM L305 ASTOG</td>
-  </tr>
-  <tr>
-    <td>Southern Emirates (OMAA, OMAD, OMAM, OMAL) (Max FL210)</td>
-    <td>FL270</td>
-    <td>KUPRO</td>
-  </tr>
-  <tr>
-    <td>Transiting Tehran FIR (FL230 @ DASUT)</td>
-    <td>FL230</td>
-    <td>VAXIN T800 DASUT</td>
-  </tr>
-  <tr>
-    <td>Transiting Tehran FIR (FL190 @ RAGAS)</td>
-    <td>FL190</td>
-    <td>ALVEN T430 RAGAS</td>
-  </tr>
-  <tr>
-    <td>Bahrain (OBBI, OBBS, OBKH)</td>
-    <td>12,000ft</td>
-    <td>TULUB B457 / M444 / T444 KINID</td>
-  </tr>
-  <tr>
-    <td>Transiting Bahrain FIR onwards landing Kuwait FIR</td>
-    <td>FL260</td>
-    <td>TULUB B457 KINID</td>
-  </tr>
-  <tr>
-    <td>Transiting Jeddah FIR onwards landing Kuwait FIR</td>
-    <td>FL260</td>
-    <td>TULUB M444 KINID</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Transiting Kuwait FIR</td>
-    <td>FL260</td>
-    <td>LUBET T934 IMLAD</td>
-  </tr>
-  <tr>
-    <td>FL260</td>
-    <td>LUBET L934 IMLAD</td>
-  </tr>
-</tbody></table>
+| Destination                                                            | Level Restriction | Routing                       |
+|------------------------------------------------------------------------|-------------------|-------------------------------|
+| Northern Emirates (OMDB, OMDW, OMFJ, OMFJ, OMRK, OMDM) (FL210 @ ASTOG) | FL210             | ALSEM L305 ASTOG              |
+| Southern Emirates (OMAA, OMAD, OMAM, OMAL) (Max FL210)                 | FL270             | KUPRO                         |
+| Transiting Tehran FIR (FL230 @ DASUT)                                  | FL230             | VAXIN T800 DASUT              |
+| Transiting Tehran FIR (FL190 @ RAGAS)                                  | FL190             | ALVEN T430 RAGAS              |
+| Bahrain (OBBI, OBBS, OBKH)                                             | 12,000ft          | TULUB B457 / M444 / T444 KINID|
+| Transiting Bahrain FIR onwards landing Kuwait FIR                      | FL260             | TULUB B457 KINID              |
+| Transiting Jeddah FIR onwards landing Kuwait FIR                       | FL260             | TULUB M444 KINID              |
+| Transiting Kuwait FIR                                                  | FL260             | LUBET T934 IMLAD              |
+| Transiting Kuwait FIR                                                  | FL260             | LUBET L934 IMLAD              |
+
 <figure markdown>
-  <figcaption>Table 2-2: Standard routes</figcaption>
+  <figcaption>Table 3-2: Standard routes</figcaption>
 </figure>
 
 ## 3.5 Requested cruising level
 ### 3.5.1 Level restrictions
-Aircraft routes out of the aerodrome must comply with all routing and level restrictions as described in section 3.1 of Arabian MATS P1, Arabian Route Manual and Table 2-2. This is based on direction and type of flight. 
+Aircraft routes out of the aerodrome must comply with all routing and level restrictions as described in section 3.1 of Arabian MATS P1 and Table 3-2. This is based on direction and type of flight. 
 
 Should an aircraft file an invalid cruise level, GMP shall advise the aircraft of this when delivering the clearance. In all cases, the next lowest valid cruise level shall be assigned, and the aircraft advised.
 
@@ -223,9 +183,9 @@ The TOBT system allows aircraft to push back, taxi to the runway holding point, 
     **Controller**: "QTR1, hold position. Number 5 for startup, expect pushback at time 15."
 
 ## 3.7 Runway change procedure
-AIR shall provide ample notice to GMP before changing runway configuration. The last departure using the old configuration shall be coordinated between AIR, GMP, GMC and approach/departure. 
+AIR shall provide ample notice to GMP before changing runway configuration. The last departure using the old configuration shall be coordinated between AIR, GMP, GMC and APP/DEP. 
 
 Aircraft that have already been cleared to depart using the old configuration shall be re-cleared if they have not already requested pushback.
 
 ## 3.8 VFR aircraft
-VFR traffic is not allowed at Hamad International Airport. Pilots intending to fly VFR are advised to operate from Doha International Airport (OTBD) instead.
+VFR traffic is not permitted at Hamad International Airport. Pilots intending to fly VFR are advised to operate from Doha International Airport (OTBD) instead.
