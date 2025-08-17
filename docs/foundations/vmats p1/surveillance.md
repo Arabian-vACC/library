@@ -153,10 +153,10 @@ These minima shall be applied under the following circumstances:
   <figcaption>Figure 5-2: Aircraft crossing behind</figcaption>
 </figure>
 
-### 5.4.5 Separation from aircraft that are holding
+### 5.5.5 Separation from aircraft that are holding
 Where vertical separation does not exist between aircraft established in a holding pattern and aircraft not holding, a minimum of 5.0 NM of horizontal separation must exist. 
 
-### 5.4.6 Separation of aircraft on reciprocal tracks
+### 5.5.6 Separation of aircraft on reciprocal tracks
 Where confirmation has been obtained from radar derived that aircraft on reciprocal tracks have passed, there is no requirement to ensure that minimum radar separation exists before reducing the minimum vertical separation provided:
 
 - Both aircraft are properly identified; and
@@ -164,23 +164,23 @@ Where confirmation has been obtained from radar derived that aircraft on recipro
 - The distance between the position symbols is increasing; and
 - The position symbols are not touching or overlapping
 
-### 5.4.7 Verification of Mode C altitude readout
+### 5.5.7 Verification of Mode C altitude readout
 Verification of pressure-altitude-derived level information (Mode C) displayed to the controller shall be effected by simultaneous comparison (reported and observed) at least once on initial contact by the first controller providing a surveillance service, when an aircraft enters civil controlled airspace after departure from an aerodrome within the Arabian FIRs or, on arrival/transit into civil controlled airspace within the Arabian FIRs. 
 
 Following successful verification, the Mode C information may be considered to remain verified provided it is associated with a Mode A SSR Code that has been previously validated by another Arabian FIRs controller and that the observed Mode C information has an error of 200ft or less at all levels within the Arabian FIRs.
 
-### 5.4.8 Determination of level occupancy
-#### 5.4.8.1 Maintaining a level
-An aircraft may be considered to be maintaining a level when the observed altitude readout is within the tolerances, of the assigned level, as laid down in 5.4.8.
+### 5.5.8 Determination of level occupancy
+#### 5.5.8.1 Maintaining a level
+An aircraft may be considered to be maintaining a level when the observed altitude readout is within the tolerances, of the assigned level, as laid down in 5.5.7.
 
-#### 5.4.8.2 Vacating a level
+#### 5.5.8.2 Vacating a level
 An aircraft can be considered to have vacated a level during a climb or descent when the observed altitude readout is more than 200ft from the previously occupied level, in the anticipated direction.
 
-#### 5.4.8.3 Passing a level
+#### 5.5.8.3 Passing a level
 An aircraft may be considered to have crossed a level during a climb or descent when the observed altitude readout has passed the level by more than 200ft in the required direction. 
 
-#### 5.4.8.4 Reaching a level
-An aircraft may be considered to have reached a level to which it had been cleared when whichever is the greater of 3 sensor or display updates, or 15 seconds has passed since the level information has indicated that it is within the appropriate tolerance required in 5.4.8.
+#### 5.5.8.4 Reaching a level
+An aircraft may be considered to have reached a level to which it had been cleared when whichever is the greater of 3 sensor or display updates, or 15 seconds has passed since the level information has indicated that it is within the appropriate tolerance required in 5.5.8.
 
-#### 5.4.8.5 Departing a runway
+#### 5.5.8.5 Departing a runway
 Aircraft may be considered to have departed a runway when the surveillance display indicates a positive rate of climb from the aerodrome elevation. However, Mode C information shall not be used when the display varies by more than 200ft from the aerodrome elevation during the take-off roll.

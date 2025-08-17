@@ -76,7 +76,7 @@ During the intermediate and final approach phase, speed changes exceeding 20 kno
 
 Controllers must be aware that aircraft must achieve a stabilised approach by 1000 ft above aerodrome level (AAL). As such speed control inside 4 nautical miles from touchdown should be avoided.
 
-In addition, instructions to maintain speeds greater than 160 knots within an 8 nautical mile final should be avoided.
+In addition, instructions to maintain speeds greater than 160 knots within a 7 nautical mile final should be avoided.
 
 ## 2.3 Vertical speed control
 In order to maintain a safe and organised flow of traffic, aircraft can be instructed to adjust their climb and descent rates. This may be applied to two climbing aircraft or two descending aircraft to ensure adequate vertical separation exists.
