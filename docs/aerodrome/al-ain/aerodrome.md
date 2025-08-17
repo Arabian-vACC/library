@@ -1,6 +1,6 @@
 # 1. Aerodrome Information
 ## 1.1 Aerodrome Details
-| ICAO Code                            |    OMAL                |
+| ICAO Code                            |   OMAL                 |
 |:------------------------------------:|:----------------------:|
 | Aerodrome Reference Point (ARP)      |  N 24 15.7 E 055 36.6  |
 | Elevation                            |          865FT         |

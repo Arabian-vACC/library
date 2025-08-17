@@ -71,111 +71,19 @@ For instance, flights departing the TMA toward the northeast will use runway 16L
     Assigning an incorrect runway for a given direction will cause EuroScope to default to a radar-vectored departure, such as KASIS, IVENA, PARES, or DEMBO. If one of these four departures appears, it indicates that the runway assigned does not match the intended direction of flight, and the runway assignment should be reviewed and corrected accordingly.
 
 !!! note
-    The TULUB departure is available for both runways and should be assigned based on runway capacity and the current departure rate. Coordination with the relevant APP controller is required.
+    The TULUB and LUBET departure are available for both runways and should be assigned based on runway capacity and the current departure rate. Coordination with the relevant APP controller is required.
 
-<table><thead>
-  <tr>
-    <th>SID<br>16L</th>
-    <th>Initial Climb</th>
-    <th>SID<br>16R</th>
-    <th>Initial Climb</th>
-    <th>SID<br>34L</th>
-    <th>Initial Climb</th>
-    <th>SID<br>34R</th>
-    <th>Initial Climb</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>ALSEM2M</td>
-    <td>5000ft</td>
-    <td>BUNDU2C</td>
-    <td>7000ft</td>
-    <td>DATRI1W</td>
-    <td>4000ft</td>
-    <td>ALSEM2E</td>
-    <td>4000ft</td>
-  </tr>
-  <tr>
-    <td>ALVEN2M</td>
-    <td>5000ft</td>
-    <td>DATRI1C</td>
-    <td>7000ft</td>
-    <td>LUBET1A</td>
-    <td>10000ft</td>
-    <td>ALVEN3E</td>
-    <td>4000ft</td>
-  </tr>
-  <tr>
-    <td>KASIS2</td>
-    <td>5000ft</td>
-    <td>IVENA2</td>
-    <td>5000ft</td>
-    <td>LUBET1W</td>
-    <td>4000ft</td>
-    <td>BUNDU2E</td>
-    <td>4000ft</td>
-  </tr>
-  <tr>
-    <td>KUPRO1M</td>
-    <td>5000ft</td>
-    <td>LUBET1C</td>
-    <td>6000ft</td>
-    <td>PARES2</td>
-    <td>4000ft</td>
-    <td>DEMBO3</td>
-    <td>4000ft</td>
-  </tr>
-  <tr>
-    <td>LUBET1M</td>
-    <td>5000ft</td>
-    <td>TULUB1C</td>
-    <td>6000ft</td>
-    <td><b>TULUB1A</b></td>
-    <td>10000ft</td>
-    <td>KUPRO1E</td>
-    <td>4000ft</td>
-  </tr>
-  <tr>
-    <td>LUBET1Y</td>
-    <td>5000ft</td>
-    <td>ULIKA1C</td>
-    <td>7000ft</td>
-    <td>TULUB1W</td>
-    <td>4000ft</td>
-    <td>LUBET2E</td>
-    <td>4000ft</td>
-  </tr>
-  <tr>
-    <td>TULUB1M</td>
-    <td>5000ft</td>
-    <td></td>
-    <td></td>
-    <td><b>ULIKA1A</b></td>
-    <td>4000ft</td>
-    <td>LUBET2Z</td>
-    <td>4000ft</td>
-  </tr>
-  <tr>
-    <td>VAXIN2M</td>
-    <td>5000ft</td>
-    <td></td>
-    <td></td>
-    <td>ULIKA1W</td>
-    <td>4000ft</td>
-    <td>TULUB2E</td>
-    <td>4000ft</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>VAXIN2E</td>
-    <td>4000ft</td>
-  </tr>
-</tbody></table>
+| SID<br>16L   | Initial Climb | SID<br>16R   | Initial Climb | SID<br>34L   | Initial Climb | SID<br>34R   | Initial Climb |
+|--------------|---------------|--------------|---------------|--------------|---------------|--------------|---------------|
+| ALSEM2M      | 5000ft        | BUNDU2C      | 7000ft        | DATRI1W      | 4000ft        | ALSEM3E      | 4000ft        |
+| ALVEN2M      | 5000ft        | DATRI1C      | 7000ft        | **LUBET1A**  | 10000ft       | ALVEN3E      | 4000ft        |
+| KASIS2       | 5000ft        | IVENA3       | 5000ft        | LUBET1W      | 4000ft        | BUNDU3E      | 4000ft        |
+| KUPRO1M      | 5000ft        | LUBET1C      | 6000ft        | PARES3       | 4000ft        | DEMBO3       | 4000ft        |
+| LUBET1M      | 5000ft        | TULUB1C      | 6000ft        | **TULUB1A**  | 10000ft       | KUPRO2E      | 4000ft        |
+| LUBET1Y      | 5000ft        | ULIKA1C      | 7000ft        | TULUB1W      | 4000ft        | LUBET2E      | 4000ft        |
+| TULUB1M      | 5000ft        |              |               | **ULIKA1A**  | 4000ft        | LUBET2Z      | 4000ft        |
+| VAXIN2M      | 5000ft        |              |               | ULIKA1W      | 4000ft        | TULUB2E      | 4000ft        |
+|              |               |              |               |              |               | VAXIN3E      | 4000ft        |
 <figure markdown>
   <figcaption>Table 2-1: RNAV SIDs</figcaption>
 </figure>
