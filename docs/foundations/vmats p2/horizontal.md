@@ -90,7 +90,7 @@ Similarly, for two aircraft in succession which are climbing out from a departur
 
 In the case where a succeeding aircraft is maintaining a much higher rate of climb, it may result in them catching up with the preceding aircraft due to the differences in true airspeed as the second aircraft climbs to a higher level than the first. Here, if the second aircraft is instructed to reduce speed, it will result in their rate of climb further increasing which will only make the situation worse.
 
-To resolve this, two solutions are possible. The is to restrict the climb of the succeeding aircraft. Since having an aircraft level off in the climb is usually not desirable, it may be better to instead vector the second aircraft off track to facilitate a continuous climb and allow them first preference on the higher level.
+To resolve this, two solutions are possible. The first is to restrict the climb of the succeeding aircraft. Since having an aircraft level off in the climb is usually not desirable, it may be better to instead vector the second aircraft off track to facilitate a continuous climb and allow them first preference on the higher level.
 
 ### 7.3.8 Mach/airspeed crossover
 Aircraft climbing under speed control should be given a Mach number to maintain during the crossover point between indicated airspeed and Mach number to ensure that they maintain a safe operating margin and do not unexpectedly increase speed during the climb. Typically this should be done before the aircraft passes approximately FL250.
