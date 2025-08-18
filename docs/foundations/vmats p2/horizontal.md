@@ -36,8 +36,6 @@ Soft speed restrictions may be applied to two aircraft in sequence if there is n
 
 As a reminder, wherever speed control is applied, it **must be applied to all concerned aircraft**. This is essential to avoid speed deviations which may result in a loss of the desired separation between aircraft. This is especially important wherever a sequence exists.
 
-It is also important to note that speed instructions of greater than 290 knots for most medium category aircraft will result in a significant reduction in climb rate. 
-
 ### 7.3.2 Monitoring the result of speed control
 The result of speed control should be closely monitored to gauge whether it is having the desired effect. This is done by checking the aircraft's ground speed.
 
@@ -70,6 +68,8 @@ Speeds in excess of the maximum or minimum speeds shall not be assigned to aircr
 Instructions for aircraft to maintain a high rate of descent and a low speed, or a high rate of climb and high speed, are generally incompatible. 
 
 When aircraft are instructed to increase speed during a climb or decrease speed during a descent, they can be expected to maintain a short period of level or near-level flight in order to comply with the speed instruction. Conversely, when aircraft are instructed to reduce speed during a climb or increase speed during a descent, they can be expected to increase their rate of climb or descent, respectively.
+
+It is also important to note that speed instructions of greater than 290 knots for most medium category aircraft will result in a significant reduction in climb rate. 
 
 ### 7.3.5 Effectiveness
 Speed control generally takes more time to achieve the desired separation as compared to other techniques such as vectoring, so due consideration must also be given to the volume of airspace available to achieve the desired separation. 
@@ -105,7 +105,7 @@ Conversely, descending aircraft should be given an indicated airspeed to maintai
 !!! example
     **ATC:** "UAE4KC, CLIMB FL300, ON CONVERSION MAINTAIN MACH DECIMAL 84"
 
-Ensure that the speeds and Mach numbers assigned lie within the safe operating range for each aircraft as defined in 7.3.3. Typically most heavy and medium category aircraft can maintain speeds of up to 320 knots safely.
+Ensure that the speeds and Mach numbers assigned lie within the safe operating range for each aircraft as defined in 7.3.3. Typically most heavy and medium category aircraft can maintain airspeeds of up to 320 knots safely below the crossover altitude.
 
 Expect descent rates to reduce when aircraft transitions from Mach number to speed, and climb rates to temporarily increase when an aircraft transitions from speed to Mach number.
 
