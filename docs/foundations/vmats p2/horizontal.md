@@ -84,7 +84,9 @@ When aircraft are flown with reference to Mach number, the true airspeed of an a
 ### 7.3.7 Relationship between indicated airspeed and true airspeed
 When aircraft are being flown with reference to indicated airspeed, their true airspeed will increase with increasing altitude. Therefore, aircraft at higher altitude will be flying faster than those at lower altitude, despite reporting the same indicated airspeed.
 
-As an aircraft descends, it's true airspeed will decrease. Thus, during a descent to an altitude restriction, if a succeeding aircraft has been instructed to maintain a lower speed that its preceding aircraft, eventually the separation between these aircraft will start to increase, even if their current ground speed is the same.
+As an aircraft descends, it's true airspeed will decrease if it is maintaining the same indicated airspeed. 
+
+Thus, during a descent to an altitude restriction, if a succeeding aircraft has been instructed to maintain a lower speed that its preceding aircraft, eventually the separation between these aircraft will start to increase, even if their current ground speed is the same.
 
 Similarly, for two aircraft in succession which are climbing out from a departure airport, if they have been assigned the same indicated airspeed, it is to be expected that the preceding aircraft will usually have the higher ground speed provided they are maintaining similar rates of climb throughout.
 
