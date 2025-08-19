@@ -48,7 +48,7 @@ Events organized by the **Arabian vACC** or those in which the vACC participates
     - Discord Calendar & Announcements  
 - **Arabian vACC Social Media**  
     - **X/Twitter:** [https://x.com/arabianvacc](https://x.com/arabianvacc)  
-    - **Facebook:** [https://www.facebook.com/arabianvacc/](https://www.facebook.com/arabianvacc/)  
+    - **Facebook:** [https://www.facebook.com/arabianvacc/](https://www.facebook.com/arabianvacc)  
     - **Instagram:** [https://www.instagram.com/arabianvacc](https://www.instagram.com/arabianvacc)  
 - **myVATSIM Events Calendar** ([my.vatsim.net](https://my.vatsim.net))  
 
