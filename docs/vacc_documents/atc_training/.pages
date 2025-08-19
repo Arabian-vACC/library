@@ -1,5 +1,6 @@
-title: Training Syllabus
+title: ATC Training Department
 nav:
+    - general.md
     - s1.md
     - s2.md
     - s3.md
