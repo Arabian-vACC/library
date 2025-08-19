@@ -47,13 +47,13 @@ Through consistent application of these rules, the Arabian vACC demonstrates pro
 Events organized by the **Arabian vACC** or those in which the vACC participates are published through the following channels:
 
 - **Arabian vACC Discord** ([community.vatsim.net](https://community.vatsim.net))  
-  - Discord Calendar & Announcements  
+    - Discord Calendar & Announcements  
 - **VATMENA Discord** ([community.vatsim.net](https://community.vatsim.net))  
-  - Discord Calendar & Announcements  
+    - Discord Calendar & Announcements  
 - **Arabian vACC Social Media**  
-  - **X/Twitter:** [https://x.com/arabianvacc](https://x.com/arabianvacc)  
-  - **Facebook:** [https://www.facebook.com/arabianvacc/](https://www.facebook.com/arabianvacc/)  
-  - **Instagram:** [https://www.instagram.com/arabianvacc](https://www.instagram.com/arabianvacc)  
+    - **X/Twitter:** [https://x.com/arabianvacc](https://x.com/arabianvacc)  
+    - **Facebook:** [https://www.facebook.com/arabianvacc/](https://www.facebook.com/arabianvacc/)  
+    - **Instagram:** [https://www.instagram.com/arabianvacc](https://www.instagram.com/arabianvacc)  
 - **myVATSIM Events Calendar** ([my.vatsim.net](https://my.vatsim.net))  
 
 The Marketing Department strives to:
@@ -109,11 +109,11 @@ The **event roster** is generally published **no later than the night before the
 All cancellations and no-shows for events are **recorded**. Controllers should **only sign up for an event if they can commit** to attending. In unavoidable circumstances, controllers must notify the **Marketing Department** as soon as possible using both of the methods below:
 
 - **Notify the person responsible for rostering**  
-  - Post in the signup forum on Discord **or**  
-  - Submit a **Support Ticket** to the Marketing Department
+    - Post in the signup forum on Discord **or**  
+    - Submit a **Support Ticket** to the Marketing Department
 
 - **Update the original availability post**  
-  - Use **strikethrough text** to indicate the change and avoid confusion
+    - Use **strikethrough text** to indicate the change and avoid confusion
 
 If a controller needs to make changes **during the event**, such as leaving early or being unable to attend, they must inform the **Marketing Department**. Leaving a rostered event early may be permitted **only if the minimum staffing for the event can still be maintained**.
 
