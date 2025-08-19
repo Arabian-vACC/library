@@ -9,10 +9,10 @@
 |:-------------------:|:--------------------------:|
 |         Type        |           Guideline        |
 |       Revision      |           01/2025          |
-|    Effective Date   |         18 AUG 2025        |
+|    Effective Date   |         19 AUG 2025        |
 |     Prepared by     | Chriss Klosowski - ACCARB1 |
 |     Approved by     | Chriss Klosowski - ACCARB1 |
-|   Next review date  |         18 AUG 2026        |
+|   Next review date  |         19 AUG 2026        |
 | Cancelled documents |             NIL            |
 
 ### Record of Revisions
