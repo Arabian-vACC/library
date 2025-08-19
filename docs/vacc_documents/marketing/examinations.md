@@ -68,3 +68,31 @@ For more detailed instructions on **banner creation**, please refer to the follo
 
 It is **essential** that these guidelines are followed to ensure consistency and professionalism.
 
+## Examination Publishing
+### Title
+All **controller examination titles** must follow this format **without exceptions**:  
+
+- **Standard Exam:** `[S2/S3/C1] Exam | [POSITION]`  
+  *Example:* `S3 Exam | OMAA_1_APP`  
+- **Tier-1 Validation:** `Tier-1 Validation | [POSITION]`  
+  *Example:* `Tier-1 Validation | OMDB_APP`  
+
+---
+
+### Description
+When posting a controller examination on **myVATSIM**, **Discord**, or other **social media platforms**, the following formats must be used:  
+
+#### Short Description (max 280 characters)
+Join us on [DATE, MONTH] as **[STUDENT]** takes on their **[S2/S3/C1] exam** at **[POSITION]**! Come test your skills and support realistic operations while helping the candidate demonstrate their readiness for the next rating!
+
+#### Long Description
+🎓 **VATSIM EXAM | [STUDENT] | [POSITION] | [DATE, MONTH]** 🛫  
+
+On [DATE, MONTH], step into the action and assist **[STUDENT]** as they complete their **[S2/S3/C1] rating exam** at **[POSITION]**. Your participation helps create a realistic, high-traffic environment while ensuring professional ATC service.  
+
+🕒 **Time:** [TIMEFRAME IN ZULU]  
+🎯 **Position:** [POSITION]  
+
+All pilots, whether flying **IFR** or **VFR**, are encouraged to join. Your traffic contributes to a more authentic examination experience!  
+
+**Charts and briefings:** [ENTER FIR LIBRARY PILOT BRIEFING LINK]
