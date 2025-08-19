@@ -60,8 +60,8 @@ The Arabian vACC uses the **Mulish** font for all official branding and communic
 ### Banners
 For detailed guidelines on banner creation, usage, and specifications, please refer to our separate **Banner Policy**:  
 
-🔗 [View Event Banner Policy](#)
-🔗 [View Examination Banner Policy](#)
+🔗 [View Event Banner Policy](https://library.arabian-vacc.com/vacc_documents/marketing/branding/)
+🔗 [View Examination Banner Policy](https://library.arabian-vacc.com/vacc_documents/marketing/banners/)
 
 ## The thoughts behind the logo
 The logo was designed by **Naman Gaur (1506377)** following the merger of the **Bahrain & Qatar, Emirates, and Muscat vACCs**. It features a modern, clean, and professional design, emphasizing clarity and precision. The design incorporates an oryx, symbolizing the unity of the three countries, and is minimalistic, reinforcing simplicity and elegance. 
