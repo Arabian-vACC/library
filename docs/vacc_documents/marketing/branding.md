@@ -31,14 +31,16 @@
 </tbody></table>
 
 ## Scope
-Welcome to the **Arabian vACC Branding Policy**. This document serves as a comprehensive guide for anyone creating, applying, or simply interested in our branding. Whether you are designing event banners, preparing announcements, or developing new marketing content, these guidelines outline the standards, practices, and expectations that ensure our brand remains consistent and professional.  
+Welcome to the **Arabian vACC Banner Policy**. This document provides clear standards for the design and presentation of all Arabian vACC event materials, ensuring consistency, professionalism, and alignment with both vACC and VATMENA branding requirements.  
 
-Our branding represents not only the Arabian vACC, but also the wider VATMENA Division and its reputation within the VATSIM community. Through unified design standards, clear visual identity, and consistent application, we aim to deliver a professional image that strengthens recognition and trust across all of our events, services, and communications.  
+Whether you are preparing an event banner, creating a controller examination announcement, or publishing promotional content, these guidelines set out the rules for **titles, logos, event information, exports, controller examination materials, and color usage**. By following this policy, we ensure that every event we promote delivers a unified, professional image that strengthens recognition within the VATSIM community.  
 
-This policy provides practical direction on **fonts, colors, logos, banners, announcements, and event materials** — including both what to do and what to avoid. By following these standards, we ensure that every piece of content we release contributes to a strong and cohesive identity for the Arabian vACC.  
+This policy highlights the importance of **readable titles, correct logo usage, standardized date and time formats, approved export dimensions, and color consistency**. Special requirements for **controller examination banners** are also outlined to maintain the highest level of quality and compliance.  
+
+Through consistent application of these rules, the Arabian vACC demonstrates professionalism, strengthens the VATMENA Division’s reputation, and provides members with clear, reliable, and visually coherent event communication.  
 
 !!! warning  
-    All branding material and documentation contained in this section is intended solely for use by the Arabian vACC. Unauthorized use, duplication, or modification outside of the vACC is strictly prohibited.  
+    All event branding material and documentation contained in this section is intended solely for use by the Arabian vACC. Unauthorized use, duplication, or modification outside of the vACC is strictly prohibited.  
 
 ## General Guidelines
 ### Title & Logo
