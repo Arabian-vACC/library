@@ -33,10 +33,6 @@
 ## Scope
 Welcome to the **Arabian vACC General Guidelines**. This document provides clear standards for the design and presentation of all Arabian vACC event materials, ensuring consistency, professionalism, and alignment with both vACC and VATMENA branding requirements.  
 
-Whether you are preparing an event banner, creating a controller examination announcement, or publishing promotional content, these guidelines set out the rules for **titles, logos, event information, exports, controller examination materials, and color usage**. By following this policy, we ensure that every event we promote delivers a unified, professional image that strengthens recognition within the VATSIM community.  
-
-This policy highlights the importance of **readable titles, correct logo usage, standardized date and time formats, approved export dimensions, and color consistency**. Special requirements for **controller examination banners** are also outlined to maintain the highest level of quality and compliance.  
-
 Through consistent application of these rules, the Arabian vACC demonstrates professionalism, strengthens the VATMENA Division’s reputation, and provides members with clear, reliable, and visually coherent event communication.  
 
 !!! warning  
