@@ -2,8 +2,8 @@
   title: Branding Guidelines
 
 ---
-# Branding Policy
-## Policy Information
+# Branding Guidelines
+## Guideline Information
 ### Control Details
 |                     |                            |
 |:-------------------:|:--------------------------:|

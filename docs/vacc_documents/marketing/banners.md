@@ -2,8 +2,8 @@
   title: Banner Guidelines
 
 ---
-# Branding Policy
-## Policy Information
+# Banner Guidelines
+## Guideline Information
 ### Control Details
 |                     |                            |
 |:-------------------:|:--------------------------:|
