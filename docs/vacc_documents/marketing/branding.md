@@ -26,7 +26,7 @@
   <tr>
     <td>01/2025</td>
     <td>Initial Issue</td>
-    <td>19 AUG 2025</td>
+    <td>18 AUG 2025</td>
   </tr>
 </tbody></table>
 

@@ -1,4 +1,70 @@
 ---
-  title: Controller Examinations Policy
+  title: Controller Examination Guidelines
 
 ---
+# Controller Examination Guidelines
+## Guideline Information
+### Control Details
+|                     |                            |
+|:-------------------:|:--------------------------:|
+|         Type        |           Guideline        |
+|       Revision      |           01/2025          |
+|    Effective Date   |         19 AUG 2025        |
+|     Prepared by     | Chriss Klosowski - ACCARB1 |
+|     Approved by     | Chriss Klosowski - ACCARB1 |
+|   Next review date  |         19 AUG 2026        |
+| Cancelled documents |             NIL            |
+
+### Record of Revisions
+<table><thead>
+  <tr>
+    <th>Revision Number</th>
+    <th>Notes</th>
+    <th>Effective Date</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>01/2025</td>
+    <td>Initial Issue</td>
+    <td>19 AUG 2025</td>
+  </tr>
+</tbody></table>
+
+## Scope
+Welcome to the **Arabian vACC Controller Examination Guidelines**. This document serves as a comprehensive guide for anyone creating, applying, or simply interested in our branding. Whether you are designing event banners, preparing announcements, or developing new marketing content, these guidelines outline the standards, practices, and expectations that ensure our brand remains consistent and professional.  
+
+Our branding represents not only the Arabian vACC, but also the wider VATMENA Division and its reputation within the VATSIM community. Through unified design standards, clear visual identity, and consistent application, we aim to deliver a professional image that strengthens recognition and trust across all of our events, services, and communications.  
+
+This policy provides practical direction on **fonts, colors, logos, banners, announcements, and event materials** — including both what to do and what to avoid. By following these standards, we ensure that every piece of content we release contributes to a strong and cohesive identity for the Arabian vACC.  
+
+!!! warning  
+    All branding material and documentation contained in this section is intended solely for use by the Arabian vACC. Unauthorized use, duplication, or modification outside of the vACC is strictly prohibited.  
+
+## General Guidelines
+### Banner
+When creating a **controller examination banner**, you are strongly encouraged to use the **official template**, available in the **Arabian vACC Google Drive**.  
+
+If you are unable to access or download the template, please contact a **member of the Marketing Department** for assistance.
+
+## Text
+The banner template should be followed as **accurately as possible**:  
+
+- The **top line** must display the **position name** and the **airports covered**, written in **ICAO/IATA format**.  
+- Below, include the **controller’s name** and the **exam rating**.  
+- For **Tier-1 validations**, you may write *T1* instead of the rating.  
+- The **date and time** must be placed at the **bottom of the banner**.  
+
+## Backgrounds
+Backgrounds must consist of either:  
+
+- **Community screenshots** related to the **airport being covered**, or  
+- A **radar screen background** of the **position in question**.  
+
+## Additional Guidelines
+For more detailed instructions on **banner creation**, please refer to the following guidelines:  
+
+- **Branding Guidelines:** [Arabian vACC Branding](https://library.arabian-vacc.com/vacc_documents/marketing/branding/)  
+- **Banner Guidelines:** [Arabian vACC Banners](https://library.arabian-vacc.com/vacc_documents/marketing/banners/)  
+
+It is **essential** that these guidelines are followed to ensure consistency and professionalism.
+
