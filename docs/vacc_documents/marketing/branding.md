@@ -1,8 +1,8 @@
 ---
-  title: Banner Guidelines
+  title: Branding Guidelines
 
 ---
-# Banner Guidelines
+# Branding Guidelines
 ## Guideline Information
 ### Control Details
 |                     |                            |
@@ -31,7 +31,7 @@
 </tbody></table>
 
 ## Scope
-Welcome to the **Arabian vACC Branding Policy**. This document serves as a comprehensive guide for anyone creating, applying, or simply interested in our branding. Whether you are designing event banners, preparing announcements, or developing new marketing content, these guidelines outline the standards, practices, and expectations that ensure our brand remains consistent and professional.  
+Welcome to the **Arabian vACC Branding Guidelines**. This document serves as a comprehensive guide for anyone creating, applying, or simply interested in our branding. Whether you are designing event banners, preparing announcements, or developing new marketing content, these guidelines outline the standards, practices, and expectations that ensure our brand remains consistent and professional.  
 
 Our branding represents not only the Arabian vACC, but also the wider VATMENA Division and its reputation within the VATSIM community. Through unified design standards, clear visual identity, and consistent application, we aim to deliver a professional image that strengthens recognition and trust across all of our events, services, and communications.  
 

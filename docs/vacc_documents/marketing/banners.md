@@ -1,8 +1,8 @@
 ---
-  title: Branding Guidelines
+  title: Banner Guidelines
 
 ---
-# Branding Guidelines
+# Banner Guidelines
 ## Guideline Information
 ### Control Details
 |                     |                            |
@@ -31,7 +31,7 @@
 </tbody></table>
 
 ## Scope
-Welcome to the **Arabian vACC Banner Policy**. This document provides clear standards for the design and presentation of all Arabian vACC event materials, ensuring consistency, professionalism, and alignment with both vACC and VATMENA branding requirements.  
+Welcome to the **Arabian vACC Banner Guidelines**. This document provides clear standards for the design and presentation of all Arabian vACC event materials, ensuring consistency, professionalism, and alignment with both vACC and VATMENA branding requirements.  
 
 Whether you are preparing an event banner, creating a controller examination announcement, or publishing promotional content, these guidelines set out the rules for **titles, logos, event information, exports, controller examination materials, and color usage**. By following this policy, we ensure that every event we promote delivers a unified, professional image that strengthens recognition within the VATSIM community.  
 
