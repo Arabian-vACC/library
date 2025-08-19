@@ -1,5 +1,6 @@
 title: Marketing Department
 nav:
+    - general.md
     - branding.md
     - banners.md
     - rostering.md
