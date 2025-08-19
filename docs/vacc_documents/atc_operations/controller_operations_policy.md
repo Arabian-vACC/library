@@ -172,42 +172,6 @@ Controllers must fulfill their bookings. If unable to attend, they must cancel t
 
 ---
 
-## Controller Bookings During Events
-
-### General
-
-The Arabian vACC uses the VATSIM ATC booking system for event bookings. This system ensures uninterrupted ATC services for participating pilots.
-
-### Expression of Interest
-
-Controllers express interest in events via the Arabian vACC Discord forum.
-
-#### Expression of Interest Rules
-* Controllers may only express interest for positions they are authorized to control.
-* Expressions of interest must be made exclusively through Discord.
-* Positions may be re-assigned based on event needs.
-* Controllers will be prioritized for events they have not participated in recently.
-
-### Event Roster
-The roster is posted in the "rostering" channel on Discord at least 3 hours before the event starts. Controllers will be confirmed in the VATSIM ATC system.
-
-### Controllers Unable to Attend Their Rostered Slot
-
-Controllers must notify the Arabian vACC Marketing Director or Deputy Director if they cannot attend their rostered slot. Failure to do so repeatedly may result in exclusion from future events.
-
-### Controllers Not Showing Up for a Rostered Position
-
-Controllers are required to fulfill all assigned rostered positions. In the event of an unavoidable absence, timely notification is mandatory. Repeated unexcused absences may lead to removal from future event rosters.
-
-!!! warning
-    Participants who fail to attend CPTs without a valid reason will be subject to an immediate suspension from participating in the next three events.
-
-### Event Briefings
-
-Controllers must attend the event briefing 15 minutes before the event, which will cover hot topics, weather, and special procedures.
-
----
-
 ## Controller Coordination
 
 ### Commencing a Session
