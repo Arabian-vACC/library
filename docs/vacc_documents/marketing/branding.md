@@ -1,5 +1,5 @@
 ---
-  title: Branding Policy
+  title: Branding Guidelines
 
 ---
 # Branding Policy
@@ -7,7 +7,7 @@
 ### Control Details
 |                     |                            |
 |:-------------------:|:--------------------------:|
-|         Type        |           Policy           |
+|         Type        |           Guideline        |
 |       Revision      |           01/2025          |
 |    Effective Date   |         18 AUG 2025        |
 |     Prepared by     | Chriss Klosowski - ACCARB1 |
@@ -40,46 +40,30 @@ This policy provides practical direction on **fonts, colors, logos, banners, ann
 !!! warning  
     All branding material and documentation contained in this section is intended solely for use by the Arabian vACC. Unauthorized use, duplication, or modification outside of the vACC is strictly prohibited.  
 
-## Downloads
-### Logo Media Pack
-All approved variants of the **Arabian vACC logo** are included in our **Public Media Package**, which can be downloaded at the link below:  
+## General Guidelines
+### Title & Logo
+Event titles must be **clear and easy to read**, ensuring members immediately understand what the event is about. The **Arabian vACC logo** must be clearly displayed using the correct variation for the background, and its usage must follow our [branding guidelines](https://library.arabian-vacc.com/vacc_documents/marketing/branding/).  
 
-🔗 [Download Public Media Package](https://drive.google.com/file/d/18kGhlqqW_dJKVcjXsYz4KIjhH2wok0Wt/view?usp=sharing)  
+The **VATMENA logo** must also be displayed in accordance with the Division’s marketing guidelines. All logos should be **well-spaced** and presented at the **same size** for consistency and professionalism.
 
-This package ensures that everyone uses the correct, high-quality logo files in accordance with our branding guidelines.
+### Information
+Dates must be written in the **day, month format** (e.g. *19th August*). For **repeating events**, the weekday should also be included.  
 
-### Font
-The Arabian vACC uses the **Mulish** font for all official branding and communications.  
+If the banner is a **controller examination**, the title must specify whether it is a **rating exam** or an **endorsement exam** (e.g. *Tier-1 Validation*).  
 
-🔗 [View Mulish on Google Fonts](https://fonts.google.com/specimen/Mulish)  
+Event airports must always be listed with their **ICAO/IATA codes** (e.g. *OTHH/DOH*) to ensure recognition.  
 
-!!! info
-    1. Open the link above.
-    2. Click **"Download Family"** in the top-right corner to download the font files to your device.
+Times must be provided in **24-hour Zulu format**, including both a **start** and **end time**.
 
-### Banners
-For detailed guidelines on banner creation, usage, and specifications, please refer to our separate **Banner Policy**:  
+### Export
+All banners must be created in a **16:9 ratio** to comply with myVATSIM’s upload requirements.  
 
-🔗 [View Event Banner Policy](#)
-🔗 [View Examination Banner Policy](#)
+If images are used, ensure you have **permission to use them on behalf of the vACC**, or provide proper credit. When credit is required, the **author and credit must be clearly included on the banner** in ***bold and italics***, placed in a corner.
 
-## The thoughts behind the logo
-The logo was designed by **Naman Gaur (1506377)** following the merger of the **Bahrain & Qatar, Emirates, and Muscat vACCs**. It features a modern, clean, and professional design, emphasizing clarity and precision. The design incorporates an oryx, symbolizing the unity of the three countries, and is minimalistic, reinforcing simplicity and elegance. 
+### Controller Examination Banners
+Controller examination banners are subject to **stricter requirements**. Only the **official template** and **approved backgrounds** may be used.  
 
-The white color suggests neutrality, simplicity, and versatility, providing high contrast on darker backgrounds and making the logo adaptable for various digital and print applications. Chrome yellow represents the desert, optimism, and energy, aligning with the vACC’s hashtags: #clearmission & #clearvision
+The **titles and descriptions** of controller examinations must strictly follow the [**policy set by the Marketing Department**]().
 
-<figure markdown>
-![Arabian vACC - Logos](../img/arbvacc_logo_contrast.jpg)
-</figure>
-
-### Color Palette
-<figure markdown>
-![Arabian vACC - Color Palette](../img/arbvacc_color_palette.png)
-</figure>
-
-### Logo Guidelines
-The logo may be used in either its **positive** or **negative** variant, depending on the background. There are also **all-black** and **all-white** variants available, intended for **special cases only**.
-
-<figure markdown>
-![Arabian vACC - Color Palette](../img/arbvacc_logo_guidelines.jpg)
-</figure>
+### Colors
+Please use the **color palette defined in the branding guidelines**. Variations in **shades of the primary colors** are permitted.
