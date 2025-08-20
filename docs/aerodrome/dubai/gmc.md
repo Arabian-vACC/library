@@ -66,16 +66,18 @@ Simultaneous pushbacks may be permitted from adjacent stands provided aircraft a
 | **Apron A (except A1, A2 & A10)**   | "FACE EAST" on Z                                              |
 | **Stands A1 & A2**                  | "FACE NORTH" on J2                                            |
 | **Stand A10**                       | "FACE NORTH" on J3                                            |
-| **Apron B *except B27**             | "FACE WEST" on U (J for Code F - see 4.3.2)                   |
+| **Apron B (except B27)**            | "FACE WEST" on U (J for Code F - see 4.3.2)                   |
 | **Stand B27**                       | "FACE NORTH" on J2                                            |
 | **Apron C (except C43-50 & C51L)**  | "FACE EAST" on the appropriate taxiway                        |
 | **Stand C43-50 and C51L**           | "FACE NORTH" on Z1                                            |
 | **Apron D (except D10)**            | "FACE NORTH" on J3                                            |
 | **Apron E**                         | "FACE EAST" on P                                              |
+| **Apron F (except F1)**             | "FACE WEST" on Z                                              |
+| **Stand F1**                        | "FACE NORTH" on Y                                             |
 | **All other stands**                | Push in the appropriate direction for taxi as provided in 4.3 |
 
 !!! important
-    For traffic parked on stand A1, A2 and D1, before issuing pushback instruction, GMC 1 must coordinate the pushback with AIR South to avoid blocking the high speed turn onto taxiway J2.
+    For traffic parked on stand A1, A2, D1 and F26, before issuing pushback instruction, GMC 1 must coordinate the pushback with AIR South to avoid blocking the high speed turn onto taxiway J2.
 
 ### 4.2.5 Dual runway 12R pushback procedures
 When departing 12R, aircraft south of 12L shall push in the appropriate direction to give the shortest taxi possible to the standard departure point on 12R. 
