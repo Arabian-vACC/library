@@ -19,7 +19,8 @@ Caution shall be used with certain types of aircraft, especially code F (A380/74
 ![Runway 13L/R Configuration](img/13LR.png)
 </figure>
 
-### 7.2.3 Code C/E/F Limitations
+### 7.2.3 Taxiway Limitations
+Code F aircraft can taxi in all areas except those marked in the below diagram which are limited to **Code E and below** or **Code C and below**
 <figure markdown>
-![OMAA Code C/E/F Taxi Chart 10-9G](img/codeF.png)
+![OMAA Taxiway Limitations](img/codeFnew.png)
 </figure>
