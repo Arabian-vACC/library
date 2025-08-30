@@ -3,5 +3,5 @@ nav:
     - Overview: index.md
     - vMATS Part 1: vmats_p1
     - vMATS Part 2: vmats_p2
-    - RT Manual: radiotelephony
+    - RT Manual: rt
     - Wake Turbulence Separation: wts
