@@ -2,9 +2,10 @@ order_by: title
 nav:
     - Home: index.md
     - getting_started
+    - policies
+    - Flying in Arabian: pilots
     - foundations
     - aerodrome
     - terminal
     - enroute
-    - pilots
-    - policies
+
