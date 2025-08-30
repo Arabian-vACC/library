@@ -1,5 +1,5 @@
 ---
-  title: vACC Documents
+  title: Policies
 ---
 <figure markdown>
 ![Policies](img/hero_banner.png)

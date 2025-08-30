@@ -1,10 +1,10 @@
 order_by: title
 nav:
     - Home: index.md
+    - getting_started
     - foundations
     - aerodrome
     - terminal
     - enroute
     - pilots
     - policies
-    - getting_started
