@@ -214,17 +214,18 @@ Aircraft parking all aprons shall be instructed to taxi via F to an appropriate 
 ### 4.4.4 Stand allocation procedure
 Aircraft shall be assigned stands automatically using the StandAssigner system. If this is not possible, aircraft shall be assigned a stand in accordance with the following procedure:
 
-|            Area           |        Stand Allocation       |                                                      Operator                                                     |
-|:-------------------------:|:-----------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
-|         Apron 1/1A        |          101 to 136           |       All international                                                                                           |
-|         Apron 2           |          201 to 222           |       Cargo, low-cost                                                                                             |
-|         Apron 3           |          301 to 309           |       ETD                                                                                                         |
-|         Apron 4           |          401 to 410           |       ETD (overflow)                                                                                              |
-|         Apron 5           |          508 to 516           |       Cargo, overflow                                                                                             |
-|         Apron 6           |          601 to 690           |       ????????????                                                                                                |
-|         Apron 7           |          704 to 715           |       Overflow                                                                                                    |
-|         Apron 8           |          801 to 805           |       General aviation                                                                                            |
-| Presidential Flight Apron |          1 to 17              |       Government and state aircraft                                                                               |
+|            Area           |        Stand Allocation       |     Operator                             |
+|:-------------------------:|:-----------------------------:|:----------------------------------------:|
+|         Apron 1/1A        |          101 to 136           |       Overflow                           |
+|         Apron 2           |          201 to 222           |       Cargo, low-cost                    |
+|         Apron 3           |          301 to 309           |       Overflow                           |
+|         Apron 4           |          401 to 410           |       Overflow                           |
+|         Apron 5           |          508 to 516           |       Cargo, overflow                    |
+|         Apron 6           |          601 to 690           |       All Passenger                      |
+|         Apron 7           |          704 to 715           |       Overflow                           |
+|         Apron 8           |          801 to 805           |       General aviation                   |
+| Presidential Flight Apron |          1 to 17              |       Government and state aircraft      |
+
 <figure markdown>
   <figcaption>Table 3-1: Stand allocation procedure</figcaption>
 </figure>

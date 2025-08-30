@@ -60,99 +60,24 @@
 | 13R                  | 128° / 126°               |    4106          |
 
 ### 1.4.2 Declared distances (take-off)
-<table><thead>
-  <tr>
-    <th>Runway</th>
-    <th>Intersection</th>
-    <th>Takeoff-Run Available (TORA)</th>
-    <th>Accelerate Stop Distance Available (ASDA)</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td rowspan="6">31L</td>
-    <td>Full Length</td>
-    <td>4106</td>
-    <td>4106</td>
-  </tr>
-  <tr>
-    <td>D10</td>
-    <td>3988</td>
-    <td>3988</td>
-  </tr>
-  <tr>
-    <td>E14/D9</td>
-    <td>3335</td>
-    <td>3335</td>
-  </tr>
-  <tr>
-    <td>E13</td>
-    <td>2709</td>
-    <td>2709</td>
-  </tr>
-  <tr>
-    <td>H</td>
-    <td>1422</td>
-    <td>1422</td>
-  </tr>
-  <tr>
-    <td>E6</td>
-    <td>1420</td>
-    <td>1420</td>
-  </tr>
-  <tr>
-    <td rowspan="3">31R</td>
-    <td>Full Length</td>
-    <td>4100</td>
-    <td>4100</td>
-  </tr>
-  <tr>
-    <td>A14/Z2</td>
-    <td>3333</td>
-    <td>3333</td>
-  </tr>
-  <tr>
-    <td>Z1</td>
-    <td>2578</td>
-    <td>2578</td>
-  </tr>
-  <tr>
-    <td rowspan="5">13R</td>
-    <td>Full Length</td>
-    <td>4106</td>
-    <td>4106</td>
-  </tr>
-  <tr>
-    <td>D2/E3</td>
-    <td>3976</td>
-    <td>3976</td>
-  </tr>
-  <tr>
-    <td>D3</td>
-    <td>3803</td>
-    <td>3803</td>
-  </tr>
-  <tr>
-    <td>D4/E4</td>
-    <td>3276</td>
-    <td>3276</td>
-  </tr>
-  <tr>
-    <td>E6/H</td>
-    <td>2710</td>
-    <td>2710</td>
-  </tr>
-  <tr>
-    <td rowspan="2">13L</td>
-    <td>Full Length</td>
-    <td>4100</td>
-    <td>4100</td>
-  </tr>
-  <tr>
-    <td>A5</td>
-    <td>3342</td>
-    <td>3342</td>
-  </tr>
-</tbody></table>
+| Runway | Intersection | Takeoff-Run Available (TORA) | Accelerate Stop Distance Available (ASDA) |
+|--------|--------------|------------------------------|-------------------------------------------|
+| 31L    | Full Length  | 4106                         | 4106                                      |
+| 31L    | D10          | 3988                         | 3988                                      |
+| 31L    | E14/D9       | 3335                         | 3335                                      |
+| 31L    | E13          | 2709                         | 2709                                      |
+| 31L    | H            | 1422                         | 1422                                      |
+| 31L    | E6           | 1420                         | 1420                                      |
+| 31R    | Full Length  | 4100                         | 4100                                      |
+| 31R    | A14/Z2       | 3333                         | 3333                                      |
+| 31R    | Z1           | 2578                         | 2578                                      |
+| 13R    | Full Length  | 4106                         | 4106                                      |
+| 13R    | D2/E3        | 3976                         | 3976                                      |
+| 13R    | D3           | 3803                         | 3803                                      |
+| 13R    | D4/E4        | 3276                         | 3276                                      |
+| 13R    | E6/H         | 2710                         | 2710                                      |
+| 13L    | Full Length  | 4100                         | 4100                                      |
+| 13L    | A5           | 3342                         | 3342                                      |
 
 ### 1.4.3 Declared distances (landing)
 | Runway    | Landing Distance Available (at Threshold)     |

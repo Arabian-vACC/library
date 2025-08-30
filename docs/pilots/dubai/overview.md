@@ -7,7 +7,7 @@
 
 | IATA | ICAO | Charts | NOTAM(s) |
 |:----:|:----:|:------:|:----------:|
-| DXB  | OMDB | [U.A.E eAIP (Account Required)](https://www.gcaa.gov.ae/en/ais/Pages/default.aspx)    | [U.A.E FIR - NOTAM(S) ](https://www.gcaa.gov.ae/en/ais/notice-to-airmen-notam)      |
+| DXB  | OMDB | [U.A.E eAIP](https://www.gcaa.gov.ae/en/ais/Pages/default.aspx)    | [U.A.E FIR - NOTAM(S) ](https://www.gcaa.gov.ae/en/ais/notice-to-airmen-notam)      |
 
 Dubai International Airport is the primary gateway for Dubai and the United Arab Emirates. It ranks as the world's busiest airport by international passenger traffic and is also the largest airport in the Middle East. Globally, it is the second busiest by total passenger volume and the leading airport for Airbus A380 and Boeing 777 operations.
 
@@ -19,7 +19,7 @@ Located 2.54 nautical miles east of Dubai's city center in the Al Garhoud distri
     **If you are new to the VATSIM Network**, we strongly recommend avoiding this airport until you have gained more experience flying on the network. During peak times, controllers are often too busy to offer additional assistance. Instead, consider flying to other airports within the Arabian vACC, where the traffic is lighter and procedures are less complex, allowing for a more accommodating experience.
 
 ## Charts & Scenery
-Pilots can access the latest charts through the following sources: [Chartfox (Free, VATSIM login required)](https://chartfox.org/), [the U.A.E eAIP (Free, account required)](https://www.gcaa.gov.ae/en/ais/Pages/default.aspx), or [Navigraph (Subscription required)](https://navigraph.com/). **VFR charts in Navigraph are listed under the "APP" category with "Runway Unspecified."**
+Pilots can access the latest charts through the following sources: [Chartfox (Free, VATSIM login required)](https://chartfox.org/), [the U.A.E eAIP (Free)](https://www.gcaa.gov.ae/en/ais/Pages/default.aspx), or [Navigraph (Subscription required)](https://navigraph.com/). **VFR charts in Navigraph are listed under the "APP" category with "Runway Unspecified."**
 
 | Simulator      | Freeware                    | Payware                            |
 |----------------|-----------------------------|------------------------------------|
