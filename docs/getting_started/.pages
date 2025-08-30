@@ -1,9 +1,9 @@
 title: Getting Started
 nav:
     - Overview: index.md
-    - 1. Joining Arabian: joining_arabian.md
-    - 2. Starting your ATC Training: starting_atc_training.md
-    - 2.1 Controller Client: euroscope.md
-    - 2.2 Audio Client: audio.md
-    - 2.3 ATIS Client: vatis.md 
-    - 3. Transfer & Visiting Controllers: transfer_and_visiting.md
+    - Joining Arabian: joining_arabian.md
+    - Starting your ATC Training: starting_atc_training.md
+    - Controller Client: euroscope.md
+    - Audio Client: audio.md
+    - ATIS Client: vatis.md 
+    - Transfer & Visiting Controllers: transfer_and_visiting.md
