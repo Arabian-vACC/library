@@ -59,7 +59,7 @@ Since 2023, passenger operations have been based out of Terminal A. Passenger ai
 | OMAA_G_APP       | Abu Dhabi Director      | 118.000   | South Director                   |
 
 !!! Warning
-    It's crucial that you pay close attention to the frequency you're being transferred to. Do not attempt to guess the next frequency, and never switch frequencies without explicit instructions from the controller. Auto-handoffs are not used at Dubai International. If you're unsure, don’t hesitate to ask for the frequency again!
+    It's crucial that you pay close attention to the frequency you're being transferred to. Do not attempt to guess the next frequency. If you're unsure, don’t hesitate to ask for the frequency again!
 
 ## Reduced Runway Separation Minima (RRSM)
 Reduced runway separation may be implemented at any time, day or night, under the following scenarios:
