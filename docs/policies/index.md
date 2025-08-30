@@ -2,7 +2,7 @@
   title: Policies
 ---
 <figure markdown>
-![Policies](img/hero_banner.png)
+![Policies](img/arbvacc_library_hero_policies.jpg)
 </figure>
 
 ## Scope
@@ -11,8 +11,3 @@ This section of our Library contains all the essential policies related to the v
 ## Limitation of Liability
 !!! warning
     All documentation in this section is intended solely for use on the VATSIM network and must not be used for real-world aviation operations. The authors disclaim any liability for personal injury or death resulting from misuse of this material.
-
-## Acknowledgements
-!!! info
-    This document includes excerpts and images from, and is primarily based on, ICAO Doc 4444 – PANS-ATM, along with the respective Civil Aviation Authority regulations and eAIP of each country.
-
