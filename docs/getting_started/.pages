@@ -1,6 +1,6 @@
 title: Getting Started
 nav:
     - Overview: index.md
-    - joining_arabian.md
-    - starting_atc_training.md
-    - transfer_and_visiting.md
+    - 1. Joining Arabian: joining_arabian.md
+    - 2. Starting your ATC Training: starting_atc_training.md
+    - Transfer & Visiting Controllers: transfer_and_visiting.md
