@@ -116,6 +116,6 @@ To continue holding visiting privileges in the Arabian vACC, controllers must:
 ## Transfer Process
 To apply for a **transfer** to the **Arabian vACC**, please follow the step-by-step instructions provided in the official guide:
 
-👉 [**Joining the Arabian vACC**](https://library.arabian-vacc.com/vacc_documents/getting_started/joining_arabian/#introduction)
+👉 [**Joining the Arabian vACC**](https://library.arabian-vacc.com/getting_started/joining_arabian/)
 
 This guide will walk you through the entire process, from checking your current assignment to submitting a formal transfer request. Be sure to read it carefully to ensure a smooth transition.
