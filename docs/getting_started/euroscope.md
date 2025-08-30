@@ -1,4 +1,7 @@
-# EuroScope
+<figure markdown>
+![Controller Clients](img/arbvacc_library_hero_controller_client.jpg)
+</figure>
+
 !!! info
     If you’re seeking a video tutorial on setting up Euroscope, installing our sector files, and getting ready to observe, check out our video [here!](https://www.youtube.com/watch?v=ycCieiy0ufc)
 

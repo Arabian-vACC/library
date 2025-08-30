@@ -1,4 +1,7 @@
-# vATIS
+<figure markdown>
+![ATIS Clients](img/arbvacc_library_hero_atis_client.jpg)
+</figure>
+
 ## What is vATIS?
 vATIS is a software tool that enables controllers to create and broadcast multiple Automatic Terminal Information Service (ATIS) messages on the VATSIM network. It is an essential tool for air traffic controllers to provide pilots with crucial airport and weather information.
 

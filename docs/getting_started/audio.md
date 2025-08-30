@@ -1,4 +1,7 @@
-# Audio Clients
+<figure markdown>
+![Audio Clients](img/arbvacc_library_hero_audio_client.jpg)
+</figure>
+
 ## Available Clients
 There are two audio clients available for use on VATSIM:  
 
