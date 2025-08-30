@@ -2,7 +2,7 @@
   title: Pilots
 ---
 <figure markdown>
-![Pilots Corner](img/hero_banner.png)
+![Pilots Corner](img/arbvacc_library_hero_pilots.jpg)
 </figure>
 
 ## Scope
