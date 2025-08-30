@@ -1,8 +1,9 @@
 ---
 title: Transfer & Visiting
 ---
-
-# Transfer & Visiting
+<figure markdown>
+![Getting Started](img/arbvacc_library_hero_transfer_visiting.jpg)
+</figure>
 
 ## Introduction
 
