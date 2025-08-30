@@ -2,7 +2,11 @@
   title: Starting ATC Training
 
 ---
-# Getting Started as an ATC in the Arabian vACC
+<figure markdown>
+![Getting Started](img/arbvacc_library_hero_joining_arabian.jpg)
+</figure>
+
+## Introduction
 
 Looking to become an Air Traffic Controller on the VATSIM Network, controlling one of the Middle East's busiest airspaces? Here's everything you need to know to get started.
 
@@ -18,7 +22,7 @@ VATSIM follows a system of graduated ratings that determine the positions you ca
 
 > **Important:** You must be a **resident of the Arabian vACC** before beginning ATC training.
 
-Check your status and how to join here: [Joining Arabian](https://library.arabian-vacc.com/vacc_documents/getting_started/joining_arabian/)
+Check your status and how to join here: [Joining Arabian](https://library.arabian-vacc.com/getting_started/joining_arabian/)
 
 > Joining may take up to 72 hours. Transferring out will remove you from our waiting list and cancel your training eligibility.
 
@@ -42,7 +46,7 @@ Before you can observe or train, install the following:
 Before training begins, you must:
 
 - Accumulate **25 hours of observation**
-- Join our [Arabian vACC Discord](https://discord.com/invite/Fk9Wspw) — all training coordination and community support happens here.
+- Join our [Arabian vACC Discord](https://community.vatsim.net/) — all training coordination and community support happens here.
 
 Once you're in the Discord and meet the above:
 
@@ -55,7 +59,7 @@ Once you're in the Discord and meet the above:
 ## 📘 Read the ATC Training Policy
 
 We highly recommend reviewing the full policy:  
-[Arabian vACC ATC Training Policy](https://library.arabian-vacc.com/vacc_documents/policies/training_policy/)
+[Arabian vACC ATC Training Policy](https://library.arabian-vacc.com/policies/atc_training/general/)
 
 ---
 
@@ -64,7 +68,7 @@ We highly recommend reviewing the full policy:
 After your ticket is submitted:
 
 1. You will be added to the **S1 Rating Waiting List** along with a designated **Training Aerodrome**.
-2. Self-enroll in the aerodrome specific **S1 Moodle Course**: [Arabian vACC Moodle](https://moodle.arabian-vacc.com)
+2. You will be enrolled in the **S1 Moodle Course**: [Arabian vACC Moodle](https://moodle.arabian-vacc.com)
 3. Complete all course content and progress tests.
 4. Pass the **VATMENA S1 Theory Exam**: [VATMENA Division Academy](https://academy.vatsim.me)
 
@@ -88,7 +92,7 @@ Failure to come prepared may result in your session being cancelled.
 
 ## 🧪 Final Exam & S1 Rating
 
-Once all sessions in the [S1 Training Syllabus](https://library.arabian-vacc.com/vacc_documents/training_syllabus/s1/) are complete, you will:
+Once all sessions in the [S1 Training Syllabus](https://library.arabian-vacc.com/policies/atc_training/s1/) are complete, you will:
 
 - Take a final **practical exam** on the Sweatbox simulator server.
 
@@ -103,7 +107,7 @@ After your S1 rating, you may work toward:
 - **Tier-1 Dubai DEL/GND Endorsement**
 - **Tier-2 AFIS Endorsement**
 
-Requirements are outlined in the [ATC Training Policy](https://library.arabian-vacc.com/vacc_documents/policies/training_policy/).
+Requirements are outlined in the [ATC Training Policy](https://library.arabian-vacc.com/policies/atc_training/general/).
 
 ---
 

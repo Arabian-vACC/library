@@ -5,8 +5,6 @@
 ![Getting Started](img/arbvacc_library_hero_joining_arabian.jpg)
 </figure>
 
-# Joining Arabian
-
 ## Introduction
 
 !!! warning
