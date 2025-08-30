@@ -1,6 +1,9 @@
 ---
   title: Joining Arabian
 ---
+<figure markdown>
+![Getting Started](img/arbvacc_library_hero_joining_arabian.jpg)
+</figure>
 
 # Joining Arabian
 
