@@ -1,6 +1,5 @@
 ---
   title: Starting ATC Training
-
 ---
 <figure markdown>
 ![Getting Started](img/arbvacc_library_hero_starting_atc.jpg)
