@@ -2,7 +2,7 @@
   title: Foundations
 ---
 <figure markdown>
-![Foundation](img/hero_banner.png)
+![Foundation](img/arbvacc_library_hero_foundations.jpg)
 </figure>
 
 ## Scope
@@ -15,4 +15,3 @@ This documentation outlines the foundational guidelines for all ratings. It is b
 ## Acknowledgements
 !!! info
     This document includes excerpts and images from, and is primarily based on, ICAO Doc 4444 – PANS-ATM, along with the respective Civil Aviation Authority regulations and eAIP of each country.
-
