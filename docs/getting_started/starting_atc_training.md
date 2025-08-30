@@ -3,7 +3,7 @@
 
 ---
 <figure markdown>
-![Getting Started](img/arbvacc_library_hero_joining_arabian.jpg)
+![Getting Started](img/arbvacc_library_hero_starting_atc.jpg)
 </figure>
 
 ## Introduction
