@@ -2,7 +2,7 @@
   title: Aerodrome
 ---
 <figure markdown>
-![Aerodrome](img/hero_banner.png)
+![Aerodrome](img/arbvacc_library_hero_aerodrome.jpg)
 </figure>
 
 ## Scope
@@ -15,4 +15,3 @@ The following documentation outlines the general operating procedures for our ai
 ## Acknowledgements
 !!! info
     This document includes excerpts and images from, and is primarily based on, ICAO Doc 4444 – PANS-ATM, along with the respective Civil Aviation Authority regulations and eAIP of each country.
-

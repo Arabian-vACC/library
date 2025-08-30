@@ -2,7 +2,7 @@
   title: Terminal
 ---
 <figure markdown>
-![Terminal](img/hero_banner.png)
+![Terminal](img/arbvacc_library_hero_terminal.jpg)
 </figure>
 
 ## Scope

@@ -2,7 +2,7 @@
   title: Enroute
 ---
 <figure markdown>
-![Enroute](img/hero_banner.png)
+![Enroute](img/arbvacc_library_hero_enroute.jpg)
 </figure>
 
 ## Scope
