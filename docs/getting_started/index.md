@@ -2,7 +2,7 @@
   title: Getting Started
 ---
 <figure markdown>
-![Policies](img/hero_banner.png)
+![Getting Started](img/arbvacc_library_hero_getting_started.jpg)
 </figure>
 
 ## Scope
