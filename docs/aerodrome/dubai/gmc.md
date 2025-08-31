@@ -65,12 +65,12 @@ Simultaneous pushbacks may be permitted from adjacent stands provided aircraft a
 |-------------------------------------|---------------------------------------------------------------|
 | **Apron A (except A1, A2 & A10)**   | "FACE EAST" on Z                                              |
 | **Stands A1 & A2**                  | "FACE NORTH" on J2                                            |
-| **Stand A10**                       | "FACE NORTH" on J3                                            |
+| **Stand A10 and D10**               | "FACE NORTH" on J3                                            |
 | **Apron B (except B27)**            | "FACE WEST" on U (J for Code F - see 4.3.2)                   |
 | **Stand B27**                       | "FACE NORTH" on J2                                            |
 | **Apron C (except C43-50 & C51L)**  | "FACE EAST" on the appropriate taxiway                        |
 | **Stand C43-50 and C51L**           | "FACE NORTH" on Z1                                            |
-| **Apron D (except D10)**            | "FACE NORTH" on J3                                            |
+| **Apron D (except D10)**            | "FACE EAST" on J                                              |
 | **Apron E**                         | "FACE EAST" on P                                              |
 | **Apron F (except F1)**             | "FACE WEST" on Z                                              |
 | **Stand F1**                        | "FACE NORTH" on Y                                             |
