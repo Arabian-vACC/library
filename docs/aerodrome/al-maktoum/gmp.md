@@ -55,6 +55,8 @@ Aircraft requesting clearance via voice shall be given a voice clearance as per 
 ### 3.3.1 RNAV Standard instrument departures
 Al Maktoum primarily uses RNAV standard instrument departures (SIDs) and is the preferred departure type for IFR aircraft. Departing aircraft shall be assigned an appropriate RNAV departure according to the first fix in the flight plan and runway(s) in use.
 
+Departures from runway 12/30 shall be assigned an initial climb of 3000ft. Departures from runway 13/31 shall be assigned an initial climb of 2000ft.
+
 | First Fix |    30   |    12   |    31   |    13   |
 |:---------:|:-------:|:-------:|:-------:|:-------:|
 |   ANVIX   |    4L   |    6J   |    1P   |    2N   |
@@ -70,10 +72,6 @@ Al Maktoum primarily uses RNAV standard instrument departures (SIDs) and is the 
 <figure markdown>
   <figcaption>Table 3-1: RNAV SIDs</figcaption>
 </figure>
-
-!!! info
-      All aircraft shall be assigned an initial climb of **3000ft**. 
-
 
 ### 3.3.2 Radar departures
 The radar departure procedure shall be used when aircraft are unable to accept an RNAV departure, such as one with outdated nav data. Whereas RNAV departures follow a prescribed track until leaving the Dubai Departures airspace, radar departures are given radar vectors to the first fix.
@@ -107,107 +105,30 @@ Several routing restrictions exist within UAE airspace and must be complied with
 !!! note
     The Arabian vACC Operations Department maintains an up-to-date route database on SimBrief. These routes can be accessed by selecting the ***"User Submitted Routes"*** option, highlighted in purple, when planning a flight.
 
-<table><thead>
-  <tr>
-    <th>Destination</th>
-    <th>Level Restrictions</th>
-    <th>Routing</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>Tehran FIR Northbound (including OIKB)</td>
-    <td>-</td>
-    <td>DAVMO M318 GABKO</td>
-  </tr>
-  <tr>
-    <td>Landing OOMS, transiting Muscat FIR Eastbound and Southeast bound</td>
-    <td>-</td>
-    <td>ANVIX L223 TARDI</td>
-  </tr>
-  <tr>
-    <td rowspan="5">Transiting Sanaa FIR and Jeddah FIR</td>
-    <td rowspan="5">-</td>
-    <td>SENPA N571 ALPOB</td>
-  </tr>
-  <tr>
-    <td>ANVIX R401 GIDIS G783 TANSU</td>
-  </tr>
-  <tr>
-    <td>ANVIX R401 GIDIS G783 RIGIL M628 PEKEM</td>
-  </tr>
-  <tr>
-    <td>KUTLI L519 ATUDO M318 KATIT</td>
-  </tr>
-  <tr>
-    <td>KUTLI L519 ATUDO M318 GOLGU</td>
-  </tr>
-  <tr>
-    <td>Transiting Bahrain FIR onwards landing/transiting Kuwait, Baghdad, and Tehran FIRs</td>
-    <td>-</td>
-    <td>RIDAP M557 TUMAK</td>
-  </tr>
-  <tr>
-    <td>Transiting Bahrain FIR onwards landing/transiting Jeddah FIR (including OERK, OEJN)</td>
-    <td>-</td>
-    <td>SENPA N571 ALPOB</td>
-  </tr>
-  <tr>
-    <td>Landing within Bahrain FIR (including OBBI, OEDF, OEDR)</td>
-    <td>Max FL260</td>
-    <td>NABIX P699 ORMID</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Landing within Doha TMA (OTHH, OTBD)</td>
-    <td rowspan="2">Max FL260</td>
-    <td>NABIX P699 OXARI M430 TOSNA</td>
-  </tr>
-  <tr>
-    <td>MIROT Q576 RORON M430 TOSNA</td>
-  </tr>
-  <tr>
-    <td>Landing OIII &amp; OISS</td>
-    <td>-</td>
-    <td>DCT KUMUN</td>
-  </tr>
-  <tr>
-    <td>Landing OIBK</td>
-    <td>-</td>
-    <td>RIDAP M557 TOTKU DCT KIVUS DCT LUDAM DCT ORSAR</td>
-  </tr>
-  <tr>
-    <td>Landing OOSH</td>
-    <td>At 11,000ft only</td>
-    <td>ANVIX L223 TARDI</td>
-  </tr>
-  <tr>
-    <td>Landing OOSA, transiting Muscat FIR Southbound and Southwest bound</td>
-    <td>-</td>
-    <td>ANVIX R401 GIDIS G783 UKRAG L710 MEMTU</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Transiting Muscat FIR Eastbound onwards landing/transiting Karachi and Mumbai FIRs</td>
-    <td rowspan="2">-</td>
-    <td>IVURO M677 LALDO</td>
-  </tr>
-  <tr>
-    <td>IVURO M428 GOMTA</td>
-  </tr>
-  <tr>
-    <td>Landing OMAA &amp; OMAD</td>
-    <td>Max 10,000 ft</td>
-    <td>DCT EMERU</td>
-  </tr>
-  <tr>
-    <td>Landing OMAL</td>
-    <td>-</td>
-    <td>DCT ANVIX R401 GIDIS G783 VAVIM</td>
-  </tr>
-  <tr>
-    <td>Landing OMSJ, OMDB, OMRK, and OMFJ</td>
-    <td>Max 7,000 ft<br>(Radar Departure)</td>
-    <td>DCT (RADAR VECTORS)</td>
-  </tr>
-</tbody></table>
+| Destination                                                    | Level Restrictions           | Routing                                      |
+|---------------------------------------------------------------|-----------------------------|----------------------------------------------|
+| Tehran FIR Northbound (including OIKB)                        | -                           | DAVMO M318 GABKO                             |
+| Landing OOMS, transiting Muscat FIR Eastbound and Southeast bound | -                        | ANVIX L223 TARDI                             |
+| Transiting Sanaa FIR and Jeddah FIR                            | -                           | SENPA N571 ALPOB                             |
+| Transiting Sanaa FIR and Jeddah FIR                            | -                           | ANVIX R401 GIDIS G783 TANSU                  |
+| Transiting Sanaa FIR and Jeddah FIR                            | -                           | ANVIX R401 GIDIS G783 RIGIL M628 PEKEM       |
+| Transiting Sanaa FIR and Jeddah FIR                            | -                           | KUTLI L519 ATUDO M318 KATIT                  |
+| Transiting Sanaa FIR and Jeddah FIR                            | -                           | KUTLI L519 ATUDO M318 GOLGU                  |
+| Transiting Bahrain FIR onwards landing/transiting Kuwait, Baghdad, and Tehran FIRs | - | RIDAP M557 TUMAK                             |
+| Transiting Bahrain FIR onwards landing/transiting Jeddah FIR (including OERK, OEJN) | - | SENPA N571 ALPOB                             |
+| Landing within Bahrain FIR (including OBBI, OEDF, OEDR)        | Max FL260                   | NABIX P699 ORMID                             |
+| Landing within Doha TMA (OTHH, OTBD)                           | Max FL260                   | NABIX P699 OXARI M430 TOSNA                  |
+| Landing within Doha TMA (OTHH, OTBD)                           | Max FL260                   | MIROT Q576 RORON M430 TOSNA                  |
+| Landing OIII & OISS                                            | -                           | DCT KUMUN                                    |
+| Landing OIBK                                                   | -                           | RIDAP M557 TOTKU DCT KIVUS DCT LUDAM DCT ORSAR|
+| Landing OOSH                                                   | At 11,000ft only            | ANVIX L223 TARDI                             |
+| Landing OOSA, transiting Muscat FIR Southbound and Southwest bound | -                        | ANVIX R401 GIDIS G783 UKRAG L710 MEMTU       |
+| Transiting Muscat FIR Eastbound onwards landing/transiting Karachi and Mumbai FIRs | - | IVURO M677 LALDO                             |
+| Transiting Muscat FIR Eastbound onwards landing/transiting Karachi and Mumbai FIRs | - | IVURO M428 GOMTA                             |
+| Landing OMAA & OMAD                                            | Max 10,000 ft               | DCT EMERU                                    |
+| Landing OMAL                                                   | -                           | DCT ANVIX R401 GIDIS G783 VAVIM              |
+| Landing OMSJ, OMDB, OMRK, and OMFJ                             | Max 7,000 ft (Radar Departure) | DCT (RADAR VECTORS)                       |
+
 <figure markdown>
   <figcaption>Table 3-2: Standard routes</figcaption>
 </figure>
