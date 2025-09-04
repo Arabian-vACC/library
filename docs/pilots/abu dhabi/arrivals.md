@@ -43,6 +43,13 @@ Aircraft may experience glidepath signal fluctuations during Cat 1 conditions du
 ## Taxi
 The following taxi diagrams depict the standard taxi routings. Note that it may be necessary for operational reasons to deviate from these routings and pilots should follow ATC instructions at all times.
 
-### Runway 31s Configuration
 
-### Runway 13s Configuration
+### Runway 31L/R Configuration
+<figure markdown>
+![Runway 31L/R Configuration](img/31LR.png)
+</figure>
+
+### Runway 13L/R Configuration
+<figure markdown>
+![Runway 13L/R Configuration](img/13LR.png)
+</figure>
