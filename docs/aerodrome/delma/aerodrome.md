@@ -1,24 +1,18 @@
 # 1. Aerodrome Information
 ## 1.1 Aerodrome Details
-| ICAO Code                          |                      |
+| ICAO Code                          |         OMDL         |
 |------------------------------------|----------------------|
-| Aerodrome Reference Point (ARP)    |                      |
-| Elevation                          |                      |
-| Magnetic Variation / Annual Change |                      |
-| Transition Altitude / Level        | 13,000 ft / FL150    |
+| Aerodrome Reference Point (ARP)    |   243036N 0522007E   |
+| Elevation                          |         20 FT        |
+| Magnetic Variation / Annual Change | 2° E(2017) / 0.05° E |
+| Transition Altitude / Level        |  13,000 ft / FL150   |
 
 ## 1.2 Air traffic services
 ### 1.2.1 List of ATS callsigns
 | Radio Callsign              | Logon Callsign   | Abbreviation   | Frequency   |
 |:---------------------------:|:----------------:|:--------------:|:-----------:|
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
+| Delma Tower                 |OMDL_TWR          |AIR             |130.700      |
+
 
 ### 1.2.2 ATS airspace
 | Airspace                    | Classification   | Vertical Limits    | Transition Altitude   | Transition Level   |
