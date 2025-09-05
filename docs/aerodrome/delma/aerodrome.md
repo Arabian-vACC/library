@@ -45,6 +45,13 @@
     <td>FULL LENGTH</td>
     <td>2500 m</td>
     <td>2500 m</td>
+  </tr>
+  <tr>
+    <td rowspan="4">17</td>
+    <td>FULL LENGTH</td>
+    <td>2500 m</td>
+    <td>2500 m</td>
+  </tr>
 </tbody></table>
 
 ### 1.4.3 Declared distances (landing)
