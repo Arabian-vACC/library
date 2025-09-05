@@ -41,16 +41,10 @@
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="5">12R</td>
+    <td rowspan="5">35</td>
     <td>FULL LENGTH</td>
-    <td>4315 m</td>
-    <td>4504 m</td>
-  </tr>
-  <tr>
-    <td>K2/M5B</td>
-    <td>4125 m</td>
-    <td>4314 m</td>
-  </tr>
+    <td>2500 m</td>
+    <td>2500 m</td>
 </tbody></table>
 
 ### 1.4.3 Declared distances (landing)
