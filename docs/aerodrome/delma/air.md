@@ -14,6 +14,7 @@ Conditional line up instructions must also include the traffic that the aircraft
 !!! example
     **Controller**: A6-CTV, Behind the departing Cessna 172, Backtrack line up runway 35 behind.
     **Pilot**: Behind the departing Cessna 172, backtrack line up runway 35, behind A6-CTV.
+
 ### 4.3.2 VFR departures
 Once VFR aircraft are ready for departure, they should be cleared for take-off in sequence. As they begin their crosswind turn (the first turn after departure) they shall be instructed to report leaving the control zone.
 
@@ -24,6 +25,7 @@ Aircraft climbing into controlled airspace shall be handed off to departure cont
 !!! example
     **Controller**: A6-CTV, (surface) wind 330 degrees, 7 knots, runway 35, cleared for takeoff.
     **Pilot**: Cleared for takeoff, runway 30, A6-CTV
+
 ### 4.3.3 VFR traffic remaining in the circuit
 AIR control is responsible for managing circuit traffic. Circuits must always be conducted to the south of the aerodrome for runways 35/17 and to the north of the aerodrome for runways 35/17
 
@@ -42,6 +44,8 @@ Aircraft on the downwind should be passed the following information: - Expected 
 
 !!! example
     **Controller**: A6-CTV, report final runway 35, number 1, traffic is a Cessna 172 on a 2 mile final runway 35.
+
+
 ### 4.3.4 VFR arrivals
 Inbound VFR aircraft shall be instructed to contact AIR with enough time such that two-way radio communications has been established before aircraft enter the aerodrome control zone. On first contact, AIR will pass circuit joining instructions, as well as any other pertinent information.
 

@@ -15,7 +15,7 @@ Aircraft requesting Taxi that are not squawking their assigned transponder code 
     Conditional Taxi instructions may also be issued if an aircraft is taxing infront of another waiting for taxi
   
 !!! example
-    **Controler:** A6-CGH, Follow the Dash 8, hold short runway 35.
+    **Controller:** A6-CGH, Follow the Dash 8, hold short runway 35.
     **Pilot:** Follow the Dash 8, hold short runway 35, A6-CGH.
 
 
