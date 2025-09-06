@@ -82,16 +82,17 @@ Abu Dhabi primarily uses RNAV standard instrument departures (SIDs) and is the p
 !!! info
       All departures from ***31L/13R*** have an initial climb of **5000ft** and departures from ***31R/13L*** have an initial climb of **4000ft**
 
-| First Fix |   31L   |   31R   |   13R   |    13L   |
-|:---------:|:-------:|:-------:|:-------:|:--------:|
-|   ATUDO   |  1U/4K  |    1K   |    5G   |    5F    |
-|   BOSEV   |    1K   |    1K   |    1G   |    1F    |
-|   DAXIB   |    1K   |    1K   |    1G   |    1F    |
-|   KANIP   |  2U/4K  |    1K   |    3G   |    3F    | 
-|   LORID   |    2K   |    1K   |    1G   |    1F    | 
-|   MEKRI   |    2K   |    1K   |    1G   |    1F    | 
-|   ORNEL   |  1U/4K  |    1K   |    1F   |    1F    | 
-|   TULON   |    1K   |    1K   |    1G   |    1F    |
+|    Fix    | RWY 13L | RWY 13R | RWY 31L     | RWY 31R   |
+|-----------|---------|---------|-------------|-----------|
+| **ATUDO** | 5F      | 5G      | 4K/1U       | 3P        |
+| **BOSEV** | 1F      | 1G      | 1K          | 1P        |
+| **DAXIB** | 1F      | 1G      | 1K          | 1P        |
+| **KANIP** | 3F      | 3G      | 4K/2U       | 1N/3P     |
+| **LORID** | 1F      | 1G      | 2K          | 1P        |
+| **MEKRI** | 1F      | 1G      | 2K          | 1P        |
+| **ORNEL** | 1F      | 1G      | 2K/1U       | 1P        |
+| **TULON** | 1F      | 1G      | 2K          | 1P        |
+
 <figure markdown>
   <figcaption>Table 2-2: RNAV SIDs</figcaption>
 </figure>
@@ -128,10 +129,10 @@ When simultaneous independent parallel departures are in use; the following SIDs
 |:----------:|:----------:|
 |  MEKRI 2K  |  LORID 1P  |
 |  BOSEV 1K  |  TULON 1P  |
-|  DAXIB 1K  |  ATUDO 1P  |
+|  DAXIB 1K  |  ATUDO 3P  |
 |            |  KANIP 1N  |
-|            |  KANIP 3P  |
 |            |  ORNEL 1P  |
+
 <figure markdown>
   <figcaption>Table 2-3: Simultaneous independent departures (31 configuration)</figcaption>
 </figure>
@@ -146,6 +147,7 @@ When simultaneous independent parallel departures are in use; the following SIDs
 |  LORID 1F  |  BOSEV 1G  |
 |  TULON 1F  |  ORNEL 1G  |
 |  ATUDO 5F  |  KANIP 3G  |
+
 <figure markdown>
   <figcaption>Table 2-4: Simultaneous independent departures (13 configuration)</figcaption>
 </figure>
@@ -185,117 +187,27 @@ If an aircraft requires a reroute, they shall be informed of such as soon as the
 !!! note
     The Arabian vACC Operations Department maintains an up-to-date route database on SimBrief. These routes can be accessed by selecting the ***"User Submitted Routes"*** option, highlighted in purple, when planning a flight.
 
-<table><thead>
-  <tr>
-    <th>Destination</th>
-    <th>Level Restriction</th>
-    <th>Routing</th>
-    <th>Remarks</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>OIKB and beyond</td>
-    <td>-</td>
-    <td>TULON M318 GABKO</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>Muscat FIR and beyond</td>
-    <td>-</td>
-    <td>KANIP N318 LABRI</td>
-    <td>Does not apply to traffic landing at OOMS, OOMN and OOSH</td>
-  </tr>
-  <tr>
-    <td>OOMS, OOMN and OOSH</td>
-    <td>-</td>
-    <td>ORNEL N685 RETAS</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Sanaa FIR and Jeddah FIR</td>
-    <td>-</td>
-    <td>ORNEL T560 ELUDA G783 TANSU</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>ORNEL T560 ELUDA G783 RIGIL M628 PEKEM</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>ATUDO M318 KATIT</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>ATUDO M318 GOLGU M550 RIBOT</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>Doha FIR and Jeddah FIR and beyond overflying Riyadh VOR (KIA)</td>
-    <td>-</td>
-    <td>MEKRI P899 TOVOX</td>
-    <td>Conditions apply via Bahrain's standard routing</td>
-  </tr>
-  <tr>
-    <td>Bahrain FIR Northbound and Westbound to Tehran FIR, Kuwait FIR and Baghdad FIR</td>
-    <td>-</td>
-    <td>DAXIB Q563 UKUVO G462 TUMAK</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>Jeddah FIR via COPPI and Bopan VOR (BPN) and destinations OERK and OEJN</td>
-    <td>-</td>
-    <td>BOSEV N563 ALPOB</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>OBBI, OBBS, OBKH, OEDF and OEDR</td>
-    <td>-</td>
-    <td>BOSEV N563 IMGUX P699 ORMID</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>OIBK</td>
-    <td>-</td>
-    <td>DAXIB Q563 UKUVO DCT KIVUS DCT LUDAM DCT ORSAR</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>OISS, OIII and beyond</td>
-    <td>-</td>
-    <td>TULON M318 TOVIV P574 KUMUN</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>OMAL</td>
-    <td>9,0000ft or below</td>
-    <td>KANIP</td>
-    <td>Use appropriate KANIP SID</td>
-  </tr>
-  <tr>
-    <td>OMDB, OMDW and OMSJ</td>
-    <td>10,000ft or below</td>
-    <td>LORID</td>
-    <td>Use appropriate LORID SID; Subject to delays during high IFR activity</td>
-  </tr>
-  <tr>
-    <td rowspan="2">OMFJ</td>
-    <td rowspan="2">-</td>
-    <td>KANIP DCT VAMIM DCT PEDOG DCT MURGU Q308 RUDAT DCT IMVAT</td>
-    <td rowspan="2">-</td>
-  </tr>
-  <tr>
-    <td>KANIP DCT VAMIM DCT PEDOG DCT MURGU Q308 RUDAT DCT FJV</td>
-  </tr>
-  <tr>
-    <td>OMRK</td>
-    <td>-</td>
-    <td>KANIP DCT VAMIM DCT PEDOG DCT MURGU Q308 ORKOB DCT FJV DCT LAGLI DCT RAV</td>
-    <td>-</td>
-  </tr>
-</tbody></table>
+| Destination                                                    | Level Restriction         | Routing                                         | Remarks                                           |
+|---------------------------------------------------------------|--------------------------|-------------------------------------------------|---------------------------------------------------|
+| OIKB and beyond                                               | -                        | TULON M318 GABKO                                | -                                                 |
+| Muscat FIR and beyond                                         | -                        | KANIP N318 LABRI                                | Does not apply to traffic landing at OOMS, OOMN and OOSH |
+| OOMS, OOMN and OOSH                                           | -                        | ORNEL N685 RETAS                                | -                                                 |
+| Sanaa FIR and Jeddah FIR                                      | -                        | ORNEL T560 ELUDA G783 TANSU                     | -                                                 |
+| Sanaa FIR and Jeddah FIR                                      | -                        | ORNEL T560 ELUDA G783 RIGIL M628 PEKEM          | -                                                 |
+| Sanaa FIR and Jeddah FIR                                      | -                        | ATUDO M318 KATIT                                | -                                                 |
+| Sanaa FIR and Jeddah FIR                                      | -                        | ATUDO M318 GOLGU M550 RIBOT                     | -                                                 |
+| Doha FIR and Jeddah FIR and beyond overflying Riyadh VOR (KIA)| -                        | MEKRI P899 TOVOX                                | Conditions apply via Bahrain's standard routing    |
+| Bahrain FIR Northbound and Westbound to Tehran FIR, Kuwait FIR and Baghdad FIR | - | DAXIB Q563 UKUVO G462 TUMAK                     | -                                                 |
+| Jeddah FIR via COPPI and Bopan VOR (BPN) and destinations OERK and OEJN | - | BOSEV N563 ALPOB                                | -                                                 |
+| OBBI, OBBS, OBKH, OEDF and OEDR                              | -                        | BOSEV N563 IMGUX P699 ORMID                     | -                                                 |
+| OIBK                                                          | -                        | DAXIB Q563 UKUVO DCT KIVUS DCT LUDAM DCT ORSAR  |                                                   |
+| OISS, OIII and beyond                                         | -                        | TULON M318 TOVIV P574 KUMUN                     | -                                                 |
+| OMAL                                                          | 9,000ft or below        | KANIP                                           | Use appropriate KANIP SID                         |
+| OMDB, OMDW and OMSJ                                           | 10,000ft or below        | LORID                                           | Use appropriate LORID SID; Subject to delays during high IFR activity |
+| OMFJ                                                          | -                        | KANIP DCT VAMIM DCT PEDOG DCT MURGU Q308 RUDAT DCT IMVAT | -                                         |
+| OMFJ                                                          | -                        | KANIP DCT VAMIM DCT PEDOG DCT MURGU Q308 RUDAT DCT FJV   | -                                         |
+| OMRK                                                          | -                        | KANIP DCT VAMIM DCT PEDOG DCT MURGU Q308 ORKOB DCT FJV DCT LAGLI DCT RAV | -      |
+
 <figure markdown>
   <figcaption>Table 2-5: Standard routes</figcaption>
 </figure>
