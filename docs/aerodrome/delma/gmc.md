@@ -9,6 +9,7 @@ Aircraft requesting Taxi that are not squawking their assigned transponder code 
 
 !!! example
     **Controller:** A6-CTV, Delma Tower, Taxi straight ahead, hold short runway 35.
+    
     **Pilot:** Taxi straight ahead, hold short runway 35, A6-CTV.
 
 !!! note
@@ -16,6 +17,7 @@ Aircraft requesting Taxi that are not squawking their assigned transponder code 
   
 !!! example
     **Controller:** A6-CGH, Follow the Dash 8, hold short runway 35.
+
     **Pilot:** Follow the Dash 8, hold short runway 35, A6-CGH.
 
 

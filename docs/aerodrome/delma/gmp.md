@@ -16,10 +16,13 @@ VFR aircraft requesting clearance to climb into approach airspace shall only be 
 All VFR departures shall be assigned a discrete SSR code so that they may be identified on radar.
 
 !!! example
-    **Pilot**: Delma, A6-CTK, type Dash 8, stand 2, Information A,  request eastbound departure on track Abu Dhabi, altitude 6500ft..
+    **Pilot**: Delma, A6-CTK, type Dash 8, stand 2, Information A,  request eastbound departure on track Abu Dhabi, altitude 6500ft.
+
     **Controller**: A6-CTK, Delma Tower, cleared eastbound departure, altitude 6500ft VFR, Runway 35, Squawk 0657.
+
     **Pilot**: Cleared eastbound departure, altitude 6500ft VFR, Runway 35, Squawk 0657, A6-CTK.
-    **Controller**: A6-CTK, readback correct, information A, QNH 1003, Report ready for start-up."
+
+    **Controller**: A6-CTK, readback correct, information A, QNH 1003, Report ready for start-up.
 
 
 ### 2.2.3 VFR traffic remaining in circuit

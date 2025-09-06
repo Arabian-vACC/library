@@ -13,6 +13,7 @@ Conditional line up instructions must also include the traffic that the aircraft
 
 !!! example
     **Controller**: A6-CTV, Behind the departing Cessna 172, Backtrack line up runway 35 behind.
+    
     **Pilot**: Behind the departing Cessna 172, backtrack line up runway 35, behind A6-CTV.
 
 ### 4.3.2 VFR departures
@@ -24,6 +25,7 @@ Aircraft climbing into controlled airspace shall be handed off to departure cont
 
 !!! example
     **Controller**: A6-CTV, (surface) wind 330 degrees, 7 knots, runway 35, cleared for takeoff.
+
     **Pilot**: Cleared for takeoff, runway 30, A6-CTV
 
 ### 4.3.3 VFR traffic remaining in the circuit
