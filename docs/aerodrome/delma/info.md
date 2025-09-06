@@ -11,16 +11,7 @@
 | Cancelled documents |                SOP OMDB R05/2021                  |
 
 ## Record of Revisions
-<table><thead>
-  <tr>
-    <th>Revision Number</th>
-    <th>Notes</th>
-    <th>Effective Date</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>01/2025</td>
-    <td>Initial issue</td>
-    <td>07 SEP 2025</td>
-  </tr>
-</tbody></table>
+| Revision Number   | Notes            | Effective Date       |
+|:-----------------:|:----------------:|:--------------------:|
+| 01/2019           | Initial issue    | 26 SEP 2019          |
+| 01/2025           | Rewrite of SOPs  | 06 SEP 2025          |
