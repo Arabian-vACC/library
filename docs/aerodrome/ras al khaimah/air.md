@@ -42,15 +42,15 @@ Where Ras Al Khaimah Approach Radar is offline, aircraft shall be handed off dir
 Aircraft that have commenced their take-off roll may be instructed to stop immediately to avert a collision due to a runway incursion or any other dangerous situation.
 
 !!! warning
-      The instruction to stop must be given early enough such that the aircraft does not reach its decision speed. Therefore, aerodrome controllers must be vigilant and remain aware of the location of traffic and all times as well as runway incursion hotspots. 
+  The instruction to stop must be given early enough such that the aircraft does not reach its decision speed. Therefore, aerodrome controllers must be vigilant and remain aware of the location of traffic and all times as well as runway incursion hotspots. 
 
 !!! example
-      **Controller:** ABY728, Stop immediately, I say again stop immediately, vehicle entering the runway!
+    **Controller:** ABY728, Stop immediately, I say again stop immediately, vehicle entering the runway!
 
 For aircraft that have been given a take-off clearance, but have not yet started the roll, they should be instructed to hold position and the take-off clearance must be cancelled along with the reason for cancellation.
 
 !!! example
-      **Controller:** AXB764, hold position, cancel takeoff, I say again cancel takeoff, aircraft entering the runway, acknowledge.
+    **Controller:** AXB764, hold position, cancel takeoff, I say again cancel takeoff, aircraft entering the runway, acknowledge.
 
 ### 4.4 Arrival procedures
 ### 4.4.1 Speed control
@@ -58,7 +58,7 @@ Although the radar controllers are responsible for separating arriving aircraft,
 If it is apparent that minimum separation may not exist as provided in Wake Turbulence Separation (WTS) or minimum radar separation minima, AIR may use a tactical reduction in aircraft speed.
 
 !!! example
-      **Controller:** IGO82M, Reduce to final approach speed.
+    **Controller:** IGO82M, Reduce to final approach speed.
 
 Aircraft may also be instructed to maintain own separation visually, if speed control alone will not resolve the conflict. This shall only be done in VMC and with agreement with the pilot. If no other solutions are practical, the succeeding aircraft shall be instructed to go around.
 
@@ -66,12 +66,12 @@ Aircraft may also be instructed to maintain own separation visually, if speed co
 At any time should a runway become unsuitable for an aircraft landing, or separation minima is not met, aircraft shall be instructed to go-around.
 
 !!! example
-      **Controller:** ABY78N, Go around, I say again, go around, acknowledge.
+    **Controller:** ABY78N, Go around, I say again, go around, acknowledge.
 
 Once aircraft are observed to be safely climbing away, they shall be handed off to departure control.
 
 !!! example
-      **Controller:** ABY78N, Climb to 3000ft via standard missed approach, contact Ras Al Khaimah Approach Radar 124.000.
+    **Controller:** ABY78N, Climb to 3000ft via standard missed approach, contact Ras Al Khaimah Approach Radar 124.000.
 
 ### 4.4.3 Arrival taxi procedures
 If an aircraft is unable to vacate via N or S they shall be instructed to exit the RWY on A or B, and then proceed to backtrack the RWY to exit on N or S. 
