@@ -19,8 +19,8 @@
   </tr></thead>
 <tbody>
   <tr>
-    <td>01/2019</td>
+    <td>01/2025</td>
     <td>Initial issue</td>
-    <td>26 SEP 2019</td>
+    <td>06 SEP 2025</td>
   </tr>
 </tbody></table>
