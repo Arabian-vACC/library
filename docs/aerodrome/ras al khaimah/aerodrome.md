@@ -1,10 +1,10 @@
 # 1. Aerodrome Information
 ## 1.1 Aerodrome Details
-| ICAO Code                          |                      |
+| ICAO Code                          |          OMRK        |
 |------------------------------------|----------------------|
-| Aerodrome Reference Point (ARP)    |                      |
-| Elevation                          |                      |
-| Magnetic Variation / Annual Change |                      |
+| Aerodrome Reference Point (ARP)    |  253648N 0555620E    |
+| Elevation                          |         94 FT        |
+| Magnetic Variation / Annual Change |2° E (2022) / 0.04° E |
 | Transition Altitude / Level        | 13,000 ft / FL150    |
 
 ## 1.2 Air traffic services
@@ -44,26 +44,17 @@
 |                      |                           |                  |
 
 ### 1.4.2 Declared distances (take-off)
-<table><thead>
-  <tr>
-    <th>Runway</th>
-    <th>Intersection</th>
-    <th>Take-off Run Available (TORA)</th>
-    <th>Accelerate Stop Distance Available (ASDA)</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td rowspan="5">12R</td>
-    <td>FULL LENGTH</td>
-    <td>4315 m</td>
-    <td>4504 m</td>
-  </tr>
-  <tr>
-    <td>K2/M5B</td>
-    <td>4125 m</td>
-    <td>4314 m</td>
-  </tr>
-</tbody></table>
+| Runway                      | Intersection     | Take-off Run Available (TORA)   | Accelerate Stop Distance Available (ASDA)   |
+|:---------------------------:|:----------------:|:-------------------------------:|:-------------------------------------------:|
+|12R                          | FULL LENGTH      |             4315                |           4504                              |
+|                             |   K2/M5B         |              4125               |                  4314                       |
+|                             |                  |                                 |                                             |
+|                             |                  |                                 |                                             |
+|                             |                  |                                 |                                             |
+|                             |                  |                                 |                                             |
+|                             |                  |                                 |                                             |
+|                             |                  |                                 |                                             |
+
 
 ### 1.4.3 Declared distances (landing)
 | Runway | Landing Distance Available (at Threshold) |
