@@ -15,9 +15,9 @@
 
 
 ### 1.2.2 ATS airspace
-| Airspace                    | Classification   | Vertical Limits    | Transition Altitude   | Transition Level   |
-|:---------------------------:|:----------------:|:------------------:|:---------------------:|:------------------:|
-| CTR (Control Zone)          | D                |SFC to 2000ft       | 13 000 ft             | FL 150             |
+| Airspace                                         | Classification   | Vertical Limits       | Transition Altitude   | Transition Level   |
+|:------------------------------------------------:|:----------------:|:---------------------:|:---------------------:|:------------------:|
+| Delma CTR                                        |        D         |   SFC to 2000ft       | 13 000 ft             | FL 150             |
 
 ## 1.3 Radio navigation aids
 | Type            | Identifier   | Frequency   |
@@ -32,27 +32,10 @@
 |35                    | 354°/ 352°                | 2822             |
 
 ### 1.4.2 Declared distances (take-off)
-<table><thead>
-  <tr>
-    <th>Runway</th>
-    <th>Intersection</th>
-    <th>Take-off Run Available (TORA)</th>
-    <th>Accelerate Stop Distance Available (ASDA)</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td rowspan="5">35</td>
-    <td>FULL LENGTH</td>
-    <td>2500 m</td>
-    <td>2500 m</td>
-  </tr>
-  <tr>
-    <td rowspan="4">17</td>
-    <td>FULL LENGTH</td>
-    <td>2500 m</td>
-    <td>2500 m</td>
-  </tr>
-</tbody></table>
+| Runway    | Intersection     |Take-off Run Available (TORA) | Accelerate Stop Distance Available (ASDA)|
+|:---------:|:----------------:|:----------------------------:|:----------------------------------------:|             
+| 35        |FULL LENGTH       |2500 m                        |2500 m                                    |                           
+| 17        |FULL LENGTH       |2500 m                        |2500 m                                    |
 
 ### 1.4.3 Declared distances (landing)
 | Runway | Landing Distance Available (at Threshold) |
