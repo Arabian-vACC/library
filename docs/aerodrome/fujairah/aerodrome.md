@@ -18,8 +18,9 @@
 ### 1.2.2 ATS airspace
 | Airspace                    | Classification   | Vertical Limits    | Transition Altitude   | Transition Level   |
 |:---------------------------:|:----------------:|:------------------:|:---------------------:|:------------------:|
-| CTA (Terminal Area)         |                  |                    | 13 000 ft             | FL 150             |
-| CTR (Control Zone)          |                  |                    | 13 000 ft             | FL 150             |
+| CTA 1 (Terminal Area)       |        C         |  1500ft to 7500ft  | 13 000 ft             | FL 150             |
+| CTA 2 (Terminal Area)       |        C         |  2000ft to 9000ft  | 13 000 ft             | FL 150             |
+| CTR (Control Zone)          |        D         |    SFC to 5500ft   | 13 000 ft             | FL 150             |
 
 ## 1.3 Radio navigation aids
 | Type            | Identifier   | Frequency   |
@@ -35,13 +36,13 @@
 | 11R                  | 110/108                   | 3050 x 45        |
 
 ### 1.4.2 Declared distances (take-off)
-| Runway Designation   | Intersection              | Take-off Run Available (TORA)   |
-|:--------------------:|:-------------------------:|:-------------------------------:|
-| 29L                  |                           |                                 |
-| 11R                  |                           |                                 |
+| Runway Designation   | Intersection              | Take-off Run Available (TORA)   | Accelerate Stop Distance Available (ASDA)|
+|:--------------------:|:-------------------------:|:-------------------------------:|:----------------------------------------:|
+| 29L                  | Full Length               |             3050                |                   3050                   |
+| 11R                  | Full Length               |             3050                |                   3050                   |
 
 ### 1.4.3 Declared distances (landing)
 | Runway | Landing Distance Available (at Threshold) |
 |:------:|:-----------------------------------------:|
-| 29L    |                                           |
-| 11R    |                                           |
+| 29L    |                 3050                      |
+| 11R    |                 3050                      |
