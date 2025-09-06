@@ -13,7 +13,7 @@
 |:---------------------------:|:----------------:|:--------------:|:-----------:|
 | Fujairah ATIS               | OMFJ_ATIS        | ATIS           | 126.650     |
 | Fujairah Ground             | OMFJ_GND         | GMC            | 119.450     |
-| Fujairah Tower              | OMFJ_TWR         | TWR            | 124.600     |
+| Fujairah Tower              | OMFJ_TWR         | AIR            | 124.600     |
 
 ### 1.2.2 ATS airspace
 | Airspace                    | Classification   | Vertical Limits    | Transition Altitude   | Transition Level   |
