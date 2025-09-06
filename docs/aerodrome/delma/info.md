@@ -4,17 +4,16 @@
 |---------------------|---------------------------------------------------|
 |         Type        |                    Procedure                      |
 |       Revision      |                     01/2025                       |
-|    Effective Date   |                    07 DEC 2025                    |
+|    Effective Date   |                    07 SEP 2025                    |
 |     Prepared by     |                 Steven - 1774511                  |
 |     Approved by     |                    Kier - ARB4                    |
-|   Next review date  |                    07 DEC 2026                    |
-| Cancelled documents |                SOP OMDB R05/2021                  |
+|   Next review date  |                    07 SEP 2026                    |
 
 ## Record of Revisions
 | Revision Number   | Notes            | Effective Date       |
 |:-----------------:|:----------------:|:--------------------:|
 | 01/2019           | Initial issue    | 26 SEP 2019          |
-| 01/2025           | Rewrite of SOPs  | 06 SEP 2025          |
+| 01/2025           | Rewrite of SOPs  | 07 SEP 2025          |
 
 ## Purpose & Scope
 This Standard Operating Procedure (SOP) outlines the procedures, responsibilities, and coordination requirements for Fujairah aerodrome operations on the VATSIM network. Its primary goal is to ensure safe, efficient, and standardized handling of VFR traffic flow into and out of the aerodrome.
