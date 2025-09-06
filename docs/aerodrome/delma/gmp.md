@@ -16,13 +16,11 @@ VFR aircraft requesting clearance to climb into approach airspace shall only be 
 All VFR departures shall be assigned a discrete SSR code so that they may be identified on radar.
 
 !!! example
-  **Pilot**: "Delma, A6-CTK, type Dash 8, stand 2, Information A,  request eastbound departure on track Abu Dhabi, altitude 6500ft.."
-    
-  **ATC**: "A6-CTK, Delma Tower, cleared eastbound departure, altitude 6500ft VFR, Runway 35, Squawk 0657."
-    
-  **Pilot**: "Cleared eastbound departure, altitude 6500ft VFR, Runway 35, Squawk 0657, A6-CTK."
+    **Pilot**: Delma, A6-CTK, type Dash 8, stand 2, Information A,  request eastbound departure on track Abu Dhabi, altitude 6500ft..
+    **Controller**: A6-CTK, Delma Tower, cleared eastbound departure, altitude 6500ft VFR, Runway 35, Squawk 0657.
+    **Pilot**: Cleared eastbound departure, altitude 6500ft VFR, Runway 35, Squawk 0657, A6-CTK.
+    **ATC**: A6-CTK, readback correct, information A, QNH 1003, Report ready for start-up."
 
-  **ATC**: A6-CTK, readback correct, information A, QNH 1003, Report ready for start-up."
 
 ### 2.2.3 VFR traffic remaining in circuit
 All VFR aircraft shall be instructed to conduct circuits to the north of the aerodrome right-hand circuits for 35 and left-hand circuits for 17 (in accordance with section 4.3.3) at an altitude of 1500ft for jet traffic, 1000ft for Turbo-props, 500ft for Helicopters. 
