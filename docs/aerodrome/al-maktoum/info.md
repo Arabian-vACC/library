@@ -6,7 +6,7 @@
 |       Revision      |                     06/2025                       |
 |    Effective Date   |                    13/06/2025                     |
 |     Prepared by     |                    Kai Mannion                    |
-|     Approved by     |                    Kier Lawrence                  |
+|     Approved by     |                    Kier - ACCARB4                 |
 |   Next review date  |                    13/06/2026                     |
 | Cancelled documents |                        N/A                        |
 
