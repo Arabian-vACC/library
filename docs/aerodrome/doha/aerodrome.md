@@ -43,137 +43,33 @@
 | 33                   | 338° / 336°               | 4570 x 46        |
 
 ### 1.4.2 Declared distances (take-off)
-<table><thead>
-  <tr>
-    <th>Runway</th>
-    <th>Intersection</th>
-    <th>Take-off Run Available (TORA)</th>
-    <th>Accelerate Stop Distance Available (ASDA)</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td rowspan="11">15</td>
-    <td>FULL LENGTH</td>
-    <td>4570 m</td>
-    <td>4570 m</td>
-  </tr>
-  <tr>
-    <td>A</td>
-    <td>3821 m</td>
-    <td>3821 m</td>
-  </tr>
-  <tr>
-    <td>B</td>
-    <td>3058 m</td>
-    <td>3058 m</td>
-  </tr>
-  <tr>
-    <td>B1</td>
-    <td>3058 m </td>
-    <td>3058 m</td>
-  </tr>
-  <tr>
-    <td>C1</td>
-    <td>2516 m</td>
-    <td>2516 m</td>
-  </tr>
-  <tr>
-    <td>C</td>
-    <td>2490 m</td>
-    <td>2490 m</td>
-  </tr>
-  <tr>
-    <td>P</td>
-    <td>2451 m</td>
-    <td>2451 m</td>
-  </tr>
-  <tr>
-    <td>E1</td>
-    <td>1144 m</td>
-    <td>1144 m</td>
-  </tr>
-  <tr>
-    <td>N</td>
-    <td>1144 m</td>
-    <td>1144 m</td>
-  </tr>
-  <tr>
-    <td>E2</td>
-    <td>706 m</td>
-    <td>706 m</td>
-  </tr>
-  <tr>
-    <td>M</td>
-    <td>706 m</td>
-    <td>706 m</td>
-  </tr>
-  <tr>
-    <td rowspan="13">33</td>
-    <td>FULL LENGTH</td>
-    <td>4570 m</td>
-    <td>4570 m</td>
-  </tr>
-  <tr>
-    <td>F</td>
-    <td>4126 m</td>
-    <td>4126 m</td>
-  </tr>
-  <tr>
-    <td>L</td>
-    <td>4126 m</td>
-    <td>4126 m</td>
-  </tr>
-  <tr>
-    <td>K</td>
-    <td>4024 m </td>
-    <td>4024 m</td>
-  </tr>
-  <tr>
-    <td>E2</td>
-    <td>3890 m</td>
-    <td>3890 m</td>
-  </tr>
-  <tr>
-    <td>M</td>
-    <td>3890 m</td>
-    <td>3890 m</td>
-  </tr>
-  <tr>
-    <td>E1</td>
-    <td>3450 m</td>
-    <td>3450 m</td>
-  </tr>
-  <tr>
-    <td>N</td>
-    <td>3450 m</td>
-    <td>3450 m</td>
-  </tr>
-  <tr>
-    <td>LOOP</td>
-    <td>2482 m</td>
-    <td>2482 m</td>
-  </tr>
-  <tr>
-    <td>C</td>
-    <td>2145 m</td>
-    <td>2145 m</td>
-  </tr>
-  <tr>
-    <td>P</td>
-    <td>2145 m</td>
-    <td>2145 m</td>
-  </tr>
-  <tr>
-    <td>B</td>
-    <td>1542 m</td>
-    <td>1542 m</td>
-  </tr>
-  <tr>
-    <td>B1</td>
-    <td>1542 m</td>
-    <td>1542 m</td>
-  </tr>
-</tbody></table>
+| Runway | Intersection | Take-off Run Available (TORA) | Accelerate Stop Distance Available (ASDA) |
+|--------|--------------|-------------------------------|--------------------------------------------|
+| 15     | FULL LENGTH  | 4570 m                        | 4570 m                                     |
+|        | A            | 3821 m                        | 3821 m                                     |
+|        | B            | 3058 m                        | 3058 m                                     |
+|        | B1           | 3058 m                        | 3058 m                                     |
+|        | C1           | 2516 m                        | 2516 m                                     |
+|        | C            | 2490 m                        | 2490 m                                     |
+|        | P            | 2451 m                        | 2451 m                                     |
+|        | E1           | 1144 m                        | 1144 m                                     |
+|        | N            | 1144 m                        | 1144 m                                     |
+|        | E2           | 706 m                         | 706 m                                      |
+|        | M            | 706 m                         | 706 m                                      |
+| 33     | FULL LENGTH  | 4570 m                        | 4570 m                                     |
+|        | F            | 4126 m                        | 4126 m                                     |
+|        | L            | 4126 m                        | 4126 m                                     |
+|        | K            | 4024 m                        | 4024 m                                     |
+|        | E2           | 3890 m                        | 3890 m                                     |
+|        | M            | 3890 m                        | 3890 m                                     |
+|        | E1           | 3450 m                        | 3450 m                                     |
+|        | N            | 3450 m                        | 3450 m                                     |
+|        | LOOP         | 2482 m                        | 2482 m                                     |
+|        | C            | 2145 m                        | 2145 m                                     |
+|        | P            | 2145 m                        | 2145 m                                     |
+|        | B            | 1542 m                        | 1542 m                                     |
+|        | B1           | 1542 m                        | 1542 m                                     |
+
 
 ### 1.4.3 Declared distances (landing)
 | Runway | Landing Distance Available (at Threshold) |

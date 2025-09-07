@@ -25,11 +25,11 @@ An IFR clearance shall be in the following format:
 GMC shall obtain a full readback of the clearance. If the pilot does not report the current ATIS letter on first contact, GMC shall pass the current ATIS letter and QNH.
 
 !!! example
-    **Pilot**: "Doha Ground, good evening, QQE990, Gulfstream 650ER, stand A6, clearance to Miami, with information W on board."
+    **Pilot**: "Doha Ground, good evening, QQE990, Gulfstream 650ER, stand A6, clearance to Nice, with information W on board."
 
-    **Controller**: "QQE990, information W correct, cleared to Nice via the PATOM3N departure, climb via the SID altitude 5000ft, squawk 2613."
+    **Controller**: "QQE990, information W correct, cleared to Nice via the LUBET2N departure, climb via the SID altitude 5000ft, squawk 2613."
 
-    **Pilot**: "Cleared to Nice, PATOM3N departure, climb via the SID altitude 5000ft, squawk 2613, QQE990."
+    **Pilot**: "Cleared to Nice, LUBET2N departure, climb via the SID altitude 5000ft, squawk 2613, QQE990."
 
     **Controller**: "QQE990, readback correct, QNH 1004, report ready for pushback."
 
@@ -51,7 +51,22 @@ Doha primarily uses RNAV standard instrument departures (SIDs) and is the prefer
 
 Doha RNAV Standard Instrument Departures (SIDs) operate independently from those at Hamad. Both airports conduct simultaneous departures.
 
-SIDs which have an identifier ending in **S** are valid for **runway 15**. SIDs which have an identifier ending in **N** are valid for **runway 33**. All departures from **runway 15** have an initial climb of **6,000 feet**. In contrast, most departures from **runway 33** have an initial climb of **5,000 feet**, except for the **DATRI1N** and **ULIKA1N** procedures, which are set at **6,000 feet**.
+|   SID 15  | Inital Climb |   SID 33  | Inital Climb |
+|:---------:|:------------:|:---------:|:------------:|
+|  ALSEM3S  |    6000ft    |  ALSEM3N  |    5000ft    |
+|  ALVEN3S  |    6000ft    |  ALVEN3N  |    5000ft    |
+|  BUNDU3S  |    6000ft    |  BUNDU3N  |    5000ft    |
+|  DATRI1S  |    6000ft    |  DATRI1N  |    6000ft    |
+|  KUPRO1S  |    6000ft    |  KUPRO1N  |    5000ft    |
+|  LUBET2S  |    6000ft    |  LUBET2N  |    5000ft    |
+|  PATOM3S  |    6000ft    |  PATOM3M  |    5000ft    |
+|  TULUB2S  |    6000ft    |  TULUB2N  |    5000ft    |
+|  ULIKA1S  |    6000ft    |  ULIKA1N  |    6000ft    |
+|  VAXIN3S  |    6000ft    |  VAXIN3N  |    5000ft    |
+
+<figure markdown>
+  <figcaption>Table 3-1: Initial Climbs</figcaption>
+</figure>
 
 All IFR departures shall be instructed to contact Doha Approach (West) once airborne.
 
@@ -69,7 +84,7 @@ All IFR departures shall be instructed to contact Doha Approach (West) once airb
 |   VAXIN   |    3S   |    3N   |
 
 <figure markdown>
-  <figcaption>Table 3-1: RNAV SIDs</figcaption>
+  <figcaption>Table 3-2: RNAV SIDs</figcaption>
 </figure>
 
 ### 3.3.2 Radar vectors departure
@@ -97,7 +112,7 @@ All radar vectors departures shall be instructed to contact Doha Approach (West)
     **Controller**: "TCM1TM, readback correct, QNH 1014, report ready for pushback."
 
 ## 3.4 Rerouting aircraft
-An aircraft shall be issued a reroute by GMC if the pilot’s route doesn’t comply with the standard routes laid out in Table 3-2. 
+An aircraft shall be issued a reroute by GMC if the pilot’s route doesn’t comply with the standard routes laid out in Table 3-3. 
 
 Several routing restrictions exist within Qatari airspace and are detailed in the Qatari Route Manual which must be complied with when issuing a departure clearance. 
 
@@ -108,24 +123,24 @@ The Arabian vACC Operations Department maintains an up-to-date route database on
 !!! example
     **Controller**: "QQE650, cleared to Dubai, runway 15 via ALSEM3S, ALSEM - L305 - ITBUL, flight planned route. Climb via the SID altitude 6000ft, squawk 2612."
 
-| Destination                                              | Level Restriction         | Routing                        |
+| Destination                                              | Level Restriction        | Routing                        |
 |----------------------------------------------------------|--------------------------|--------------------------------|
 | Northern Emirates (OMDB, OMDW, OMFJ, OMFJ, OMRK, OMDM)   | FL210                    | ALSEM L305 ASTOG               |
 | Transiting Tehran FIR (FL200 @ ALKAN)                    | FL230                    | VAXIN T800 DASUT               |
 | Transiting Tehran FIR (FL190 @ RAGAS)                    | FL190                    | ALVEN T430 RAGAS               |
 | Southern Emirates (OMAA, OMAD, OMAM, OMAL)               | FL270                    | KUPRO                          |
 | Bahrain (OBBI, OBBS, OBKH)                               | 12,000ft                 | TULUB B457 / M444 / T444 KINID |
-| Transiting Bahrain FIR onwards landing Kuwait FIR         | FL430                    | TULUB M444 KINID               |
-| Transiting Jeddah FIR onwards landing Kuwait FIR          | FL280                    | TULUB B457 KINID               |
+| Transiting Bahrain FIR onwards landing Kuwait FIR        | FL430                    | TULUB M444 KINID               |
+| Transiting Jeddah FIR onwards landing Kuwait FIR         | FL280                    | TULUB B457 KINID               |
 | Transiting Kuwait FIR                                    | FL430                    | LUBET T934 IMLAD               |
 | Transiting Kuwait FIR                                    | FL320                    | LUBET L934 IMLAD               |
 <figure markdown>
-  <figcaption>Table 3-2: Standard routes</figcaption>
+  <figcaption>Table 3-3: Standard routes</figcaption>
 </figure>
 
 ## 3.5 Requested cruising level
 ### 3.5.1 Level restrictions
-Aircraft routes out of the aerodrome must comply with all routing and level restrictions as described in section 3.1 of Arabian MATS P1, Arabian Route Manual and Table 3-2. This is based on direction and type of flight. 
+Aircraft routes out of the aerodrome must comply with all routing and level restrictions as described in Table 3.1 of Arabian MATS P1, Arabian Route Manual and Table 3-3. This is based on direction and type of flight. 
 
 Should an aircraft file an invalid cruise level, GMC shall advise the aircraft of this when delivering the clearance. In all cases, the next lowest valid cruise level shall be assigned, and the aircraft advised.
 
