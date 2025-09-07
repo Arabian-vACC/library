@@ -26,7 +26,7 @@ Aircraft climbing into controlled airspace shall be handed off to departure cont
 !!! example
     **Controller**: A6-CTV, (surface) wind 330 degrees, 7 knots, runway 35, cleared for takeoff.
 
-    **Pilot**: Cleared for takeoff, runway 30, A6-CTV
+    **Pilot**: Cleared for takeoff, runway 35, A6-CTV
 
 ### 4.3.3 VFR traffic remaining in the circuit
 AIR control is responsible for managing circuit traffic. Circuits must always be conducted to the south of the aerodrome for runways 35/17 and to the north of the aerodrome for runways 35/17
