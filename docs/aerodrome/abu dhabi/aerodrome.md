@@ -1,10 +1,11 @@
 # 1. Aerodrome Information
 ## 1.1 Aerodrome Details
-| ICAO Code                          |                                                    |
+| ICAO Code                          | OMAA                                               |
 |------------------------------------|----------------------------------------------------|
-| Aerodrome Reference Point (ARP)    | 242559N 0543904E Mid point of RWY 13R / 31L, on CL |
+| Aerodrome Reference Point (ARP)    | N 24 25.59 E 054 39.04                             |
 | Elevation                          | 83ft                                               |
 | Magnetic Variation / Annual Change | 2° E(2017) / 0.05° E                               |
+| Transition Altitude / Level        | 13,000 ft / FL150                                  |
 
 ## 1.2 Air traffic services
 ### 1.2.1 List of ATS callsigns
