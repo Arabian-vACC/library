@@ -16,14 +16,14 @@ GMP is responsible for issuing clearances for departing aircraft. Pilots may be 
 - Parking Stand;
 - Destination;
 - Speed if unable to comply with minimum speed on the SID;
-- ATIS letter & QNH
+- ATIS letter & QNH;
 
 ### 2.2.2 Information contained in a departure clearance
 - Callsign;
 - Destination;
 - Departure procedure;
 - Initially cleared altitude;
-- Assigned SSR code
+- Assigned SSR code;
 
 GMC shall obtain a full readback of the clearance. If the pilot does not report the current ATIS letter on first contact, GMC shall pass the current ATIS letter and QNH.
 
@@ -79,9 +79,6 @@ A radar departure clearance shall contain the following information:
 !!! example
     **Controller**: "IGO1494, cleared to Cochin, via PUVA1N, PUVAL RUKOR L223 TARDI N629 GIDAN P570 TOLDA, flight planned route. Maintain 3000ft, squawk 0532."
 
-| Destination            | Level Restrictions |      Routing        |
-|:----------------------:|:-----------------:|:-------------------:|
-|  
 
 ## 2.5 Requested cruising level
 ### 2.5.1 Level restrictions
@@ -94,19 +91,19 @@ A radar departure clearance shall contain the following information:
       Thus, resorting to issuing the next lowest valid cruise level minimises radio transmissions and simplifies the correction process between the controller and the aircraft.
       
 
-## 2.7 Runway change procedure
+## 2.5 Runway change procedure
 Runway change shall be coordinated with Ras Al Khaimah AIR
 
-## 2.8 VFR aircraft
+## 2.6 VFR aircraft
 VFR flight activity should be planned in accordance to published VFR charts, specifically the “UAE NORTHEN EMIRATES VFR” chart for VFR traffic navigating out of the Ras Al Khaimah control zone into neighbouring airspaces and within the Ras Al Khaimah control zone. GMC may use the appropriate charts as per the requirements of the pilot’s intentions.
 
 
-### 2.8.1 VFR departures into uncontrolled airspace
+### 2.6.1 VFR departures into uncontrolled airspace
 VFR traffic shall be cleared via the most appropriate VFR route towards their destination. If necessary, the clearance may be amended by AIR prior to departure.
 
 All VFR departures shall be assigned a discrete SSR code so that they may be identified on radar.
 
-### 2.8.2 VFR departures into controlled airspace
+### 2.6.2 VFR departures into controlled airspace
 VFR aircraft requesting clearance to climb into approach airspace (above 1500 ft) shall only be cleared after prior coordination with approach/departure control. Otherwise, they shall be instructed to remain outside controlled airspace after leaving the control zone.
 
 All VFR departures shall be assigned a discrete SSR code so that they may be identified on radar.
@@ -120,12 +117,7 @@ All VFR departures shall be assigned a discrete SSR code so that they may be ide
 
       **Controller:** A6-CTK, readback correct, information T, QNH 1001, Report ready for start-up.
 
-### 2.8.3 VFR traffic remaining in circuit
+### 2.6.3 VFR traffic remaining in circuit
 VFR traffic wishing to remain in the circuit shall be cleared only after prior coordination with AIR and Approach/Departure control. All VFR circuit traffic shall be assigned a discrete SSR code so that they may be identified on radar.
 
 VFR traffic will be instructed to conduct Left hand circuit's off RWY 34 and Right hand circuits's off RWY 16. Both ciruits shall be conducted at 1500ft 
-=======
-
-
-## 2.2 Departure clearance
-
