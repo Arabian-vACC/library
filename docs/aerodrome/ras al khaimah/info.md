@@ -6,7 +6,7 @@
 |       Revision      |                     01/2025                       |
 |    Effective Date   |                    07 SEP 2025                    |
 |     Prepared by     | Magnus - 1716109                                  |
-|     Approved by     |           Kier - ACCARB4                             |
+|     Approved by     |           Kier - ACCARB4                          |
 |   Next review date  |                    07 SEP 2026                    |
 | Cancelled documents |                SOP OMDB R05/2021                  |
 
