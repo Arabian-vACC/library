@@ -18,10 +18,10 @@ GMP is responsible for issuing clearances for departing aircraft. Pilots may be 
 - ATIS letter & QNH
 
 ### 2.2.2 Information contained in a departure clearance
-- Callsign;
-- Destination;
-- Departure procedure;
-- Initially cleared altitude;
+- Callsign
+- Destination
+- Departure procedure
+- Initially cleared altitude
 - Assigned SSR code
 
 GMC shall obtain a full readback of the clearance. If the pilot does not report the current ATIS letter on first contact, GMC shall pass the current ATIS letter and QNH.
