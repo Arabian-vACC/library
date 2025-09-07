@@ -1,38 +1,39 @@
-# 4. Ground Movement Control ("Al Maktoum Ground")
+# 4. Ground Movement Procedures
 ## 4.1 General provisions
 GMC is also responsible for managing aircraft movements on all aerodrome movement areas except for runways and their associated taxiways. Departing aircraft are given pushback instructions and instructions to taxi to the runway holding point. Arriving aircraft are assigned a stand and instructed to taxi as appropriate.
 
 ## 4.2 Departure pushback procedures
 ### 4.2.1 General pushback procedures
 Assuming no obstructions, aircraft shall be instructed to pushback immediately.
-
+ 
 Aircraft requesting pushback that are not squawking their assigned transponder code shall be instructed to hold position and squawk the correct code; movement of such aircraft is prohibited.
 
 Pushback direction is based primarily on aircraft location and runway configuration.
 
 
-| Apron | Stand(s)         | Taxiway | Direction                |
-|-------|------------------|---------|--------------------------|
-| S2    | S289-S300        | Z5      | Facing north             |
-| S3    | S301-S313        | Z6      | Facing north             |
-| S3    | S340-S348        | Z       | Facing east or west      |
-| S3    | S324-S332        | Z7      | Facing north             |
-| S4    | S401-S410        | Z8      | Facing north             |
-| S4    | S440-S448        | Z       | Facing east or west      |
-| S4    | S420-S425        | Z9      | Facing north             |
-| G     | G1-G4            | Z17     | Facing north             |
-| G     | G5-G8            | Z17     | Facing south             |
-| G     | G9 and G10       | Z17     | Facing north             |
-| G     | G11 and G12      | Z17     | Facing south             |
-| G     | G13 and G14      | Z16     | Facing north             |
-| G     | G15 and G16      | Z16     | Facing south             |
-| G     | G17A-G17E        | Z15     | Facing west              |
-| G     | G18A and G18B    | Z16     | Facing north             |
-| G     | G18C and G18D    | Z16     | Facing south             |
-| G     | G19A-G19D        | Z12     | Facing south             |
-| G     | G20 and G20A     | Z20     | Facing west              |
-| G     | G21A-G22E        | Z14     | Facing west              |
-| G     | G100-G108        | Z11     | Facing north             |
+| Apron | Stand(s)        | Taxiway | Direction           |
+|-------|-----------------|---------|---------------------|
+| S2    | S289-S300       | Z5      | Facing north        |
+| S3    | S301-S313       | Z6      | Facing north        |
+| S3    | S340-S348       | Z       | Facing east or west |
+| S3    | S324-S332       | Z7      | Facing north        |
+| S4    | S401-S410       | Z8      | Facing north        |
+| S4    | S440-S448       | Z       | Facing east or west |
+| S4    | S420-S425       | Z9      | Facing north        |
+| G     | G1-G4           | Z17     | Facing north        |
+| G     | G5-G8           | Z17     | Facing south        |
+| G     | G9 and G10      | Z17     | Facing north        |
+| G     | G11 and G12     | Z17     | Facing south        |
+| G     | G13 and G14     | Z16     | Facing north        |
+| G     | G15 and G16     | Z16     | Facing south        |
+| G     | G17A-G17E       | Z15     | Facing west         |
+| G     | G18A and G18B   | Z16     | Facing north        |
+| G     | G18C and G18D   | Z16     | Facing south        |
+| G     | G19A-G19D       | Z12     | Facing south        |
+| G     | G20 and G20A    | Z20     | Facing west         |
+| G     | G21A-G22E       | Z14     | Facing west         |
+| G     | G100-G108       | Z11     | Facing North        |
+
 
 !!! example
       **Controller:** UAE9212, Al Maktoum Ground, pushback approved, facing north.
@@ -91,26 +92,26 @@ To deconflict traffic and to reduce the length of taxi clearances, intermediate 
 ### 4.4.2 Runway 30 departure taxi procedures
 When departing from 30:
 
-| Stands         | Taxi Route (part1)         | Taxi Route (part2) | Holding Point |
-|----------------|----------------------------|--------------------|--------------|
-| S289-S313      | Z5/Z6, hold ZA/ZB          | Z, W16             | V16          |
-| S340-S348      | direct to                  | Z, W16             | V16          |
-| S440-S448      | direct to                  | Z, W16             | V16          |
-| S324-S332      | Z7, hold ZE                | Z, W16             | V16          |
-| S401-S410      | Z8, hold ZF                | Z, W16             | V16          |
-| S420-S425      | Z9, hold Z9C               | Z, W16             | V16          |
-| G100-G108      | Z11, hold Z11A             | Z, W16             | V16          |
-| S801-S812      | Z, hold ZP                 | Z, W16             | V16          |
-| All other G stands | To Z12, hold Z12A      | W16                | V16          |
-| S289-S313      | Z5/Z6, hold ZA/ZB          | Z, W15             | V13          |
-| S340-S348      | direct to                  | Z, W15             | V13          |
-| S440-S448      | direct to                  | Z, W15             | V13          |
-| S324-S332      | Z7, hold ZE                | Z, W15             | V13          |
-| S401-S410      | Z8, hold ZF                | Z, W15             | V13          |
-| S420-S425      | Z9, hold Z9C               | Z, W15             | V13          |
-| G100-G108      | Z11, hold Z11A             | Z, W15             | V13          |
-| S801-S812      | Z, hold ZP                 | Z, W15             | V13          |
-| All other G stands | To Z12, hold Z12A      | W15                | V13          |
+| Stands           | Taxi Route (part1)    | Taxi Route (part2) | Holding Point |
+|------------------|----------------------|--------------------|--------------|
+| S289-S313        | Z5/Z6, hold ZA/ZB    | Z, W16             | V16          |
+| S340-S348        | direct to            | Z, W16             | V16          |
+| S440-S448        | direct to            | Z, W16             | V16          |
+| S324-S332        | Z7, hold ZE          | Z, W16             | V16          |
+| S401-S410        | Z8, hold ZF          | Z, W16             | V16          |
+| S420-S425        | Z9, hold Z9C         | Z, W16             | V16          |
+| G100-G108        | Z11, hold Z11A       | Z, W16             | V16          |
+| S801-S812        | Z, hold ZP           | Z, W16             | V16          |
+| All other G stands | To Z12, hold Z12A  | W16                | V16          |
+| S289-S313        | Z5/Z6, hold ZA/ZB    | Z, W15             | V13          |
+| S340-S348        | direct to            | Z, W15             | V13          |
+| S440-S448        | direct to            | Z, W15             | V13          |
+| S324-S332        | Z7, hold ZE          | Z, W15             | V13          |
+| S401-S410        | Z8, hold ZF          | Z, W15             | V13          |
+| S420-S425        | Z9, hold Z9C         | Z, W15             | V13          |
+| G100-G108        | Z11, hold Z11A       | Z, W15             | V13          |
+| S801-S812        | Z, hold ZP           | Z, W15             | V13          |
+| All other G stands | To Z12, hold Z12A  | W15                | V13          |
 !!! note
       Aircraft requesting a departure from V13 shall be instructed to taxi via Z and W15 to holding point V13.
 
@@ -120,17 +121,18 @@ When departing from 30:
 *(See 6.1)*
 ### 4.4.3 Runway 12 departure taxi procedures
 When departing from 12:
-| Stands         | Taxi Route (part1)     | Taxi Route (part2)      | Holding Point   |
-|----------------|------------------------|-------------------------|-----------------|
-| S289-S300      | Z5                     | Z5, hold ZA             | V4 or V1        |
-| S301-S313      | Z6, hold ZB            | Z, W7, W                | V4 or V1        |
-| S340-S348      | direct via             | Z, W7, W                | V4 or V1        |
-| S440-S448      | direct via             | Z, W7, W                | V4 or V1        |
-| S324-S332      | Z7, hold ZE            | Z, W7, W                | V4 or V1        |
-| S401-S410      | Z8, hold ZF            | Z, W7, W                | V4 or V1        |
-| S420-S425      | Z9, hold Z9C           | Z, W7, W                | V4 or V1        |
-| G100-G108      | Z11, hold Z11A         | Z, W7, W                | V4 or V1        |
-| All other G stands | To Z12, hold W16A  | W                       | V4 or V1        |
+
+| Stands             | Taxi Route (part1)     | Taxi Route (part2)      | Holding Point   |
+|--------------------|------------------------|-------------------------|-----------------|
+| S289-S300          | Z5                     | Z5, hold ZA             | V4 or V1        |
+| S301-S313          | Z6, hold ZB            | Z, W7, W                | V4 or V1        |
+| S340-S348          | direct via             |                         | V4 or V1        |
+| S440-S448          | direct via             |                         | V4 or V1        |
+| S324-S332          | Z7, hold ZE            |                         | V4 or V1        |
+| S401-S410          | Z8, hold ZF            |                         | V4 or V1        |
+| S420-S425          | Z9, hold Z9C           |                         | V4 or V1        |
+| G100-G108          | Z11, hold Z11A         |                         | V4 or V1        |
+| All other G stands | To Z12, hold W16A.     | W                       | V4 or V1        |
 
 !!! warning
       Westbound traffic flow on V must be avoided, as this blocks the exit taxiways from runway 12.
@@ -167,7 +169,6 @@ Aircraft shall be taxied in accordance with 6.4
 |        G17 and G20           |        Private Jet Hangars             | 
 |        G1-G8                 |               VIP Terminal             | 
 |        S801-S812             |               Dubai Airshow            | 
-
   <figcaption>Table 4-3: Stand allocation procedure</figcaption>
 </figure>
 
@@ -186,4 +187,4 @@ GMC is responsible for all aprons and associated taxiways.
 *(See 5.1)*
 
 ### 4.7.2 Handoff procedure
-Where transfer of control is to be made between controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller. Intermediate holding points may be used to satisfy this requirement.
+Where transfer of control is to be made between controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller. Intermediate holding points may be used to satisfy this requirement. 
