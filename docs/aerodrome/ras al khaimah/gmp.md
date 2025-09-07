@@ -1,4 +1,5 @@
 # 2. Departure Clearance Procedures
+
 ## 2.1 General provisions
 Airways clearance/Ground Movement Planner (GMP) is responsible for validating routes and shall provide IFR clearance to departing aircraft. The controller shall assign the correct departure procedure to the aircraft based on the first point that is filed on the flight plan.
 
@@ -123,3 +124,8 @@ All VFR departures shall be assigned a discrete SSR code so that they may be ide
 VFR traffic wishing to remain in the circuit shall be cleared only after prior coordination with AIR and Approach/Departure control. All VFR circuit traffic shall be assigned a discrete SSR code so that they may be identified on radar.
 
 VFR traffic will be instructed to conduct Left hand circuit's off RWY 34 and Right hand circuits's off RWY 16. Both ciruits shall be conducted at 1500ft 
+=======
+
+
+## 2.2 Departure clearance
+

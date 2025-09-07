@@ -1,9 +1,12 @@
+
 # 4. Air Control ("Ras Al Khaimah Tower")
+
 ## 4.1 General provisions
 Air Control (AIR) is responsible for all aerodrome movements on runways and their associated taxiways. AIR shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information between IFR and VFR aircraft operating within the aerodrome control zone.
 
 ## 4.2 Preferential runways
 At Ras Al Khaimah the prefered runway configuration is RWY34 which may be utilized with a tailwind of up to 5 knots. 
+
 
 ## 4.3 Departure procedures
 ### 4.3.1 Standard departure points
@@ -113,4 +116,21 @@ Aircraft on the downwind should be passed the following information:
 
 ### 4.5.3 VFR arrivals
 Inbound VFR aircraft shall be instructed to contact AIR with enough time such that two-way radio communications has been established before aircraft enter the aerodrome control zone. On first contact, AIR will pass circuit joining instructions, as well as any other pertinent information.
+
+=======
+
+## 4.3 Departure procedures
+### 4.3.1 Line up clearances
+
+
+### 4.3.2 Take-off clearances
+
+### 4.3.3 Separation requirements
+
+### 4.3.4 Stopping a departure
+
+
+## 4.4 Arrival procedures
+
+## 4.5 VFR procedures
 

@@ -1,8 +1,12 @@
+
 # 3. Ground Movement Control ("Ras Al Khaimah Ground")
+
+
 ## 3.1 General provisions
 GMC is also responsible for managing aircraft movements on all aerodrome movement areas except for runways and their associated taxiways. Departing aircraft are given pushback instructions and instructions to taxi to the runway holding point. Arriving aircraft are assigned a stand and instructed to taxi as appropriate.
 
 ## 3.2 Departure pushback procedures
+
 ### 3.2.1 General pushback procedures
 Assuming no obstructions, aircraft shall be instructed to pushback immediately.
 
@@ -53,3 +57,9 @@ GMC is responsible for all aprons and associated taxiways.
 
 ### 3.3.6 Handoff procedures
 Where transfer of control is to be made between controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller. Intermediate holding points may be used to satisfy this requirement.
+=======
+
+## 3.3 Departure taxi procedures
+
+## 3.4 Arrival taxi procedures
+
