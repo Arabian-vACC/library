@@ -15,8 +15,8 @@ following information on first contact:
 - Callsign;
 - Aircraft type;
 - Parking stand;
-- Destination
-- Requested Flight level
+- Destination;
+- Requested Flight level;
 - Departure D-ATIS letter and QNH;
   
 #### 2.2.2 Information contained in a departure clearance
@@ -30,16 +30,16 @@ An IFR clearance shall be in the following format:
 - Assigned SSR code
 
 !!!example
-      **Pilot:** Sharjah ground, ABY463, Airbus A321neo, information X, stand 4, requesting IFR clearance to Delhi, FL350.
+    **Pilot:** Sharjah ground, ABY463, Airbus A321neo, information X, stand 4, requesting IFR clearance to Delhi, FL350.
 
-      **Controller:** ABY463, Sharjah ground, cleared to Delhi via DAVMO 3R, maintain altitude 3000ft, when airborne contact Dubai departures on 124.675, squawk 1743.
+    **Controller:** ABY463, Sharjah ground, cleared to Delhi via DAVMO3R, maintain altitude 3000ft, when airborne contact Dubai departures on 124.675, squawk 1743.
 
-     **Pilot:** Cleared to Delhi via DAVMO 3R, maintain altitude 3000ft, when airborne contact Dubai departures on 124.675, squawk 1743, ABY463.
+    **Pilot:** Cleared to Delhi via DAVMO3R, maintain altitude 3000ft, when airborne contact Dubai departures on 124.675, squawk 1743, ABY463.
 
-     **Controller:** ABY463, readback correct. QNH 1013, report ready for pushback.
+    **Controller:** ABY463, readback correct. QNH 1013, report ready for pushback.
 
 !!!note
-      GMC must obtain a full readback of the clearance. If the pilot does not report the current ATIS letter on first contact, GMC shall pass the current ATIS letter and QNH.
+    GMC must obtain a full readback of the clearance. If the pilot does not report the current ATIS letter on first contact, GMC shall pass the current ATIS letter and QNH.
 
 #### 2.2.3 Aircraft requiring a reroute
 If an aircraft requires a reroute, they shall be informed of such as soon as they have connected to the network by private message or on frequency. The use of “.rte" and “.rtef" aliases are encouraged. 
@@ -85,16 +85,31 @@ A radar departure clearance shall contain the following information:
 - Assigned SSR code
 
 !!! example
-      **Controller:** SQC216, Sharjah Ground, cleared to Amsterdam, expect radar vectors, maintain altitude 2000ft, when airborne contact Dubai departures on 124.675, Squawk 3427.
+    **Pilot:** Sharjah Ground, ABY45C, Airbus A320, Stand 4, Information M, request clearance to Moscow, unable RNAV SIDs.
+    **Controller:** ABY45C, Sharjah Ground, cleared to Moscow, expect radar vectors, maintain altitude 2000ft, when airborne contact Dubai departures on 124.675, Squawk 3427.
+    **Pilot:** Cleared to Moscow, radar vectors, maintain altitude 2000ft, when airborne contact Dubai Departures on 124.675, Squawk 3427, ABY45C.
+    **Controller:** ABY45C, Readback correct, report ready for push and start, QNH1016.
 
-!!! info
-      All aircraft travelling westbound on departure from 30 shall be assigned an initial climb of **2000ft**. All other departures from 30 shall be assigned an initial climb of **3000ft**.
-
+|  SID 30   |  Initial Climb  |  SID 12   |  Initial Climb  |
+|-----------|-----------------|-----------|-----------------|
+|  ANVIX5R  |     3000ft      |  ANVIX4Q  |     2000ft      |
+|  DAVMO3R  |     3000ft      |  DAVMO4Q  |     3000ft      |
+|  EMERU1R  |     3000ft      |  EMERU1Q  |     3000ft      |
+|  IVURO1R  |     3000ft      |  IVURO1Q  |     3000ft      |
+|  KUTLI3R  |     3000ft      |  KUTLI3Q  |     3000ft      |
+|  MIROT2R  |     2000ft      |  MIROT3Q  |     3000ft      |
+|  NABIX2R  |     2000ft      |  NABIX3Q  |     3000ft      |
+|  RIDAP2R  |     2000ft      |  RIDAP3Q  |     3000ft      |
+|  SENPA2R  |     2000ft      |  SENPA3Q  |     3000ft      |
+<figure markdown>
+  <figcaption>Table 2-2: Initial Climbs</figcaption>
+</figure>
+ 
 !!! note
-      Aircraft on a radar departure shall have the text *VECTORS* inserted to the scratchpad section of their entry on the departure list.
+    Aircraft on a radar departure shall have the text *VECTORS* inserted to the scratchpad section of their entry on the departure list.
 
 !!! info
-      All IFR departures shall be instructed to contact DEP 2 when airborne.
+    All IFR departures shall be instructed to contact DEP 2 when airborne.
 
 ## 2.4 Rerouting aircraft
 An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2. 
@@ -206,7 +221,7 @@ Several routing restrictions exist within UAE airspace and must be complied with
   </tr>
 </tbody></table>
 <figure markdown>
-  <figcaption>Table 2-2: Standard routes</figcaption>
+  <figcaption>Table 2-3: Standard routes</figcaption>
 </figure>
 
 !!!info 
@@ -247,7 +262,7 @@ VFR aircraft requesting clearance to climb into approach airspace (above 1500 ft
 All VFR departures shall be assigned a discrete SSR code so that they may be identified on radar.
 
 !!! example
-      **Pilot:** Sharjah ground, A6-CTK, SR22, request eastbound departure on track Fujeirah, altitude 6500ft.
+      **Pilot:** Sharjah ground, A6-CTK, SR22, request eastbound departure on track Fujairah, altitude 6500ft.
 
       **Controller:** A6-CTK, Sharjah ground, cleared eastbound departure, altitude 6500ft VFR, Runway 30, Squawk 0611.
 

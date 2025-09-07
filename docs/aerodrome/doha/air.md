@@ -112,31 +112,13 @@ VFR flight activity should be planned in accordance to published VFR charts, spe
 All aircraft returning from general training flying areas shall request joining instructions prior to leaving these areas.
 
 ### 5.5.1 Helicopter aicraft: departing to and/or arriving at OTBD crossing OTHH
-<table><thead>
-  <tr>
-    <th>Runway</th>
-    <th>Name</th>
-    <th>Description</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td rowspan="2">15</td>
-    <td rowspan="2">Orange Route 15</td>
-    <td><b>Departure:</b><br>After departure RWY 15, turn left towards CRA and climb to cross CRA maintaining 1000 FT. Contact Hamad TWR West on Freq 118.025 MHz once East of OTBD RWY 15. From CRA, route to BCH and Hold, remaining clear of final approach path OTBD RWY 15 and OTHH RWY 16R whilst awaiting crossing clearance from OTHH ATC. When cleared, cross North of threshold OTHH RWY 16R/RWY 16L and route towards BAY. After BAY, route OH 16 maintaining 1000 FT. After OH 16, climb to 1500 FT and route to ESE.</td>
-  </tr>
-  <tr>
-    <td><b>Arrival:</b><br>Enter the CTR via ESE maintaining 500 FT. From ESE, route OH 16, BAY to hold, awaiting instructions from OTHH ATC. When cleared, cross north of threshold. Once West of OTHH RWY 16R, contact OTBD ATC Freq. 118.900 MHz and follow joining instructions.</td>
-  </tr>
-  <tr>
-    <td rowspan="2">33</td>
-    <td rowspan="2">Orange Route 33</td>
-    <td><b>Departure:</b><br>After departure RWY 33, turn right towards CRA and climb to cross CRA maintaining 1000 FT. Contact Hamad TWR West on Freq  118.025 MHz once East of OTBD RWY 33. From CRA, route to SRA and Hold, remaining clear of final approach path OTBD RWY 33 and OTHH RWY 34L whilst awaiting crossing clearance from OTHH ATC. When cleared, cross South of threshold OTHH RWY 34L/RWY 34R and route towards SEA. After SEA, route OH 34 maintaining 1000 FT. After OH 34, climb to 1500 FT and route ESE.</td>
-  </tr>
-  <tr>
-    <td><b>Arrival:</b><br>Enter the CTR via ESE maintaining 500 FT. From ESE, route OH 34, SEA to hold, awaiting instructions from OTHH ATC. When cleared, cross south of threshold. Contact OTBD ATC Freq. 118.900 MHz once west of OTHH RWY 34L and follow joining instructions.</td>
-  </tr>
-</tbody>
-</table>
+| Runway | Name             | Description |
+|--------|------------------|-------------|
+| 15     | Orange Route 15  | **Departure:**<br>After departure RWY 15, turn left towards CRA and climb to cross CRA maintaining 1000 FT. Contact Hamad TWR West on Freq 118.025 MHz once East of OTBD RWY 15. From CRA, route to BCH and Hold, remaining clear of final approach path OTBD RWY 15 and OTHH RWY 16R whilst awaiting crossing clearance from OTHH ATC. When cleared, cross North of threshold OTHH RWY 16R/RWY 16L and route towards BAY. After BAY, route OH 16 maintaining 1000 FT. After OH 16, climb to 1500 FT and route to ESE. |
+|        |                  | **Arrival:**<br>Enter the CTR via ESE maintaining 500 FT. From ESE, route OH 16, BAY to hold, awaiting instructions from OTHH ATC. When cleared, cross north of threshold. Once West of OTHH RWY 16R, contact OTBD ATC Freq. 118.900 MHz and follow joining instructions. |
+| 33     | Orange Route 33  | **Departure:**<br>After departure RWY 33, turn right towards CRA and climb to cross CRA maintaining 1000 FT. Contact Hamad TWR West on Freq 118.025 MHz once East of OTBD RWY 33. From CRA, route to SRA and Hold, remaining clear of final approach path OTBD RWY 33 and OTHH RWY 34L whilst awaiting crossing clearance from OTHH ATC. When cleared, cross South of threshold OTHH RWY 34L/RWY 34R and route towards SEA. After SEA, route OH 34 maintaining 1000 FT. After OH 34, climb to 1500 FT and route ESE. |
+|        |                  | **Arrival:**<br>Enter the CTR via ESE maintaining 500 FT. From ESE, route OH 34, SEA to hold, awaiting instructions from OTHH ATC. When cleared, cross south of threshold. Contact OTBD ATC Freq. 118.900 MHz once west of OTHH RWY 34L and follow joining instructions. |
+
 
 #### 5.5.1.1 Suspension of the orange route
 The orange route will be suspended under the following conditions:
@@ -146,89 +128,29 @@ The orange route will be suspended under the following conditions:
 - Doha-Hamad supervisor for any other valid reasons suspends the route with at least 15 minutes notice to Doha;
 
 ### 5.5.2 Helicopter aircraft: arriving and departing OTBD
-<table><thead>
-  <tr>
-    <th>Runway</th>
-    <th>Name</th>
-    <th>Description</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td rowspan="2">15 &amp; 33</td>
-    <td rowspan="2">Turtle Route (TTL)</td>
-    <td><b>Departure:</b><br>After departure RWY 15/33, route direct RDS and climb to 1500 FT. After RDS, route EZD, NML, DFC, LSN and exit via TTL.</td>
-  </tr>
-  <tr>
-    <td><b>Arrival:</b><br>Enter the CTR via TTL maintaining 1000  FT. After TTL, route LSN, DFC, NML, EZD, RDS. After RDS, follow instructions from OTBD ATC.</td>
-  </tr>
-  <tr>
-    <td rowspan="2">15 &amp; 33</td>
-    <td rowspan="2">Boat Route (BOT)</td>
-    <td><b>Departure:</b><br>After departure OTBD turn to THM climbing 1500 FT, route to ASP, HMM, SBQ to exit via BOT.</td>
-  </tr>
-  <tr>
-    <td><b>Arrival:</b><br>Enter the CTR via BOT, maintaining 1000 FT and route to SBQ, HMM, then climb 1500 FT and route to ASP, follow instructions from OTBD ATC.</td>
-  </tr>
-  <tr>
-    <td rowspan="2">15 &amp; 33</td>
-    <td rowspan="2">Dhow Route (DOW)</td>
-    <td><b>Departure:</b><br>After departure RWY 15/33, route direct THM and climb to 1500 FT. After THM, route IZB, MIN, BHR, DOW.</td>
-  </tr>
-  <tr>
-    <td><b>Arrival:</b><br>Enter the CTR via DOW maintaining 1000 FT. After DOW, route BHR, MIN, IZB, THM. After THM, follow instructions from OTBD ATC.</td>
-  </tr>
-  <tr>
-    <td rowspan="2">15 &amp; 33</td>
-    <td rowspan="2">Morjan Route (MOR)</td>
-    <td><b>Departure:</b><br>After departure RWY 15/33, route direct THM and climb to 1500 FT. After THM, join via IZB at 500 FT. After IZB, route SEF, INT, and exit via MOR.</td>
-  </tr>
-  <tr>
-    <td><b>Arrival:</b><br>Enter the CTR via MOR maintaining 500 FT. After MOR, route INT, SEF, and IZB to climb 1000 FT to THM. After THM, follow instructions from OTBD ATC.</td>
-  </tr>
-</tbody>
-</table>
+| Runway    | Name               | Description |
+|-----------|--------------------|-------------|
+| 15 & 33   | Turtle Route (TTL) | **Departure:**<br>After departure RWY 15/33, route direct RDS and climb to 1500 FT. After RDS, route EZD, NML, DFC, LSN and exit via TTL. |
+|           |                    | **Arrival:**<br>Enter the CTR via TTL maintaining 1000 FT. After TTL, route LSN, DFC, NML, EZD, RDS. After RDS, follow instructions from OTBD ATC. |
+| 15 & 33   | Boat Route (BOT)   | **Departure:**<br>After departure OTBD turn to THM climbing 1500 FT, route to ASP, HMM, SBQ to exit via BOT. |
+|           |                    | **Arrival:**<br>Enter the CTR via BOT, maintaining 1000 FT and route to SBQ, HMM, then climb 1500 FT and route to ASP, follow instructions from OTBD ATC. |
+| 15 & 33   | Dhow Route (DOW)   | **Departure:**<br>After departure RWY 15/33, route direct THM and climb to 1500 FT. After THM, route IZB, MIN, BHR, DOW. |
+|           |                    | **Arrival:**<br>Enter the CTR via DOW maintaining 1000 FT. After DOW, route BHR, MIN, IZB, THM. After THM, follow instructions from OTBD ATC. |
+| 15 & 33   | Morjan Route (MOR) | **Departure:**<br>After departure RWY 15/33, route direct THM and climb to 1500 FT. After THM, join via IZB at 500 FT. After IZB, route SEF, INT, and exit via MOR. |
+|           |                    | **Arrival:**<br>Enter the CTR via MOR maintaining 500 FT. After MOR, route INT, SEF, and IZB to climb 1000 FT to THM. After THM, follow instructions from OTBD ATC. |
 
 ### 5.5.3 Fixed wing aircraft: departing from OTBD to the North
-<table><thead>
-  <tr>
-    <th>Runway</th>
-    <th>Name</th>
-    <th>Description</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>33</td>
-    <td>Aspire 33 Visual Departure</td>
-    <td>Climb straight ahead to 700 FT, turn to the West and remain clear of prohibited area OTP45; route direct to ASP then direct to SOF; then direct to SML. Climb as instructed by ATC to 1500 FT.</td>
-  </tr>
-  <tr>
-    <td>15</td>
-    <td>Aspire 15 Visual Departure</td>
-    <td>Climb straight ahead to 700 FT turn to the West before the upwind end of RWY 15; route direct to THM, direct to ASP, direct to SOF then direct to SML. Climb as instructed by ATC to 1500 FT.</td>
-  </tr>
-</tbody>
-</table>
+| Runway | Name                        | Description |
+|--------|-----------------------------|-------------|
+| 33     | Aspire 33 Visual Departure  | Climb straight ahead to 700 FT, turn to the West and remain clear of prohibited area OTP45; route direct to ASP then direct to SOF; then direct to SML. Climb as instructed by ATC to 1500 FT. |
+| 15     | Aspire 15 Visual Departure  | Climb straight ahead to 700 FT turn to the West before the upwind end of RWY 15; route direct to THM, direct to ASP, direct to SOF then direct to SML. Climb as instructed by ATC to 1500 FT. |
 
 ### 5.5.4 Fixed wing aircraft: arriving to OTBD from the North
-<table><thead>
-  <tr>
-    <th>Runway</th>
-    <th>Name</th>
-    <th>Description</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>33</td>
-    <td>Aspire 33 Visual Arrival</td>
-    <td>From SML, route direct to SOF traffic must be 2000 FT at SOF. Then route direct to ASP and hold over ASP as required by ATC. From ASP, route direct to ZUL if requested. Hold at ZUL at 2000 FT. From ZUL, route direct to THM and descend as instructed by ATC. Hold overhead THM at 1500 FT. When instructed by ATC, route for final approach RWY 33.</td>
-  </tr>
-  <tr>
-    <td>15</td>
-    <td>Aspire 15 Visual Arrival</td>
-    <td>From SML, route direct to SOF. Traffic must be 2000 FT by SOF, then route direct to ASP and hold over ASP as required by ATC. When cleared by ATC, proceed to VLG and descend to 1500 FT.</td>
-  </tr>
-</tbody>
-</table>
+| Runway | Name                        | Description |
+|--------|-----------------------------|-------------|
+| 33     | Aspire 33 Visual Arrival    | From SML, route direct to SOF. Traffic must be 2000 FT at SOF. Then route direct to ASP and hold over ASP as required by ATC. From ASP, route direct to ZUL if requested. Hold at ZUL at 2000 FT. From ZUL, route direct to THM and descend as instructed by ATC. Hold overhead THM at 1500 FT. When instructed by ATC, route for final approach RWY 33. |
+| 15     | Aspire 15 Visual Arrival    | From SML, route direct to SOF. Traffic must be 2000 FT by SOF, then route direct to ASP and hold over ASP as required by ATC. When cleared by ATC, proceed to VLG and descend to 1500 FT. |
+
 
 #### 5.5.4.1 Arrival procedures
 - Aircraft to contact Doha Tower at SML for clearance

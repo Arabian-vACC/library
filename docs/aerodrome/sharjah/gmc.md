@@ -11,15 +11,14 @@ Assuming no obstructions, aircraft shall be instructed to pushback immediately.
 
 Aircraft requesting pushback that are not squawking their assigned transponder code shall be instructed to hold position and squawk the correct code; movement of such aircraft is prohibited.
 
-Pushback direction is based primarily on aircraft location and runway configuration.
-
-On aprons F and A, all traffic shall be instructed to pushback on taxiway Z. 
-
-Aircraft on stands 1A, 1B, 1C, stands 11 to 26 and stands 50 to 62 shall be instructed to pushback *"facing North".*
-
-Aircraft on stands 2 to 7 shall be instructed to pushback *"facing East".*
-
-Aircraft on stands 2 to 7 shall be instructed to pushback *"facing East".*
+|  Position  |  Taxiway  |  Direction  |
+|------------|-----------|-------------|
+| 1A, 1B, 1C |    Z14    |    North    |
+|  9 to 11   |    Z11    |    North    |
+|  13 to 18  |    Z10    |    North    |
+|  21 to 26  |    Z10    |    North    |
+|  50 to 61  |    Z8     |    North    |
+|   2 to 8   |     A     |    East     |
 
 !!! example
       **Controller:** RJA613, Sharjah ground, pushback approved, facing east.
@@ -30,9 +29,9 @@ Aircraft on stands 2 to 7 shall be instructed to pushback *"facing East".*
       Conditional pushback instructions may also be issued if an aircraft is taxiing behind another waiting for pushback.
 
 !!! example
-      **Controler:** RJA613, Sharjah ground, behind the AirArabia A320 passing right to left, pushback approved, facing east, behind.
+      **Controller:** RJA613, Sharjah ground, behind the Air Arabia A320 passing right to left, pushback approved, facing east, behind.
 
-      **Pilot:** Behind the AirArabia A320 passing right to left, pushback approved, facing east, behind, RJA613.
+      **Pilot:** Behind the Air Arabia A320 passing right to left, pushback approved, facing east, behind, RJA613.
 
 ### 3.2.2 Pushback types
 #### 3.2.2.1 Standard pushback
@@ -120,12 +119,12 @@ Aircraft shall be taxied via A14 and A to the appropriate stand.
 *(See 5.3)*
 
 ### 3.5.4 Stand allocation procedure
-|             Area             |                 Operator               |
+|             Area             |               Operator                 |
 |:----------------------------:|:--------------------------------------:|
-|         1A, 1B and 1C        |             ABY                        |
-|             2 to 8           |     ABY, all international             |
-|            11 to 26          |     ABY, low-cost (overflow)           |
-|  51, 53, 55, 57, 59, 61      |     ABY, SQC, GEC, UPS                 | 
+|         1A, 1B and 1C        |                 ABY                    |
+|            2 to 8            |         ABY, all international         |
+|           11 to 26           |        ABY, low-cost (overflow)        |
+|  51, 53, 55, 57, 59, 61      |          ABY, SQC, GEC, UPS            | 
 |  50, 52, 54, 56, 58, 60, 62  |  ABY, other cargo, low-cost (overflow) |  
 
   <figcaption>Table 2-3: Stand allocation procedure</figcaption>
