@@ -51,5 +51,5 @@ Simultaneous pushback operations shall be permitted so long as aircraft are sepa
 ### 3.2.5 GMC positions
 GMC is responsible for all aprons and associated taxiways.
 
-### 3.3.6 Handoff procedures
+### 3.2.6 Handoff procedures
 Where transfer of control is to be made between controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller. Intermediate holding points may be used to satisfy this requirement.

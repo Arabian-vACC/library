@@ -93,16 +93,16 @@ A radar departure clearance shall contain the following information:
 ## 2.5 Runway change procedure
 Runway change shall be coordinated with Ras Al Khaimah AIR
 
-## 2.7 VFR aircraft
+## 2.6 VFR aircraft
 VFR flight activity should be planned in accordance to published VFR charts, specifically the “UAE NORTHEN EMIRATES VFR” chart for VFR traffic navigating out of the Ras Al Khaimah control zone into neighbouring airspaces and within the Ras Al Khaimah control zone. GMC may use the appropriate charts as per the requirements of the pilot’s intentions.
 
 
-### 2.7.1 VFR departures into uncontrolled airspace
+### 2.6.1 VFR departures into uncontrolled airspace
 VFR traffic shall be cleared via the most appropriate VFR route towards their destination. If necessary, the clearance may be amended by AIR prior to departure.
 
 All VFR departures shall be assigned a discrete SSR code so that they may be identified on radar.
 
-### 2.7.2 VFR departures into controlled airspace
+### 2.6.2 VFR departures into controlled airspace
 VFR aircraft requesting clearance to climb into approach airspace (above 1500 ft) shall only be cleared after prior coordination with approach/departure control. Otherwise, they shall be instructed to remain outside controlled airspace after leaving the control zone.
 
 All VFR departures shall be assigned a discrete SSR code so that they may be identified on radar.
@@ -116,7 +116,7 @@ All VFR departures shall be assigned a discrete SSR code so that they may be ide
 
       **Controller:** A6-CTK, readback correct, information T, QNH 1001, Report ready for start-up.
 
-### 2.7.3 VFR traffic remaining in circuit
+### 2.6.3 VFR traffic remaining in circuit
 VFR traffic wishing to remain in the circuit shall be cleared only after prior coordination with AIR and Approach/Departure control. All VFR circuit traffic shall be assigned a discrete SSR code so that they may be identified on radar.
 
 VFR traffic will be instructed to conduct Left hand circuit's off RWY 34 and Right hand circuits's off RWY 16. Both ciruits shall be conducted at 1500ft 
