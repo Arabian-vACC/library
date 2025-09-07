@@ -180,8 +180,8 @@ CAT I holding points shall be used during LVO for departing aircraft *(Table 4-4
 
 |   Runway   |   Holding Point   |
 |:----------:|:-----------------:|
-|     30     |       B20         |
-|     12     |       B2          |
+|     30     |        B20        |
+|     12     |        B2         |
 <figure markdown>
   <figcaption>Table 3-2: CAT I holding points</figcaption>
 </figure>

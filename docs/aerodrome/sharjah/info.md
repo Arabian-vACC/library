@@ -3,27 +3,19 @@
 |                     |                                                     |
 |:-------------------:|:---------------------------------------------------:|
 |         Type        |                    Procedure                        |
-|       Revision      |                     01/2025                         |
-|    Effective Date   |                    01 APR 2025                      |
-|     Prepared by     | Suprojit Paul - ACCARB3 & Shahzin Shajid - ACCARB31 |
-|     Approved by     |             Chris Marriott - ACCARB1                |
-|   Next review date  |                    01 JUL 2025                      |
-| Cancelled documents |                SOP OMDB R05/2021                    |
+|       Revision      |                     02/2025                         |
+|    Effective Date   |                    07 SEP 2025                      |
+|     Prepared by     |                  Steven- 1774511                    |
+|     Approved by     |                    Kier - ARB4                      |
+|   Next review date  |                    07 SEP 2026                      |
+| Cancelled documents |                       NIL                           |
 
 ## Record of Revisions
-<table><thead>
-  <tr>
-    <th>Revision Number</th>
-    <th>Notes</th>
-    <th>Effective Date</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>01/2019</td>
-    <td>Initial issue</td>
-    <td>26 SEP 2019</td>
-  </tr>
-</tbody></table>
+| Revision Number | Notes         | Effective Date |
+|-----------------|---------------|----------------|
+| 01/2019         | Initial issue | 26 SEP 2019    |
+| 02/2025         | Updated Section 2.3.2<br>Updated Initial Climbes Note to [Table 2-2: Initial Climbs]<br>Fixed Section 2.7.2 Typos<br>Converted Section 3.2.1 into a table             | 07 SEP 2025    |
+
 
 ## Purpose & Scope
 This Standard Operating Procedure (SOP) outlines the procedures, responsibilities, and coordination requirements for Sharjah aerodrome operations on the VATSIM network. Its primary goal is to ensure safe, efficient, and standardized handling of IFR and VFR traffic flow into and out of the aerodrome.
