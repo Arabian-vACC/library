@@ -62,10 +62,10 @@ If aircraft have not yet reached the holding point where they are expected to li
     **Controller**: "QTR40P, via A2, line up and wait runway 34R."
 
 ### 5.3.3 Take-off clearances
-Aircraft will be cleared for takeoff once adequate separation is ensured as outlined in sections 5.3.4 and 5.6. At the time of takeoff clearance, aircraft will be assigned their airborne frequency, either for Doha Approach East or West, or the next available station, such as Doha Radar or Doha Control. If none of these stations are online, aircraft will be instructed to monitor UNICOM 122.8.
+Aircraft will be cleared for takeoff once adequate separation is ensured as outlined in sections 5.3.4 and 5.6. At the time of takeoff clearance, aircraft will be assigned their airborne frequency, either for Doha Approach East or West, or the next available station, such as Doha Radar or Doha Control. If none of these stations are online, aircraft will be instructed to monitor ADVISORY 122.8.
 
 !!! example
-    **Controller**: "QTR40P, airborne contact Doha Approach East 124.775, wind 330 degrees 7 knots, runway 34R, cleared for take-off."
+    **Controller**: "QTR40P, airborne contact Doha Approach 124.775, wind 140 degrees 2 knots, runway 34R, cleared for take-off."
 
 ### 5.3.4 Separation requirements
 #### 5.3.4.1 General
@@ -137,6 +137,11 @@ If it is apparent that minimum separation may not exist as provided in 5.4.2.1, 
 #### 5.4.2.3 Visual separation
 Aircraft may be instructed to maintain own separation visually, if speed control alone will not resolve the conflict. This shall only be done in VMC and with agreement with the pilot. If no other solutions are practical, the succeeding aircraft shall be instructed to go around.
 
+!!! example
+    **Controller**: "QTR36M, Traffic is 12 oclock 3 miles, report in sight."
+    **Pilot**: "Traffic in sight, QTR36M"
+    **Controller**: "QTR36M, Roger, maintain visual separation
+
 ### 5.4.3 Go-around instruction
 #### 5.4.3.1 General go-around procedure
 At any time should a runway become unsuitable for an aircraft landing, or separation minima is not met, aircraft shall be instructed to go-around.
@@ -162,8 +167,22 @@ The initial taxi shall include instructions to taxi “LEFT” or “RIGHT” on
 
 Once aircraft have been observed to be taxiing and completely clear of the RET, transfer of control shall be initiated to GMC provided there will be no conflicts with other arriving traffic.
 
-## 5.5 Reduced runway separation minima (RRSM)
-### 5.5.1 Conditions for the application of RRSM
+## 5.5 High Intensity Runway Operation (HIRO)
+### 5.5.1 General
+As part of runway capacity enhancement initiative at Hamad International Airport, High Intensity Runway Operation (HIRO) is implemented. To achieve maximum landings per hour and reduce go-arounds due to an occupied runway by a preceding landing aircraft, runway occupancy times are to be reduced to a minimum.
+
+HIROs will be in force as per section 5.6.2 Conditions are taking place in Doha-Hamad
+
+During HIRO operations, pilots shall only use standard rapid exit taxiways (RET’s) and are encouraged to vacate the landing runway within 60 seconds.
+### 5.5.2 Conditions for the application of HIROs
+HIRO will be in force when:
+- Runway surface condition is dry
+- Adverse weather conditions are not present
+
+If HIRO is in use, the ATC shall update the NOTAMs and select 'HIRO's in use' when clicking Airport Conditions. 
+
+## 5.6 Reduced runway separation minima (RRSM)
+### 5.6.1 Conditions for the application of RRSM
 - The tailwind component must not exceed 5 knots, measured at the landing threshold, and there should be no pilot reports of wind shear.
 - Meteorological visibility must be at least 5 km, with a cloud ceiling no lower than 1000 feet. ATC must be confident that the pilot of the following aircraft can clearly and continuously observe the relevant traffic.
 - The pilot of the succeeding aircraft must be warned, and traffic information must be provided to them.
@@ -172,7 +191,7 @@ Once aircraft have been observed to be taxiing and completely clear of the RET, 
 - Minimum separation must be maintained between two departing aircraft immediately after the second aircraft takes off.
 - To ensure the preceding aircraft vacates the runway in a timely manner, the pilot should be advised of the exit at which they should plan to vacate.
 
-### 5.5.2 Departure following departure
+### 5.6.2 Departure following departure
 Take-off clearance may be issued to a departing aircraft, commencing its take-off roll from full length, before the preceding departure has passed the upwind end of the runway, provided that ATC has reasonable assurance that:
 
 - **RWY 16L:**  
@@ -195,7 +214,7 @@ Take-off clearance may be issued to a departing aircraft, commencing its take-of
     - **RWY 16R** from L11  
     - **RWY 34L** from L1  
 
-### 5.5.3 Landing following landing
+### 5.6.3 Landing following landing
 When the runway in use is temporarily occupied by other traffic, landing clearance may be issued to an arriving aircraft, provided the controller has reasonable assurance that the following separation distances and criteria will be met when the landing aircraft crosses the runway threshold:
 
 - **RWY 16L:**  
@@ -213,7 +232,7 @@ When the runway in use is temporarily occupied by other traffic, landing clearan
 !!! note
     Landing RRSM (Reduced Runway Separation Minimum) will only be applied between two successive arrivals, provided both aircraft have been instructed to vacate at published Rapid Exit Taxiways (RETs).
 
-### 5.5.4 Landing following departure
+### 5.6.4 Landing following departure
 When the runway in use is temporarily occupied by other traffic, landing clearance may be issued to an arriving aircraft, provided the controller has reasonable assurance that the following separation distances and criteria will be met when the landing aircraft crosses the runway threshold:
 
 - **RWY 16L:**  

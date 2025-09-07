@@ -47,9 +47,9 @@ Conditional pushback instructions may also be issued if an aircraft is taxiing b
 !!! example
     **Pilot**: "Hamad Ground, FDB12, on stand G3C request pushback."
 
-    **Controller**: "FDB12, Hamad Ground, behind the company 737 passing left to right, pushback approved, face South on E2."
+    **Controller**: "FDB12, Hamad Ground, behind the company 737 passing left to right, pushback approved, face South on E2, behind."
 
-    **Pilot**: "After the company 737 passes from left to right, pushback approved, facing South on E2, FDB12."
+    **Pilot**: "After the company 737 passes from left to right, pushback approved, facing South on E2, behind, FDB12."
 
 ### 4.3.2 Pushback types
 #### 4.3.2.1 Standard pushback
