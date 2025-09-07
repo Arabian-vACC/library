@@ -3,3 +3,6 @@ sort_type: natural
 nav:
     - info.md
     - aerodrome.md
+    - gmp.md
+    - gmc.md
+    - air.md

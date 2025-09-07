@@ -1,4 +1,5 @@
 # 2. Departure Clearance Procedures
+
 ## 2.1 General provisions
 Airways clearance/Ground Movement Planner (GMP) is responsible for validating routes and shall provide IFR clearance to departing aircraft. The controller shall assign the correct departure procedure to the aircraft based on the first point that is filed on the flight plan.
 
@@ -10,19 +11,19 @@ GMP is also responsible for minimizing taxiway delays and taxiway congestion for
 ### 2.2.1 General
 GMP is responsible for issuing clearances for departing aircraft. Pilots may be expected to report the following information on first contact:
 
-- Callsign
-- Aircraft type
-- Parking Stand
-- Destination
-- Speed if unable to comply with minimum speed on the SID
-- ATIS letter & QNH
+- Callsign;
+- Aircraft type;
+- Parking Stand;
+- Destination;
+- Speed if unable to comply with minimum speed on the SID;
+- ATIS letter & QNH;
 
 ### 2.2.2 Information contained in a departure clearance
-- Callsign
-- Destination
-- Departure procedure
-- Initially cleared altitude
-- Assigned SSR code
+- Callsign;
+- Destination;
+- Departure procedure;
+- Initially cleared altitude;
+- Assigned SSR code;
 
 GMC shall obtain a full readback of the clearance. If the pilot does not report the current ATIS letter on first contact, GMC shall pass the current ATIS letter and QNH.
 
