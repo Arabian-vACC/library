@@ -42,7 +42,7 @@ Where Ras Al Khaimah Approach Radar is offline, aircraft shall be handed off dir
 Aircraft that have commenced their take-off roll may be instructed to stop immediately to avert a collision due to a runway incursion or any other dangerous situation.
 
 !!! warning
-  The instruction to stop must be given early enough such that the aircraft does not reach its decision speed. Therefore, aerodrome controllers must be vigilant and remain aware of the location of traffic and all times as well as runway incursion hotspots. 
+    The instruction to stop must be given early enough such that the aircraft does not reach its decision speed. Therefore, aerodrome controllers must be vigilant and remain aware of the location of traffic and all times as well as runway incursion hotspots. 
 
 !!! example
     **Controller:** ABY728, Stop immediately, I say again stop immediately, vehicle entering the runway!
@@ -113,4 +113,3 @@ Aircraft on the downwind should be passed the following information:
 
 ### 4.5.3 VFR arrivals
 Inbound VFR aircraft shall be instructed to contact AIR with enough time such that two-way radio communications has been established before aircraft enter the aerodrome control zone. On first contact, AIR will pass circuit joining instructions, as well as any other pertinent information.
-
