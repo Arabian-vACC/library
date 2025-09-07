@@ -3,27 +3,18 @@
 |                     |                                                   |
 |---------------------|---------------------------------------------------|
 |         Type        |                    Procedure                      |
-|       Revision      |                     01/2024                       |
-|    Effective Date   |                    01 DEC 2024                    |
-|     Prepared by     | Suprojit Paul - ACCARB3 & Shahzin Shajid - Mentor |
-|     Approved by     |             Chris Marriott - ACCARB1              |
-|   Next review date  |                    01 DEC 2025                    |
+|       Revision      |                     01/2025                       |
+|    Effective Date   |                    07 SEP 2025                    |
+|     Prepared by     | Magnus - 1716109                                  |
+|     Approved by     |           Kier - ARB4                             |
+|   Next review date  |                    07 SEP 2026                    |
 | Cancelled documents |                SOP OMDB R05/2021                  |
 
 ## Record of Revisions
-<table><thead>
-  <tr>
-    <th>Revision Number</th>
-    <th>Notes</th>
-    <th>Effective Date</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>01/2019</td>
-    <td>Initial issue</td>
-    <td>26 SEP 2019</td>
-  </tr>
-</tbody></table>
+| Revision Number |     Notes            | Effective Date |
+|:---------------:|:--------------       |:--------------:|
+|     01/2019     | Initial issue        |26 SEP 2019     |
+|  01/2025        |Full re-write of SOP's| 07 SEP 2025    |
 
 ## Purpose & Scope
 This Standard Operating Procedure (SOP) outlines the procedures, responsibilities, and coordination requirements for Ras Al Khaimah aerodrome operations on the VATSIM network. Its primary goal is to ensure safe, efficient, and standardized handling of IFR and VFR traffic flow into and out of the aerodrome.
