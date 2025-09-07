@@ -35,7 +35,7 @@ Where aircraft are taxied to runway holding points, transfer of control to AIR s
 When departing from 29L, departing traffic should be instructed to Backtrack onto runway 29L, then Taxiing T, holding point T1/T2
 
 ### 3.3.3 Runway 11R departure taxi procedures
-When departing from 11R, departing traffic should be instructed to Backtrack onto runway 11R, then Taxxing M, holding point M1/M2
+When departing from 11R, departing traffic should be instructed to Backtrack onto runway 11R, then Taxiing M, holding point M1/M2
 
 ## 3.4 Arrival taxi procedures
 ### 3.4.1 General arrival taxi procedures
