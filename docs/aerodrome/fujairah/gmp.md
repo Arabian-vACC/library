@@ -30,11 +30,11 @@ GMC shall obtain a full readback of the clearance. If the pilot does not report 
 Departing aircraft shall be instructed to report ready for pushback
 
 !!! example
-    **Pilot**: "Fujairah Ground, good evening, IGO1502, Airbus A320, stand 6, requesting IFR clearance to Mumbai, exiting the Fujairah control zone at TONVO"
+    **Pilot**: "Fujairah Ground, good evening, IGO1502, Airbus A320, stand 6, requesting IFR clearance to Mumbai."
     
     **Controller**: "IGO1502, cleared to Mumbai via the TONVO4F departure, maintain altitude 8000ft, squawk 0515."
     
-    **Pilot**: "Cleared to Hong Kong, TONVO4F departure, maintain altitude 8000ft, squawk 0515, IGO1502."
+    **Pilot**: "Cleared to Mumbai, TONVO4F departure, maintain altitude 8000ft, squawk 0515, IGO1502."
 
     **Controller**: "IGO1502, readback correct, information Kilo, QNH 1005, report ready for pushback."
 
@@ -67,7 +67,7 @@ Check the table below to see which SID corresponds to each runway. Keep in mind 
 |              |               | TONVO1R      | 8000ft        |
 
 ### 2.3.2 Radar departures
-The radar departure procedure shall be used when aircraft are unable to accept an RNAV departure, such as one with outdated nav data. Whereas RNAV departures follow a prescribed track until leaving the Dubai Departures airspace, radar departures are given radar vectors to the first fix.
+The radar departure procedure shall be used when aircraft are unable to accept an RNAV departure, such as one with outdated nav data. Whereas RNAV departures follow a prescribed track until leaving the Fujairah Departures airspace, radar departures are given radar vectors to the first fix.
 
 In the take-off clearance, Air Control (AIR) shall assign a heading to fly after departure appropriate to the Fujairah CTA exit point.
 
@@ -84,7 +84,7 @@ A radar departure clearance shall contain the following information:
     Aircraft on a radar departure shall have the text VECTORS inserted to the scratchpad section of their entry on the departure list.
 
 ## 2.3 Rerouting aircraft
-An aircraft shall be issued a reroute by GMC if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2.
+An aircraft shall be issued a reroute by GMC if the pilot’s route doesn’t comply with the standard routes.
 
 Several routing restrictions exist within UAE airspace and must be complied with when issuing a departure clearance.
 
