@@ -1,5 +1,5 @@
 
-# 4. Air Control ("Ras Al Khaimah Tower")
+# 4. Air Control Procedures
 
 ## 4.1 General provisions
 Air Control (AIR) is responsible for all aerodrome movements on runways and their associated taxiways. AIR shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information between IFR and VFR aircraft operating within the aerodrome control zone.
