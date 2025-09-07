@@ -58,21 +58,20 @@ For aircraft that have been given a take-off clearance, but have not yet started
 !!! example
     **Controller:** IGO15C, hold position, cancel takeoff, I say again cancel takeoff, aircraft entering the runway, acknowledge.
 ## 4.3 Arrival procedures
-### 4.3.1 Speed Control
-#### 4.3.1.1
+### 4.3.1 General
 Although the radar controllers are responsible for separating arriving aircraft, the AIR controller shall still ensure that minimum separation is maintained until the preceding aircraft crosses the runway threshold.
 
-#### 4.3.1.2 Speed control
+### 4.3.2 Speed control
 
 If it is apparent that minimum separation may not exist as provided in Dubai Enhanced Wake Turbulence Separation (eWTS) or minimum radar separation minima, AIR may use a tactical reduction in aircraft speed.
 
 !!! example
     **Controller:** IGO8232, reduce to final approach speed.
 
-#### 4.3.1.3 Visual separation
+### 4.3.3 Visual separation
 Aircraft may be instructed to maintain own separation visually, if speed control alone will not resolve the conflict. This shall only be done in VMC and with agreement with the pilot. If no other solutions are practical, the succeeding aircraft shall be instructed to go around.
 
-### 4.3.2 Go around instruction
+### 4.3.4 Go around instruction
 At any time should a runway become unsuitable for an aircraft landing, or separation minima is not met, aircraft shall be instructed to go-around.
 
 !!! example
@@ -83,7 +82,7 @@ Once aircraft are observed to be safely climbing away, they shall be handed off 
 !!! example
     **Controller:** IGO44G, Climb to 3000ft via standard missed approach, contact Fujairah Radar 129.400.
 
-### 4.3.3 Arrival taxi procedures
+### 4.3.5 Arrival taxi procedures
 Aircraft shall be provided an initial taxi clearance to ensure they are kept moving such that the exit taxiway (RET) is clear for the next arrival and to minimise runway occupancy times.
 
 The initial taxi shall include instructions to taxi “LEFT” or “RIGHT” onto the relevant taxiway as appropriate and hold at a suitable intermediate holding point.
