@@ -76,16 +76,6 @@ For the purposes of takeoff performance planning the standard departure taxiways
 
 Crews should base their performance calculations on departure from standard departure points from the notified runway in use.
 
-### Runway 30 Configuration
-#### General
-<figure markdown>
-</figure>
-
-### Runway 12 Configuration
-#### General
-<figure markdown>
-</figure>
-
 ## Take-off
 ### Minimum Runway Occupancy
 On receipt of a line-up clearance pilots shall ensure, complying with safety and standard operating procedures, that they are able to line-up on the runway as soon as the preceding aircraft has commenced take-off roll or landing run.
