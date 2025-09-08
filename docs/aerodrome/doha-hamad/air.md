@@ -141,6 +141,7 @@ Aircraft may be instructed to maintain own separation visually, if speed control
     **Controller**: "QTR36M, Traffic is 12 oclock 3 miles, report in sight."
     **Pilot**: "Traffic in sight, QTR36M"
     **Controller**: "QTR36M, Roger, maintain visual separation
+    **Pilot:**: "Maintain Visual Separation, QTR36M"
 
 ### 5.4.3 Go-around instruction
 #### 5.4.3.1 General go-around procedure

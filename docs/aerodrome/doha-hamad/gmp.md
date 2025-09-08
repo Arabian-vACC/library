@@ -31,9 +31,9 @@ GMP shall obtain a full readback of the clearance. If the pilot does not report 
 Departing aircraft shall be instructed to remain on the delivery frequency and report ready to push before being handed off to GMC. This is so aircraft may be held at the gate, as per the procedures laid down in 3.6.
 
 !!! example
-    **Pilot**: "Hamad Delivery, QTR6M, Boeing 777-300ER, information X, stand B3, requesting FL310, to Melbourne."
+    **Pilot**: "Hamad Clearance Delivery, QTR6M, Boeing 777-300ER, information X, stand B3, requesting FL310, to Melbourne."
 
-    **Controller**: "QTR6M, Hamad Delivery, information X correct, cleared to Melbourne via the BUNDU2E departure, climb via the SID to altitude 4000ft, squawk 2613."
+    **Controller**: "QTR6M, Hamad Clearance Delivery, information X correct, cleared to Melbourne via the BUNDU2E departure, climb via the SID to altitude 4000ft, squawk 2613."
 
     **Pilot**: "Cleared to Melbourne via the BUNDU2E departure, climb via the SID to altitude 4000ft, squawk 2613, QTR6M."
 
@@ -105,9 +105,9 @@ An RNP radar departure clearance shall contain the following information:
 Aircraft on an RNP radar departure shall have the appropriate SID inserted on the departure list (**e.g. KASIS2xBUNDU**). The KASIS and IVENA procedures have an initial climb altitude of **5000 feet**, whereas the DEMBO and PARES procedures have an initial climb altitude of **4000 feet**.
 
 !!! example
-    **Pilot**: "Hamad Delivery, IGO1346, Airbus A320, information T, stand G1, requesting FL310, to Delhi, unable standard SIDs."
+    **Pilot**: "Hamad Clearance Delivery, IGO1346, Airbus A320, information T, stand G1, requesting FL310, to Delhi, unable standard SIDs."
 
-    **Controller**: "IGO1346, Hamad Delivery, information T correct, cleared to Delhi via the KASIS2 departure, BUNDU transition, climb via the SID to altitude 5000ft, squawk 2612."
+    **Controller**: "IGO1346, Hamad Clearance Delivery, information T correct, cleared to Delhi via the KASIS2 departure, BUNDU transition, climb via the SID to altitude 5000ft, squawk 2612."
 
     **Pilot**: "Cleared to Delhi via the KASIS2 departure, BUNDU transition, climb via the SID to altitude 5000ft, squawk 2612, IGO1346."
 
