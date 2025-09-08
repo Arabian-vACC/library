@@ -35,20 +35,20 @@ Training flights will not be facilitated at Abu Dhabi International Airport duri
 
 | Runway | Standard departure points |
 |:------:|:-------------------------:|
-|        |                           |
-|        |                           |
-|        |                           |
-|        |                           |
+| 31R    | A16/A17/A18 (A14 for narrow body) |
+| 31L    | D11/E15 (D9 for narrow body)  |
+| 13L    | A1/A2/A3                  |
+| 13R    | D1/E2                     |
+
 <figure markdown>
-  <figcaption>Table 4-1: Standard departure points</figcaption>
+  <figcaption>Table 5-1: Standard departure points</figcaption>
 </figure>
 
 ### 5.3.2 Line up clearances
-
-Conditional line up instructions must also include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission. 
+Conditional line up instructions must also include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission.
 It is suggested to only have a maximum of two conditional line up clearances active at one i.e. one aircraft lining up behind a departure, and another aircraft lining up behind them.
 !!! example
-    **Controller**: “SWR243, Behind the departing Emirates A380, via E15 line up runwaay 31L behind.
+    **Controller**: “SWR243, Behind the departing Ethiad A380, via E15 line up runwaay 31L behind.
 	
 If aircraft have not yet reached the holding point where they are expected to line up at, ATC shall reiterate the cleared holding point.
 !!! example
@@ -75,55 +75,21 @@ Special flow control procedures are required for traffic entering the Muscat FIR
 
 During off-peak times, this separation minima may be disregarded, and standard separation minima of 2 minutes may be applied provided it is not done for more than two successive departures.
 
-|    SID     |    FIR exit point   | Longitudinal separation |
-|:----------:|:-------------------:|-------------------------|
-|   KANIP    |        LABRI        |        3 minutes        |
-|            |                     |                         |
+|  SID  | FIR exit point | Longitudinal separation |
+|:-----:|:--------------:|-------------------------|
+| ANVIX |      TARDI     | 3 minutes               |
+| IVURO |   LALDO/GOMTA  | 3 minutes               |
+
 <figure markdown>
-  <figcaption>Table 4-2: Flow control procedures for traffic entering the Muscat FIR</figcaption>
+  <figcaption>Table 5-2: Flow control procedures for traffic entering the Muscat FIR</figcaption>
 </figure>
 
 #### 5.3.4.3 Low visibility and IMC
+During low visibility operations and during IMC, departing aircraft shall not be cleared for take-off when there is an arriving aircraft within **4 NM** of the landing runway threshold.
 
 ### 5.3.5 IFR handoff procedure
 #### 5.3.5.1 General
-
-#### 5.3.5.2 Procedure for 30 configuration
-
-<table><thead>
-  <tr>
-    <th>SID</th>
-    <th>Handoff station</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>ANVIX7F</td>
-    <td >DEP 1</td>
-  </tr>
-</tbody>
-</table>
-<figure markdown>
-  <figcaption>Table 4-3: Departure handoff procedure (30)</figcaption>
-</figure>
-
-#### 5.3.5.3 Procedure for 12 configuration
-
-<table><thead>
-  <tr>
-    <th>SID</th>
-    <th>Handoff station</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>ANVIX5G</td>
-    <td>DEP 1</td>
-  </tr>
-
-</tbody>
-</table>
-<figure markdown>
-  <figcaption>Table 4-4: Departure handoff procedure (12)</figcaption>
-</figure>
+Auto handoffs are utilised at Abu Dhabi. Once airborne, pilots are expected to contact the appropriate departure frequency. Pilots are provided with their departure frequency during clearance by the GMP controller. For further details, please refer to ***section 3.2.2***
 
 ### 5.3.6 Omnidirectional departures
 
@@ -131,16 +97,20 @@ During off-peak times, this separation minima may be disregarded, and standard s
 
 ## 5.4 Arrival Procedures
 ### 5.4.1 Preferred exit points
+Pilots should vacate using the first convenient rapid exit taxiway unless an exit point is specified by the AIR controller. Preferred runway exit points are:
 
-| Landing Runway | Preferred Exit POint |
+| Landing Runway | Preferred Exit Point |
 |:--------------:|:--------------------:|
-|                |                      |
-|                |                      |
-|                |                      |
-|                |                      |
+| 31L            | A8                   |
+| 31R            | E8                   |
+| 13L            | A11                  |
+| 13R            | E10                  |
+
 <figure markdown>
-  <figcaption>Table 4-5: Preferred exit points</figcaption>
+  <figcaption>Table 5-5: Preferred exit points</figcaption>
 </figure>
+
+Pilots shall taxi beyond the stop bar, and shall be instructed by the AIR controller on to the next taxiway as outlined in the taxi procedures ***(see 7.2)*** and then be transferred to the appropriate GMC controller ***(see 2.2).***
 
 ### 5.4.2 Separation requirements
 #### 5.4.2.1 General
@@ -177,20 +147,37 @@ During off-peak times, this separation minima may be disregarded, and standard s
 
 ## 5.7 Low visibility operations (LVO)
 ### 5.7.1 Commencement of LVO
+Low visibility safeguards shall be initiated when the reported metorological visibility is below 2500 M or the reported cloud base is below 500 ft. 
+
+Low visibility operations shall be in force when the visibility or RVR is below 550 M or ceiling is below 200 ft.
+
+Runways 31L and 31R/13L are suitable for CAT IIIB operations with minimum runway visual range of 50 M. 
 
 ### 5.7.2 LVO departure procedures
+During LVO procedures, aircraft are required to use full length departures
 
 | Runway | Holding Point |
 |:------:|:-------------:|
-|        |               |
-|        |               |
-|        |               |
-|        |               |
+| 31L    | E15/D11       |
+| 31R    | A17           |
+| 13L    | A2            |
+
 <figure markdown>
-  <figcaption>Table 4-9: CATII/III holding points</figcaption>
+  <figcaption>Table 5-6: CATII/III holding points</figcaption>
 </figure>
 
 ### 5.7.3 LVO arrival procedures
+The preferable runway exits are:
+
+| Landing Runway | Preferred Exit Point |
+|:--------------:|:--------------------:|
+| 31L            | E8/D6                |
+| 31R            | A10                  |
+| 13L            | A13                  |
+
+<figure markdown>
+  <figcaption>Table 5-7: LVO Exit Points</figcaption>
+</figure>
 
 ## 5.8 Designated areas of responsibility
 ### 5.8.1 AIR positions

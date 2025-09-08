@@ -37,10 +37,11 @@ An IFR clearance shall be in the following format:
 
 Aircraft shall be instructed to change frequency after departure in the following manner:
 
-| Runway Configuration | Handoff Station |
-|:--------------------:|:---------------:|
-|      31s             |    APP W        |
-|      13s             |    APP C        |
+| Runway Configuration | Handoff Station | Frequency |
+|:--------------------:|:---------------:|:---------:|
+|      31s             |    APP W        | 128.100   |
+|      13s             |    APP C        | 124.400   |
+
 <figure markdown>
   <figcaption>Table 2-1: Departure Handoffs</figcaption>
 </figure>
@@ -157,7 +158,7 @@ When simultaneous independent parallel departures are in use; the following SIDs
     
     ***ATUDO 4K, KANIP 2U, ORNEL 2K*** 
    
-## 3.3.3 Radar departures
+### 3.3.3 Radar departures
 The radar departure procedure shall be used when aircraft are unable to accept an RNAV departure, such as one with outdated nav data. Whereas RNAV departures follow a prescribed track until leaving the Abu Dhabi Departures airspace, radar departures are given radar vectors to the first fix.
 
 In the take-off clearance. Air Control (AIR) may assign a heading based on the departure runway to facilitate independent departure operations.
