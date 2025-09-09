@@ -46,104 +46,26 @@
 |         31         |      301° / 299°      |    1838 x 30   |
 
 ### 1.4.2 Declared distances (take-off)
-<table><thead>
-  <tr>
-    <th>Runway</th>
-    <th>Intersection</th>
-    <th>Take-off Run Available (TORA)</th>
-    <th>Accelerate Stop Distance Available (ASDA)</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td rowspan="6">12</td>
-    <td>FULL LENGTH</td>
-    <td>4500 m</td>
-    <td>4500 m</td>
-  </tr>
-  <tr>
-    <td>V2</td>
-    <td>4452 m</td>
-    <td>4452 m</td>
-  </tr>
-  <tr>
-    <td>V3</td>
-    <td>4352 m</td>
-    <td>4352 m</td>
-  </tr>
-  <tr>
-    <td>V4</td>
-    <td>4252 m </td>
-    <td>4252 m</td>
-  </tr>
-  <tr>
-    <td>V6</td>
-    <td>3030 m</td>
-    <td>3030 m</td>
-  </tr>
-  <tr>
-    <td>V10</td>
-    <td>2122 m</td>
-    <td>2122 m</td>
-  </tr>
-  <tr>
-    <td rowspan="7">30</td>
-    <td>FULL LENGTH</td>
-    <td>4500 m</td>
-    <td>4500 m</td>
-  </tr>
-  <tr>
-    <td>V20</td>
-    <td>4390 m</td>
-    <td>4390 m</td>
-  </tr>
-  <tr>
-    <td>V19</td>
-    <td>4288 m</td>
-    <td>4288 m</td>
-  </tr>
-  <tr>
-    <td>V18</td>
-    <td>4188 m</td>
-    <td>4188 m</td>
-  </tr>
-  <tr>
-    <td>V17</td>
-    <td>4088 m</td>
-    <td>4088 m</td>
-  </tr>
-  <tr>
-    <td>V16</td>
-    <td>3995 m</td>
-    <td>3995 m</td>
-  </tr>
-  <tr>
-    <td>V13</td>
-    <td>2980 m</td>
-    <td>2980 m</td>
-  </tr>
-  <tr>
-    <td rowspan="2">13</td>
-    <td>FULL LENGTH</td>
-    <td>1838 m</td>
-    <td>1838 m</td>
-  </tr>
-  <tr>
-    <td>A2</td>
-    <td>1804 m</td>
-    <td>1804 m</td>
-  </tr>
-  <tr>
-    <td rowspan="2">31</td>
-    <td>FULL LENGTH</td>
-    <td>1838 m</td>
-    <td>1838 m</td>
-  </tr>
-  <tr>
-    <td>A6</td>
-    <td>1804 m</td>
-    <td>1804 m</td>
-  </tr>
-</tbody></table>
+| Runway | Intersection | Take-off Run Available (TORA) | Accelerate Stop Distance Available (ASDA) |
+|--------|--------------|-------------------------------|--------------------------------------------|
+| 12     | FULL LENGTH  | 4500 m                        | 4500 m                                     |
+|        | V2           | 4452 m                        | 4452 m                                     |
+|        | V3           | 4352 m                        | 4352 m                                     |
+|        | V4           | 4252 m                        | 4252 m                                     |
+|        | V6           | 3030 m                        | 3030 m                                     |
+|        | V10          | 2122 m                        | 2122 m                                     |
+| 30     | FULL LENGTH  | 4500 m                        | 4500 m                                     |
+|        | V20          | 4390 m                        | 4390 m                                     |
+|        | V19          | 4288 m                        | 4288 m                                     |
+|        | V18          | 4188 m                        | 4188 m                                     |
+|        | V17          | 4088 m                        | 4088 m                                     |
+|        | V16          | 3995 m                        | 3995 m                                     |
+|        | V13          | 2980 m                        | 2980 m                                     |
+| 13     | FULL LENGTH  | 1838 m                        | 1838 m                                     |
+|        | A2           | 1804 m                        | 1804 m                                     |
+| 31     | FULL LENGTH  | 1838 m                        | 1838 m                                     |
+|        | A6           | 1804 m                        | 1804 m                                     |
+
 
 ### 1.4.3 Declared distances (landing)
 | Runway | Landing Distance Available (at Threshold) |

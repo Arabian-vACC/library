@@ -8,10 +8,10 @@ Al Maktoum has “standard departure points” from which pilots are expected to
 
 | Runway | Standard departure points |
 |:------:|:-------------------------:|
-|   30  |          V16               |
-|   12  |          V4                |
-|   31  |         A6                 |
-|   13  |             A2            |
+|   30   |           V16             |
+|   12   |            V4             |
+|   31   |            A6             |
+|   13   |            A2             |
 <figure markdown>
   <figcaption>Table 5-1: Standard departure points</figcaption>
 </figure>
@@ -23,16 +23,16 @@ Al Maktoum has “standard departure points” from which pilots are expected to
 Aircraft that have reached the runway holding points for departure shall be told to line-up once the runway is vacant and there is room to maneuver the aircraft onto the runway.
 
 !!! example
-      **Controller:** UAE9284, via V16, line up, runway 30.
+      **Controller:** UAE9284, via V16, line up & wait, runway 30.
 
-      **Pilot:** Via V16, line up, runway 30, UAE9824.
+      **Pilot:** Via V16, line up & wait, runway 30, UAE9824.
 
 Conditional line up instructions must also include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission. It is suggested to only have a maximum of two conditional line up clearances active at one i.e. one aircraft lining up behind a departure, and another aircraft lining up behind them. 
 
 !!! example
-      **Controller:** UAE9824, behind the departing Cathay B747, via V16, line up runway 30, behind.
+      **Controller:** UAE9824, behind the departing Cathay B747, via V16, line up & wait runway 30, behind.
 
-      **Pilot:** Behind the departing Cathay B747, via V16, line up runway 30, behind.
+      **Pilot:** Behind the departing Cathay B747, via V16, line up & wait runway 30, behind.
 
 ### 5.2.3 Take-off clearances
 Aircraft shall be cleared for take-off once adequate separation exists as provided in 5.3.4 
@@ -98,7 +98,7 @@ Aircraft that have commenced their take-off roll may be instructed to stop immed
 For aircraft that have been given a take-off clearance, but have not yet started the roll, they should be instructed to hold position and the take-off clearance must be cancelled along with the reason for cancellation.
 
 !!! example
-      **Controller:** UAE9282, hold position, cancel takeoff, I say again cancel takeoff, aircraft entering the runway, acknowledge.
+      **Controller:** UAE9282, hold position, cancel takeoff clearance, I say again cancel takeoff clearance, aircraft entering the runway, acknowledge.
 
 ## 5.3 Arrival procedures
 ### 5.3.1 Speed control
@@ -113,6 +113,12 @@ If it is apparent that minimum separation may not exist as provided in Dubai Enh
 
 #### 5.3.1.3 Visual separation
 Aircraft may be instructed to maintain own separation visually, if speed control alone will not resolve the conflict. This shall only be done in VMC and with agreement with the pilot. If no other solutions are practical, the succeeding aircraft shall be instructed to go around. 
+
+!!! example
+      **Controller:** UAE4V, traffic is at your 3 oclock, 4 miles, report in sight,
+      **Pilot:** Traffic in sight, UAE4V.
+      **Controller:** UAE4V, thanks, maintain visual separation.
+      **Pilot:** Maintaining visual separation, UAE4V.
 
 ### 5.3.2 Go around instruction
 At any time should a runway become unsuitable for an aircraft landing, or separation minima is not met, aircraft shall be instructed to go-around. 
@@ -169,7 +175,7 @@ Aircraft on the downwind should be passed the following information:
 - Traffic information if applicable
 
 !!! example
-      **Controller:** EFC54L, report final runway 31, number 1, traffic is an B777 on a 5 mile final runway 30.
+      **Controller:** EFC54L, report final runway 31, number 1, traffic is a Boeing 777 on a 5 mile final runway 30.
 
 ### 5.4.3 VFR arrivals
 Inbound VFR aircraft shall be instructed to contact AIR with enough time such that two-way radio communications has been established before aircraft enter the aerodrome control zone. On first contact, AIR will pass circuit joining instructions, as well as any other pertinent information. 
