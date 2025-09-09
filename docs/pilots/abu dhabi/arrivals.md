@@ -46,10 +46,10 @@ The following taxi diagrams depict the standard taxi routings. Note that it may 
 
 ### Runway 31L/R Configuration
 <figure markdown>
-![Runway 31L/R Configuration](img/31LR.png)
+![Runway 31L/R Configuration](../img/omaa/31LR.png)
 </figure>
 
 ### Runway 13L/R Configuration
 <figure markdown>
-![Runway 13L/R Configuration](img/13LR.png)
+![Runway 13L/R Configuration](../img/omaa/img/13LR.png)
 </figure>
