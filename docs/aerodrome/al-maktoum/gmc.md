@@ -159,16 +159,16 @@ Aircraft shall be taxied in accordance with 6.4
 ### 4.5.4 Stand allocation procedure
 |             Area             |                 Operator               |
 |:----------------------------:|:--------------------------------------:|
-|         S289-S313            |             EK Sky Cargo               |
-|         S324-S410            |     Other Cargo                        |
-|         S340-S348L           |     Small Private Jets                 |
-|        S440R-S446L           |     International Carriers             | 
-|       S420R-S420L            |         Leased Carriers                |  
-|        S420R-S425L           |     Private Companies                  | 
-|        G100-G108             |         Falcon                         | 
-|        G17 and G20           |        Private Jet Hangars             | 
-|        G1-G8                 |               VIP Terminal             | 
-|        S801-S812             |               Dubai Airshow            | 
+|         S289-S313            |               EK Sky Cargo             |
+|         S324-S410            |               Other Cargo              |
+|         S340-S348L           |            Small Private Jets          |
+|        S440R-S446L           |          International Carriers        | 
+|       S420R-S420L            |             Leased Carriers            |  
+|        S420R-S425L           |            Private Companies           | 
+|        G100-G108             |                 Falcon                 | 
+|        G17 and G20           |           Private Jet Hangars          | 
+|        G1-G8                 |              VIP Terminal              | 
+|        S801-S812             |              Dubai Airshow             | 
   <figcaption>Table 4-3: Stand allocation procedure</figcaption>
 </figure>
 
