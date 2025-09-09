@@ -12,7 +12,7 @@ The arrival runway is specified in the Sharjah Arrival ATIS, it is determined by
 The standard approach at Sharjah is the ILS, however the expected approach can be found in the Sharjah  Arrival ATIS.
 
 ## Speeds
-The speed limits and recommended speeds within different segments of the Sharjah terminal area is as follows:
+The speed limits and recommended speeds within different segments of the Dubai terminal area is as follows:
 
 |  Speed Range  |              Arrival Segment              |
 |:-------------:|:-----------------------------------------:|
