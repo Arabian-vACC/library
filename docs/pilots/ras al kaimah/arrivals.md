@@ -12,7 +12,7 @@ The arrival runway is specified in the Ras Al Khaimah Arrival ATIS.
 The standard approach at Ras Al Khaimah is the ILS, however the expected approach can be found in the Ras Al Khaimah Arrival ATIS.
 
 ## Speeds
-The speed limits and recommended speeds within different segments of the Ras Al Khaimah terminal area is as follows:
+The speed limits and recommended speeds within different segments of the Dubai terminal area is as follows:
 
 |  Speed Range  |              Arrival Segment              |
 |:-------------:|:-----------------------------------------:|
