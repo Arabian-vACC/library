@@ -30,8 +30,11 @@ Departing aircraft shall be instructed to report ready for pushback.
 
 !!! example
     **Pilot:** Al Bateen Ground, IFA6487, Bombardier Global Express, apron C, Information A, requesting IFR clearance to Verona, fully ready for push and start.
+
     **Controller:** IFA6487, Al Bateen Ground, cleared to Verona via DAXIB1Q, maintain altitude 5000ft, Squawk 3432.
+
     **Pilot:** Cleared to Verona via DAXIB1Q, maintain altitude 3000ft, Squawk 3432. IFA6487.
+
     **Controller:** IFA6487, Correct, report ready for Start-up.
 
 !!! Info
@@ -149,8 +152,11 @@ VFR traffic shall be cleared via the most appropriate VFR route towards their de
 
 !!! Example
     **Pilot:** Al Bateen Ground, A6-MXC, Apron B, request clearance to Dubai, information C.
+
     **Controller:** A6-MXC, cleared to exit the Abu Dhabi CTR, via Eastern Mangroves (EMN), AD1. Hanjurah West (HAW), not above altitude 1500ft VFR, squawk 0672.
+
     **Pilot:** Cleared to exit the Abu Dhabi CTR, via Eastern Mangroves (EMN), AD1. Hanjurah West (HAW), not above altitude 1500ft VFR, squawk 0672, A6-MXC
+
     **Controller:** A6-MXC, Readback correct, information C report ready for start-up.
 
 !!! Note
@@ -167,8 +173,11 @@ VFR traffic shall be cleared via the most appropriate VFR route towards their de
 
 !!! Example
     **Pilot:** Al Bateen Ground, A6-MXC, Apron B, request clearance to Dubai, information C.
+
     **Controller:** A6-MXC, cleared to exit the Abu Dhabi CTR, via Eastern Mangroves (EMN), AD1. Hanjurah West (HAW), not above altitude 1500ft VFR, squawk 0672.
+
     **Pilot:** Cleared to exit the Abu Dhabi CTR, via Eastern Mangroves (EMN), AD1. Hanjurah West (HAW), not above altitude 1500ft VFR, squawk 0672, A6-MXC
+
     **Controller:** A6-MXC, Readback correct, information C report ready for start-up.
 
 ### 2.7.2 VFR traffic remaining in circuit
@@ -188,6 +197,10 @@ Circuits shall be conducted at an altitude of ****1500ft**.
 
 !!! Example
     **Pilot:** Al Bateen Ground, A6-GGM type C172, Apron C, Information M, requesting clearance for circuits.
+
     **Controller:** A6-GGM, Al Bateen Ground, cleared left-hand circuit, runway 31, not above altitude 1500ft VFR, squawk 0655.
+
     **Pilot:** Cleared left-hand circuits runway 31, not above 1500ft VFR, squawk 0655, A6-GGM.
+
     **Controller:** A6-GGM, Readback correct, Information M, report ready for start-up.
+
