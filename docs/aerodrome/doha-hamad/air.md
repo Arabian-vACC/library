@@ -172,7 +172,7 @@ Once aircraft have been observed to be taxiing and completely clear of the RET, 
 ### 5.5.1 General
 As part of runway capacity enhancement initiative at Hamad International Airport, High Intensity Runway Operation (HIRO) is implemented. To achieve maximum landings per hour and reduce go-arounds due to an occupied runway by a preceding landing aircraft, runway occupancy times are to be reduced to a minimum.
 
-HIROs will be in force as per section 5.6.2 Conditions are taking place in Doha-Hamad
+HIROs will be in force as per section 5.5.2 Conditions are taking place in Doha-Hamad
 
 During HIRO operations, pilots shall only use standard rapid exit taxiways (RET’s) and are encouraged to vacate the landing runway within 60 seconds.
 ### 5.5.2 Conditions for the application of HIROs
