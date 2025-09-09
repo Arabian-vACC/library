@@ -10,6 +10,7 @@ Assuming Al Bateen is designed for a Class C Aerodrome, no pushback procedures a
 
 !!! Example
     **Pilot:** Al Bateen Ground, A6-LLG, Apron C, request start-up.
+    
     **Controller:** A6-LLG, Al Bateen Ground, Start-up approved, report ready for taxi,
 
 Aircraft requesting Taxi that are not squawking their assigned transponder code shall be instructed to hold position and squawk the correct code; movement of such aircraft is prohibited.
