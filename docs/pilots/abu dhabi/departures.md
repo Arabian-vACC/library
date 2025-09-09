@@ -78,9 +78,25 @@ As standard, pilots should expect full runway length departures from the followi
 | 13L    | A1/A2/A3                  |
 | 13R    | D1/E2                     |
 
-Intersection departures may be available upon request to ATC. Please advise the GMC controller at the earliest opportunity if you would like to request an intersection in order for them to coordinate this with the relevant upper controller.
+Intersection departures may be available upon request to ATC. Please advise the GMC controller at the earliest opportunity if pilots would like to request an intersection in order for them to coordinate this with the relevant upper controller.
 
 ### Minimum Runway Occupancy
 On receipt of a line-up clearance pilots shall ensure, complying with safety and standard operating procedures, that they are able to line-up on the runway as soon as the preceding aircraft has commenced take-off roll.
 
 Wherever possible, pilots are encouraged to conduct a rolling takeoff to minimise runway occupancy time.
+
+## Take Off
+### Minimum Runway Occupancy
+On receipt of a line-up clearance pilots shall ensure, complying with safety and standard operating procedures, that they are able to line-up on the runway as soon as the preceding aircraft has commenced take-off roll.
+
+Wherever possible, pilots are encouraged to conduct a rolling takeoff to minimise runway occupancy time.
+
+### Auto Handoff Procedure
+Automatic handoffs are used at Abu Dhabi. The airborne frequency will have been provided during the clearance procedure, and upon passing 1000 ft, pilots should contact Abu Dhabi Radar with the following information (unless otherwise instructed by Abu Dhabi Tower):
+
+<ul>
+    <li> Aircraft Callsign </li>
+    <li> Passing Level </li>
+    <li> SID </li>
+</ul>
+
