@@ -17,7 +17,7 @@ Pilots can find valid routes for most flights departing from Dubai on SimBrief b
 </figure>
 
 ## Flight Planning: Standard Instrument Departure (SID)
-Controllers will assign a Standard Instrument Departure (SID) based on the first waypoint in your flight plan, guiding you out of the Dubai Terminal Maneuvering Area (TMA). Refer to the table below to see which SID you can expect. If your waypoint isn't listed in the table, ensure your AIRAC cycle is up to date. If your AIRAC is outdated, please inform the controller promptly so we can arrange an omnidirectional departure for you. All initial climbs are set at 4000ft!
+Controllers will assign a Standard Instrument Departure (SID) based on the first waypoint in your flight plan, guiding you out of the Dubai Terminal Maneuvering Area (TMA). Refer to the table below to see which SID you can expect. If your waypoint isn't listed in the table, ensure your AIRAC cycle is up to date. If your AIRAC is outdated, please inform the controller promptly so we can arrange an omnidirectional departure for you. All initial climbs are set at 4000ft.
 
 | Waypoint |  12L/R  |  30L/R  |
 |----------|:-------:|:-------:|
@@ -35,6 +35,10 @@ Controllers will assign a Standard Instrument Departure (SID) based on the first
     Please be aware that the departures listed above apply to both the left and right runways. At Dubai International, there are no runway-specific SIDs, so your clearance will not include a designated runway. You can determine your departure runway by checking the Automatic Terminal Information Service (ATIS).
 
 ## Getting your clearance
+### Datalink Clearance (DCL)
+The preferred method for obtaining your clearance is through datalink. To request clearance via Hoppie datalink, send your request to **OMDB**. Please note that logging on to the station is not required. No readback is necessary.
+
+### Voice Clearance
 Departing aircraft shall contact Dubai Delivery **10 minutes prior to start-up** and pass the following information:
 <ul>
     <li>Aircraft Callsign</li>
@@ -70,7 +74,7 @@ Dubai has implemented **A**irport **C**ollaborative **D**ecision **M**aking (**A
 
 If you are unfamiliar with A-CDM procedures, please refer to the [A-CDM pilot guide](https://vacdm.net/docs/pilot/use-vacdm).
 
-## Push & Start
+## Push and Start
 Once clearance delivery releases you to the designated ground frequency, pilots may request push and start clearance. Upon initial contact, the ground controller may provide various types of pushback instructions. Pilots must ensure they can comply with these instructions; if unable, they must inform the ground controller.
 
 Pushback clearances will specify a direction to face, such as West or East, and a particular taxiway to push onto.
