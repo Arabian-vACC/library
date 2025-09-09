@@ -28,7 +28,7 @@ Controllers will assign a Standard Instrument Departure (SID) based on the first
 
 # Getting your clearance
 ## Voice Clearance
-Departing aircraft requiring clearance via voice shall contact Abu Dhabi Delivery when ready for pushback and pass the following information:
+Departing aircraft requiring clearance via voice shall contact Al Bateen Ground when ready for pushback and pass the following information:
 
 -   Callsign;
 -   Aircraft type;
