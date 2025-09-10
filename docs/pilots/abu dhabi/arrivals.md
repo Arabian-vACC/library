@@ -1,4 +1,7 @@
 # Arriving Traffic
+!!! success
+    All pilots should also familiarise themeselves with the [Airport Overview](overview)
+
 ## STAR Assignment
 STAR assignments are based on the waypoint at which you enter the Abu Dhabi Terminal Maneuvering Area (TMA). ATC will assign the appropriate STAR depending on traffic conditions and active runway.
 
