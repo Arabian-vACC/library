@@ -68,7 +68,7 @@ Stand 103:
 - An aircraft that is pushing to be abeam stand 309 is deemed separated from an aircraft pushing from stand 307 to face east.
 - Aircraft shall not be pushed to face north on taxiway E9.
 
-Parking on 121 or 131 is permitted if an aircraft has completed pushback from stands 122, 123, 133,134 or 135.
+Parking on 121 or 131 is permitted if an aircraft has completed pushback from stands 122, 123, 133, 134 or 135.
 
 Parking on stand 132 is permitted if an aircraft has completed pushback from stands 123, 133, 134 or 135.
 
@@ -88,6 +88,7 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 
 !!! example
     **ATC**: “ETD89G, TAXI VIA ECHO 8, ECHO, HOLDING POINT ECHO 15”
+
 
 ### 4.3.2 Dual runway 31L/R departure taxi procedures
 When departing from 31L, aircraft pushing back on apron 1 shall be instructed to taxi via E9 or E11 to join E and taxi to holding point E15.

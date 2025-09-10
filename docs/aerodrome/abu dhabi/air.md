@@ -97,53 +97,108 @@ Auto handoffs are utilised at Abu Dhabi. Once airborne, pilots are expected to c
 
 ## 5.4 Arrival Procedures
 ### 5.4.1 Preferred exit points
-Pilots should vacate using the first convenient rapid exit taxiway unless an exit point is specified by the AIR controller. Preferred runway exit points are:
-
-| Landing Runway | Preferred Exit Point |
-|:--------------:|:--------------------:|
-| 31L            | A8                   |
-| 31R            | E8                   |
-| 13L            | A11                  |
-| 13R            | E10                  |
-
-<figure markdown>
-  <figcaption>Table 5-5: Preferred exit points</figcaption>
-</figure>
+Pilots should vacate using the first convenient rapid exit taxiway unless an exit point is specified by the AIR controller.
 
 Pilots shall taxi beyond the stop bar, and shall be instructed by the AIR controller on to the next taxiway as outlined in the taxi procedures ***(see 7.2)*** and then be transferred to the appropriate GMC controller ***(see 2.2).***
 
 ### 5.4.2 Separation requirements
 #### 5.4.2.1 General
+While the radar controllers are responsible for separating arriving aircraft, the AIR controller shall still ensure that minimum separation is maintained until the preceding aircraft crosses the runway threshold. 
 
 #### 5.4.2.2 Speed control
+If it is apparent that minimum separation may not exist as provided in 5.4.2.1, AIR may use a tactical reduction in aircraft speed.
+
+!!! example
+    **Controller**: "ETD1C, reduce to final approach speed."
 
 #### 5.4.2.3 Visual separation
+Aircraft may be instructed to maintain own separation visually, if speed control alone will not resolve the conflict. This shall only be done in VMC and with agreement with the pilot. If no other solutions are practical, the succeeding aircraft shall be instructed to go around.
 
 ### 5.4.3 Go-around instruction
-#### 5.4.3.1 General go-around procedure
+At any time should a runway become unsuitable for an aircraft landing, or separation minima is not met, aircraft shall be instructed to go-around. All go around procedures have an altitude of 4000 ft.
 
-#### 5.4.3.2 Go-around with simultaneous departure in VMC
+!!! example
+    **Controller**: "ETD23, go around, I say again, go around, acknowledge."
 
-#### 5.4.3.2 Go-around with simultaneous departure in IMC or during LVO
+Once aircraft have acknowledged the instruction and are observed to be safely climbing away, they shall be handed off to departure control.
+
+!!! example
+    **Controller**: "ETD23, climb to 4000ft via standard missed approach, contact Dubai Departures 121.025."
 
 ### 5.4.4 Arrival taxi procedures
+In accordance with the taxi procedures laid down in 4.4, aircraft shall be provided an initial taxi clearance to ensure they are kept moving such that the rapid exit taxiway (RET) is clear for the next arrival.
+
+The initial taxi shall include instructions to taxi “LEFT” or “RIGHT” onto the relevant taxiway as appropriate and hold at a suitable intermediate holding point.
+
+Once aircraft have been observed to be taxiing and completely clear of the RET, transfer of control shall be initiated to GMC provided there will be no conflicts with other arriving traffic.
 
 ## 5.5 Reduced runway separation minima (RRSM)
 ### 5.5.1 Conditions for the application of RRSM
+Reduced runway separation may be applied at any time during day or night between:
 
-### 5.5.2 Single runway mode procedure
+- A departing aircraft and a succeeding aircraft using a single runway; or
+- Two successive landing aircraft; or
+- Two successive departing aircraft.
+
+The following conditions must apply:
+
+- The tailwind component does not exceed 5 knots at the landing threshold and there are no pilots reports of wind shear;
+- Meteorological visibility is equal to or greater than 5000 metres and cloud ceiling is not less than 1000 ft. The AIR controller should be satisfied that the following aircraft will be able to observe the relevant traffic completely and continuously;
+- Traffic information is provided to the crew of the succeeding aircraft;
+- The runway is dry and there is no evidence that braking action will be adversely affected;
+- The AIR controller is able to assess separation visually or by radar-derived information; 
+- Suitable landmarks and markers on the surface surveillance system shall be available to assist the controller in assessing separation between aircraft;
+- Wake turbulence separation minima shall be applied;
+- Minimum separation continues to exist between two departing aircraft immediately after departure of the second aircraft;
+- The pilot of an arriving aircraft is advised of the exit point where they are expected to vacate.
+
+### 5.5.2 RRSM Procedure
 #### 5.5.2.1 Landing following landing
+When the runway‐in‐use is temporarily occupied by other traffic, landing clearance may be issued to an arriving aircraft, provided that the controller has reasonable assurance that the following separation criteria will be met when the landing aircraft crosses the runway threshold of:
+
+- **Runway 13L/31R**:
+    - The preceding landing aircraft has landed and has vacated the runway; or has passed a point at least 2400 metres from the threshold of the runway (abeam taxiway Z1 for 13L; midway between A8 and A10 for 31R); and is in motion and will vacate the runway without stopping and/or backtracking
+
+- **Runway 13R/31L**:
+    - The preceding landing aircraft has landed and has vacated the runway; or has passed a point at least 2400 metres from the threshold of the runway (intersection of E10 and E12 for 13R; intersection of E7 and E8 for 31L); and is in motion and will vacate the runway without stopping and/or backtracking.
+
+!!! example
+    **Controller**: "ETD91, 777 vacating at A8, [surface] wind 260 degrees 5 knots, runway 31R, cleared to land."
 
 #### 5.5.2.2 Landing following departure
+When the runway‐in‐use is temporarily occupied by other traffic, landing clearance may be issued to an arriving aircraft, provided that the controller has reasonable assurance that the following separation distances/criteria will be met when the landing aircraft crosses the runway threshold:
 
-### 5.5.3 Dual dependent runway mode
+- **Runway 13L/31R**:
+    - The preceding departing aircraft will be airborne and has passed a point at least 2400 M from the threshold of the runway (abeam taxiway Z1 for 13L; midway between A8 and A10 for 31R)
+
+- **Runway 13R/31L**:
+    - The preceding departing aircraft will be airborne and has passed a point at least 2400m from the threshold of the runway (intersection of E10 and E12 for 13R; intersection of E7 and E8 for 31L)
+
+!!! example
+    **Controller**: "FDX4215, 777 departing ahead, [surface] wind 330 degrees 15 knots, runway 31R, cleared to land."
+
+#### 5.5.2.3 Departure following departure
+Take‐off clearance may be issued to a departing aircraft, commencing its take‐off roll from full length, before the preceding departure has passed the upwind end of the runway; provided:
+
+- **Runway 13L/31R**:
+    - The preceding departing aircraft will be airborne and has passed a point at least 2400 M from the threshold of the runway (abeam taxiway Z1 for 13L; midway between A8 and A10 for 31R), and minimum separation continues to exist, constant or increasing, between the two departing aircraft immediately after take‐off of the second aircraft.
+
+- **Runway 13R/31L**:
+    - The preceding departing aircraft will be airborne and has passed a point at least 2400m from the threshold of the runway (intersection of E10 and E12 for 13R; intersection of E7 and E8 for 31L), and minimum separation continues to exist, constant or increasing, between the two departing aircraft immediately after take‐off of the second aircraft.
+
+!!! example
+    **Controller**: "BOX514, 737 departing ahead, [surface] wind 120 degrees 7 knots, runway 13L, cleared for take-off."
+
 
 ## 5.6 VFR procedures
 ### 5.6.1 VFR departures
+***WIP***
 
 ### 5.6.2 VFR traffic remaining in the circuit
+***WIP***
 
 ### 5.6.3 VFR arrivals
+***WIP***
 
 ## 5.7 Low visibility operations (LVO)
 ### 5.7.1 Commencement of LVO
@@ -181,7 +236,19 @@ The preferable runway exits are:
 
 ## 5.8 Designated areas of responsibility
 ### 5.8.1 AIR positions
+Abu Dhabi has two AIR positions, AIR 1 and AIR 2. 
+
+AIR 1 controls runway 31L/13R as well as all associated exit taxiways and runway holding points. AIR 2 controls runway 31R/13L as well as all associated exit taxiways and runway holding points. 
+
+The airspace directly around the airport is split directly through the centre of the aerodrome (a line of runway heading, approximately intersecting the Control Tower and the midpoint between L2 and L3). The northern half is delegated to AIR2, while the southern half is delegated to AIR 1. 
+
+(See 2.2)
 
 ### 5.8.2 Handoff procedure
+Where transfer of control is to be made between aerodrome controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller. Intermediate holding points may be used to satisfy this requirement.
+For runway crossings, the crossing instruction must only be issued by the designated AIR controller for the respective runway unless prior coordination has been conducted.
 
 ### 5.8.3 Splitting procedure
+Where there is only one controller, they shall cover all runways and associated airspace from the AIR 1 position. 
+
+Unless otherwise authorised by the Arabian vACC staff, GMP (Abu Dhabi Delivery) and at least one GMC (Abu Dhabi Ground) position must be online before two AIR (Abu Dhabi Tower) positions may be opened.
