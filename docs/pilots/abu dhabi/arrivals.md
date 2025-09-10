@@ -53,5 +53,5 @@ Your intial taxi after landing will be given by the TWR controller, who will the
 
 ### Runway 13L/R Configuration
 <figure markdown>
-![Runway 13L/R Configuration](../img/omaa/img/13LR.png)
+![Runway 13L/R Configuration](../img/omaa/13LR.png)
 </figure>
