@@ -19,11 +19,12 @@ GMP is responsible for issuing clearances for departing aircraft. Pilots may be 
 
 GMP shall instruct pilots to monitor the appropriate Ground Movement Controller (GMC) frequency as per the pilot's location and standby for ATC call.
 
-
 GMC shall inform aircraft that are ready for pushback of any delay exceeding 5 minutes and provide an estimate. If no contact is made by ATC after 5 minutes of monitoring pilots shall contact Ground Movement Control to receive an estimate for pushback and start.
 
-
 To facilitate the most expeditious movement of ready aircraft, pilots not ready to pushback and start when instructed to do so by ATC shall expect to wait for further pushback instructions.
+
+!!! warning
+      The **FREQ** tag within Euroscope should be used only when a pilot has been instructed to monitor the next frequency. This will instruct next controller that the traffic is ready and expecting their call to push and start.
 
 ### 3.2.2 Information contained in a departure clearance
 An IFR clearance shall be in the following format:
@@ -59,10 +60,9 @@ When APP W is offline all handoffs shall be to APP C or as appropriate.
     
 !!!info
     GMP must obtain a full readback of the clearance. If the pilot does not report the current ATIS letter on first contact, GMP shall pass the current ATIS letter and QNH.
+
 ### 3.2.3 Datalink clearance (DCL)
-
 Aircraft clearance may also be delivered by DCL. This type of clearance reduces controller workload and frequency congestion. For suitably equipped aircraft, this will be through the ACARS system on board the aircraft.
-
 
 !!!info
     Controllers shall ensure that DCL is available to be used at all times.
@@ -99,7 +99,6 @@ Abu Dhabi primarily uses RNAV standard instrument departures (SIDs) and is the p
 </figure>
 
 ### 3.3.2 Simultaneous parallel instrument departures
-
 Parallel runways may be used for parralel instrument departures as follows:
 
 - Both runways are used exclusively for departure (independent parallel departures)
@@ -215,6 +214,8 @@ If an aircraft requires a reroute, they shall be informed of such as soon as the
 
 !!! note
       Any other flight plans departing OMAA into other airports within UAE airspace can expect **radar vectors** subject to ATC approval and possible delays.
+
+
 ## 3.5 Requested cruising level
 ### 3.5.1 Level restrictions
 Aircraft routes out of the aerodrome must comply with all routing and level restrictions as described in *section 3.1 of Arabian MATS P1 under foundations* and *Table 2-5*. This is based on direction and type of flight.

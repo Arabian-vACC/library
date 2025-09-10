@@ -8,7 +8,10 @@ Arriving aircraft are assigned a stand and instructed to taxi as appropriate.
 ### 4.2.1 General pushback procedures
 When aircraft have been handed off from GMP, they shall be fully ready for pushback, and have reached their TOBT. Assuming no obstructions, they should be instructed to push back immediately.
 
-Aircraft requesting push that are not squawking their assigned transponder code shall be instructed to hold position and squawk the correct code. They must not be allowed to move until doing so. Pushback direction is based primarily on aircraft location and runway configuration.
+!!! warning
+    Traffic will be handed over from GMP with a **monitor** instruction and the **FREQ** tag will be applied in Euroscope. Once the **FREQ** status is showing, pilots have been transferred to GMC and can be called up by the GMC controller to push.
+
+Aircraft ready for push that are not squawking their assigned transponder code shall be instructed to hold position and squawk the correct code. They must not be allowed to move until doing so. Pushback direction is based primarily on aircraft location and runway configuration.
 
 In accordance with the pushback restrictions laid down in 4.2, aircraft shall generally be pushed back facing the departure runway threshold unless otherwise specified.
 
@@ -26,7 +29,6 @@ Conditional pushback instructions may also be issued if an aircraft is taxiing b
     **ATC**:“ETD562, BEHIND THE COMPANY A330 PASSING LEFT TO RIGHT, STAND 306, PUSH AND START APPROVED, FACE EAST, BEHIND”
 
 ### 4.2.3 Pushback Procedures
-
 #### 4.2.3 Standard Pushback Procedures
 
 | Apron / Stand(s)         | Pushback Direction / Notes                                                                                                 |
