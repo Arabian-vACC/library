@@ -131,7 +131,7 @@ Runway 16L/34R should be used for eastbound departures, while runway 16R/34L is 
 Departures heading eastbound shall be handed over to Doha Approach (East), while those heading westbound shall be transferred to Doha Approach (West).
 
 !!! example
-    **Pilot**: "Doha Ground, TCM1TM, Airbus A320, stand 512, clearance to Jeddah, unable RNAV, with information Z on board."
+    **Pilot**: "Hamad Clearance Delivery, TCM1TM, Airbus A320, stand 512, clearance to Jeddah, unable RNAV, with information Z on board."
 
     **Controller**: "TCM1TM, Hamad Clearance Delivery, information Z correct, cleared to Jeddah via runway 34L, fly runway heading, expect radar vectors after departure, maintain altitude 3000ft, squawk 2610."
 
