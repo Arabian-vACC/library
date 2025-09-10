@@ -3,7 +3,7 @@
 STAR assignments are based on the waypoint at which you enter the Abu Dhabi Terminal Maneuvering Area (TMA). ATC will assign the appropriate STAR depending on traffic conditions and active runway.
 
 !!! warning
-    All STARs into Dubai include altitude and speed restrictions, which must be adhered to unless explicitly canceled by ATC. Pilots should verify clearance levels through instructions such as "**DESCEND VIA STAR**," "**DESCEND UNRESTRICTED**," or "**CANCEL STAR SPEEDS**."
+    All STARs into Abu Dhabi include altitude and speed restrictions, which must be adhered to unless explicitly canceled by ATC. Pilots should verify clearance levels through instructions such as "**DESCEND VIA STAR**," "**DESCEND UNRESTRICTED**," or "**CANCEL STAR SPEEDS**."
 
 ## Runway Assignment
 The arrival runway is specified in the Abu Dhabi Arrival ATIS, with a preference for 31R arrivals.
@@ -12,7 +12,7 @@ The arrival runway is specified in the Abu Dhabi Arrival ATIS, with a preference
 The standard approach at Abu Dhabi is the ILS, however the expected approach can be found in the Abu Dhabi Arrival ATIS.
 
 ## Speeds
-The speed limits and recommended speeds within different segments of the Dubai terminal area is as follows:
+The speed limits and recommended speeds within different segments of the Abu Dhabi terminal area is as follows:
 
 |  Speed Range  |              Arrival Segment              |
 |:-------------:|:-----------------------------------------:|
@@ -46,10 +46,10 @@ The following taxi diagrams depict the standard taxi routings. Note that it may 
 
 ### Runway 31L/R Configuration
 <figure markdown>
-![Runway 31L/R Configuration](img/31LR.png)
+![Runway 31L/R Configuration](../img/omaa/31LR.png)
 </figure>
 
 ### Runway 13L/R Configuration
 <figure markdown>
-![Runway 13L/R Configuration](img/13LR.png)
+![Runway 13L/R Configuration](../img/omaa/img/13LR.png)
 </figure>
