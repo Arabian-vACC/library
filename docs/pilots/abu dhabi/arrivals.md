@@ -1,5 +1,5 @@
 # Arriving Traffic
-!!! success
+!!! success "Check"
     All pilots should also familiarise themeselves with the [Airport Overview](overview)
 
 ## STAR Assignment
