@@ -3,16 +3,16 @@
 STAR assignments are based on the waypoint at which you enter the Abu Dhabi Terminal Maneuvering Area (TMA). ATC will assign the appropriate STAR depending on traffic conditions and active runway.
 
 !!! warning
-    All STARs into Dubai include altitude and speed restrictions, which must be adhered to unless explicitly canceled by ATC. Pilots should verify clearance levels through instructions such as "DESCEND VIA STAR," "DESCEND UNRESTRICTED," or "CANCEL STAR SPEEDS."
+    All STARs into Al Bateen include altitude and speed restrictions, which must be adhered to unless explicitly canceled by ATC. Pilots should verify clearance levels through instructions such as "DESCEND VIA STAR," "DESCEND UNRESTRICTED," or "CANCEL STAR SPEEDS."
 
 ## Runway Assignment
-The arrival runway is specified in the Al Bateen Arrival ATIS. Due to close interaction between arrival and departures in Sheikh Zayed International Airport, the runway in use in Delma is determined by the runway used in Abu Dhabi
+The arrival runway is specified in the Al Bateen Arrival ATIS. Due to close interaction between arrival and departures in Sheikh Zayed International Airport, the runway in use in Al Bateen is determined by the runway used in Abu Dhabi
 
 ## Approach
 The standard approach at Al Bateen is the ILS, however the expected approach can be found in the Al Bateen Arrival ATIS.
 
 ## Speeds
-The speed limits and recommended speeds within different segments of the Dubai terminal area is as follows:
+The speed limits and recommended speeds within different segments of the Abu Dhabi terminal area is as follows:
 
 |  Speed Range  |              Arrival Segment              |
 |:-------------:|:-----------------------------------------:|
