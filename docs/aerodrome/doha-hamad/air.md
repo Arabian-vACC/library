@@ -138,7 +138,7 @@ If it is apparent that minimum separation may not exist as provided in 5.4.2.1, 
 Aircraft may be instructed to maintain own separation visually, if speed control alone will not resolve the conflict. This shall only be done in VMC and with agreement with the pilot. If no other solutions are practical, the succeeding aircraft shall be instructed to go around.
 
 !!! example
-    **Controller**: "QTR36M, Traffic is 12 oclock 3 miles, report in sight."
+    **Controller**: "QTR36M, Traffic is 12 oclock 3 miles, Airbus A320, report in sight."
 
     **Pilot**: "Traffic in sight, QTR36M"
 
