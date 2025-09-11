@@ -26,6 +26,7 @@
 | 10/2021 | Changes to Section 1.1.1: General visiting controller policy,<br>Changes to Section 2.1: Controller inactivity. | 01 OCT 2021 |
 | 01/2025 | Full policy rewrite to ensure full compliance with VATSIM’s Global Controller Administration Policy (GCAP), Transfer & Visiting Controller Policy, and VATMENA Divisional Policies,<br>Removed Emirates vACC branding and updated to align with the new Arabian vACC branding, including the addition of two additional FIRs. | 10 APR 2025 |
 | 02/2025 | Added references to Tier 1 standarised training as defined in the Arabian vACC Training Policy | 18 AUG 2025 |
+| 03/2025 | Standardised table format to markdown | 11 SEP 2025 |
 
 ## Organization
 The **Arabian Virtual Area Control Center** (hereinafter referred to as **Arabian vACC** or **ARBvACC**) is a recognized subdivision within the **Middle East & North Africa Division (VATMENA)**, operating under the **Europe, Middle East, and Africa Region (VATEMEA)** of the **VATSIM Network**.
