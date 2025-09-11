@@ -138,9 +138,12 @@ If it is apparent that minimum separation may not exist as provided in 5.4.2.1, 
 Aircraft may be instructed to maintain own separation visually, if speed control alone will not resolve the conflict. This shall only be done in VMC and with agreement with the pilot. If no other solutions are practical, the succeeding aircraft shall be instructed to go around.
 
 !!! example
-    **Controller**: "QTR36M, Traffic is 12 oclock 3 miles, report in sight."
+    **Controller**: "QTR36M, Traffic is 12 oclock 3 miles, Airbus A320, report in sight."
+
     **Pilot**: "Traffic in sight, QTR36M"
-    **Controller**: "QTR36M, Roger, maintain visual separation
+
+    **Controller**: "QTR36M, Roger, maintain visual separation."
+
     **Pilot:**: "Maintain Visual Separation, QTR36M"
 
 ### 5.4.3 Go-around instruction
@@ -176,7 +179,7 @@ HIROs will be in force as per section 5.5.2 Conditions are taking place in Doha-
 
 During HIRO operations, pilots shall only use standard rapid exit taxiways (RET’s) and are encouraged to vacate the landing runway within 60 seconds.
 ### 5.5.2 Conditions for the application of HIROs
-HIRO will be in force when, runway surface condition is dry, and adverse weather conditions are not present. Controllers must ensure that pilots maintain 50kts while exiting on a Rapid Exit Point (RET).
+HIRO will be in force when, runway surface condition is dry, and adverse weather conditions are not present. Controllers must ensure that pilots maintain 50kts while exiting on a Rapid Exit Taxiway (RET).
 
 If HIRO is in use, the ATC shall update the NOTAMs and select 'HIRO's in use' when clicking Airport Conditions. 
 
