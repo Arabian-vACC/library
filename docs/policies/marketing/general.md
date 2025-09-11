@@ -16,21 +16,13 @@
 | Cancelled documents |             NIL            |
 
 ### Record of Revisions
-<table><thead>
-  <tr>
-    <th>Revision Number</th>
-    <th>Notes</th>
-    <th>Effective Date</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>01/2025</td>
-    <td>Initial Issue</td>
-    <td>18 AUG 2025</td>
-  </tr>
-</tbody></table>
+| Revision Number | Notes        | Effective Date |
+|-----------------|--------------|----------------|
+| 01/2025         | Initial Issue| 18 AUG 2025    |
+| 02/2025         | Added clauses for easy referral| 12 SEP 2025    |
 
-## Scope
+
+# 1. Scope
 Welcome to the **Arabian vACC General Guidelines**. This document provides clear standards for the design and presentation of all Arabian vACC event materials, ensuring consistency, professionalism, and alignment with both vACC and VATMENA branding requirements.  
 
 Through consistent application of these rules, the Arabian vACC demonstrates professionalism, strengthens the VATMENA Division’s reputation, and provides members with clear, reliable, and visually coherent event communication.  
@@ -38,8 +30,8 @@ Through consistent application of these rules, the Arabian vACC demonstrates pro
 !!! warning  
     All event branding material and documentation contained in this section is intended solely for use by the Arabian vACC. Unauthorized use, duplication, or modification outside of the vACC is strictly prohibited.  
 
-## General Guidelines
-### Event Marketing
+# 2. General Guidelines
+## 2.1 Event Marketing
 Events organized by the **Arabian vACC** or those in which the vACC participates are published through the following channels:
 
 - **Arabian vACC Discord** ([community.vatsim.net](https://community.vatsim.net))  
@@ -60,7 +52,7 @@ The Marketing Department strives to:
 
 Requests for ATC coverage from **virtual airlines** or other vACCs are generally **not published in the calendar** and usually require only a staffing announcement.
 
-### Event Types
+## 2.2 Event Types
 **Open Signup Events**  
 - Position assignment is on a **first-come, first-served** basis; each controller books individually.  
 - **Rostering is not used**.  
@@ -73,7 +65,7 @@ Requests for ATC coverage from **virtual airlines** or other vACCs are generally
 - The **Marketing General Guidelines applies**.  
 - Examples: Medium to large events.
 
-### Event Signup
+## 2.3 Event Signup
 Every event or controller examination will have a dedicated staffing post created using the forum feature on the Arabian vACC Discord server.  
 
 Controllers are expected to:  
@@ -82,12 +74,12 @@ Controllers are expected to:
 - Promptly update your availability if any changes occur and notify the Marketing Department accordingly. Refer to the **Cancellations and No-Shows** section for guidance.  
 - Ensure that you hold the necessary rating and endorsements for any position you choose or request.  
 
-#### Solo Validations
+### 2.3.1 Solo Validations
 Controllers who wish to staff a position using a **solo endorsement** must first obtain permission from the **ATC Training Department** before they can be rostered or book the position.  
 
 However, holders of a **permanent rating** may be given priority during the rostering process.
 
-### Event Rostering
+## 2.4 Event Rostering
 For **rostered events**, position assignments are typically managed by the **Marketing Department**. At their discretion, this responsibility may be delegated to another member of the **Arabian vACC Staff team**.
 
 When assigning positions, the following factors are taken into account to ensure the best possible experience for pilots and controllers:
@@ -101,7 +93,7 @@ When assigning positions, the following factors are taken into account to ensure
 
 The **event roster** is generally published **no later than the night before the event**. However, short-notice changes may occasionally be necessary.
 
-#### Cancellations and No-Shows
+## 2.5 Cancellations and No-Shows
 All cancellations and no-shows for events are **recorded**. Controllers should **only sign up for an event if they can commit** to attending. In unavoidable circumstances, controllers must notify the **Marketing Department** as soon as possible using both of the methods below:
 
 - **Notify the person responsible for rostering**  
@@ -113,12 +105,12 @@ All cancellations and no-shows for events are **recorded**. Controllers should *
 
 If a controller needs to make changes **during the event**, such as leaving early or being unable to attend, they must inform the **Marketing Department**. Leaving a rostered event early may be permitted **only if the minimum staffing for the event can still be maintained**.
 
-#### Violations & Consequences
+### 2.5.1 Violations & Consequences
 Violations of the general event guidelines are **monitored** and may result in **disciplinary action** if repeated. Possible consequences include:
 
 - Suspension of **event rostering privileges**  
 - Limiting the controller to **open sign-up positions only**  
 - Prohibition from **advance sign-ups** for both rostered and non-rostered events
 
-#### Position Booking
+## 2.6 Position Booking
 For each event, individual controllers for an open-signup event or a designated member of the **Marketing Department** is responsible for booking ATC positions. These positions will be managed through the **upcoming ATC booking system**.
