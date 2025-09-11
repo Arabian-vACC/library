@@ -2,9 +2,7 @@
 ## 3.1 General provisions
 Airways clearance/Ground Movement Planner (GMP) is responsible for validating routes and shall provide IFR clearance to departing aircraft. The controller shall assign the correct departure procedure to the aircraft based on the first point that is filed on the flight plan.
 
-
 Where the flight plan contains an invalid route, level or departure procedure, GMP must ensure that the error is corrected before the aircraft is given its clearance.
-
 
 GMP is also responsible for minimizing taxiway delays and taxiway congestion for departing aircraft. During times of increased departure activity, aircraft are held at the gate to save fuel and lessen taxiway congestion.
 
@@ -19,11 +17,12 @@ GMP is responsible for issuing clearances for departing aircraft. Pilots may be 
 
 GMP shall instruct pilots to monitor the appropriate Ground Movement Controller (GMC) frequency as per the pilot's location and standby for ATC call.
 
-
 GMC shall inform aircraft that are ready for pushback of any delay exceeding 5 minutes and provide an estimate. If no contact is made by ATC after 5 minutes of monitoring pilots shall contact Ground Movement Control to receive an estimate for pushback and start.
 
-
 To facilitate the most expeditious movement of ready aircraft, pilots not ready to pushback and start when instructed to do so by ATC shall expect to wait for further pushback instructions.
+
+!!! warning
+      The **FREQ** tag within Euroscope should be used only when a pilot has been instructed to monitor the next frequency. This will instruct next controller that the traffic is ready and expecting their call to push and start.
 
 ### 3.2.2 Information contained in a departure clearance
 An IFR clearance shall be in the following format:
@@ -59,10 +58,9 @@ When APP W is offline all handoffs shall be to APP C or as appropriate.
     
 !!!info
     GMP must obtain a full readback of the clearance. If the pilot does not report the current ATIS letter on first contact, GMP shall pass the current ATIS letter and QNH.
+
 ### 3.2.3 Datalink clearance (DCL)
-
 Aircraft clearance may also be delivered by DCL. This type of clearance reduces controller workload and frequency congestion. For suitably equipped aircraft, this will be through the ACARS system on board the aircraft.
-
 
 !!!info
     Controllers shall ensure that DCL is available to be used at all times.
@@ -99,7 +97,6 @@ Abu Dhabi primarily uses RNAV standard instrument departures (SIDs) and is the p
 </figure>
 
 ### 3.3.2 Simultaneous parallel instrument departures
-
 Parallel runways may be used for parralel instrument departures as follows:
 
 - Both runways are used exclusively for departure (independent parallel departures)
@@ -123,7 +120,6 @@ The following conditions are required in the application of this standard betwee
 - Vertical separation shall be applied between successive departures when the following aircraft has a closing airspeed.
   
 #### 3.3.2.1 Runway 31 operations
-
 When simultaneous independent parallel departures are in use; the following SIDs shall be used for runway 31 operations:
 
 | Runway 31L | Runway 31R |
@@ -133,13 +129,11 @@ When simultaneous independent parallel departures are in use; the following SIDs
 |  DAXIB 1K  |  ATUDO 3P  |
 |            |  KANIP 1N  |
 |            |  ORNEL 1P  |
-
 <figure markdown>
   <figcaption>Table 2-3: Simultaneous independent departures (31 configuration)</figcaption>
 </figure>
 
 #### 3.3.2.2 Runway 13 operations
-
 When simultaneous independent parallel departures are in use; the following SIDs shall be used for runway 13 operations:
 
 | Runway 13L | Runway 13R |
@@ -148,15 +142,14 @@ When simultaneous independent parallel departures are in use; the following SIDs
 |  LORID 1F  |  BOSEV 1G  |
 |  TULON 1F  |  ORNEL 1G  |
 |  ATUDO 5F  |  KANIP 3G  |
-
 <figure markdown>
   <figcaption>Table 2-4: Simultaneous independent departures (13 configuration)</figcaption>
 </figure>
 
 !!! warning
-    Until further notice as of February 2024, the following SIDs are temporarily suspended until further notice as per OMAA NOTAMS:
+    Until further notice as of August 2025, the following SIDs are temporarily suspended until further notice as per OMAA NOTAMS:
     
-    ***ATUDO 4K, KANIP 2U, ORNEL 2K*** 
+    ***ATUDO 4K, KANIP 2U/3P, ORNEL 2K*** 
    
 ### 3.3.3 Radar departures
 The radar departure procedure shall be used when aircraft are unable to accept an RNAV departure, such as one with outdated nav data. Whereas RNAV departures follow a prescribed track until leaving the Abu Dhabi Departures airspace, radar departures are given radar vectors to the first fix.
@@ -215,6 +208,8 @@ If an aircraft requires a reroute, they shall be informed of such as soon as the
 
 !!! note
       Any other flight plans departing OMAA into other airports within UAE airspace can expect **radar vectors** subject to ATC approval and possible delays.
+
+
 ## 3.5 Requested cruising level
 ### 3.5.1 Level restrictions
 Aircraft routes out of the aerodrome must comply with all routing and level restrictions as described in *section 3.1 of Arabian MATS P1 under foundations* and *Table 2-5*. This is based on direction and type of flight.
@@ -263,6 +258,9 @@ VFR traffic shall be cleared via the most appropriate VFR route towards their de
 !!! note
       All VFR departures shall be assigned a discrete SSR code so that they may be identified on radar.
 
+!!! warning
+      As of March 2022 VFR route AA6 is suspended
+      
 ### 3.8.2 VFR departures into controlled airspace
 !!! note
       VFR aircraft intending to climb into Abu Dhabi CTA (above 1500 ft) shall only be cleared after prior coordination with Approach/Departure control. Otherwise, they shall be instructed to remain outside controlled airspace after leaving the control zone. 
@@ -284,7 +282,6 @@ VFR traffic shall be cleared via the most appropriate VFR route towards their de
 
 !!! note
       All VFR departures shall be assigned a discrete SSR code so that they may be identified on radar.
-
 ### 3.8.3 VFR traffic remaining in circuit
 
 !!! note

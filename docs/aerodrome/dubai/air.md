@@ -203,7 +203,7 @@ On initial contact, aircraft shall be instructed to vacate at a designated taxiw
 While the radar controllers are responsible for separating arriving aircraft, the AIR controller shall still ensure that minimum separation is maintained until the preceding aircraft crosses the runway threshold. 
 
 #### 5.4.2.2 Speed control
-If it is apparent that minimum separation may not exist as provided in 4.4.2.1, AIR may use a tactical reduction in aircraft speed.
+If it is apparent that minimum separation may not exist as provided in 5.4.2.1, AIR may use a tactical reduction in aircraft speed.
 
 !!! example
     **Controller**: "FDB1784, reduce to final approach speed."
@@ -240,7 +240,7 @@ Departure handoffs to Dubai Departures may be delayed to ensure compliance with 
 Aircraft shall be instructed to follow the standard missed approach and aircraft shall not be permitted to depart if an arriving aircraft is within **4 NM** of the landing threshold.
 
 ### 5.4.4 Arrival taxi procedures
-In accordance with the taxi procedures laid down in 3.4, aircraft shall be provided an initial taxi clearance to ensure they are kept moving such that the rapid exit taxiway (RET) is clear for the next arrival.
+In accordance with the taxi procedures laid down in 4.4, aircraft shall be provided an initial taxi clearance to ensure they are kept moving such that the rapid exit taxiway (RET) is clear for the next arrival.
 
 The initial taxi shall include instructions to taxi “LEFT” or “RIGHT” onto the relevant taxiway as appropriate and hold at a suitable intermediate holding point.
 
@@ -416,7 +416,7 @@ AIR 1 controls runway 30R/12L as well as all associated exit taxiways and runway
 
 The airspace directly around the airport is split along taxiway M. all airspace north of M is delegated to AIR1, while the southern half is delegated to AIR 2. 
 
-(See 6.2 and 6.3)
+(See 2.2)
 
 ### 5.8.2 Handoff procedure
 Where transfer of control is to be made between aerodrome controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller. Intermediate holding points may be used to satisfy this requirement.

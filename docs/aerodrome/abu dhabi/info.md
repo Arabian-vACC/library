@@ -15,7 +15,7 @@
 |-----------------|---------------|---------------|
 | 01/2025         | Initial issue | 01 MAR 2025   |
 | 02/2025         | Taxi, push and stand detail updated <br> Aerodrome detail updated | 06 SEP 2025 |
-| 03/2025         | ARI procedures updated | 07 SEP 2025 |
+| 03/2025         | AIR procedures updated, various minor changes to reflect updated AIP | 07 SEP 2025 |
 
 ## Purpose & Scope
 This Standard Operating Procedure (SOP) outlines the procedures, responsibilities, and coordination requirements for Abu Dhabi aerodrome operations on the VATSIM network. Its primary goal is to ensure safe, efficient, and standardized handling of IFR and VFR traffic flow into and out of the aerodrome.

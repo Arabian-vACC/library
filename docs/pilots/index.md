@@ -6,7 +6,7 @@
 </figure>
 
 ## Scope
-The following briefings provide an overview of the general operating procedures for our airports, designed for pilots flying in or out. These briefings complement the relevant aerodrome charts and should be used alongside them. If any discrepancies arise between the procedures in these briefings and the aerodrome charts, the procedures in these briefings take precedence.
+The following briefings provide an overview of the general operating procedures for our airports, designed for pilots flying in or out. These briefings complement the relevant aerodrome charts and should be used alongside them. If any discrepancies arise between the procedures in these briefings and the aerodrome charts, the procedures in these briefings take precedence. Note that it may be necessary to deviate from the procedures within the briefing, and ATC instructions should always be followed.
 
 ## Limitation of Liability
 !!! warning
