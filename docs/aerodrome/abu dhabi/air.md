@@ -29,7 +29,6 @@ During SOIR, in the event of a blockage/unserviceability on the arrival runway, 
 
 Training flights will not be facilitated at Abu Dhabi International Airport during parallel runway Operations.
 
-
 ## 5.3 Departure procedures
 ### 5.3.1 Standard departure points
 
@@ -39,7 +38,6 @@ Training flights will not be facilitated at Abu Dhabi International Airport duri
 | 31L    | D11/E15 (D9 for narrow body)  |
 | 13L    | A1/A2/A3                  |
 | 13R    | D1/E2                     |
-
 <figure markdown>
   <figcaption>Table 5-1: Standard departure points</figcaption>
 </figure>
@@ -79,7 +77,6 @@ During off-peak times, this separation minima may be disregarded, and standard s
 |:-----:|:--------------:|-------------------------|
 | ANVIX |      TARDI     | 3 minutes               |
 | IVURO |   LALDO/GOMTA  | 3 minutes               |
-
 <figure markdown>
   <figcaption>Table 5-2: Flow control procedures for traffic entering the Muscat FIR</figcaption>
 </figure>
@@ -88,12 +85,20 @@ During off-peak times, this separation minima may be disregarded, and standard s
 During low visibility operations and during IMC, departing aircraft shall not be cleared for take-off when there is an arriving aircraft within **4 NM** of the landing runway threshold.
 
 ### 5.3.5 IFR handoff procedure
-#### 5.3.5.1 General
 Auto handoffs are utilised at Abu Dhabi. Once airborne, pilots are expected to contact the appropriate departure frequency. Pilots are provided with their departure frequency during clearance by the GMP controller. For further details, please refer to ***section 3.2.2***
 
-### 5.3.6 Omnidirectional departures
+### 5.3.6 Stopping a departure
+Aircraft that have commenced their take-off roll may be instructed to stop immediately to avert a collision due to a runway incursion or any other dangerous situation. 
 
-### 5.3.7 Stopping a departure
+It must be noted though, that the instruction to stop must be given early enough such that the aircraft does not reach its decision speed. Therefore, aerodrome controllers must be vigilant and remain aware of the location of traffic at all times as well as runway incursion hotspots.
+
+!!! example
+    **Controller**: "ETD1KM, stop immediately, I say again stop immediately, truck entering the runway!"
+
+For aircraft that have been given a take-off clearance, but have not yet started the roll, they shall be instructed to hold position and the take-off clearance must be cancelled along with the reason for cancellation.
+
+!!! example
+    **Controller**: "ETD687, hold position, cancel take-off, I say again cancel take-off, aircraft entering the runway, acknowledge."
 
 ## 5.4 Arrival Procedures
 ### 5.4.1 Preferred exit points
