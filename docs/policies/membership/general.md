@@ -167,6 +167,10 @@ Controllers must comply with all applicable Arabian vACC standards, policies, an
 ## 4.1 Zero Tolerance for Misconduct
 Hate speech, violence, derogatory remarks, or personal attacks directed at pilots or fellow controllers will result in **immediate and permanent removal** from the Arabian vACC, with further reporting to the VATSIM network.
 
+## 4.2 Conduct within the network
+Additionally, any resident of the Arabian vACC personally represents our morals and values. As such, it is in no way accepted for our residents to speak ill towards **any** controller or vACC, even outside of our own scope. <br> 
+If these issues are reported by any member of the Vatsim network, you will initially receive a formal warning. Any subsequent behaviour will result in immediate termination from the roster and an escelation to the division.
+
 ### Failure to comply with the conduct guidelines may lead to disciplinary action, including removal of controlling privileges.
 
 # 5. Disputes and Reporting
@@ -178,10 +182,10 @@ Controllers can report non-compliance via [this form](https://vats.im/arb/feedba
 ## 5.2 Conflict Resolution Process
 If the feedback form does not sufficiently address the issue, controllers should first contact the vACC Membership Director by submitting a membership ticket. The ticket should follow the format below:
 
-|Item              | Description                                         |
-|------------------|-------------------------------------------------------|
-| Conflict With     | [Name and CID of the individual involved]             |
-| Describe Conflict | [Brief summary of the issue]                         |
+|Item              | Description                                                |
+|------------------|------------------------------------------------------------|
+| Conflict With     | [Name and CID of the individual involved]                 |
+| Describe Conflict | [Brief summary of the issue]                              |
 | Evidence          | [Relevant screenshots, logs, or supporting documentation] |
 
 If the issue remains unresolved after this step, it should be referred to the vACC Director or Deputy Director for informal mediation. Should the matter still not be resolved, it may be escalated to the Division Director or the Division Conflict Resolution Manager (DCRM) for further action.
