@@ -7,15 +7,16 @@ The preferred calm wind configuration is departing runway 30R, and landing 30L, 
 
 ## 5.3 Departure procedures
 ### 5.3.1 Standard departure points
-Dubai has “standard departure points” from which pilots are expected to base their performance calculations. Aircraft may be tactically issued holding points closer to the runway end to optimise traffic flow or to yield a more efficient departure sequence. If the standard departure point is insufficient, crews must advice ATC of the required departure on first contact. The AIR controller may issue delays for such departures based on runway dependency requirements, as priority is given to the standard departure points.
+Dubai has “standard departure points” from which pilots are expected to base their performance calculations. Aircraft may be tactically issued holding points closer to the runway end to optimise traffic flow or to yield a more efficient departure sequence. If the standard departure point is insufficient, crews must advise ATC of the required departure on first contact. The AIR controller may issue delays for such departures based on runway dependency requirements, as priority is given to the standard departure points.
 
+<figure markdown>
 | Runway | Standard departure points |
 |:------:|:-------------------------:|
 |   30L  |          K15/M18A         |
 |   30R  |          M13/N8A          |
 |   12L  |          M1C/N1C          |
 |   12R  |             K5            |
-<figure markdown>
+
   <figcaption>Table 5-1: Standard departure points</figcaption>
 </figure>
 
@@ -49,16 +50,17 @@ Special flow control procedures are required for traffic entering the Muscat FIR
 
 During off-peak times, this separation minima may be disregarded, and standard separation minima of **2 minutes** may be applied provided it is not done for more than two successive departures.
 
+<figure markdown>
 |  SID  | FIR exit point | Longitudinal separation |
 |:-----:|:--------------:|-------------------------|
 | ANVIX |      TARDI     | 3 minutes               |
 | IVURO |   LALDO/GOMTA  | 3 minutes               |
-<figure markdown>
+
   <figcaption>Table 5-2: Flow control procedures for traffic entering the Muscat FIR</figcaption>
 </figure>
 
 !!! note
-    LALDO and GOMTA are to be considered a common FIR exit point. These procedures do not apply to traffic landing at Oman airports.
+    LALDO and GOMTA are to be considered a common FIR exit point. These procedures do not apply to traffic landing in the Muscat FIR.
 
 #### 5.3.4.3 Low visibility and IMC
 During low visibility operations and during IMC, departing aircraft shall not be cleared for take-off when there is an arriving aircraft within **4 NM** of the landing runway threshold.

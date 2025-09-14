@@ -9,6 +9,7 @@ Due to the close interaction between arrival and departure procedures within the
 ## 4.3 Departure procedures
 ### 4.3.1 Line up clearances
 Conditional line up instructions must also include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission. It is suggested to only have a maximum of two conditional line up clearances active at one i.e. one aircraft lining up behind a departure, and another aircraft lining up behind them.
+
 !!! Example
     **Controller:** IFA6487, Behind departing Cessna 172, via T6, line-up & wait, runway 31, behind.
 
@@ -37,10 +38,11 @@ Special flow control procedures are required for traffic entering the Muscat FIR
 
 During off-peak times, this separation minima may be disregarded, and standard separation minima of 2 minutes may be applied provided it is not done for more than two successive departures.
 
+<figure markdown>
 |  SID  | FIR exit point | Longitudinal separation |
 |:-----:|:--------------:|-------------------------|
 | KANIP |      LARBI     | 3 minutes               |
-<figure markdown>
+
   <figcaption>Table 4-1: Flow control procedures for traffic entering the Muscat FIR</figcaption>
 </figure>
 
@@ -127,3 +129,4 @@ Inbound VFR aircraft shall be instructed to contact AIR with enough time such th
 
 !!! Example
     **Controller:** A6-PAB, join right-hand downwind runway 31, not above 1500ft VFR, QNH1014.
+    

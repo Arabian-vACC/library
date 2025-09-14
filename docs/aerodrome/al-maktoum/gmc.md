@@ -10,7 +10,7 @@ Aircraft requesting pushback that are not squawking their assigned transponder c
 
 Pushback direction is based primarily on aircraft location and runway configuration.
 
-
+<figure markdown>
 | Apron | Stand(s)        | Taxiway | Direction           |
 |-------|-----------------|---------|---------------------|
 | S2    | S289-S300       | Z5      | Facing north        |
@@ -34,6 +34,8 @@ Pushback direction is based primarily on aircraft location and runway configurat
 | G     | G21A-G22E       | Z14     | Facing west         |
 | G     | G100-G108       | Z11     | Facing North        |
 
+      <figcaption>Table 4-1: Pushback directions</figcaption>
+</figure>
 
 !!! example
       **Controller:** UAE9212, Al Maktoum Ground, pushback approved, facing north.
@@ -92,6 +94,8 @@ To deconflict traffic and to reduce the length of taxi clearances, intermediate 
 ### 4.4.2 Runway 30 departure taxi procedures
 When departing from 30:
 
+<figure markdown>
+
 | Stands           | Taxi Route (part1)    | Taxi Route (part2) | Holding Point |
 |------------------|----------------------|--------------------|--------------|
 | S289-S313        | Z5/Z6, hold ZA/ZB    | Z, W16             | V16          |
@@ -112,6 +116,10 @@ When departing from 30:
 | G100-G108        | Z11, hold Z11A       | Z, W15             | V13          |
 | S801-S812        | Z, hold ZP           | Z, W15             | V13          |
 | All other G stands | To Z12, hold Z12A  | W15                | V13          |
+
+   <figcaption>Table 4-2: Taxi procedures</figcaption>
+</figure>
+
 !!! note
       Aircraft requesting a departure from V13 shall be instructed to taxi via Z and W15 to holding point V13.
 
@@ -122,6 +130,7 @@ When departing from 30:
 ### 4.4.3 Runway 12 departure taxi procedures
 When departing from 12:
 
+<figure markdown>
 | Stands             | Taxi Route (part1)     | Taxi Route (part2)      | Holding Point   |
 |--------------------|------------------------|-------------------------|-----------------|
 | S289-S300          | Z5                     | Z5, hold ZA             | V4 or V1        |
@@ -133,6 +142,9 @@ When departing from 12:
 | S420-S425          | Z9, hold Z9C           |                         | V4 or V1        |
 | G100-G108          | Z11, hold Z11A         |                         | V4 or V1        |
 | All other G stands | To Z12, hold W16A.     | W                       | V4 or V1        |
+
+      <figcaption>Table 4-3: Runway 12 Taxi Instructions</figcaption>
+</figure>
 
 !!! warning
       Westbound traffic flow on V must be avoided, as this blocks the exit taxiways from runway 12.
@@ -157,6 +169,7 @@ Aircraft shall vacate 12 onto V7, V9 or V13 and are then handed off to GMC.
 Aircraft shall be taxied in accordance with 6.4
 
 ### 4.5.4 Stand allocation procedure
+<figure markdown>
 |             Area             |                 Operator               |
 |:----------------------------:|:--------------------------------------:|
 |         S289-S313            |               EK Sky Cargo             |
@@ -169,7 +182,8 @@ Aircraft shall be taxied in accordance with 6.4
 |        G17 and G20           |           Private Jet Hangars          | 
 |        G1-G8                 |              VIP Terminal              | 
 |        S801-S812             |              Dubai Airshow             | 
-  <figcaption>Table 4-3: Stand allocation procedure</figcaption>
+
+      <figcaption>Table 4-4: Stand allocation procedure</figcaption>
 </figure>
 
 ### 4.5.5 Stand restrictions

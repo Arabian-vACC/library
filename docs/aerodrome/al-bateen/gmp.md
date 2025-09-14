@@ -55,6 +55,7 @@ Al Bateen primarily uses RNAV standard instrument departures (SIDs) and is the p
 
 The Table below shows all the RNAV SIDs and their initial climb.
 
+<figure markdown>
 |  SID 13  |  Initial Climb  |  SID 31  |  Initial Climb  |
 |----------|-----------------|----------|-----------------|
 | ATUDO1R  |     3000ft      | ATUDO1Q  |     3000ft      |
@@ -65,7 +66,7 @@ The Table below shows all the RNAV SIDs and their initial climb.
 | MEKRI1R  |     3000ft      | MEKRI1Q  |     3000ft      |
 | ORNEL1R  |     3000ft      | ORNEL1Q  |     3000ft      |
 | TULON1R  |     3000ft      | TULON1Q  |     3000ft      |
-<figure markdown>
+
   <figcaption>Table 2-1: RNAV SIDs</figcaption>
 </figure>
 
@@ -99,6 +100,7 @@ If an aircraft requires a reroute, they shall be informed of such as soon as the
 !!! Note
     The Arabian vACC Operations Department maintains an up-to-date route database on SimBrief. These routes can be accessed by selecting the "User Submitted Routes" option, highlighted in purple, when planning a flight.
 
+<figure markdown>
 | Destination                                                    | Level Restriction         | Routing                                         | Remarks                                           |
 |---------------------------------------------------------------|--------------------------|-------------------------------------------------|---------------------------------------------------|
 | OIKB and beyond                                               | -                        | TULON M318 GABKO                                | -                                                 |
@@ -119,7 +121,7 @@ If an aircraft requires a reroute, they shall be informed of such as soon as the
 | OMFJ                                                          | -                        | KANIP DCT VAMIM DCT PEDOG DCT MURGU Q308 RUDAT DCT IMVAT | -                                         |
 | OMFJ                                                          | -                        | KANIP DCT VAMIM DCT PEDOG DCT MURGU Q308 RUDAT DCT FJV   | -                                         |
 | OMRK                                                          | -                        | KANIP DCT VAMIM DCT PEDOG DCT MURGU Q308 ORKOB DCT FJV DCT LAGLI DCT RAV | -      |
-<figure markdown>
+
   <figcaption>Table 2-2: Standard Routes</figcaption>
 </figure>
 
@@ -185,9 +187,10 @@ VFR traffic shall be cleared via the most appropriate VFR route towards their de
 !!! Note
     VFR traffic wishing to remain in the circuit shall be cleared only after prior coordination with AIR.
 
-**Left-hand** circuits shall be carried out by VFR traffic departing on runway 31
-**Right-hand** circuits shall be carried out by VFR traffic departing on runway 13
-Circuits shall be conducted at an altitude of ****1500ft**.
+- **Left-hand** circuits shall be carried out by VFR traffic departing on runway 31
+- **Right-hand** circuits shall be carried out by VFR traffic departing on runway 13
+- Circuits shall be conducted at an altitude of ****1500ft**.
+- Only one aircraft is permitted in the circuit
 
 !!! Note
     All VFR circuit traffic shall be assigned a discrete SSR code so that they may be identified on radar.

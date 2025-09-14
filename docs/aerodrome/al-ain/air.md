@@ -1,12 +1,10 @@
 
 # 4. Air Control Procedures
-
 ## 4.1 General provisions
 Air Control (AIR) is responsible for all aerodrome movements on runways and their associated taxiways. AIR shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information between IFR and VFR aircraft operating within the aerodrome control zone.
 
 ## 4.2 Preferential runways
 At Al-Ain the preferred runway configuration is RWY 01 which may be utilized with a tailwind of up to 5 knots. 
-
 
 ## 4.3 Departure procedures
 ### 4.3.1 Standard departure points
