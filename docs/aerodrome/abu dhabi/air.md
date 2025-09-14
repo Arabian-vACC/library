@@ -29,7 +29,6 @@ During SOIR, in the event of a blockage/unserviceability on the arrival runway, 
 
 Training flights will not be facilitated at Abu Dhabi International Airport during parallel runway Operations.
 
-
 ## 5.3 Departure procedures
 ### 5.3.1 Standard departure points
 
@@ -39,7 +38,6 @@ Training flights will not be facilitated at Abu Dhabi International Airport duri
 | 31L    | D11/E15 (D9 for narrow body)  |
 | 13L    | A1/A2/A3                  |
 | 13R    | D1/E2                     |
-
 <figure markdown>
   <figcaption>Table 5-1: Standard departure points</figcaption>
 </figure>
@@ -47,12 +45,13 @@ Training flights will not be facilitated at Abu Dhabi International Airport duri
 ### 5.3.2 Line up clearances
 Conditional line up instructions must also include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission.
 It is suggested to only have a maximum of two conditional line up clearances active at one i.e. one aircraft lining up behind a departure, and another aircraft lining up behind them.
+
 !!! example
-    **Controller**: “SWR243, Behind the departing Etihad A380, via E15 line up runwaay 31L behind.
+    **Controller**: “SWR243, Behind the departing Etihad A380, via E15 line up runway 31L behind.
 	
 If aircraft have not yet reached the holding point where they are expected to line up at, ATC shall reiterate the cleared holding point.
 !!! example
-    **Controller**: “ETD11K, via e15, line up runway 31L”
+    **Controller**: “ETD11K, via E15, line up runway 31L”
 	
 ### 5.3.3 Take-off clearances
 
@@ -79,7 +78,6 @@ During off-peak times, this separation minima may be disregarded, and standard s
 |:-----:|:--------------:|-------------------------|
 | ANVIX |      TARDI     | 3 minutes               |
 | IVURO |   LALDO/GOMTA  | 3 minutes               |
-
 <figure markdown>
   <figcaption>Table 5-2: Flow control procedures for traffic entering the Muscat FIR</figcaption>
 </figure>
@@ -88,12 +86,20 @@ During off-peak times, this separation minima may be disregarded, and standard s
 During low visibility operations and during IMC, departing aircraft shall not be cleared for take-off when there is an arriving aircraft within **4 NM** of the landing runway threshold.
 
 ### 5.3.5 IFR handoff procedure
-#### 5.3.5.1 General
 Auto handoffs are utilised at Abu Dhabi. Once airborne, pilots are expected to contact the appropriate departure frequency. Pilots are provided with their departure frequency during clearance by the GMP controller. For further details, please refer to ***section 3.2.2***
 
-### 5.3.6 Omnidirectional departures
+### 5.3.6 Stopping a departure
+Aircraft that have commenced their take-off roll may be instructed to stop immediately to avert a collision due to a runway incursion or any other dangerous situation. 
 
-### 5.3.7 Stopping a departure
+It must be noted though, that the instruction to stop must be given early enough such that the aircraft does not reach its decision speed. Therefore, aerodrome controllers must be vigilant and remain aware of the location of traffic at all times as well as runway incursion hotspots.
+
+!!! example
+    **Controller**: "ETD1KM, stop immediately, I say again stop immediately, truck entering the runway!"
+
+For aircraft that have been given a take-off clearance, but have not yet started the roll, they shall be instructed to hold position and the take-off clearance must be cancelled along with the reason for cancellation.
+
+!!! example
+    **Controller**: "ETD687, hold position, cancel take-off, I say again cancel take-off, aircraft entering the runway, acknowledge."
 
 ## 5.4 Arrival Procedures
 ### 5.4.1 Preferred exit points
@@ -192,13 +198,54 @@ Take‐off clearance may be issued to a departing aircraft, commencing its take�
 
 ## 5.6 VFR procedures
 ### 5.6.1 VFR departures
-***WIP***
+Once VFR aircraft are ready for departure, they shall be cleared for take-off in sequence. As they begin their crosswind turn (the first turn after departure) they shall be instructed to report leaving the control zone.
+
+Once aircraft are clear of the zone, they shall be instructed to remain outside controlled airspace and monitor advisory frequency.
+
+Aircraft climbing into controlled airspace shall be handed off to departure control.
+
 
 ### 5.6.2 VFR traffic remaining in the circuit
-***WIP***
+AIR control is responsible for managing circuit traffic. Circuits must always be conducted to the south of the aerodrome. 
+
+Circuits shall be conducted in accordance with the procedures laid down in 2.8.3.
+
+Once aircraft are ready for departure, they shall be cleared for take-off in sequence. As they begin their crosswind turn (the first turn after departure) they shall be instructed to report when they are on the downwind with their intentions.
+
+!!! example
+    **Controller**: "ATA, report downwind with intentions."
+
+Aircraft may request either a touch and go (where the aircraft lands and immediately takes off), a stop and go (where the aircraft lands, comes to a complete stop on the runway, then takes off), a low approach (where the aircraft flies low over the runway without landing), or a full stop (where the aircraft lands and vacates the runway).
+
+Once AIR is aware of the aircraft’s request, they may be sequenced to the runway, with due consideration given to runway occupancy time.
+
+Aircraft on the downwind shall be passed the following information:
+
+- Expected runway;
+- Sequence;
+- Traffic information, if applicable
+
+!!! example
+    **Controller**: "ATA, report final runway 31R, number 1."
+
+    **Controller**: "ATA, runway 31R, cleared to land/touch and go/low approach."
+
+Aircraft conducting a stop-and go shall be required to “REPORT READY FOR DEPARTURE”.
 
 ### 5.6.3 VFR arrivals
-***WIP***
+Inbound VFR aircraft shall be instructed to contact AIR with enough time such that two-way radio communications has been established before aircraft enter the aerodrome control zone. 
+
+On first contact, AIR will pass circuit joining instructions, as well as any other pertinent information.
+
+!!! example
+    **Controller**: "A6-BGA, Abu Dhabi Tower, join left hand downwind runway 31L, 1000ft VFR, QNH 1017."
+
+Aircraft may also be instructed to track towards a visual reporting point (VRP).
+
+!!! example
+    **Controller**: "A6-BGA, Abu Dhabi Tower, track towards Al Falah Centre, 1000ft VFR. Report one mile from Al Falah Centre, QNH 1007."
+
+VFR arrivals may be denied entry into the control zone during times of increased IFR arrival activity and instructed to hold outside controller airspace awaiting further instructions.
 
 ## 5.7 Low visibility operations (LVO)
 ### 5.7.1 Commencement of LVO
