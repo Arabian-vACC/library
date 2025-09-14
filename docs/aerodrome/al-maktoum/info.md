@@ -11,10 +11,27 @@
 | Cancelled documents |                        N/A                        |
 
 ## Record of Revisions
-| Revision Number | Notes        | Effective Date |
-|-----------------|--------------|----------------|
-| 01/2025         |Initial issue | 13 JUN 2025    |
-| 02/2025         |Updated Declared distances (take-off) table, Updated Line-up phraseology, Updated Stopping a Departure phraseology, Added Visual Separation example, Fixed some typos | 9 SEP 2025    |
+<table>
+  <thead>
+    <tr>
+      <th>Revision Number</th>
+      <th>Notes</th>
+      <th>Effective Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01/2025</td>
+      <td>Initial issue</td>
+      <td>13 JUN 2025</td>
+    </tr>
+    <tr>
+      <td>02/2025</td>
+      <td>Updated Declared distances (take-off) table, Updated Line-up phraseology, Updated Stopping a Departure phraseology, Added Visual Separation example, Fixed some typos</td>
+      <td>9 SEP 2025</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Purpose & Scope
 This Standard Operating Procedure (SOP) outlines the procedures, responsibilities, and coordination requirements for Al Maktoum aerodrome operations on the VATSIM network. Its primary goal is to ensure safe, efficient, and standardized handling of IFR and VFR traffic flow into and out of the aerodrome.

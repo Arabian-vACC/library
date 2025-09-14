@@ -11,6 +11,7 @@ Assuming no obstructions, aircraft shall be instructed to pushback immediately.
 
 Aircraft requesting pushback that are not squawking their assigned transponder code shall be instructed to hold position and squawk the correct code; movement of such aircraft is prohibited.
 
+<figure markdown>
 |  Position  |  Taxiway  |  Direction  |
 |------------|-----------|-------------|
 | 1A, 1B, 1C |    Z14    |    North    |
@@ -19,6 +20,9 @@ Aircraft requesting pushback that are not squawking their assigned transponder c
 |  21 to 26  |    Z10    |    North    |
 |  50 to 61  |    Z8     |    North    |
 |   2 to 8   |     A     |    East     |
+
+  <figcaption>Table 3-1: Pushback Directions</figcaption>
+</figure>
 
 !!! example
       **Controller:** RJA613, Sharjah ground, pushback approved, facing east.
@@ -119,6 +123,7 @@ Aircraft shall be taxied via A14 and A to the appropriate stand.
 *(See 5.3)*
 
 ### 3.5.4 Stand allocation procedure
+<figure markdown>
 |             Area             |               Operator                 |
 |:----------------------------:|:--------------------------------------:|
 |         1A, 1B and 1C        |                 ABY                    |

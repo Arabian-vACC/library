@@ -20,6 +20,7 @@ Aircraft requesting pushback that are not squawking their assigned transponder c
     **Controler:** IGO1515, Fujairah Ground, behind the Airbus A320, passing left to right, pushback approved, facing south, behind.
 
     **Pilot:** Behind the A320, passing left to right, pushback approved, facing south, behind, IGO1515.
+    
 ## 3.3 Departure taxi procedures
 ### 3.3.1 General departure taxi procedures
 Where aircraft are taxied to runway holding points, transfer of control to AIR should be made early enough such that the aircraft is not required to stop its taxi.

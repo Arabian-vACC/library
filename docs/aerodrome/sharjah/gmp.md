@@ -55,6 +55,7 @@ the first fix in the flight plan and runways in use.
 !!!info
       SIDs which have an identifier ending in **R** are valid for **30.** SIDs with an identifier ending in **Q** are valid for **12.** *(Table 2-1)*
 
+<figure markdown>
 | First Fix |   30    |   12    |
 |:---------:|:-------:|:-------:|
 |   ANVIX   |    5R   |    4Q   |
@@ -66,7 +67,7 @@ the first fix in the flight plan and runways in use.
 |   NABIX   |    2R   |    3Q   |
 |   RIDAP   |    2R   |    3Q   |
 |   SENPA   |    2R   |    3Q   |
-<figure markdown>
+
   <figcaption>Table 2-1: RNAV SIDs</figcaption>
 </figure>
 
@@ -90,6 +91,7 @@ A radar departure clearance shall contain the following information:
     **Pilot:** Cleared to Moscow, radar vectors, maintain altitude 2000ft, when airborne contact Dubai Departures on 124.675, Squawk 3427, ABY45C.
     **Controller:** ABY45C, Readback correct, report ready for push and start, QNH1016.
 
+<figure markdown>
 |  SID 30   |  Initial Climb  |  SID 12   |  Initial Climb  |
 |-----------|-----------------|-----------|-----------------|
 |  ANVIX5R  |     3000ft      |  ANVIX4Q  |     2000ft      |
@@ -101,7 +103,7 @@ A radar departure clearance shall contain the following information:
 |  NABIX2R  |     2000ft      |  NABIX3Q  |     3000ft      |
 |  RIDAP2R  |     2000ft      |  RIDAP3Q  |     3000ft      |
 |  SENPA2R  |     2000ft      |  SENPA3Q  |     3000ft      |
-<figure markdown>
+
   <figcaption>Table 2-2: Initial Climbs</figcaption>
 </figure>
  
@@ -119,6 +121,7 @@ Several routing restrictions exist within UAE airspace and must be complied with
 !!! note
     The Arabian vACC Operations Department maintains an up-to-date route database on SimBrief. These routes can be accessed by selecting the ***"User Submitted Routes"*** option, highlighted in purple, when planning a flight.
 
+<figure markdown>
 <table><thead>
   <tr>
     <th>Destination</th>
@@ -220,7 +223,7 @@ Several routing restrictions exist within UAE airspace and must be complied with
     <td>DCT (RADAR VECTORS)</td>
   </tr>
 </tbody></table>
-<figure markdown>
+
   <figcaption>Table 2-3: Standard routes</figcaption>
 </figure>
 

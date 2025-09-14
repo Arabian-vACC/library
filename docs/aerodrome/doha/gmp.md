@@ -51,6 +51,7 @@ Doha primarily uses RNAV standard instrument departures (SIDs) and is the prefer
 
 Doha RNAV Standard Instrument Departures (SIDs) operate independently from those at Hamad. Both airports conduct simultaneous departures.
 
+<figure markdown>
 |   SID 15  | Inital Climb |   SID 33  | Inital Climb |
 |:---------:|:------------:|:---------:|:------------:|
 |  ALSEM3S  |    6000ft    |  ALSEM3N  |    5000ft    |
@@ -64,12 +65,12 @@ Doha RNAV Standard Instrument Departures (SIDs) operate independently from those
 |  ULIKA1S  |    6000ft    |  ULIKA1N  |    6000ft    |
 |  VAXIN3S  |    6000ft    |  VAXIN3N  |    5000ft    |
 
-<figure markdown>
   <figcaption>Table 3-1: Initial Climbs</figcaption>
 </figure>
 
 All IFR departures shall be instructed to contact Doha Approach (West) once airborne.
 
+<figure markdown>
 | First Fix |    15   |    33   |
 |:---------:|:-------:|:-------:|
 |   ALSEM   |    3S   |    3N   |
@@ -83,7 +84,6 @@ All IFR departures shall be instructed to contact Doha Approach (West) once airb
 |   ULIKA   |    1S   |    1N   |
 |   VAXIN   |    3S   |    3N   |
 
-<figure markdown>
   <figcaption>Table 3-2: RNAV SIDs</figcaption>
 </figure>
 
@@ -123,6 +123,7 @@ The Arabian vACC Operations Department maintains an up-to-date route database on
 !!! example
     **Controller**: "QQE650, cleared to Dubai, runway 15 via ALSEM3S, ALSEM - L305 - ITBUL, flight planned route. Climb via the SID altitude 6000ft, squawk 2612."
 
+<figure markdown>
 | Destination                                              | Level Restriction        | Routing                        |
 |----------------------------------------------------------|--------------------------|--------------------------------|
 | Northern Emirates (OMDB, OMDW, OMFJ, OMFJ, OMRK, OMDM)   | FL210                    | ALSEM L305 ASTOG               |
@@ -134,7 +135,7 @@ The Arabian vACC Operations Department maintains an up-to-date route database on
 | Transiting Jeddah FIR onwards landing Kuwait FIR         | FL280                    | TULUB B457 KINID               |
 | Transiting Kuwait FIR                                    | FL430                    | LUBET T934 IMLAD               |
 | Transiting Kuwait FIR                                    | FL320                    | LUBET L934 IMLAD               |
-<figure markdown>
+
   <figcaption>Table 3-3: Standard routes</figcaption>
 </figure>
 

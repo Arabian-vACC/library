@@ -46,16 +46,18 @@ points after departure from UAE airports.
 
 During off-peak times, this separation minima may be disregarded, and standard separation minima of 2 minutes may be applied provided it is not done for more than two successive departures. 
 
+<figure markdown>
+
 |  SID  | FIR exit point | Longitudinal separation |
 |:-----:|:--------------:|:-----------------------:|
 | ANVIX |      TARDI     |        3 minutes        |
 | IVURO |  LALDO/GOMTA   |        3 minutes        |
-<figure markdown>
+
   <figcaption>Table 3-1: Flow control procedures for traffic entering the Muscat FIR</figcaption>
 </figure>
 
 !!! note
-      LALDO and GOMTA are to be considered a common FIR exit point. These procedures do not apply to traffic landing at Oman airports. 
+      LALDO and GOMTA are to be considered a common FIR exit point. These procedures do not apply to traffic landing at airports within the Muscat FIR. 
 
 ### 4.3.4 IFR handoff procedure
 IFR departures shall not receive a hand-off from tower and are expected to change frequency after departure. 
@@ -178,11 +180,12 @@ Intersection departures during LVO are not permitted.
 
 CAT I holding points shall be used during LVO for departing aircraft *(Table 4-4).* 
 
+<figure markdown>
 |   Runway   |   Holding Point   |
 |:----------:|:-----------------:|
 |     30     |        B20        |
 |     12     |        B2         |
-<figure markdown>
+
   <figcaption>Table 3-2: CAT I holding points</figcaption>
 </figure>
 

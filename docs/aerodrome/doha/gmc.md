@@ -79,6 +79,7 @@ Aircraft shall be taxied via D or D1 to the appropriate stand.
 ### 4.4.4 Stand allocation procedures
 Aircraft shall be assigned stands automatically using Ground Radar Plugin Stand Assigner. If this is not possible, aircraft shall manually be assigned a stand in accordance with the following procedure:
 
+<figure markdown>
 |  Stand(s)  |               Operator               |
 |:----------:|:------------------------------------:|
 |  A1 to A6  |                 VIP(s)               |
@@ -90,7 +91,7 @@ Aircraft shall be assigned stands automatically using Ground Radar Plugin Stand 
 | E32 to E37 |                  QTR                 |
 | E25 to E27 |                  QQE                 |
 | E29 to E31 |              Maintenance             |
-<figure markdown>
+
   <figcaption>Table 3-1: Stand allocation procedure</figcaption>
 </figure>
 
