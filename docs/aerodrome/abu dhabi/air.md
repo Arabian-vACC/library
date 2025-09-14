@@ -38,6 +38,7 @@ Training flights will not be facilitated at Abu Dhabi International Airport duri
 | 31L    | D11/E15 (D9 for narrow body)  |
 | 13L    | A1/A2/A3                  |
 | 13R    | D1/E2                     |
+
   <figcaption>Table 5-1: Standard departure points</figcaption>
 </figure>
 
