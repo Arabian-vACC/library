@@ -34,7 +34,7 @@ Pushback direction is based primarily on aircraft location and runway configurat
 | G     | G21A-G22E       | Z14     | Facing west         |
 | G     | G100-G108       | Z11     | Facing North        |
 
- <figcaption>Table 4-1: Pushback directions</figcaption>
+<figcaption>Table 4-1: Pushback directions</figcaption>
 </figure>
 
 !!! example
@@ -183,7 +183,7 @@ Aircraft shall be taxied in accordance with 6.4
 |        G1-G8                 |              VIP Terminal              | 
 |        S801-S812             |              Dubai Airshow             | 
 
-   <figcaption>Table 4-4: Stand allocation procedure</figcaption>
+ <figcaption>Table 4-4: Stand allocation procedure</figcaption>
 </figure>
 
 ### 4.5.5 Stand restrictions
