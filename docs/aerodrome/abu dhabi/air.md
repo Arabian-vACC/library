@@ -73,11 +73,12 @@ Special flow control procedures are required for traffic entering the Muscat FIR
 
 During off-peak times, this separation minima may be disregarded, and standard separation minima of 2 minutes may be applied provided it is not done for more than two successive departures.
 
+<figure markdown>
 |  SID  | FIR exit point | Longitudinal separation |
 |:-----:|:--------------:|-------------------------|
 | ANVIX |      TARDI     | 3 minutes               |
 | IVURO |   LALDO/GOMTA  | 3 minutes               |
-<figure markdown>
+
   <figcaption>Table 5-2: Flow control procedures for traffic entering the Muscat FIR</figcaption>
 </figure>
 
@@ -128,7 +129,7 @@ At any time should a runway become unsuitable for an aircraft landing, or separa
 Once aircraft have acknowledged the instruction and are observed to be safely climbing away, they shall be handed off to departure control.
 
 !!! example
-    **Controller**: "ETD23, climb to 4000ft via standard missed approach, contact Dubai Departures 121.025."
+    **Controller**: "ETD23, climb to 4000ft via standard missed approach, contact Abu Dhabi Departures 128.100."
 
 ### 5.4.4 Arrival taxi procedures
 In accordance with the taxi procedures laid down in 4.4, aircraft shall be provided an initial taxi clearance to ensure they are kept moving such that the rapid exit taxiway (RET) is clear for the next arrival.
@@ -257,26 +258,26 @@ Runways 31L and 31R/13L are suitable for CAT IIIB operations with minimum runway
 ### 5.7.2 LVO departure procedures
 During LVO procedures, aircraft are required to use full length departures
 
+<figure markdown>
 | Runway | Holding Point |
 |:------:|:-------------:|
 | 31L    | E15/D11       |
 | 31R    | A17           |
 | 13L    | A2            |
 
-<figure markdown>
   <figcaption>Table 5-6: CATII/III holding points</figcaption>
 </figure>
 
 ### 5.7.3 LVO arrival procedures
 The preferable runway exits are:
 
+<figure markdown>
 | Landing Runway | Preferred Exit Point |
 |:--------------:|:--------------------:|
 | 31L            | E8/D6                |
 | 31R            | A10                  |
 | 13L            | A13                  |
 
-<figure markdown>
   <figcaption>Table 5-7: LVO Exit Points</figcaption>
 </figure>
 
@@ -288,10 +289,11 @@ AIR 1 controls runway 31L/13R as well as all associated exit taxiways and runway
 
 The airspace directly around the airport is split directly through the centre of the aerodrome (a line of runway heading, approximately intersecting the Control Tower and the midpoint between L2 and L3). The northern half is delegated to AIR2, while the southern half is delegated to AIR 1. 
 
-(See 2.2)
+***(See 2.2)***
 
 ### 5.8.2 Handoff procedure
 Where transfer of control is to be made between aerodrome controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller. Intermediate holding points may be used to satisfy this requirement.
+
 For runway crossings, the crossing instruction must only be issued by the designated AIR controller for the respective runway unless prior coordination has been conducted.
 
 ### 5.8.3 Splitting procedure
