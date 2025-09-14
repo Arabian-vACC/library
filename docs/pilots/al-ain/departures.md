@@ -35,13 +35,13 @@ Departing aircraft requiring clearance via voice shall contact Al Ain Ground whe
 -   Current ATIS Information & QNH;
 
 !!! Example
-  **Pilot:** Al-Ain ground, IFA6487, Information F, Bombardier Global Express, Apron C, with 2 souls on board, request clearance to Verona FL320
+    **Pilot:** Al-Ain ground, IFA6487, Information F, Bombardier Global Express, Apron C, with 2 souls on board, request clearance to Verona FL320
 
-  **Controller:** IFA6487, Al-Ain Ground, cleared to Verona via GIDIS1H, maintain altitude 3000ft, Squawk 3432.
+    **Controller:** IFA6487, Al-Ain Ground, cleared to Verona via GIDIS1H, maintain altitude 3000ft, Squawk 3432.
 
-  **Pilot:** Cleared to Verona via GIDIS1H, maintain altitude 3000ft, Squawk 3432. IFA6487.
+    **Pilot:** Cleared to Verona via GIDIS1H, maintain altitude 3000ft, Squawk 3432. IFA6487.
 
-  **Controller:** IFA6487, Correct, report ready for Start-up and Taxi, Information F.
+    **Controller:** IFA6487, Correct, report ready for Start-up and Taxi, Information F.
 
 # Taxi
 Pilots must comply with all taxi instructions, including holds. Taxi instructions are given based on various factors such as aircraft type and traffic.
