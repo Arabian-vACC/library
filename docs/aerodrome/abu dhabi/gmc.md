@@ -30,7 +30,7 @@ Conditional pushback instructions may also be issued if an aircraft is taxiing b
 
 ### 4.2.3 Pushback Procedures
 #### 4.2.3 Standard Pushback Procedures
-
+<figure markdown>
 | Apron / Stand(s)         | Pushback Direction / Notes                                                                                                 |
 |--------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | Apron 1                  | **101-102:** Face north; or onto taxiway abeam 309 (west of E9) facing east; or on F abeam 309 (west of E9) facing east; or F abeam 112 (east of E9) facing west. Second aircraft must wait until first is clear of E9.<br>**103:** Face south<br>**111-113:** Facing east or west on F<br>**121-122, 131-132:** North on E11 to finish abeam stand 133 or East on F to finish abeam stand 112.<br>**123, 133-136:** Facing north, abeam stand 133. Must wait for preceding aircraft from 121-122/131-132 to be west of E11. |
@@ -43,6 +43,9 @@ Conditional pushback instructions may also be issued if an aircraft is taxiing b
 | Apron 5 East (511-516)   | “Tail to tail”: 3+ stands separation; otherwise 2+ stands.<br>**511:** Face west only<br>**512-515:** Face east or west as appropriate<br>**516:** Face east only |
 | Apron 6                  | Apron 6 uses Tug Release Points which are marked on Euroscope, but these are not given to pilots. Clearances should specify the direction to face and ***may*** specify a TRP abeam a stand (see example below) |
 | Apron 7                  | Face east or west as appropriate. Same direction: 2+ stands separation. Tail to tail: 3+ stands separation. |
+
+  <figcaption>Table 4-1: Standard Pushback Procedures</figcaption>
+</figure>
 
 !!! example
     **Controller**: "ETD611, Abu Dhabi Ground, from stand 614 push and start approved, abeam stand 613, face East"
@@ -104,7 +107,7 @@ Eastbound traffic flow on E between E8 and E12 must be used with caution as thes
 
 Aircraft departing from 31R from the south side of the airfield shall be instructed to cross 31L at E6, taxi via H, B then towards one of the available holding points for 31R.
 
-(See 7.2.1)
+***(See 7.2.1)***
 
 ### 4.3.3 Dual runway 13L/R departure taxi procedures
 When departing from 13L, aircraft pushing back on apron 1 shall be instructed to taxi via E9 or E11 to join E and taxi to holding point E2 or E3.
@@ -119,7 +122,7 @@ Aircraft on apron 6 shall join to follow the D, H, B sequence to 13L as appropri
 
 Westbound traffic flow on E between E10 and E7 must be used with caution as these intersect with the rapid exit taxiways to be used by arriving aircraft on 13R.
 
-(See 7.2.2)
+***(See 7.2.2)***
 
 ## 4.4 Arrival taxi procedures
 ### 4.4.1 General arrival taxi procedures
@@ -138,7 +141,7 @@ Aircraft parking on apron 4 shall be instructed to taxi via E.
 
 Aircraft parking on apron 6 shall join via K3, K6, L3, M3 or M4 and taxi as appropriate to the stand
 
-(See 7.2.1)
+***(See 7.2.1)***
 
 ### 4.4.3 Runway 13L/R arrival taxi procedures
 Aircraft shall vacate 13R onto E10 and shall be given an initial taxi towards E13. After initial taxi is issued by AIR, aircraft are handed off to GMC.
@@ -147,11 +150,12 @@ Aircraft shall vacate 13L onto an appropriate exit taxiway and shall then be ins
 
 Aircraft parking on te south side of the airport shall be instructed to taxi via F to an appropriate link taxiway.
 
-(See 7.2.2)
+***(See 7.2.2)***
 
 ### 4.4.4 Stand allocation procedure
 Aircraft shall be assigned stands automatically using the StandAssigner system. If this is not possible, aircraft shall be assigned a stand in accordance with the following procedure:
 
+<figure markdown>
 |            Area           |        Stand Allocation       |     Operator                             |
 |:-------------------------:|:-----------------------------:|:----------------------------------------:|
 |         Apron 1/1A        |          101 to 136           |       Overflow                           |
@@ -164,15 +168,14 @@ Aircraft shall be assigned stands automatically using the StandAssigner system. 
 |         Apron 8           |          801 to 805           |       General aviation                   |
 | Presidential Flight Apron |          1 to 17              |       Government and state aircraft      |
 
-<figure markdown>
-  <figcaption>Table 3-1: Stand allocation procedure</figcaption>
+  <figcaption>Table 4-2: Stand allocation procedure</figcaption>
 </figure>
 
 ### 4.4.10 Stand restrictions
 Stand 101-103,401-410 and 801-805 Aircraft code – Maximum code E
 Stand 111-136,201-222 and 619-632 Aircraft code – Maximum code F
 
-(See 6.2.3)
+***(See 6.2.3)***
 
 ## 4.5 Low visibility operations (LVO)
 ### 4.5.1 LVO taxi routes
@@ -206,7 +209,7 @@ GMC 3 controls aircraft movements on the following areas and their associated ta
 
 - Apron Z (military apron)
 
-(See 2.2)
+***(See 2.2)***
 
 ### 4.6.2 Handoff procedures
 Where transfer of control is to be made between controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller.
