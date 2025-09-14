@@ -61,7 +61,7 @@ If images are used, ensure you have **permission to use them on behalf of the vA
 ### Controller Examination Banners
 Controller examination banners are subject to **stricter requirements**. Only the **official template** and **approved backgrounds** may be used.  
 
-The **titles and descriptions** of controller examinations must strictly follow the [**policy set by the Marketing Department**](https://library.arabian-vacc.com/vacc_documents/marketing/examinations/).
+The **titles and descriptions** of controller examinations must strictly follow the [**policy set by the Marketing Department**](https://library.arabian-vacc.com/policies/marketing/examinations/).
 
 ### Colors
 Please use the **color palette defined in the branding guidelines**. Variations in **shades of the primary colors** are permitted.
