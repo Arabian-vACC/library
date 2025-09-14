@@ -31,14 +31,13 @@ Training flights will not be facilitated at Abu Dhabi International Airport duri
 
 ## 5.3 Departure procedures
 ### 5.3.1 Standard departure points
-
+<figure markdown>
 | Runway | Standard departure points |
 |:------:|:-------------------------:|
 | 31R    | A16/A17/A18 (A14 for narrow body) |
 | 31L    | D11/E15 (D9 for narrow body)  |
 | 13L    | A1/A2/A3                  |
 | 13R    | D1/E2                     |
-<figure markdown>
   <figcaption>Table 5-1: Standard departure points</figcaption>
 </figure>
 
@@ -47,21 +46,21 @@ Conditional line up instructions must also include the traffic that the aircraft
 It is suggested to only have a maximum of two conditional line up clearances active at one i.e. one aircraft lining up behind a departure, and another aircraft lining up behind them.
 
 !!! example
-    **Controller**: “SWR243, Behind the departing Etihad A380, via E15 line up runway 31L behind.
+    **Controller**: “SWR243, Behind the departing Etihad A380, via E15 line up, runway 31L behind.
 	
 If aircraft have not yet reached the holding point where they are expected to line up at, ATC shall reiterate the cleared holding point.
+
 !!! example
     **Controller**: “ETD11K, via E15, line up runway 31L”
 	
 ### 5.3.3 Take-off clearances
-
 Aircraft shall be cleared for take-off once adequate separation exists as provided in 5.3.4 and 5.5.
+
 !!! example
     **Controller**: "ETD11K, Wind 330 degrees 7 knots, runway 31R, cleared for take-off"
 
 ### 5.3.4 Separation requirements
 #### 5.3.4.1 General
-
 Aircraft shall be separated on departure in compliance with standard IFR departure separation minima, wake turbulence separation requirements or as provided in 5.5 where applicable.
 
 Except as provided in 5.3.4.2, succeeding aircraft on the same SID shall be separated by a minimum of 2 minutes.
@@ -69,7 +68,6 @@ Except as provided in 5.3.4.2, succeeding aircraft on the same SID shall be sepa
 VFR aircraft may be instructed to maintain visual separation with preceding aircraft and given a take- off clearance if no wake turbulence separation minima exists.
 
 #### 5.3.4.2 Muscat FIR flow control procedure
-
 Special flow control procedures are required for traffic entering the Muscat FIR via certain entry points after departure from UAE airports.
 
 During off-peak times, this separation minima may be disregarded, and standard separation minima of 2 minutes may be applied provided it is not done for more than two successive departures.
