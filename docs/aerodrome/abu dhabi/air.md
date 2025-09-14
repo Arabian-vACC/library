@@ -48,7 +48,7 @@ Training flights will not be facilitated at Abu Dhabi International Airport duri
 Conditional line up instructions must also include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission.
 It is suggested to only have a maximum of two conditional line up clearances active at one i.e. one aircraft lining up behind a departure, and another aircraft lining up behind them.
 !!! example
-    **Controller**: “SWR243, Behind the departing Ethiad A380, via E15 line up runwaay 31L behind.
+    **Controller**: “SWR243, Behind the departing Etihad A380, via E15 line up runwaay 31L behind.
 	
 If aircraft have not yet reached the holding point where they are expected to line up at, ATC shall reiterate the cleared holding point.
 !!! example
