@@ -12,7 +12,7 @@ EuroScope is a software application that allows members to provide air traffic c
 
 - **Download EuroScope**  
      - Visit the official EuroScope website: [https://www.euroscope.hu/](https://www.euroscope.hu/).  
-     - Download the latest **public release version 3.2.9**.  
+     - Download the recommended **public release version 3.2.9** [Here](https://euroscope.hu/install/EuroScopeSetup.3.2.9.msi)
 
 - **Optional: Beta Version**  
      - You may install the latest beta version at your discretion. Be aware that some beta builds may contain bugs that could affect controlling. Follow the recommendations in this guide to determine which beta version to use.  
