@@ -31,9 +31,9 @@ Check your status and how to join here: [Joining Arabian](https://library.arabia
 
 Before you can observe or train, install the following:
 
-- [Euroscope & Sector Files](https://library.arabian-vacc.com/foundations/controller%20software/euroscope/)
-- [An Audio for VATSIM Client](https://library.arabian-vacc.com/foundations/controller%20software/audio/)
-- [vATIS](https://library.arabian-vacc.com/foundations/controller%20software/vatis/)
+- [Euroscope & Sector Files](https://library.arabian-vacc.com/getting_started/euroscope/)
+- [An Audio for VATSIM Client](https://library.arabian-vacc.com/getting_started/audio/)
+- [vATIS](https://library.arabian-vacc.com/getting_started/vatis/)
 
 🎥 **Watch this video guide** on how to observe on the network:  
 [Arabian vACC - Controller Software & Observation Guide](https://www.youtube.com/watch?v=ycCieiy0ufc)
@@ -69,7 +69,7 @@ After your ticket is submitted:
 1. You will be added to the **S1 Rating Waiting List** along with a designated **Training Aerodrome**.
 2. You will be enrolled in the **S1 Moodle Course**: [Arabian vACC Moodle](https://moodle.arabian-vacc.com)
 3. Complete all course content and progress tests.
-4. Pass the **VATMENA S1 Theory Exam**: [VATMENA Division Academy](https://academy.vatsim.me)
+4. Pass the **MENA S1 Theory Exam**: [MENA Theoretical Exam Platform](https://exams.vatsim.me/)
 
 Once complete:
 
