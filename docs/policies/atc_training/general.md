@@ -495,19 +495,6 @@ At any point, if the controller fails to meet the required level of competency d
 
 Controllers are not permitted to connect on any Dubai positions until the endorsement is visible on the controller roster on Hayya.
 
-##### Endorsement Flow Chart
-<figure markdown>
-![Dubai Tier-1 DEL/GND Endorsement Flow](img/tier1_dubai_delgnd_flow.png)
-</figure>
-
-<figure markdown>
-![Dubai Tier-1 TWR Endorsement Flow](img/tier1_dubai_twr_flow.png)
-</figure>
-
-<figure markdown>
-![Dubai Tier-1 TMA Endorsement Flow](img/tier1_dubai_tma_flow.png)
-</figure>
-
 #### AFIS
 All Aerodrome Flight Information Service (AFIS) positions within the Arabian vACC, located in the Doha (OTDF), Muscat (OOMM), and U.A.E (OMAE) FIRs, are classified as Tier 2 positions under the GCAP policy.
 
