@@ -232,7 +232,7 @@ Solo validations will only be granted for a maximum of 30 days at a time before 
 
 ### Examinations
 #### Theoretical
-All theoretical modules and exams for the S1, S2, S3, and C1 ratings are available through the [Middle East & North Africa Academy](https://academy.vatsim.me). Completion of these modules and exams is required to be eligible for enrollment in a training plan.
+All theoretical modules and exams for the S1, S2, S3, and C1 ratings are available through the [MENA Theoretical Exam Platform](https://exams.vatsim.me/). Completion of these modules and exams is required to be eligible for enrollment in a training plan.
 
 #### Practical
 When a student, in agreement with their mentor or instructor, feels ready, they can submit a request for an examination through the ATC Training Department. Before being forwarded for a practical exam, students will be consulted to ensure they are fully prepared, and additional training can be arranged if requested by the student. 
