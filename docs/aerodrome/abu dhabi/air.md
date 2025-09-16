@@ -76,8 +76,8 @@ During off-peak times, this separation minima may be disregarded, and standard s
 <figure markdown>
 |  SID  | FIR exit point | Longitudinal separation |
 |:-----:|:--------------:|-------------------------|
-| ANVIX |      TARDI     | 3 minutes               |
-| IVURO |   LALDO/GOMTA  | 3 minutes               |
+| ORNEL |      RETAS     | 3 minutes               |
+| KANIP |      LABRI     | 3 minutes               |
 
   <figcaption>Table 5-2: Flow control procedures for traffic entering the Muscat FIR</figcaption>
 </figure>
