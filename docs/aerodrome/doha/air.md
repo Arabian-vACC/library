@@ -21,7 +21,7 @@ If aircraft have not yet reached the holding point where they are expected to li
     **Controller**: "QQE550, via F, line up and wait runway 33."
 
 ### 5.3.2 Take-off clearances
-Aircraft shall be cleared for take-off once adequate separation exists as provided in the [Doha RECAT system](../../foundations/wake%20turbulence%20separation/recat_separation.md)
+Aircraft shall be cleared for take-off once adequate separation exists as provided in the [Doha RECAT system](../../foundations/wts/recat_separation.md)
 
 !!! example
     **Controller**: "QQE440, wind 330 degrees 7 knots, runway 33, cleared for take-off."
