@@ -35,8 +35,9 @@ Aircraft shall be separated on departure in compliance with standard IFR departu
 Except as provided in 4.3.3.2 and 4.3.3.3, succeeding aircraft on the same SID shall be separated by a minimum of **2 minutes.**  
 
 VFR aircraft may be instructed to maintain visual separation with preceding aircraft and given a take-off clearance if no wake turbulence separation minima exists.
+
 #### 4.3.3.2 Dubai CTA flow control procedure 
-Release of aircraft departing from Sharjah shall be coordinated with DEP, APP and Dubai AIR when there is a high volume of departing traffic from Dubai outbound to the same exit point as Sharjah traffic.
+Release of aircraft departing from Sharjah shall be coordinated with DEP, APP and Dubai AIR when multiple departures to the same exit point are expected either at Dubai or Sharjah.
 
 The departure release shall ensure that aircraft are able to achieve minimum separation requirements when reaching the respective Dubai CTA exit point. 
 

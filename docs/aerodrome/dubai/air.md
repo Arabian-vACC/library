@@ -46,9 +46,9 @@ Except as provided in 4.3.4.2, succeeding aircraft on the same SID shall be sepa
 VFR aircraft may be instructed to maintain visual separation with preceding aircraft and given a take-off clearance if no wake turbulence separation minima exists.
 
 #### 5.3.4.2 Muscat FIR flow control procedure
-Special flow control procedures are required for traffic entering the Muscat FIR via certain entry points after departure from UAE airports. 
+Special flow control procedures may be required for traffic entering the Muscat FIR via certain entry points after departure from UAE airports during peak departure times as notified my Muscat ACC. 
 
-During off-peak times, this separation minima may be disregarded, and standard separation minima of **2 minutes** may be applied provided it is not done for more than two successive departures.
+During off-peak times, this separation minima may be disregarded, and standard separation minima of **2 minutes** may be applied.
 
 <figure markdown>
 |  SID  | FIR exit point | Longitudinal separation |
