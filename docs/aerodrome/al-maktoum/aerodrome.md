@@ -19,7 +19,7 @@
 |      Dubai South Radar      |   OMDW_S_APP   |     RDR S     |  120.400  |
 |       Minhad Approach       |    OMDM_APP    |      APP      |  122.500  |
 |   Dubai Departures (South)  |   OMDB_1_DEP   |     DEP 1     |  121.025  |
-|   Dubai Departures (North)  |   OMDB_2_DEP   |     DEP 2     |  126.200  |
+|   Dubai Departures (North)  |   OMDB_2_DEP   |     DEP 2     |  124.675  |
 
 
 ### 1.2.2 ATS airspace
