@@ -123,12 +123,12 @@ The table below provides the phonetic spelling for numbers and numerical terms. 
 All numbers must be pronounced digit by digit in the following contexts:
 
 - Aircraft callsigns  
-- Flight levels ***(with the exception of flight levels in whole hundreds, which may also be transmitted by pronouncing the digit of the whole hundered followed by the word HUNDRED (e.g. FL200 becomes **Flight Level Two Hundred**))***
+- Flight levels ***(with the exception of flight levels in whole hundreds, which may also be transmitted by pronouncing the digit of the whole hundered followed by the word HUNDRED (e.g. FL200 becomes £Flight Level Two Hundred"))***
 - Headings  
 - Wind direction and speed  
-- Transponder codes ***(with the exception of codes containing whole thousands, which shall be transmitted by pronouncing the number of thousands followed by the word THOUSAND (e.g. Squawk 1000 becomes **Squawk One Thousand**))***
+- Transponder codes ***(with the exception of codes containing whole thousands, which shall be transmitted by pronouncing the number of thousands followed by the word THOUSAND (e.g. Squawk 1000 becomes "Squawk One Thousand"))***
 - Runway/taxiway designators  
-- Altimeter settings ***(with the exception of 1000hPa which shall be pronounced **One Thousand**)***
+- Altimeter settings ***(with the exception of 1000hPa which shall be pronounced "One Thousand")***
 - Times  
 - Frequencies  
 
