@@ -101,7 +101,7 @@ For those going **OBS → S1**, the majority of the work is now in your hands wi
   👉 [Getting Started, vATIS](https://library.arabian-vacc.com/getting_started/vatis/)
 
 - **vATIS Update Requirement:**  
-  All controllers must update their vATIS client, refresh their profiles to the latest automatic ones:<br>👉 [Arabian vACC, vATIS Profiles](https://github.com/Arabian-vACC/vATIS-Profiles/releases)<br>and ensure correct **Airport Conditions & NOTAMs** are selected (*looking at you, Hamad controllers – “HIRO INFORCE”*).  
+  All controllers must update their vATIS client, refresh their profiles to the latest automatic ones: 👉 [Arabian vACC, vATIS Profiles](https://github.com/Arabian-vACC/vATIS-Profiles/releases) and ensure correct **Airport Conditions & NOTAMs** are selected (*looking at you, Hamad controllers – “HIRO INFORCE”*).  
 
 - **Controller Operations Policy:**  
   👉 [Controller Operations Policy](https://library.arabian-vacc.com/policies/atc_operations/controller_operations_policy/)<br>Covers connection procedures, minimum session time, Discord presence, relief callsigns, and more.  
