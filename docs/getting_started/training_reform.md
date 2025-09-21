@@ -92,26 +92,22 @@ For those going **OBS → S1**, the majority of the work is now in your hands wi
 ## 📝 Reminders for All Controllers  
 
 - **Euroscope User Guide (since Dec 2024):**  
-  👉 https://library.arabian-vacc.com/getting_started/euroscope/  
+  👉 [Getting Started, Euroscope](https://library.arabian-vacc.com/getting_started/euroscope/)
 
 - **Audio Client User Guide (since Dec 2024):**  
-  👉 https://library.arabian-vacc.com/getting_started/audio/  
+  👉 [Getting Started, Audio Client](https://library.arabian-vacc.com/getting_started/audio/)
 
 - **vATIS Client User Guide (since Dec 2024):**  
-  👉 https://library.arabian-vacc.com/getting_started/vatis/  
+  👉 [Getting Started, vATIS](https://library.arabian-vacc.com/getting_started/vatis/)
 
 - **vATIS Update Requirement:**  
-  All controllers must update their vATIS client, refresh their profiles to the latest automatic ones:  
-  👉 https://github.com/Arabian-vACC/vATIS-Profiles/releases  
-  and ensure correct **Airport Conditions & NOTAMs** are selected (*looking at you, Hamad controllers – “HIRO INFORCE”*).  
+  All controllers must update their vATIS client, refresh their profiles to the latest automatic ones:<br>👉 [Arabian vACC, vATIS Profiles](https://github.com/Arabian-vACC/vATIS-Profiles/releases)<br>and ensure correct **Airport Conditions & NOTAMs** are selected (*looking at you, Hamad controllers – “HIRO INFORCE”*).  
 
 - **Controller Operations Policy:**  
-  👉 https://library.arabian-vacc.com/policies/atc_operations/controller_operations_policy/  
-  Covers connection procedures, minimum session time, Discord presence, relief callsigns, and more.  
+  👉 [Controller Operations Policy](https://library.arabian-vacc.com/policies/atc_operations/controller_operations_policy/)<br>Covers connection procedures, minimum session time, Discord presence, relief callsigns, and more.  
 
 - **General Marketing Policy (released Aug 18th):**  
-  👉 https://library.arabian-vacc.com/policies/marketing/general/#event-signup  
-  Outlines **Event Rostering rules and regulations**.  
+  👉 [Marketing Policy](https://library.arabian-vacc.com/policies/marketing/general/#event-signup)<br>Outlines **Event Rostering rules and regulations**.  
 
 ---
 
