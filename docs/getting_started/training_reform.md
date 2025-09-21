@@ -35,15 +35,11 @@ To solve this:
 ## 📚 Essential Resources  
 
 - **Getting Started Guide (OBS → S1):**  
-  👉 [Getting Started - ATC Training](https://library.arabian-vacc.com/getting_started/starting_atc_training/)
-  
-  Every step to begin your ATC journey is explained here, including how to become a **resident of the vACC**. Please read this guide carefully before asking questions.  
+  👉 [Getting Started - ATC Training](https://library.arabian-vacc.com/getting_started/starting_atc_training/)<br>Every step to begin your ATC journey is explained here, including how to become a **resident of the vACC**. Please read this guide carefully before asking questions.  
 
 
 - **ATC Training Policy:**  
-  👉 [ATC Training Policy](https://library.arabian-vacc.com/policies/atc_training/general/)
-  
-  This policy covers expressions of interest, waiting lists, active training, airports, CTAs/TMAs, ACCs, progression requirements, endorsements (Tier-1 & upcoming Tier-2), and activity requirements.  
+  👉 [ATC Training Policy](https://library.arabian-vacc.com/policies/atc_training/general/)<br>This policy covers expressions of interest, waiting lists, active training, airports, CTAs/TMAs, ACCs, progression requirements, endorsements (Tier-1 & upcoming Tier-2), and activity requirements.  
 
 
 - **What to Expect During Sessions:**  
