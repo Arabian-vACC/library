@@ -108,7 +108,7 @@ The Arabian vACC ATC Training Department reserves the right to remove a controll
 - Repeated negative feedback received while controlling positions associated with their current rating
 
 #### Controller Activity
-According to the Arabian vACC Membership Policy, controllers must log a minimum of **6 hours of ATC activity per calendar quarter** to remain active on the controller roster. 
+According to the Arabian vACC Membership Policy, controllers must log a minimum of **3 hours of ATC activity per calendar quarter** to remain active on the controller roster. 
 
 Failure to meet this requirement will result in **automatic removal** from the roster and **any associated training plan or waiting list**.
 

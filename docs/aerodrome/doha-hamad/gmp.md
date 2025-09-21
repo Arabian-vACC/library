@@ -161,7 +161,6 @@ The Arabian vACC Operations Department maintains an up-to-date route database on
 | Transiting Bahrain FIR onwards landing Kuwait FIR                      | FL260             | TULUB B457 KINID              |
 | Transiting Jeddah FIR onwards landing Kuwait FIR                       | FL260             | TULUB M444 KINID              |
 | Transiting Kuwait FIR                                                  | FL260             | LUBET T934 IMLAD              |
-| Transiting Kuwait FIR                                                  | FL260             | LUBET L934 IMLAD              |
 
 <figure markdown>
   <figcaption>Table 3-2: Standard routes</figcaption>
