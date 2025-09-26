@@ -91,7 +91,7 @@ A radar departure clearance shall contain the following information:
     **Controller:** ABY45C, Sharjah Ground, cleared to Moscow, expect radar vectors, maintain altitude 2000ft, when airborne contact Dubai departures on 124.675, Squawk 3427.
 
     **Pilot:** Cleared to Moscow, radar vectors, maintain altitude 2000ft, when airborne contact Dubai Departures on 124.675, Squawk 3427, ABY45C.
-    
+
     **Controller:** ABY45C, Readback correct, report ready for push and start, QNH1016.
 
 <figure markdown>
@@ -117,7 +117,7 @@ A radar departure clearance shall contain the following information:
     All IFR departures shall be instructed to contact DEP 2 when airborne.
 
 ## 2.4 Rerouting aircraft
-An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2. 
+An aircraft shall be issued a reroute by GMC if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2. 
 
 Several routing restrictions exist within UAE airspace and must be complied with when issuing a departure clearance.
 
@@ -279,7 +279,7 @@ All VFR departures shall be assigned a discrete SSR code so that they may be ide
 ### 2.7.3 VFR traffic remaining in circuit
 VFR traffic wishing to remain in the circuit shall be cleared only after prior coordination with AIR and Approach/Departure control.
 
-As per possible restrictions mentioned in 2.8, VFR traffic may be encouraged to carry out circuits at neighbouring aerodromes such as OMDW, and OMRK during periods of increased IFR activity and due to restrictions to aircraft type. GMP must coordinate with AIR control and Arrivals/Departures control in such cases and relay the information to the pilot in accordance with 2.7.1 or 2.7.2.
+As per possible restrictions mentioned in 2.8, VFR traffic may be encouraged to carry out circuits at neighbouring aerodromes such as OMDW, and OMRK during periods of increased IFR activity and due to restrictions to aircraft type. GMC must coordinate with AIR control and Arrivals/Departures control in such cases and relay the information to the pilot in accordance with 2.7.1 or 2.7.2.
 
 VFR circuits shall not be permitted out of OMSB if any of the aforementioned restrictions from AIR and Approach/Departure control is in effect. 
 
