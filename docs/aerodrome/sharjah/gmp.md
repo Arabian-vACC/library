@@ -87,8 +87,11 @@ A radar departure clearance shall contain the following information:
 
 !!! example
     **Pilot:** Sharjah Ground, ABY45C, Airbus A320, Stand 4, Information M, request clearance to Moscow, unable RNAV SIDs.
+
     **Controller:** ABY45C, Sharjah Ground, cleared to Moscow, expect radar vectors, maintain altitude 2000ft, when airborne contact Dubai departures on 124.675, Squawk 3427.
+
     **Pilot:** Cleared to Moscow, radar vectors, maintain altitude 2000ft, when airborne contact Dubai Departures on 124.675, Squawk 3427, ABY45C.
+    
     **Controller:** ABY45C, Readback correct, report ready for push and start, QNH1016.
 
 <figure markdown>
