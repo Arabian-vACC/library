@@ -15,13 +15,20 @@ Pilots can find valid routes for most flights departing from Muscat on SimBrief 
 ## Flight Planning: Standard Instrument Departure (SID)
 Controllers will assign a Standard Instrument Departure (SID), guiding you out of the Muscat Terminal Maneuvering Area (TMA). Refer to the table below to see which SID you can expect. If your waypoint isn't listed in the table, ensure your AIRAC cycle is up to date. If your AIRAC is outdated, please inform the controller promptly so we can arrange an omnidirectional departure for you. All initial climbs are set at 3000ft
 
-| Runway | Departure |
-|--------|-----------|
-| 08L/R  |  MURMA1N  |
-| 26L/R  |  ITLAK1N  |
+However, as of the current publication, these RNAV SIDs are temporary due to ongoing aerodrome and airspace restructuring.
+In the interim, only four temporary SIDs are in use.
+
+| Runway |   SID   |
+|:------:|:-------:|
+|  08L  | MURMA1N |
+|  26R  | ITLAK1N |
+|  08R  |  S08R D |
+|  26L  |  S26L D |
+
+These temporary SIDs require aircraft to maintain runway heading on departure climbing to 3,000 feet. Departing aircraft can expect to receive radar vectors from Muscat Approach to join their filed airways.
 
 !!! Note
-    Please be aware that the departures listed above apply to both the left and right runways. At Muscat International, there are no runway-specific SIDs, so your clearance will not include a designated runway. You can determine your departure runway by checking the Automatic Terminal Information Service (ATIS).
+    You can determine your departure runway by checking the Automatic Terminal Information Service (ATIS).
 
 ## Getting your clearance
 Departing aircraft shall contact Dubai Delivery **10 minutes prior to start-up** and pass the following information:
@@ -35,10 +42,10 @@ Departing aircraft shall contact Dubai Delivery **10 minutes prior to start-up**
 </ul>
 
 ### Datalink Clearance (DCL)
-The preferred method for obtaining your clearance is through datalink. To request clearance via Hoppie datalink, send your request to **OOMS**. Please note that logging on to the station is not required. No readback is necessary.
+Muscat Aerodrome does not support the issuance of departure clearances via datalink (ACARS). All clearances shall be obtained through voice communication.
 
 ### Voice Clearance
-In Muscat, if datalink clearances are unavailable, voice clearances will be provided. These will be brief, covering only your Standard Instrument Departure (SID), initial climb, and squawk code. Ensure you have the latest departure ATIS information before proceeding.
+In Muscat, voice clearances will be provided at all times. These will be covering your Destination, all Airways and the Muscat FIR Exit Point, your Standard Instrument Departure (SID), initial climb, and squawk code. Ensure you have the latest departure ATIS information before proceeding.
 
 !!! example
     **Pilot**: "Muscat Clearance Delivery, OMS735, Airbus A320 NEO, information R, stand 105, requesting FL310, to Hyderabad."
