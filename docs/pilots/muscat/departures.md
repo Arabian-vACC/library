@@ -31,7 +31,7 @@ These temporary SIDs require aircraft to maintain runway heading on departure cl
     You can determine your departure runway by checking the Automatic Terminal Information Service (ATIS).
 
 ## Getting your clearance
-Departing aircraft shall contact Dubai Delivery **10 minutes prior to start-up** and pass the following information:
+Departing aircraft shall contact Muscat Delivery **10 minutes prior to start-up** and pass the following information:
 <ul>
     <li>Aircraft Callsign</li>
     <li>Aircraft Type</li>
