@@ -285,4 +285,4 @@ VFR circuits shall not be permitted out of OMSB if any of the aforementioned res
 
 All VFR circuit traffic shall be assigned a discrete SSR code so that they may be identified on radar.
 
-All VFR aircraft shall be instructed to conduct circuits to the north of the aerodrome (right-hand circuits for 30 and left-hand circuits for 12R) at an altitude of 1000 ft. Aircraft may also be cleared to conduct circuits at 1500 ft, if required.
+All VFR aircraft shall be instructed to conduct circuits to the north of the aerodrome (right-hand circuits for 30 and left-hand circuits for 12) at an altitude of 1000 ft. Aircraft may also be cleared to conduct circuits at 1500 ft, if required.

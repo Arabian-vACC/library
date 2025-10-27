@@ -39,7 +39,7 @@ Aircraft requesting pushback that are not squawking their assigned transponder c
 
 ### 3.2.2 Pushback types
 #### 3.2.2.1 Standard pushback
-This type will normally have the aircraft stop abeam the adjacent stand. The phraseology for this type of pushback is identical to the pushback phraseology as provided in 2.8.1.
+This type will normally have the aircraft stop abeam the adjacent stand. The phraseology for pushback is provided in 3.2.1 of the radiotelephony manual.
 
 #### 3.2.2.2 Short pushback
 A short pushback instruction shall require the aircraft to complete the pushback abeam the current stand such that the adjacent stand will not be blocked.
