@@ -104,7 +104,7 @@ Once aircraft are clear of the zone, they shall be instructed to remain outside 
 Aircraft climbing into controlled airspace shall be handed off to departure control.
 
 ### 4.4.2 VFR traffic remaining in the circuit
-AIR control is responsible for managing circuit traffic. Circuits must always be conducted to the south of the aerodrome for runways 11R/29L and to the north of the aerodrome for runways
+AIR control is responsible for managing circuit traffic. Circuits must always be conducted to the south of the aerodrome for runways 11R/29L
 
 Circuits shall be conducted in accordance with the procedures laid down in 2.5.3
 
@@ -117,7 +117,9 @@ Aircraft may request either a touch and go (where the aircraft lands and immedia
 
 Once AIR is aware of the aircraft’s request, they may be sequenced to the runway, with due consideration given to runway occupancy time.
 
-Aircraft on the downwind should be passed the following information: - Expected runway; - Sequence; - Traffic information if applicable
+Aircraft on the downwind should be passed the following information:
+ - Expected runway;
+ - Sequence; - Traffic information if applicable
 
 !!! example
     **Controller:** A6-XHB, report final runway 29L, number 1, traffic is an A320 on a 3 mile final runway 29L.
