@@ -137,9 +137,12 @@ Once aircraft have been observed to be taxiing and completely clear of the exit,
 ### 4.5.1 VFR departures
 Once VFR aircraft are ready for departure, they should be cleared for take-off in sequence. As they begin their crosswind turn (the first turn after departure) they shall be instructed to report leaving the control zone.
 
-Once aircraft are clear of the zone, they shall be instructed to remain outside controlled airspace and monitor advisory.
+If no other stations are online, once aircraft are clear of the zone, they shall be instructed to remain outside controlled airspace and monitor advisory.
 
 Aircraft climbing into controlled airspace shall be handed off to departure control. 
+
+!!! note
+      VFR traffic exiting in to the Dubai CTR must be coordinated with the Dubai AIR controller. Dubai may request that traffic is routed outside of their airspace.
 
 ### 4.5.2 VFR traffic remaining in the circuit
 AIR control is responsible for managing circuit traffic. Circuits must always be conducted to the north of the aerodrome
@@ -171,7 +174,7 @@ Inbound VFR aircraft shall be instructed to contact AIR with enough time such th
 
 VFR arrivals may be denied entry into the control zone during times of increased IFR arrival activity and instructed to hold outside controller airspace awaiting further instructions.  
 
-### 4.6 Low visibility operations
+## 4.6 Low visibility operations
 Where transfer of control is to be made between aerodrome controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller. Intermediate holding points may be used to satisfy this requirement.
 
 ### 4.6.1 LVO departure procedures

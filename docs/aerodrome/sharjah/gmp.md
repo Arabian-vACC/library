@@ -243,10 +243,12 @@ Several routing restrictions exist within UAE airspace and must be complied with
 Runway change shall be coordinated between Dubai AIR and Sharjah AIR due to the runway dependencies as provided in 3.2.
 
 ## 2.7 VFR aircraft
-VFR flight activity should be planned in accordance to published VFR charts, specifically the “**Dubai CTA VFR**” chart for VFR traffic navigating out of the Dubai CTR into neighbouring airspaces and within the Sharjah control zone. GMC may use the appropriate charts as per the requirements of the pilot’s intentions in accordance with 2.7.1, 2.7.2 and 2.7.3.
+VFR flight activity should be planned in accordance to published VFR charts, specifically the “**Dubai CTA VFR**” chart for VFR traffic navigating out of the Sharjah CTR into neighbouring airspaces and within the Sharjah control zone. GMC may use the appropriate charts as per the requirements of the pilot’s intentions in accordance with 2.7.1, 2.7.2 and 2.7.3.
 
-At any time, AIR control and Approach/Departure control may impose partial or full restrictions to VFR operations out of OMSB during periods of increased IFR activity or due to restrictions and limitations to aircraft type. It is imperative that GMC is in continuous coordination with AIR control and Approach/Departure control for departing VFR traffic.
+At any time, AIR control and Approach/Departure control may impose partial or full restrictions to VFR operations out of OMSJ during periods of increased IFR activity or due to restrictions and limitations to aircraft type. It is imperative that GMC is in continuous coordination with AIR control and Approach/Departure control for departing VFR traffic.
 
+!!! note
+      VFR traffic exiting in to the Dubai CTR must be coordinated with the Dubai AIR controller. Dubai may request that traffic is routed outside of their airspace.
 
 ### 2.7.1 VFR Departures into uncontrolled airspace
 VFR traffic shall be cleared via the most appropriate VFR route towards their destination. If necessary, the clearance may be amended by AIR prior to departure. 

@@ -1,9 +1,7 @@
 # 3. Ground Movement Procedures
 ## 3.1 General provisions
-GMC is also responsible for managing aircraft movements on all aerodrome movement areas except 
-for runways and their associated taxiways. Departing aircraft are given pushback instructions and 
-instructions to taxi to the runway holding point. Arriving aircraft are assigned a stand and instructed 
-to taxi as appropriate. 
+GMC is also responsible for managing aircraft movements on all aerodrome movement areas except for runways and their associated taxiways. Departing aircraft are given pushback instructions and 
+instructions to taxi to the runway holding point. Arriving aircraft are assigned a stand and instructed to taxi as appropriate. 
 
 ## 3.2 Departure pushback procedures
 ### 3.2.1 General pushback procedures
@@ -39,7 +37,7 @@ Aircraft requesting pushback that are not squawking their assigned transponder c
 
 ### 3.2.2 Pushback types
 #### 3.2.2.1 Standard pushback
-This type will normally have the aircraft stop abeam the adjacent stand. The phraseology for pushback is provided in 3.2.1 of the radiotelephony manual.
+This type will normally have the aircraft stop abeam the adjacent stand. The phraseology for pushback is provided in section 3.2.1.
 
 #### 3.2.2.2 Short pushback
 A short pushback instruction shall require the aircraft to complete the pushback abeam the current stand such that the adjacent stand will not be blocked.
