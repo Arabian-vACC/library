@@ -232,12 +232,6 @@ Controllers must notify others of their intent to disconnect using the `.break` 
 
 ---
 
-## Conflict Resolution
-
-In case of conflict, controllers should contact the vACC Director or Deputy Director for informal resolution. If unresolved, the matter may be escalated to the Division Director or DCRM for further action.
-
----
-
 ### Reporting Issues
 
 Controllers can report non-compliance via [this form](https://vats.im/arb/feedback).
