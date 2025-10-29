@@ -62,10 +62,10 @@ If aircraft have not yet reached the holding point where they are expected to li
     **Controller**: "QTR40P, via A2, line up and wait runway 34R."
 
 ### 5.3.3 Take-off clearances
-Aircraft will be cleared for takeoff once adequate separation is ensured as outlined in sections 5.3.4 and 5.6. At the time of takeoff clearance, aircraft will be assigned their airborne frequency, either for Doha Approach East or West, or the next available station, such as Doha Radar or Doha Control. If none of these stations are online, aircraft will be instructed to monitor ADVISORY 122.8.
+Aircraft will be cleared for takeoff once adequate separation is ensured as outlined in sections 5.3.4 and 5.6. When airborne, pilots should report passing 1000 ft, at which point they should be handed off to either Doha Approach East or West, or the next available station, such as Doha Radar or Doha Control. If none of these stations are online, aircraft will be instructed to monitor ADVISORY 122.8.
 
 !!! example
-    **Controller**: "QTR40P, airborne contact Doha Approach 124.775, wind 140 degrees 2 knots, runway 34R, cleared for take-off."
+    **Controller**: "QTR40P, wind 140 degrees 2 knots, runway 34R, cleared for take-off."
 
 ### 5.3.4 Separation requirements
 #### 5.3.4.1 General
@@ -218,6 +218,9 @@ Take-off clearance may be issued to a departing aircraft, commencing its take-of
     - **RWY 16R** from L11  
     - **RWY 34L** from L1  
 
+!!! example
+    **Controller:** "QTR8A, Airbus A350 departing ahead, wind 340 degrees 5 knots, runway 34R, cleared for take-off."
+
 ### 5.6.3 Landing following landing
 When the runway in use is temporarily occupied by other traffic, landing clearance may be issued to an arriving aircraft, provided the controller has reasonable assurance that the following separation distances and criteria will be met when the landing aircraft crosses the runway threshold:
 
@@ -236,6 +239,9 @@ When the runway in use is temporarily occupied by other traffic, landing clearan
 !!! note
     Landing RRSM (Reduced Runway Separation Minimum) will only be applied between two successive arrivals, provided both aircraft have been instructed to vacate at published Rapid Exit Taxiways (RETs).
 
+!!! example
+    **Controller:** "QTR61P, Airbus A350 vacating at M10, wind 340 degrees 5 knots, runway 34L, cleared to land."
+
 ### 5.6.4 Landing following departure
 When the runway in use is temporarily occupied by other traffic, landing clearance may be issued to an arriving aircraft, provided the controller has reasonable assurance that the following separation distances and criteria will be met when the landing aircraft crosses the runway threshold:
 
@@ -253,6 +259,9 @@ When the runway in use is temporarily occupied by other traffic, landing clearan
 
 !!! note
     Pilots should be aware of the possibility of a go-around if no landing clearance has been received when approaching 2 NM from the threshold, with another aircraft lined up or departing.
+
+!!! example
+    **Controller:** "QTR88X, Airbus A340 departing ahead, wind 340 degrees 5 knots, runway 34L, cleared to land."
 
 ## 5.7 Low visibility operations (LVO)
 ### 5.7.1 Commencement of LVO
