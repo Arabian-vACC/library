@@ -75,24 +75,8 @@ You must meet **all** of the following:
 
 ---
 
-If all criteria are met, you will be eligible for **familiarization training** in any FIR within the Arabian vACC, **except Dubai (OMDB)**.  
+If all criteria are met, you will be added to the visting controller roster in the Arabian vACC allowing you to control up to your current rating, **except Dubai (OMDB)**.  
 > Controlling at OMDB requires a separate **Tier 1 endorsement**.
-
-Once approved, you will be added to the **training queue** under the **same terms** as local (resident) controllers for the FIR you’re visiting.
-
----
-
-## Familiarization & Training Process
-
-Before receiving full visiting rights, all visiting controllers must complete:
-
-- **FIR and airport familiarization training**  
-  - Usually delivered through a **theory module** on our **Moodle** learning platform.
-  
-- **Sweatbox training session**  
-  - A practical simulation to assess your readiness and understanding of the FIR’s procedures.
-
-> The **Arabian vACC ATC Training Department** is responsible for ensuring all visiting controllers are fully prepared before approval.
 
 ---
 

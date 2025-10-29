@@ -55,6 +55,7 @@ the first fix in the flight plan and runways in use.
 !!!info
       SIDs which have an identifier ending in **R** are valid for **30.** SIDs with an identifier ending in **Q** are valid for **12.** *(Table 2-1)*
 
+<figure markdown>
 | First Fix |   30    |   12    |
 |:---------:|:-------:|:-------:|
 |   ANVIX   |    5R   |    4Q   |
@@ -66,7 +67,7 @@ the first fix in the flight plan and runways in use.
 |   NABIX   |    2R   |    3Q   |
 |   RIDAP   |    2R   |    3Q   |
 |   SENPA   |    2R   |    3Q   |
-<figure markdown>
+
   <figcaption>Table 2-1: RNAV SIDs</figcaption>
 </figure>
 
@@ -86,10 +87,14 @@ A radar departure clearance shall contain the following information:
 
 !!! example
     **Pilot:** Sharjah Ground, ABY45C, Airbus A320, Stand 4, Information M, request clearance to Moscow, unable RNAV SIDs.
+
     **Controller:** ABY45C, Sharjah Ground, cleared to Moscow, expect radar vectors, maintain altitude 2000ft, when airborne contact Dubai departures on 124.675, Squawk 3427.
+
     **Pilot:** Cleared to Moscow, radar vectors, maintain altitude 2000ft, when airborne contact Dubai Departures on 124.675, Squawk 3427, ABY45C.
+
     **Controller:** ABY45C, Readback correct, report ready for push and start, QNH1016.
 
+<figure markdown>
 |  SID 30   |  Initial Climb  |  SID 12   |  Initial Climb  |
 |-----------|-----------------|-----------|-----------------|
 |  ANVIX5R  |     3000ft      |  ANVIX4Q  |     2000ft      |
@@ -101,7 +106,7 @@ A radar departure clearance shall contain the following information:
 |  NABIX2R  |     2000ft      |  NABIX3Q  |     3000ft      |
 |  RIDAP2R  |     2000ft      |  RIDAP3Q  |     3000ft      |
 |  SENPA2R  |     2000ft      |  SENPA3Q  |     3000ft      |
-<figure markdown>
+
   <figcaption>Table 2-2: Initial Climbs</figcaption>
 </figure>
  
@@ -112,13 +117,14 @@ A radar departure clearance shall contain the following information:
     All IFR departures shall be instructed to contact DEP 2 when airborne.
 
 ## 2.4 Rerouting aircraft
-An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2. 
+An aircraft shall be issued a reroute by GMC if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2. 
 
 Several routing restrictions exist within UAE airspace and must be complied with when issuing a departure clearance.
 
 !!! note
     The Arabian vACC Operations Department maintains an up-to-date route database on SimBrief. These routes can be accessed by selecting the ***"User Submitted Routes"*** option, highlighted in purple, when planning a flight.
 
+<figure markdown>
 <table><thead>
   <tr>
     <th>Destination</th>
@@ -220,7 +226,7 @@ Several routing restrictions exist within UAE airspace and must be complied with
     <td>DCT (RADAR VECTORS)</td>
   </tr>
 </tbody></table>
-<figure markdown>
+
   <figcaption>Table 2-3: Standard routes</figcaption>
 </figure>
 
@@ -237,10 +243,12 @@ Several routing restrictions exist within UAE airspace and must be complied with
 Runway change shall be coordinated between Dubai AIR and Sharjah AIR due to the runway dependencies as provided in 3.2.
 
 ## 2.7 VFR aircraft
-VFR flight activity should be planned in accordance to published VFR charts, specifically the “**Dubai CTA VFR**” chart for VFR traffic navigating out of the Dubai CTR into neighbouring airspaces and within the Sharjah control zone. GMC may use the appropriate charts as per the requirements of the pilot’s intentions in accordance with 2.7.1, 2.7.2 and 2.7.3.
+VFR flight activity should be planned in accordance to published VFR charts, specifically the “**Dubai CTA VFR**” chart for VFR traffic navigating out of the Sharjah CTR into neighbouring airspaces and within the Sharjah control zone. GMC may use the appropriate charts as per the requirements of the pilot’s intentions in accordance with 2.7.1, 2.7.2 and 2.7.3.
 
-At any time, AIR control and Approach/Departure control may impose partial or full restrictions to VFR operations out of OMSB during periods of increased IFR activity or due to restrictions and limitations to aircraft type. It is imperative that GMC is in continuous coordination with AIR control and Approach/Departure control for departing VFR traffic.
+At any time, AIR control and Approach/Departure control may impose partial or full restrictions to VFR operations out of OMSJ during periods of increased IFR activity or due to restrictions and limitations to aircraft type. It is imperative that GMC is in continuous coordination with AIR control and Approach/Departure control for departing VFR traffic.
 
+!!! note
+      VFR traffic exiting in to the Dubai CTR must be coordinated with the Dubai AIR controller. Dubai may request that traffic is routed outside of their airspace.
 
 ### 2.7.1 VFR Departures into uncontrolled airspace
 VFR traffic shall be cleared via the most appropriate VFR route towards their destination. If necessary, the clearance may be amended by AIR prior to departure. 
@@ -273,10 +281,10 @@ All VFR departures shall be assigned a discrete SSR code so that they may be ide
 ### 2.7.3 VFR traffic remaining in circuit
 VFR traffic wishing to remain in the circuit shall be cleared only after prior coordination with AIR and Approach/Departure control.
 
-As per possible restrictions mentioned in 2.8, VFR traffic may be encouraged to carry out circuits at neighbouring aerodromes such as OMDW, and OMRK during periods of increased IFR activity and due to restrictions to aircraft type. GMP must coordinate with AIR control and Arrivals/Departures control in such cases and relay the information to the pilot in accordance with 2.7.1 or 2.7.2.
+As per possible restrictions mentioned in 2.8, VFR traffic may be encouraged to carry out circuits at neighbouring aerodromes such as OMDW, and OMRK during periods of increased IFR activity and due to restrictions to aircraft type. GMC must coordinate with AIR control and Arrivals/Departures control in such cases and relay the information to the pilot in accordance with 2.7.1 or 2.7.2.
 
 VFR circuits shall not be permitted out of OMSB if any of the aforementioned restrictions from AIR and Approach/Departure control is in effect. 
 
 All VFR circuit traffic shall be assigned a discrete SSR code so that they may be identified on radar.
 
-All VFR aircraft shall be instructed to conduct circuits to the north of the aerodrome (right-hand circuits for 30 and left-hand circuits for 12R) at an altitude of 1000 ft. Aircraft may also be cleared to conduct circuits at 1500 ft, if required.
+All VFR aircraft shall be instructed to conduct circuits to the north of the aerodrome (right-hand circuits for 30 and left-hand circuits for 12) at an altitude of 1000 ft. Aircraft may also be cleared to conduct circuits at 1500 ft, if required.

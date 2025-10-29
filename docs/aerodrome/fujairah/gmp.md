@@ -50,8 +50,9 @@ Aircraft requesting clearance via voice shall be given a voice clearance as per 
 ### 2.3.1 RNAV Standard instrument departures
 Fujairah primarily uses RNAV standard instrument departures (SIDs) and is the preferred departure type for IFR aircraft. Departing aircraft shall be assigned an appropriate RNAV departure according to the first fix in the flight plan and the direction of their flight plan.
 
-Check the table below to see which SID corresponds to each runway. Keep in mind that these SIDs are assigned based on the flight's direction.
+The table below displays which SID corresponds to each runway. Keep in mind that these SIDs are assigned based on the flight's direction.
 
+<figure markdown>
 | SID<br>11R   | Initial Climb | SID<br>29L   | Initial Climb |
 |--------------|---------------|--------------|---------------|
 | IMPED3F      | 6000ft        | IMPED1R      | 6000ft        |
@@ -65,6 +66,9 @@ Check the table below to see which SID corresponds to each runway. Keep in mind 
 | TONVO4F      | 8000ft        | VAVIM1R      | 7000ft        |
 |              |               | VAVIM1S      | 7000ft        |
 |              |               | TONVO1R      | 8000ft        |
+
+  <figcaption>Table 2-1: Initial climb table</figcaption>
+</figure>
 
 ### 2.3.2 Radar departures
 The radar departure procedure shall be used when aircraft are unable to accept an RNAV departure, such as one with outdated nav data. Whereas RNAV departures follow a prescribed track until leaving the Fujairah Departures airspace, radar departures are given radar vectors to the first fix.

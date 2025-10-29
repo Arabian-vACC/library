@@ -35,8 +35,9 @@ Aircraft shall be separated on departure in compliance with standard IFR departu
 Except as provided in 4.3.3.2 and 4.3.3.3, succeeding aircraft on the same SID shall be separated by a minimum of **2 minutes.**  
 
 VFR aircraft may be instructed to maintain visual separation with preceding aircraft and given a take-off clearance if no wake turbulence separation minima exists.
+
 #### 4.3.3.2 Dubai CTA flow control procedure 
-Release of aircraft departing from Sharjah shall be coordinated with DEP, APP and Dubai AIR when there is a high volume of departing traffic from Dubai outbound to the same exit point as Sharjah traffic.
+Release of aircraft departing from Sharjah shall be coordinated with DEP, APP and Dubai AIR when multiple departures to the same exit point are expected either at Dubai or Sharjah.
 
 The departure release shall ensure that aircraft are able to achieve minimum separation requirements when reaching the respective Dubai CTA exit point. 
 
@@ -46,16 +47,18 @@ points after departure from UAE airports.
 
 During off-peak times, this separation minima may be disregarded, and standard separation minima of 2 minutes may be applied provided it is not done for more than two successive departures. 
 
+<figure markdown>
+
 |  SID  | FIR exit point | Longitudinal separation |
 |:-----:|:--------------:|:-----------------------:|
 | ANVIX |      TARDI     |        3 minutes        |
 | IVURO |  LALDO/GOMTA   |        3 minutes        |
-<figure markdown>
+
   <figcaption>Table 3-1: Flow control procedures for traffic entering the Muscat FIR</figcaption>
 </figure>
 
 !!! note
-      LALDO and GOMTA are to be considered a common FIR exit point. These procedures do not apply to traffic landing at Oman airports. 
+      LALDO and GOMTA are to be considered a common FIR exit point. These procedures do not apply to traffic landing at airports within the Muscat FIR. 
 
 ### 4.3.4 IFR handoff procedure
 IFR departures shall not receive a hand-off from tower and are expected to change frequency after departure. 
@@ -134,9 +137,12 @@ Once aircraft have been observed to be taxiing and completely clear of the exit,
 ### 4.5.1 VFR departures
 Once VFR aircraft are ready for departure, they should be cleared for take-off in sequence. As they begin their crosswind turn (the first turn after departure) they shall be instructed to report leaving the control zone.
 
-Once aircraft are clear of the zone, they shall be instructed to remain outside controlled airspace and monitor advisory.
+If no other stations are online, once aircraft are clear of the zone, they shall be instructed to remain outside controlled airspace and monitor advisory.
 
 Aircraft climbing into controlled airspace shall be handed off to departure control. 
+
+!!! note
+      VFR traffic exiting in to the Dubai CTR must be coordinated with the Dubai AIR controller. Dubai may request that traffic is routed outside of their airspace.
 
 ### 4.5.2 VFR traffic remaining in the circuit
 AIR control is responsible for managing circuit traffic. Circuits must always be conducted to the north of the aerodrome
@@ -168,7 +174,7 @@ Inbound VFR aircraft shall be instructed to contact AIR with enough time such th
 
 VFR arrivals may be denied entry into the control zone during times of increased IFR arrival activity and instructed to hold outside controller airspace awaiting further instructions.  
 
-### 4.6 Low visibility operations
+## 4.6 Low visibility operations
 Where transfer of control is to be made between aerodrome controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller. Intermediate holding points may be used to satisfy this requirement.
 
 ### 4.6.1 LVO departure procedures
@@ -178,11 +184,12 @@ Intersection departures during LVO are not permitted.
 
 CAT I holding points shall be used during LVO for departing aircraft *(Table 4-4).* 
 
+<figure markdown>
 |   Runway   |   Holding Point   |
 |:----------:|:-----------------:|
 |     30     |        B20        |
 |     12     |        B2         |
-<figure markdown>
+
   <figcaption>Table 3-2: CAT I holding points</figcaption>
 </figure>
 

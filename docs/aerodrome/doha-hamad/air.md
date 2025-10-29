@@ -39,14 +39,14 @@ The Final Approach Monitoring Controller will override the relevant Tower freque
 High Intensity Runway Operations for departing aircraft are in effect 24 hours a day. All checks should be completed when reaching the assigned holding point, and aircraft must line up without delay when cleared by ATC. Prompt action should be taken in response to take-off clearance. Whenever possible, intersection departures should be used.
 
 ### 5.3.1 Standard departure points
-
+<figure markdown>
 | Runway | Standard departure points |
 |:------:|:-------------------------:|
 |   16L  |            A10            |
 |   16R  |        L10/M11/M12        |
 |   34L  |          L2/M3/M4         |
 |   34R  |             A2            |
-<figure markdown>
+
   <figcaption>Table 4-1: Standard departure points</figcaption>
 </figure>
 
@@ -87,13 +87,14 @@ Aircraft performing a go-around on runway 16L/34R will be handed off to Doha App
 If Doha Approach (East or West) is offline, all handoffs will be directed to Doha Radar. If Doha Radar (North or South) is also offline, all handoffs will be directed to Doha Control.
 
 #### 5.3.5.2 Doha Approach hand off procedure
+<figure markdown>
 | Runway |      Hand off      |
 |:------:|:------------------:|
 |   16L  | Doha Approach East |
 |   16R  | Doha Approach West |
 |   34L  | Doha Approach West |
 |   34R  | Doha Approach East |
-<figure markdown>
+
   <figcaption>Table 4-2: Doha Approach hand offs</figcaption>
 </figure>
 
@@ -114,13 +115,14 @@ For aircraft that have been given a take-off clearance, but have not yet started
 ### 5.4.1 Standard runway exits
 On initial contact, aircraft shall be instructed to vacate at a designated taxiway for arrival. The planned exit point shall be one of the preferred exit taxiways (Table 5-2).
 
+<figure markdown>
 | Runway | Runway Exit |
 |:------:|:-----------:|
 |   16L  |      A7     |
 |   16R  |    L5/M7    |
 |   34L  |    L6/M8    |
 |   34R  |      A5     |
-<figure markdown>
+
   <figcaption>Table 4-3: Standard runway exits</figcaption>
 </figure>
 
@@ -267,13 +269,14 @@ During LVO, aircraft must use CAT II/III holding points for all runways in order
 
 CAT II/III holding points must be used during LVO for departing aircraft (Table 5-4).
 
+<figure markdown>
 | Runway |     Holding Point    |
 |:------:|:--------------------:|
 |   16L  |         A10          |
 |   16R  | L10/M12/P11/12/13/14 |
 |   34L  |  L2/P1/P2/P3/P4/P5   |
 |   34R  |          A2          |
-<figure markdown>
+
   <figcaption>Table 4-5: CATII/III holding points</figcaption>
 </figure>
 

@@ -38,8 +38,6 @@ Departing aircraft shall be instructed to report ready for pushback.
 
     **Controller**: "UAE9782, readback correct, information Foxtrot, QNH 1009, report ready for pushback."
 
-
-
 ### 3.2.3 Datalink clearance (DCL)
 Aircraft clearance may also be delivered by DCL. This type of clearance reduces controller workload and frequency congestion. For suitably equipped aircraft, this will be through the ACARS system on board the aircraft.
 
@@ -57,6 +55,7 @@ Al Maktoum primarily uses RNAV standard instrument departures (SIDs) and is the 
 
 Departures from runway 12/30 shall be assigned an initial climb of 3000ft. Departures from runway 13/31 shall be assigned an initial climb of 2000ft.
 
+<figure markdown>
 | First Fix |    30   |    12   |    31   |    13   |
 |:---------:|:-------:|:-------:|:-------:|:-------:|
 |   ANVIX   |    4L   |    6J   |    1P   |    2N   |
@@ -69,7 +68,6 @@ Departures from runway 12/30 shall be assigned an initial climb of 3000ft. Depar
 |   RIDAP   |    3L   |    4J   |         |         |
 |   SENPA   |    3L   |    4J   |         |         |
 
-<figure markdown>
   <figcaption>Table 3-1: RNAV SIDs</figcaption>
 </figure>
 
@@ -87,15 +85,11 @@ A radar departure clearance shall contain the following information:
 - Frequency handoff;
 - Assigned SSR code
 
-
 !!! note
       Aircraft on a radar departure shall have the text *VECTORS* inserted to the scratchpad section of their entry on the departure list.
 
-
 ## 3.4 Rerouting aircraft
-
-
-An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2. 
+An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 3-2. 
 
 Several routing restrictions exist within UAE airspace and must be complied with when issuing a departure clearance.
 
@@ -105,6 +99,7 @@ Several routing restrictions exist within UAE airspace and must be complied with
 !!! note
     The Arabian vACC Operations Department maintains an up-to-date route database on SimBrief. These routes can be accessed by selecting the ***"User Submitted Routes"*** option, highlighted in purple, when planning a flight.
 
+<figure markdown>
 | Destination                                                    | Level Restrictions           | Routing                                      |
 |---------------------------------------------------------------|-----------------------------|----------------------------------------------|
 | Tehran FIR Northbound (including OIKB)                        | -                           | DAVMO M318 GABKO                             |
@@ -129,14 +124,13 @@ Several routing restrictions exist within UAE airspace and must be complied with
 | Landing OMAL                                                   | -                           | DCT ANVIX R401 GIDIS G783 VAVIM              |
 | Landing OMSJ, OMDB, OMRK, and OMFJ                             | Max 7,000 ft (Radar Departure) | DCT (RADAR VECTORS)                       |
 
-<figure markdown>
   <figcaption>Table 3-2: Standard routes</figcaption>
 </figure>
 
-!!!info 
+!!! info 
       Should an aircraft file an invalid cruise level, GMC shall advise the aircraft of this when delivering the clearance. In **all** cases, the next lowest valid cruise level should be assigned and the aircraft advised.
 
-!!!note
+!!! note
       Offering two valid levels (one above and below their requested level) is discouraged; a lower level than what is requested can be complied with certainty factoring the aircraft's maximum capable cruise level as per their gross weight. On the other hand, higher levels may be rejected due to aircraft performance or maximum cruise altitude capabilities.
 
       Thus, resorting to issuing the next lowest valid cruise level minimises radio transmissions and simplifies the correction process between the controller and the aircraft.

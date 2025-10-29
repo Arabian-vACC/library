@@ -17,6 +17,7 @@ Conditional line up instructions must also include the traffic that the aircraft
     **Controller:** IGO1515, behind the departing Indigo A320, via T1, line up & wait runway 29L, behind.
 
     **Pilot:** Behind the departing Indigo A320, via T1, line up & wait, runway 29L, IGO1515.
+
 ### 4.2.2 Take-off clearances
 Aircraft shall be cleared for take-off once adequate separation exists as provided in 4.2.3
 
@@ -24,6 +25,7 @@ Aircraft shall be cleared for take-off once adequate separation exists as provid
     **Controler:** IGO1515, (surface) wind 330 degrees, 3 knots, runway 29L, cleared for takeoff.
 
     **Pilot:** Cleared for takeoff, runway 29L, IGO1515.
+    
 ### 4.2.3 Separation requirements
 #### 4.2.3.1 General
 Aircraft shall be separated on departure in compliance with standard IFR departure separation minima or enhanced wake turbulence separation (eWTS) requirements.
@@ -44,6 +46,7 @@ The headings to be issued shall be coordinated with departures control.
     **Controller:** IGO15C, after departure fly runway heading, maintain altitude 3000ft, wind 280 degrees, 6 knots, runway 29L, cleared for takeoff.
 
     **Pilot:** After departure fly runway heading, maintain altitude 3000ft, runway 29L, cleared for takeoff, IGO15C.
+
 ### 4.2.6 Stopping a departure
 Aircraft that have commenced their take-off roll may be instructed to stop immediately to avert a collision due to a runway incursion or any other dangerous situation.
 
@@ -57,6 +60,7 @@ For aircraft that have been given a take-off clearance, but have not yet started
 
 !!! example
     **Controller:** IGO15C, hold position, cancel takeoff, I say again cancel takeoff, aircraft entering the runway, acknowledge.
+
 ## 4.3 Arrival procedures
 ### 4.3.1 General
 Although the radar controllers are responsible for separating arriving aircraft, the AIR controller shall still ensure that minimum separation is maintained until the preceding aircraft crosses the runway threshold.
@@ -100,7 +104,7 @@ Once aircraft are clear of the zone, they shall be instructed to remain outside 
 Aircraft climbing into controlled airspace shall be handed off to departure control.
 
 ### 4.4.2 VFR traffic remaining in the circuit
-AIR control is responsible for managing circuit traffic. Circuits must always be conducted to the south of the aerodrome for runways 11R/29L and to the north of the aerodrome for runways
+AIR control is responsible for managing circuit traffic. Circuits must always be conducted to the south of the aerodrome for runways 11R/29L
 
 Circuits shall be conducted in accordance with the procedures laid down in 2.5.3
 
@@ -113,7 +117,9 @@ Aircraft may request either a touch and go (where the aircraft lands and immedia
 
 Once AIR is aware of the aircraft’s request, they may be sequenced to the runway, with due consideration given to runway occupancy time.
 
-Aircraft on the downwind should be passed the following information: - Expected runway; - Sequence; - Traffic information if applicable
+Aircraft on the downwind should be passed the following information:
+ - Expected runway;
+ - Sequence; - Traffic information if applicable
 
 !!! example
     **Controller:** A6-XHB, report final runway 29L, number 1, traffic is an A320 on a 3 mile final runway 29L.

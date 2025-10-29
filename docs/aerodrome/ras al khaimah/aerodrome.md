@@ -11,16 +11,16 @@
 ### 1.2.1 List of ATS callsigns
 | Radio Callsign               | Logon Callsign   | Abbreviation   | Frequency   |
 |:---------------------------: |:----------------:|:--------------:|:-----------:|
-|Ras Al Khaimah Approach  Radar|  OMRK_AR_APP     |FIN             |    124.000  |
-|Ras Al KHAIMAH Tower          | OMRK_TWR         |AIR             | 118.250     |
-| Ras Al Khaimah Ground        | OMSJ_GND         |GMC             | 121.750     |
+|Ras Al Khaimah Approach Radar |  OMRK_APP        |APP             |    124.000  |
+|Ras Al Khaimah Tower          | OMRK_TWR         |AIR             | 118.250     |
+| Ras Al Khaimah Ground        | OMRK_GND         |GMC             | 121.750     |
 
 
 ### 1.2.2 ATS airspace
 | Airspace                    | Classification   | Vertical Limits    | Transition Altitude   | Transition Level   |
 |:---------------------------:|:----------------:|:------------------:|:---------------------:|:------------------:|
-| CTR (Control Zone)          |          D       |1,500 FT AMSL / GND | 13 000 ft             | FL 150             |
-
+| Ras Al Khaimah CTA (Terminal Area)   | C                | 1500 ft to 6500 ft   | 13 000 ft             | FL 150             |
+| Ras Al Khaimah CTR (Control Zone)    | D                | SFC to 1500 ft     | 13 000 ft             | FL 150             |
 
 ## 1.3 Radio navigation aids
 | Type            | Identifier   | Frequency   |

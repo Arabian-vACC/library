@@ -11,11 +11,27 @@
 | Cancelled documents |                       N/A                         |
 
 ## Record of Revisions
-| Revision Number | Notes            | Effective Date |
-|-----------------|------------------|----------------|
-| 01/2019         | Initial issue    | 26 SEP 2019    |
-| 01/2025         | Rewrite of SOP's | 09 SEP 2025    |
-
+<table>
+  <thead>
+    <tr>
+      <th>Revision Number</th>
+      <th>Notes</th>
+      <th>Effective Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01/2019</td>
+      <td>Initial issue</td>
+      <td>26 SEP 2019</td>
+    </tr>
+    <tr>
+      <td>01/2025</td>
+      <td>Rewrite of SOP's</td>
+      <td>09 SEP 2025</td>
+    </tr>
+  </tbody>
+</table>
 ## Purpose & Scope
 This Standard Operating Procedure (SOP) outlines the procedures, responsibilities, and coordination requirements for Al Bateen aerodrome operations on the VATSIM network. Its primary goal is to ensure safe, efficient, and standardized handling of IFR and VFR traffic flow into and out of the aerodrome.
 

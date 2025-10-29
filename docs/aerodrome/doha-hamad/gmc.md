@@ -111,7 +111,7 @@ Code F aircraft (A380/B747-8) are not permitted to taxi onto taxiway W (between 
 !!! example
     **Pilot**: "QTR3B, request taxi."
 
-    **Controller**: "QTR3B, via E1, C, hold short taxiway L2."
+    **Controller**: "QTR3B, Taxi via E1, C, hold short taxiway L2."
 
     **Pilot**: "Taxi via E1, C, hold short taxiway L2, QTR3B."
 

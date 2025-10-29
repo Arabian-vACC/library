@@ -123,14 +123,16 @@ The table below provides the phonetic spelling for numbers and numerical terms. 
 All numbers must be pronounced digit by digit in the following contexts:
 
 - Aircraft callsigns  
-- Flight levels  
+- Flight levels ***(with the exception of flight levels in whole hundreds, which may also be transmitted by pronouncing the digit of the whole hundered followed by the word HUNDRED (e.g. FL200 becomes "Flight Level Two Hundred"))***
 - Headings  
 - Wind direction and speed  
-- Transponder codes  
+- Transponder codes ***(with the exception of codes containing whole thousands, which shall be transmitted by pronouncing the number of thousands followed by the word THOUSAND (e.g. Squawk 1000 becomes "Squawk One Thousand"))***
 - Runway/taxiway designators  
-- Altimeter settings  
+- Altimeter settings ***(with the exception of 1000hPa which shall be pronounced "One Thousand")***
 - Times  
 - Frequencies  
+
+All numbers used in the transmission of altitude, cloud height, visibility and runway visual range information shall be transmitted by pronouncing each digit in the number of hundreds or thousands followd by the word HUNDRED or THOUSAND as appropriate. Combinations of thousands and hundreds shall be transmitted by pronouncing each digit in the number of thousands, followed by the word THOUSAND, then the number of hundreds followed by the word HUNDRED.
 
 For taxiway designators, the following options are available:
 
@@ -151,7 +153,7 @@ For taxiway designators, the following options are available:
 |         Headings         |          150<br><br>080<br><br>300          |                                        Heading one five zero<br><br>Heading zero eight zero<br><br>Heading three zero zero                                        |                                          Heading WUN FIFE ZERO<br><br>Heading ZERO AIT ZERO<br><br>Heading TREE ZERO ZERO                                         |
 | Wind direction and speed |   02035KT<br><br>10018KT<br><br>21018G30KT  | Wind zero two zero degrees three five knots<br><br>Wind one zero zero degrees one eight knots<br><br>Wind two one zero degrees one eight gusting three zero knots | Wind ZERO TOO ZERO degrees TREE FIFE knots<br><br>Wind WUN ZERO ZERO degrees WUN AIT knots<br><br>Wind TOO WUN ZERO degrees WUN AIT knots gusting TREE ZERO knots |
 |     Runway designator    |           19<br><br>06<br><br>23L           |                                                Runway one nine<br><br>Runway zero six<br><br>Runway two three left                                                |                                                Runway WUN NINER<br><br>Runway ZERO SIX<br><br>Runway TOO TREE left                                                |
-|     Altimeter setting    | 984 hPa<br><br>1027 hPa<br><br>29.95 inches |                                       Nine eight four hectopascals<br><br>One zero two seven<br><br>Two nine point nine five                                      |                                         NINER AIT FOWER hectopascals<br><br>WUN ZERO TOO SEVEN<br><br>TOO NINER NINER FIFE                                        |
+|     Altimeter setting    | 984 hPa<br><br>1000 hPa <br><br>1027 hPa<br><br>29.95 inches |                                       Nine eight four <br><br>One Thousand <br><br>One zero two seven<br><br>Two nine point nine five                                      |                                         NINER AIT FOWER<br><br>WUN TOUSAND<br><br>WUN ZERO TOO SEVEN<br><br>TOO NINER NINER FIFE                                        |
 |           Time           |              09:20<br><br>16:34             |                                               Two zero or zero nine two zero<br><br>Three four or one six three four                                              |                                              TOO ZERO or ZERO NINER TOO ZERO<br><br>TREE FOWER or WUN SIX TREE FOWER                                              |
 |        Frequencies       | 128.3 Mhz<br><br>135.75 Mhz<br><br>5643 Khz |                                  One two eight decimal three<br><br>One three five decimal seven five<br><br>Five six four three                                  |                                WUN TOO AIT DAY SEE MAL TREE<br><br>WUN TREE FIFE DAY SEE MAL SEVEN FIFE<br><br>FIFE SIX FOWER TREE                                |
 |     Transponder codes    |        Squawk 2400<br><br>Squawk 4203       |                                                    Squawk two four zero zero<br><br>Squawk four two zero three                                                    |                                                    Squawk TOO FOWER ZERO ZERO<br><br>Squawk FOWER TOO ZERO TREE                                                   |

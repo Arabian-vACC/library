@@ -1,9 +1,7 @@
 # 3. Ground Movement Procedures
 ## 3.1 General provisions
-GMC is also responsible for managing aircraft movements on all aerodrome movement areas except 
-for runways and their associated taxiways. Departing aircraft are given pushback instructions and 
-instructions to taxi to the runway holding point. Arriving aircraft are assigned a stand and instructed 
-to taxi as appropriate. 
+GMC is also responsible for managing aircraft movements on all aerodrome movement areas except for runways and their associated taxiways. Departing aircraft are given pushback instructions and 
+instructions to taxi to the runway holding point. Arriving aircraft are assigned a stand and instructed to taxi as appropriate. 
 
 ## 3.2 Departure pushback procedures
 ### 3.2.1 General pushback procedures
@@ -11,6 +9,7 @@ Assuming no obstructions, aircraft shall be instructed to pushback immediately.
 
 Aircraft requesting pushback that are not squawking their assigned transponder code shall be instructed to hold position and squawk the correct code; movement of such aircraft is prohibited.
 
+<figure markdown>
 |  Position  |  Taxiway  |  Direction  |
 |------------|-----------|-------------|
 | 1A, 1B, 1C |    Z14    |    North    |
@@ -19,6 +18,9 @@ Aircraft requesting pushback that are not squawking their assigned transponder c
 |  21 to 26  |    Z10    |    North    |
 |  50 to 61  |    Z8     |    North    |
 |   2 to 8   |     A     |    East     |
+
+  <figcaption>Table 3-1: Pushback Directions</figcaption>
+</figure>
 
 !!! example
       **Controller:** RJA613, Sharjah ground, pushback approved, facing east.
@@ -35,7 +37,7 @@ Aircraft requesting pushback that are not squawking their assigned transponder c
 
 ### 3.2.2 Pushback types
 #### 3.2.2.1 Standard pushback
-This type will normally have the aircraft stop abeam the adjacent stand. The phraseology for this type of pushback is identical to the pushback phraseology as provided in 2.8.1.
+This type will normally have the aircraft stop abeam the adjacent stand. The phraseology for pushback is provided in section 3.2.1.
 
 #### 3.2.2.2 Short pushback
 A short pushback instruction shall require the aircraft to complete the pushback abeam the current stand such that the adjacent stand will not be blocked.
@@ -119,6 +121,7 @@ Aircraft shall be taxied via A14 and A to the appropriate stand.
 *(See 5.3)*
 
 ### 3.5.4 Stand allocation procedure
+<figure markdown>
 |             Area             |               Operator                 |
 |:----------------------------:|:--------------------------------------:|
 |         1A, 1B and 1C        |                 ABY                    |

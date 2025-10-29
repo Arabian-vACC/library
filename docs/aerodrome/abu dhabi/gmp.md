@@ -36,12 +36,12 @@ An IFR clearance shall be in the following format:
 
 Aircraft shall be instructed to change frequency after departure in the following manner:
 
+<figure markdown>
 | Runway Configuration | Handoff Station | Frequency |
 |:--------------------:|:---------------:|:---------:|
 |      31s             |    APP W        | 128.100   |
 |      13s             |    APP C        | 124.400   |
 
-<figure markdown>
   <figcaption>Table 2-1: Departure Handoffs</figcaption>
 </figure>
 
@@ -81,6 +81,7 @@ Abu Dhabi primarily uses RNAV standard instrument departures (SIDs) and is the p
 !!! info
       All departures from ***31L/13R*** have an initial climb of **5000ft** and departures from ***31R/13L*** have an initial climb of **4000ft**
 
+<figure markdown>
 |    Fix    | RWY 13L | RWY 13R | RWY 31L     | RWY 31R   |
 |-----------|---------|---------|-------------|-----------|
 | **ATUDO** | 5F      | 5G      | 4K/1U       | 3P        |
@@ -92,7 +93,6 @@ Abu Dhabi primarily uses RNAV standard instrument departures (SIDs) and is the p
 | **ORNEL** | 1F      | 1G      | 2K/1U       | 1P        |
 | **TULON** | 1F      | 1G      | 2K          | 1P        |
 
-<figure markdown>
   <figcaption>Table 2-2: RNAV SIDs</figcaption>
 </figure>
 
@@ -122,6 +122,7 @@ The following conditions are required in the application of this standard betwee
 #### 3.3.2.1 Runway 31 operations
 When simultaneous independent parallel departures are in use; the following SIDs shall be used for runway 31 operations:
 
+<figure markdown>
 | Runway 31L | Runway 31R |
 |:----------:|:----------:|
 |  MEKRI 2K  |  LORID 1P  |
@@ -129,20 +130,21 @@ When simultaneous independent parallel departures are in use; the following SIDs
 |  DAXIB 1K  |  ATUDO 3P  |
 |            |  KANIP 1N  |
 |            |  ORNEL 1P  |
-<figure markdown>
+
   <figcaption>Table 2-3: Simultaneous independent departures (31 configuration)</figcaption>
 </figure>
 
 #### 3.3.2.2 Runway 13 operations
 When simultaneous independent parallel departures are in use; the following SIDs shall be used for runway 13 operations:
 
+<figure markdown>
 | Runway 13L | Runway 13R |
 |:----------:|:----------:|
 |  DAXIB 1F  |  MEKRI 1G  |
 |  LORID 1F  |  BOSEV 1G  |
 |  TULON 1F  |  ORNEL 1G  |
 |  ATUDO 5F  |  KANIP 3G  |
-<figure markdown>
+
   <figcaption>Table 2-4: Simultaneous independent departures (13 configuration)</figcaption>
 </figure>
 
@@ -181,6 +183,7 @@ If an aircraft requires a reroute, they shall be informed of such as soon as the
 !!! note
     The Arabian vACC Operations Department maintains an up-to-date route database on SimBrief. These routes can be accessed by selecting the ***"User Submitted Routes"*** option, highlighted in purple, when planning a flight.
 
+<figure markdown>
 | Destination                                                    | Level Restriction         | Routing                                         | Remarks                                           |
 |---------------------------------------------------------------|--------------------------|-------------------------------------------------|---------------------------------------------------|
 | OIKB and beyond                                               | -                        | TULON M318 GABKO                                | -                                                 |
@@ -202,7 +205,6 @@ If an aircraft requires a reroute, they shall be informed of such as soon as the
 | OMFJ                                                          | -                        | KANIP DCT VAMIM DCT PEDOG DCT MURGU Q308 RUDAT DCT FJV   | -                                         |
 | OMRK                                                          | -                        | KANIP DCT VAMIM DCT PEDOG DCT MURGU Q308 ORKOB DCT FJV DCT LAGLI DCT RAV | -      |
 
-<figure markdown>
   <figcaption>Table 2-5: Standard routes</figcaption>
 </figure>
 
@@ -282,8 +284,8 @@ VFR traffic shall be cleared via the most appropriate VFR route towards their de
 
 !!! note
       All VFR departures shall be assigned a discrete SSR code so that they may be identified on radar.
-### 3.8.3 VFR traffic remaining in circuit
 
+### 3.8.3 VFR traffic remaining in circuit
 !!! note
       VFR traffic wishing to remain in the circuit shall be cleared only after prior coordination with AIR.
 

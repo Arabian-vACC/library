@@ -24,7 +24,6 @@
 |      Abu Dhabi Radar West         |    OMAA_W_APP    |      APP W      |   128.100   |
 |      Abu Dhabi Radar North        |    OMAA_N_APP    |      APP N      |   135.150   |
 |      Abu Dhabi Radar East         |    OMAA_E_APP    |      APP E      |   133.550   |
-|      Abu Dhabi Radar East         |    OMAA_E_APP    |      APP E      |   133.550   |
 |      Abu Dhabi Director (North)   |    OMAA_F_APP    |      FIN N      |   118.425   |
 |      Abu Dhabi Director (South)   |    OMAA_G_APP    |      FIN S      |   118.000   |
 

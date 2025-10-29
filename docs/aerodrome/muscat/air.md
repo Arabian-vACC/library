@@ -26,7 +26,7 @@ If aircraft have not yet reached the holding point where they are expected to li
 Aircraft will be cleared for takeoff once adequate separation is ensured as outlined in sections 5.3.4 and 5.6. At the time of takeoff clearance, aircraft will be assigned their airborne frequency, for Muscat Radar or the next available station, such as Muscat Control North. If none of these stations are online, aircraft will be instructed to monitor UNICOM 122.8.
 
 !!! example
-   **Controller:** "OMA643, airborne contact Muscat Radar 121.200, wind 330 degrees 7 knots, runway 26L, cleared for take-off."
+    **Controller:** "OMA643, airborne contact Muscat Radar 121.200, wind 330 degrees 7 knots, runway 26L, cleared for take-off."
 
 ### 5.3.4 Separation Requirements
 #### 5.3.4.1 General

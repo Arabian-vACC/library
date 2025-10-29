@@ -29,7 +29,6 @@ An IFR clearance shall be in the following format:
 
 GMC shall obtain a full readback of the clearance. If the pilot does not report the current ATIS letter on first contact, GMC shall pass the current ATIS letter and QNH.
 
-
 !!! example
     **Pilot**: "Al-Ain Ground, good evening, PK143, Airbus A320, stand 7, requesting FL380, to Islamabad, GIDIS1H departure, with information F on board."
 
@@ -55,8 +54,9 @@ Aircraft requesting clearance via voice shall be given a voice clearance as per 
 ### 2.3.1 RNAV Standard instrument departures
 Al-Ain primarily uses RNAV standard instrument departures (SIDs) and is the preferred departure type for IFR aircraft. Departing aircraft shall be assigned an appropriate RNAV departure according to the first fix in the flight plan and runways in use.
 
-SIDs which have an identifier ending in **H** are valid for **01**. SIDs with an identifier ending in **J** are valid for **19**. All departures have an initial climb of 4000ft (Table 3-1).
+SIDs which have an identifier ending in **H** are valid for **01**. SIDs with an identifier ending in **J** are valid for **19**. All departures have an initial climb of 3000ft (Table 3-1).
 
+<figure markdown>
 | First Fix |    01   |    19   |
 |:---------:|:-------:|:-------:|
 |   GIDIS   |    1H   |    1J   |
@@ -64,7 +64,7 @@ SIDs which have an identifier ending in **H** are valid for **01**. SIDs with an
 |   MURGU   |    1H   |    1J   |
 |   RETAS   |    2H   |    2J   |
 |   ROVOS   |    1H   |    1J   |
-<figure markdown>
+
   <figcaption>Table 3-1: RNAV SIDs</figcaption>
 </figure>
 

@@ -1,36 +1,40 @@
 # 5. Air Control Procedures
 ## 5.1 General provisions
-Air Control (AIR) is responsible for all aerodrome movements on runways and their associated taxiways. AIR shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information between IFR and VFR aircraft operating within the aerodrome control zone.
+Al Maktoum Tower is responsible for all aerodrome movements on runway 12/30 and the associated taxiways. Academy Tower is responsible for movements on runway 13/31 and the surrounding circuit. These positions shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information between IFR and VFR aircraft operating within the aerodrome control zone.
+
+!!! info 
+      Al Maktoum Tower **does not** provide top down coverage for the EFTA, and therefore does not cover runway 13/31, or traffic within the circuit.
 
 ## 5.2 Departure procedures
 ### 5.2.1 Standard departure points
 Al Maktoum has “standard departure points” from which pilots are expected to base their performance calculations. Aircraft may be tactically issued holding points closer to the runway end to optimise traffic flow or to yield a more efficient departure sequence. If the standard departure point is insufficient, crews must advice ATC of the required departure on first contact. The AIR controller may issue delays for such departures based on runway dependency requirements, as priority is given to the standard departure points.
 
+<figure markdown>
 | Runway | Standard departure points |
 |:------:|:-------------------------:|
 |   30   |           V16             |
 |   12   |            V4             |
 |   31   |            A6             |
 |   13   |            A2             |
-<figure markdown>
+
   <figcaption>Table 5-1: Standard departure points</figcaption>
 </figure>
 
 !!! note
-    V13 intersection departure may be used for departing aircraft on runway 30 
+    V13 intersection departure may be used for departing aircraft on runway 30 if traffic permits. 
 
 ### 5.2.2 Line up clearances
 Aircraft that have reached the runway holding points for departure shall be told to line-up once the runway is vacant and there is room to maneuver the aircraft onto the runway.
 
 !!! example
-      **Controller:** UAE9284, via V16, line up & wait, runway 30.
+      **Controller:** UAE9284, via V16, line up and wait, runway 30.
 
-      **Pilot:** Via V16, line up & wait, runway 30, UAE9824.
+      **Pilot:** Via V16, line up and wait, runway 30, UAE9824.
 
 Conditional line up instructions must also include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission. It is suggested to only have a maximum of two conditional line up clearances active at one i.e. one aircraft lining up behind a departure, and another aircraft lining up behind them. 
 
 !!! example
-      **Controller:** UAE9824, behind the departing Cathay B747, via V16, line up & wait runway 30, behind.
+      **Controller:** UAE9824, behind the departing Cathay B747, via V16, line up and wait runway 30, behind.
 
       **Pilot:** Behind the departing Cathay B747, via V16, line up & wait runway 30, behind.
 
@@ -57,17 +61,17 @@ points after departure from UAE airports.
 
 During off-peak times, this separation minima may be disregarded, and standard separation minima of 2 minutes may be applied provided it is not done for more than two successive departures. 
 
+<figure markdown>
 |  SID  | FIR exit point | Longitudinal separation |
 |:-----:|:--------------:|:-----------------------:|
 | ANVIX |      TARDI     |        3 minutes        |
 | IVURO |  LALDO/GOMTA   |        3 minutes        |
 
-<figure markdown>
   <figcaption>Table 5-2: Flow control procedures for traffic entering the Muscat FIR</figcaption>
 </figure>
 
 !!! note
-      LALDO and GOMTA are to be considered a common FIR exit point. These procedures do not apply to traffic landing at Oman airports. 
+      LALDO and GOMTA are to be considered a common FIR exit point. These procedures do not apply to traffic landing at airports within the Muscat FIR. 
 
 ### 5.2.5 IFR handoff procedure
 IFR departures shall be handed off to Al Maktoum Radar. 
@@ -132,7 +136,7 @@ Once aircraft are observed to be safely climbing away, they shall be handed off 
       **Controller:** EJO21M, Climb to 3000ft via standard missed approach, contact Al Maktoum Radar 124.025.
 
 ### 5.3.3 Arrival taxi procedures
-Aircraft shall be provided an initial taxi clearance to ensure they are kept moving such that the exit taxiway (RET) is clear for the next arrival and to minimise runway occupancy times. 
+Aircraft shall be provided an initial taxi clearance to ensure they are kept moving such that the exit taxiway (RET) is clear for the next arrival and to minimise runway occupancy times. Aircaft shall taxi on to V initially in the direction of the landing runway. Acute turns from rapid exit taxiways are not permitted.
 
 The initial taxi shall include instructions to taxi “LEFT” or “RIGHT” onto the relevant taxiway as appropriate and hold at a suitable intermediate holding point. 
 
@@ -156,7 +160,7 @@ Once aircraft are clear of the zone, they shall be instructed to remain outside 
 Aircraft climbing into controlled airspace shall be handed off to departure control. 
 
 ### 5.4.2 VFR traffic remaining in the circuit
-AIR control is responsible for managing circuit traffic. Circuits must always be conducted to the south of the aerodrome for runways 31/13 and to the north of the aerodrome for runways 
+AIR control is responsible for managing circuit traffic. Circuits must always be conducted to the south of the aerodrome for runways 31/13 and to the north of the aerodrome for runways 31/12
 
 Circuits shall be conducted in accordance with the procedures laid down in 3.7.3.
 
