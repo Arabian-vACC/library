@@ -78,7 +78,7 @@ During low visibility operations and during IMC, departing aircraft shall not be
 
 ### 5.3.5 IFR handoff procedure
 #### 5.3.5.1 General
-IFR departures will receive their handoff instructions as part of the takeoff clearance, as outlined in section 5.3.3. Aircraft that do not receive handoff instructions in their takeoff clearance will be handed off when passing 1000 feet, allowing sufficient time for a frequency change and preventing a level-off during departure.
+IFR departures shall be transferred to the next frequency upon passing 1,000 feet, as specified in Section 5.3.3, to allow adequate time for frequency change and to maintain an uninterrupted climb profile..
 
 Controllers should refer to section 4.3.5.2 for the appropriate Doha Approach handoff procedures.
 
