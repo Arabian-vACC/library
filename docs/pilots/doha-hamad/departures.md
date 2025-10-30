@@ -129,11 +129,14 @@ The following taxi diagrams depict the standard taxi routings. Note that it may 
 </figure>
 
 ## Take-off
-### Auto-Handoff
-Pilots will receive their next frequency with their takeoff clearance and are expected to contact the assigned frequency once airborne. If unsure of the assigned frequency, pilots should refer to their SID chart for the appropriate station or confirm with the controller.
+Aircraft will be cleared for takeoff once adequate separation is ensured. When airborne, pilots are to report passing 1000 ft, at which point they will be handed off to either Doha Approach East or West, or the next available station, such as Doha Radar or Doha Control. If none of these stations are online, aircraft will be instructed to monitor ADVISORY 122.8.
 
 !!! example
-    **Controller**: "QTR6M, airborne contact Doha Approach on 124.775, wind 350 degrees at 8 knots, runway 34R, cleared for take-off."
+    **Controller**: "QTR6M, wind 350 degrees at 8 knots, runway 34R, cleared for take-off."
+    **Pilot**: "Cleared for take-off, QTR6M"
+    **Pilot**: "Passing 1000ft, QTR6M"
+    **Controller**: "QTR6M, Frequency change approved, over to Doha Departures 124.775"
+    **Pilot**: "Doha Departures on 124.775, QTR6M"
 
 ### Minimum Runway Occupancy
 On receipt of a line-up clearance pilots shall ensure, complying with safety and standard operating procedures, that they are able to line-up on the runway as soon as the preceding aircraft has commenced take-off roll.
