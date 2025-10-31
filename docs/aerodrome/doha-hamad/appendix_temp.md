@@ -3,7 +3,7 @@
 This document is intended to supplement the standard operating procedures for the temproary periods detailed within during extended closure periods.
 
 ## 9.2 16L/34R Runway Remediation
-The runway remediation plan for 16L/34R will take place commencing **01 NOV 2025** and will be split in to three phases, running up to **13 JUN 2026**. 
+The runway remediation plan for 16L/34R will take place commencing **07 NOV 2025** and will be split in to three phases, running up to **13 JUN 2026**. 
 
 |  Phase  | Start Date        | End Date          | Summary                                                |
 |---------|-------------------|-------------------|--------------------------------------------------------|
@@ -29,7 +29,7 @@ RWY 16L/34R will be closed for an extended period, with all departures/arivvals 
 ## 9.3 Revised Procedures
 ### 9.3.1 Phase 1
 #### 9.3.1.1 Arriving Aircraft
-When arriving 34R, pilots can expect the temporary RNP T 34R approach which accommodates the displaced threshold. This procedure is active from 01 NOV 2025 0000z until 18 MAR 2026 2359z.
+When arriving 34R, pilots can expect the temporary RNP T 34R approach which accommodates the displaced threshold. This procedure is active from 07 NOV 2025 0000z until 18 MAR 2026 2359z.
 
 #### 9.3.1.2 Departing Aircraft
 Departing traffic will be instructed to hold short taxiway A2 on either B or C and GMC should hand off traffic at the earliest opportunity to AIR to allow for appropriate sequencing to take place.
