@@ -65,7 +65,7 @@ The ILS approach is typically the preferred approach type. Aircraft may be clear
 While RNP approaches are available, they should only be assigned if specifically requested by the pilot or if other circumstances, such as ILS unserviceability, necessitate their use.
 
 !!! warning
-    With effect 07 NOV 2025, RWY 34R is operating with a displaced threshold. RNP T 34R procedure will become active at this time. Please see [Aerodrome Appendix - Temporary Procedures](/../aerodrome/doha-hamad/appendix_temp.md) for further information
+    With effect 07 NOV 2025, RWY 34R is operating with a displaced threshold. RNP T 34R procedure will become active at this time. Please see [Aerodrome Appendix - Temporary Procedures](/aerodrome/doha-hamad/appendix_temp.md) for further information
 
 ### 3.1.4 Visual approach
 Visual approaches may be initiated by Approach (APP) or requested by the pilot. When a pilot accepts a visual approach, they confirm their ability to visually maintain safe terrain clearance and take responsibility for ensuring a safe landing interval behind the preceding aircraft.  

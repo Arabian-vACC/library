@@ -51,7 +51,7 @@ High Intensity Runway Operations for departing aircraft are in effect 24 hours a
 </figure>
 
 !!! warning
-    Temporary procedures are in place from 07 NOV 2025 for operations on RWY 16L/34R due WIP. Please refer to section 9 - [Appendix - Temporary Procedures](/doha-hamad/appendix_temp.md)
+    Temporary procedures are in place from 07 NOV 2025 for operations on RWY 16L/34R due WIP. Please refer to section 9 - [Appendix - Temporary Procedures](/aerodrome/doha-hamad/appendix_temp.md)
 
 ### 5.3.2 Line up clearances
 Conditional line up instructions shall include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission. It is recommended to only have a maximum of two conditional line up clearances active at one i.e., one aircraft lining up behind a departure, and another aircraft lining up behind them.
