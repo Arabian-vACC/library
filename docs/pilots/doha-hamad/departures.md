@@ -133,9 +133,13 @@ Aircraft will be cleared for takeoff once adequate separation is ensured. When a
 
 !!! example
     **Controller**: "QTR6M, wind 350 degrees at 8 knots, runway 34R, cleared for take-off."
+
     **Pilot**: "Cleared for take-off, QTR6M"
+
     **Pilot**: "Passing 1000ft, QTR6M"
+
     **Controller**: "QTR6M, Frequency change approved, over to Doha Departures 124.775"
+    
     **Pilot**: "Doha Departures on 124.775, QTR6M"
 
 ### Minimum Runway Occupancy
