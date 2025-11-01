@@ -32,6 +32,8 @@
     <td>02/2025</td>
     <td>Updated Clearance examples,<br>Updated conditional pushback phraseology, added 'behind' at the end of the transmittion,<br>Updated Take-off phraseology replaced UNICOM with ADVISORY,<br>Added Section 5.5 [High Intensity Runway Operation (HIRO)],<br>Updated Sections in accordance to the addition of 5.5,<br>Added Conditions for the application of HIROs [Section 5.5.2]
     <td>07 SEP 2025</td>
+  </tr>
+    <tr>
     <td>03/2025</td>
     <td>Updated take off clearance phraseology,<br>Added temporary procedures due WIP 16L/34R</td>
     <td>31 OCT 2025</td>
