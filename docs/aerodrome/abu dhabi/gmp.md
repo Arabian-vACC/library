@@ -289,14 +289,14 @@ VFR traffic shall be cleared via the most appropriate VFR route towards their de
 !!! note
       VFR traffic wishing to remain in the circuit shall be cleared only after prior coordination with AIR.
 
-**Left hand** circuits shall be carried out by VFR traffic departing the western runway **(31L,13R)**.
+**Left hand** circuits shall be carried out by VFR traffic departing runways **31L and 13L**
 
-**Right hand** circuits shall be carried out by VFR traffic departing the eastern runway **(31R,13L)**.
+**Right hand** circuits shall be carried out by VFR traffic departing runways runway **31R and 13R**.
 
 Circuits shall be conducted at an altitude of **1000ft**. This can be ammended up to 1500ft by AIR if required.
 
 !!! note
-      Runway 31L,13R is preferred for departure and full stop landings as it sits closer to the GA apron (Abu Dhabi Aviation Apron) situated at the south of the aerodrome.
+      Runway **31L/13R** is preferred for departure and full stop landings as it sits closer to the GA apron (Abu Dhabi Aviation Apron) situated at the south of the aerodrome.
 
 !!! note
       All VFR circuit traffic shall be assigned a discrete SSR code so that they may be identified on radar.
