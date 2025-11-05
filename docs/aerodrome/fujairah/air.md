@@ -128,4 +128,4 @@ Aircraft on the downwind should be passed the following information:
 Inbound VFR aircraft shall be instructed to contact AIR with enough time such that two-way radio communications has been established before aircraft enter the aerodrome control zone. On first contact, AIR will pass circuit joining instructions, as well as any other pertinent information.
 
 !!! example
-    **Controller:** A6-XHB, Join left-hand downwind runway 29L, 1000ft VFR, QNH 1001
+    **Controller:** A6-XHB, Join left-hand downwind runway 29L, 1500ft VFR, QNH 1001
