@@ -89,7 +89,7 @@ At any time should a runway become unsuitable for an aircraft landing, or separa
 !!! example
     **Controller**: "OMS236, go around, I say again, go around, acknowledge."
 
-Once aircraft have acknowledged the instruction and are observed to be safely climbing away, they shall be handed off to the appropriate Doha Approach controller.
+Once aircraft have acknowledged the instruction and are observed to be safely climbing away, they shall be handed off to Muscat Approach.
 
 !!! example
     **Controller**: "OMS236, climb to 6,000 ft via standard missed approach, contact Muscat Approach on 121.200."

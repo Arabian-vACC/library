@@ -33,3 +33,6 @@ When arriving 34R, pilots can expect the temporary RNP T 34R approach which acco
 
 #### 9.3.1.2 Departing Aircraft
 Departing traffic will be instructed to hold short taxiway A2 on either B or C and GMC should hand off traffic at the earliest opportunity to AIR to allow for appropriate sequencing to take place.
+
+#### 9.3.1.3 ATIS Configuration
+The ATIS profile will be updated to reflect the changes in the 34R approach for all configurations.
