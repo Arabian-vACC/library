@@ -91,7 +91,7 @@ For instance, flights departing the TMA toward the northeast will use runway 16L
 !!! warning
     The TULUB1A, LUBET1A and ULIKA1A are temporary procedures, so always check the latest NOTAMs for updates. The ULIKA1A departure is available from 22:00 to 01:00 UTC the following day, while the TULUB1A and LUBET1A are available from 07:00 to 04:00 UTC the following day.
 
-### 3.3.2 RNP radar departure
+### 3.3.2 RNP Radar Departure
 The RNP radar departure procedure shall be used when aircraft are unable to accept a one of the published RNP departures. Whereas regular RNP departures follow a prescribed track until leaving the Doha TMA, the RNP radar departures proceed to a fix beyond the extended runway centerline before continuing along the transition out of the TMA.
 
 An RNP radar departure clearance shall contain the following information:
@@ -113,7 +113,7 @@ Aircraft on an RNP radar departure shall have the appropriate SID inserted on th
 
     **Controller**: "IGO1346, readback correct, QNH 1016, report ready for pushback."
 
-### 3.3.3 Radar vector departure
+### 3.3.3 Radar Vector Departure
 The radar vector departure procedure shall be used when aircraft are unable to accept an RNP departure, such as one with outdated nav data. Whereas RNP departures follow a prescribed track until leaving the Doha TMA, radar vector departures are given radar vectors to the first fix.
 
 A radar departure clearance shall contain the following information:

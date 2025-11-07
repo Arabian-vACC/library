@@ -94,6 +94,9 @@ Where no conflicts are anticipated, aircraft may be cleared to climb to the high
   </tr>
 </tbody></table>
 
+!!! warning
+    With effect 07 NOV 2025, departures from 16L are temporarily provided with heading 120 degrees on departure and will require vectors to rejoin their SID. Please see [Aerodrome Appendix - Temporary Procedures](/aerodrome/doha-hamad/appendix_temp/) for further information
+
 ### 4.2.3 Climb Procedure - Doha 33 / Hamad 34s
 
 ## 4.3 Lateral Profile

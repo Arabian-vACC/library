@@ -13,7 +13,7 @@ Pilots departing from Doha-Hamad can obtain valid routes through SimBrief by sel
 </figure>
 
 ### Flight Planning: Standard Instrument Departure (SID)
-Controllers will assign a Standard Instrument Departure (SID) based on the first waypoint in your flight plan to guide you out of the Doha Terminal Maneuvering Area (TMA). Refer to the table below to determine the expected SID. If your waypoint is not listed, ensure your AIRAC cycle is up to date. If using an outdated AIRAC, notify the controller promptly so an RNAV radar-vectored departure or an omnidirectional departure can be arranged.
+Controllers will assign a Standard Instrument Departure (SID) based on the first waypoint in your flight plan to guide you out of the Doha Terminal Maneuvering Area (TMA). Refer to the table below to determine the expected SID. If your waypoint is not listed, ensure your AIRAC cycle is up to date. If using an outdated AIRAC, notify the controller promptly so an RNAV radar-vectored departure or an omnidirectional departure can be arranged. Generally, SIDs and runways will be assigned based on direction of flight. 
 
 
 | Waypoint |  16L  |  16R  |  34L  |  34R  | 
@@ -34,6 +34,12 @@ Controllers will assign a Standard Instrument Departure (SID) based on the first
 
 !!! Note
     The departures listed above are runway-specific and cannot be used on any runway other than those published. As a result, your clearance will not specify a designated runway. Pilots must cross-check their charts to determine their assigned departure runway. For example, if parked on Apron 6 and assigned Runway 34R, expect a long taxi.
+
+!!! note 
+    TULUB and LUBET departures should expect to be assigned RWY 34L/16R as standard, however this may be changed due to operational requirements
+
+!!! warning
+    With effect 07 NOV 2025 1600z, RWY 34R/16L will operate with reduced length. The standard departure point for 34R will be A2. Aircraft not able to accept A2 must make the delivery controller aware of this immediately, as it may necessitate a change to the flight plan. Where this occurs, pilots can expect radar vectored departure procedures from RWY 34L/16R.
 
 ## Getting your clearance
 Departing aircraft shall contact Hamad Clearance Delivery **10 minutes prior to their estimated off block time (EOBT)** and pass the following information:
