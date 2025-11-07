@@ -37,12 +37,12 @@ The standard vacate point for RWY 34R has been amended to A9 as part of this pro
 Departing traffic shall be instructed to hold short taxiway A2 on either B or C and GMC should hand off traffic at the earliest opportunity to AIR to allow for appropriate sequencing to take place. Pilots not able to accept A2 for departure should be reassigned to RWY 34L for departure (refer to **3.3.2 RNP Radar Departures** where appropriate).
 
 #### 9.3.1.3 Departing Aircraft - 16L
-Traffic cleared from 16L shall be provided with their SID as normal, but additionally shall be provided with an instruction **"Passing 500 ft, turn left heading 120 degrees, climb to altitude 4000 ft."**
+Traffic cleared from 16L shall be provided with their SID as normal, but additionally shall be provided with an instruction **"Passing 500 ft, turn left heading 120 degrees, climb to altitude 4000 ft."** Note that this is  a change to the standard initial climb for **all 16L SIDs.**
 
 !!! example
     **Pilot**: "Hamad Clearance Delivery, QTR1Y, Boeing 777-300ER, information A, stand C10, requesting FL210, to Dubai."
 
-    **Controller**: "QTR1Y, Hamad Clearance Delivery, information A correct, cleared to Dubai via the ALSEM2M departure, passing 500 ft, turn left heading 120 degrees, climb to altitude 4000ft, squawk 0550."
+    **Controller**: "QTR1Y, Hamad Clearance Delivery, information A correct, cleared to Dubai via the ALSEM2M departure. When passing 500 ft, turn left heading 120 degrees, climb to altitude 4000ft, squawk 0550."
 
     **Pilot**: "Cleared to Dubai via the ALSEM2M departure, passing 500 ft, turn left heading 120 degrees, climb to altitude 4000ft, squawk 0550, QTR1Y."
 
