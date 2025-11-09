@@ -21,7 +21,7 @@
 |    Hamad Tower (West)    |   OTHH_2_TWR   |     AIR 2    |  118.025  |
 |   Doha Director (East)   |   DOH_F1_APP   |     FIN 1    |  119.400  |
 |  Doha Director (Central) |   DOH_F2_APP   |     FIN 2    |  124.050  |
-|   Doha Director (West)   |   DOH_F2_APP   |     FIN 3    |  123.875  |
+|   Doha Director (West)   |   DOH_F3_APP   |     FIN 3    |  123.875  |
 |   Doha Approach (East)   |   DOH_A1_APP   |     APP 1    |  124.775  |
 |   Doha Approach (West)   |   DOH_A2_APP   |     APP 2    |  119.725  |
 |    Doha Radar (North)    |   DOH_R1_APP   |     RDR 1    |  121.100  |

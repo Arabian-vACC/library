@@ -31,7 +31,7 @@ Departing aircraft shall be instructed to report ready for pushback.
 !!! example
     **Pilot:** Al Bateen Ground, IFA6487, Bombardier Global Express, apron C, Information A, requesting IFR clearance to Verona, fully ready for push and start.
 
-    **Controller:** IFA6487, Al Bateen Ground, cleared to Verona via DAXIB1Q, maintain altitude 5000ft, Squawk 3432.
+    **Controller:** IFA6487, Al Bateen Ground, cleared to Verona via DAXIB1Q, maintain altitude 3000ft, Squawk 3432.
 
     **Pilot:** Cleared to Verona via DAXIB1Q, maintain altitude 3000ft, Squawk 3432. IFA6487.
 
