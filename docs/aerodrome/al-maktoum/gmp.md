@@ -164,7 +164,6 @@ All VFR departures shall be assigned a discrete SSR code so that they may be ide
       **Controller:** A6-CTK, readback correct, information A, QNH 1003, Report ready for start-up.
 
 ### 3.6.3 VFR traffic remaining in circuit
-VFR traffic wishing to remain in the circuit shall be cleared only after prior coordination with AIR and Approach/Departure control.
-All VFR circuit traffic shall be assigned a discrete SSR code so that they may be identified on radar.
+VFR traffic wishing to remain in the circuit shall be cleared only after prior coordination with AIR and Approach/Departure control. All VFR circuit traffic shall be assigned a discrete SSR code so that they may be identified on radar.
 
 All VFR aircraft shall be instructed to conduct circuits to the north of the aerodrome (right-hand circuits for 30 and left-hand circuits for 12) at an altitude of 1000 ft. EFTA aircraft shall be instructed to conduct circuits to the south of the aerodrome (left-hand circuits for 31 and right-hand circuits for 13) at an altitude of 1000 ft, **only** during the academy operational hours. Aircraft may also be cleared to conduct circuits at 1500 ft, if required.

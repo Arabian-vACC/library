@@ -16,7 +16,7 @@ These phases are detailed below along with adjusted SOP relating to the operatio
 ### 9.2.1 Phase 1
 The length of RWY 16L/34R will be reduced to 4270m. The vast majority of aircraft on normal operations will be able to depart using this runway length.
 
-**34R Operations:** A2 becomes "full length" for departures, with A3 available as an intersection at the controller's discretion. Temporary arrival procedure RNP T 34R is available and can be found in the AIP Supplement and on Navigraph charts. RRSM is suspended on RWY 34R.
+**34R Operations:** A2 becomes "full length" for departures, with A3 available as an intersection at the controller's discretion. Temporary arrival procedure RNP T 34R is available and can be found in the AIP Supplement and on Navigraph charts. **RRSM is suspended on RWY 34R.**
 
 **16L Operations:** The last point at which an aircraft can vacate is A2. Intersections available as normal. A temporary directive for departures is issued.
 

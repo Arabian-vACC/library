@@ -146,7 +146,7 @@ The initial taxi shall include instructions to taxi “LEFT” or “RIGHT” on
 Once aircraft have been observed to be taxiing and completely clear of the exit, transfer of control shall be initiated to GMC provided there will be no conflicts with other arriving traffic.  
 
 !!! note
-      Aircraft may normally be expected to vacate on V10 in the 30 direction or V9 in the 12 direction.  
+      Aircraft are normally expected to vacate on V10 in the 30 direction or V9 in the 12 direction.  
 
 !!! note
       If required for separation and to expedite traffic, aircraft may be instructed to vacate via the appropriate rapid exit taxiway on initial contact. 
@@ -157,12 +157,15 @@ Once VFR aircraft are ready for departure, they should be cleared for take-off i
 
 Once aircraft are clear of the zone, they shall be instructed to remain outside controlled airspace and monitor advisory.
 
-Aircraft climbing into controlled airspace shall be handed off to departure control. 
+Aircraft climbing into controlled airspace shall be handed off to departure control.
+
+!!! note
+      Traffic leaving the zone from EFTA to the South shall be retained by Academy Tower. Traffic leaving the zone in all other directions shall be passed to Al Maktoum Tower once airborne.
 
 ### 5.4.2 VFR traffic remaining in the circuit
-AIR control is responsible for managing circuit traffic. Circuits must always be conducted to the south of the aerodrome for runways 31/13 and to the north of the aerodrome for runways 31/12
+AIR control is responsible for managing circuit traffic. Circuits must always be conducted to the south of the aerodrome for runways 31/13 and to the north of the aerodrome for runways 31/12.
 
-Circuits shall be conducted in accordance with the procedures laid down in 3.7.3.
+Circuits shall be conducted in accordance with the procedures laid down in 3.6.3. 
 
 Once aircraft are ready for departure, they should be cleared for take-off in sequence. As they begin their crosswind turn (the first turn after departure) they shall be instructed to report when they are on the downwind with their intentions. 
 
@@ -174,8 +177,8 @@ Aircraft may request either a touch and go (where the aircraft lands and immedia
 Once AIR is aware of the aircraft’s request, they may be sequenced to the runway, with due consideration given to runway occupancy time. 
 
 Aircraft on the downwind should be passed the following information: 
-- Expected runway;
-- Sequence; 
+- Expected runway
+- Sequence
 - Traffic information if applicable
 
 !!! example
