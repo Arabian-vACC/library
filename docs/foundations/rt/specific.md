@@ -238,17 +238,6 @@ For traffic reasons, it may be necessary for the aircraft to **take off immediat
 
 During **low visibility operations**, the controller may request the pilot to **report when airborne**.  
 
-#### 3.3.2.2 Doha Specific
-The **departure frequency** is issued as part of the **take-off clearance**.  
-
-!!! example
-    **Controller**: "QATARI 587, AIRBORNE CONTACT DOHA RADAR ON 121.1, FROM A2 [SURFACE] WIND, 300 DEGREES, 18 KNOTS, RUNWAY 34R, CLEARED FOR TAKE-OFF."
-
-    **Pilot**: "AIRBORNE CONTACT DOHA RADAR ON 121.1, FROM A2, RUNWAY 34R, CLEARED FOR TAKE-OFF, QATARI 587."
-
-    **Controller**: "QATARI 587, AIRBORNE CONTACT DOHA RADAR ON 121.1, [SURFACE] WIND, 300 DEGREES, 18 KNOTS, RUNWAY 34R, CLEARED FOR TAKE-OFF."
-
-    **Pilot**: "AIRBORNE CONTACT DOHA RADAR ON 121.1, RUNWAY 34R, CLEARED FOR TAKE-OFF, QATARI 587."
 
 ### 3.3.3 Cancelling take-off clearance
 Due to unexpected traffic developments or a departing aircraft taking longer to take off than anticipated, it may be necessary to **cancel the take-off clearance** or quickly **clear the runway** for landing traffic. In such situations, the pilot must **acknowledge the instruction** with their **callsign** and **intentions**.  
