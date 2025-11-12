@@ -407,6 +407,10 @@ Additional requirements based on the endorsement being pursued:
 - **Dubai TWR** – Minimum of 25 hours on the S2 rating  
 - **Dubai TMA** – Minimum of 35 hours on the S3 rating  
 
+Sandbagged hours (i.e. hours on low taffic stations and or sessions which saw low to no traffic, can be deemed inadmissable towards the Tier 1 endorsement)
+
+Any session below 30 minutes also does not count towards the T1 endorsement requirement.
+
 Controllers who meet all the requirements above must submit a support ticket to the Arabian vACC ATC Training Department to express their interest in obtaining the Tier 1 Dubai endorsement. 
 
 If a controller applies for a DEL/GND endorsement and later obtains their S2 rating, they will need to go through the same process again to obtain the next Tier 1 Dubai endorsement for TWR. Similarly, controllers holding an S3 rating and seeking the Tier 1 Dubai endorsement for TMA will need to follow the same process.
