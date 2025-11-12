@@ -36,14 +36,14 @@ Aircraft shall be separated on departure in compliance with standard IFR departu
 VFR aircraft may be instructed to maintain visual separation with preceding aircraft and given a take-off clearance if no wake turbulence separation minima exists. are able to achieve minimum separation requirements when reaching the respective Al-Ain CTA exit point.
 
 ### 4.3.5 IFR handoff procedure
-IFR departures shall be handed off to Al-Ain Approach Radar.
-Where Al-Ain Approach Radar is offline, aircraft shall be handed off directly to the appropriate UAE controller.
+IFR departures shall be handed off to Abu Dhabi Radar East.
+When Abu Dhabi Radar East is offline, aircraft shall be handed off directly to the appropriate UAE controller.
 
 ### 4.3.6 Stopping a departure
 Aircraft that have commenced their take-off roll may be instructed to stop immediately to avert a collision due to a runway incursion or any other dangerous situation.
 
 !!! warning
-    The instruction to stop must be given early enough such that the aircraft does not reach its decision speed. Therefore, aerodrome controllers must be vigilant and remain aware of the location of traffic and all times as well as runway incursion hotspots. 
+    The instruction to stop must be given early enough such that the aircraft does not reach its decision speed(V1). Therefore, aerodrome controllers must be vigilant and remain aware of the location of traffic and all times as well as runway incursion hotspots. 
 
 !!! example
     **Controller:** ABY728, Stop immediately, I say again stop immediately, vehicle entering the runway!
@@ -56,7 +56,7 @@ For aircraft that have been given a take-off clearance, but have not yet started
 ### 4.4 Arrival procedures
 ### 4.4.1 Speed control
 Although the radar controllers are responsible for separating arriving aircraft, the AIR controller shall still ensure that minimum separation is maintained until the preceding aircraft crosses the runway threshold.
-If it is apparent that minimum separation may not exist as provided in Wake Turbulence Separation (WTS) or minimum radar separation minima, AIR may use a tactical reduction in aircraft speed.
+If it is apparent that minimum separation may not exist as provided in Wake Turbulence Separation (WTS) or minimum radar separation minima, AIR may use a tactical reduction in aircraft speed. Keep in mind that this tactical move should be done as early as possible, to prevent a Go Around procedure as mentioned in 4.4.2.
 
 !!! example
     **Controller:** IGO82M, Reduce to final approach speed.
@@ -69,10 +69,10 @@ At any time should a runway become unsuitable for an aircraft landing, or separa
 !!! example
     **Controller:** ABY78N, Go around, I say again, go around, acknowledge.
 
-Once aircraft are observed to be safely climbing away, they shall be handed off to departure control.
+Once aircraft are observed to be safely climbing away, they shall be handed off to the appropriate Radar Controller (Abu Dhabi Radar East).
 
 !!! example
-    **Controller:** ABY78N, Climb to 3000ft via standard missed approach, contact Ras Al Khaimah Approach Radar 124.000.
+    **Controller:** ABY78N, Climb to 3000ft via standard missed approach, contact Abu Dhabi Radar East 133.550.
 
 ### 4.4.3 Arrival taxi procedures
 In addition to the entry/exits to the runway at either end at A and E, there are entry/exits at B, C and D however as mentioned in 3.2.5, Code F aircraft must only exit the runway at A and E
@@ -83,19 +83,22 @@ Once VFR aircraft are ready for departure, they should be cleared for take-off i
 
 Once aircraft are clear of the zone, they shall be instructed to remain outside controlled airspace and monitor advisory.
 
-Aircraft climbing into controlled airspace shall be handed off to departure control.
-
+Aircraft climbing into controlled airspace shall be handed off to the appropriate Radar Controller (Abu Dhabi Radar East).
 !!! example
-    **Controller**: " A6-CTV, wind 330 degrees, 7 knots, runway 34, cleared for takeoff."
+    **Controller**: " A6-CTV, wind 330 degrees, 4 knots, runway 01, cleared for takeoff."
 
-    **Pilot**: "Cleared for takeoff, runway 34, A6-CTV."
+    **Pilot**: "Cleared for takeoff, runway 01, A6-CTV."
+	
+!!! warning
+    Jet aircrafts exiting west of the control zone passing over Buraimi Town shall climb to a minimum of 6000 ft and handed over to Abu Dhabi East Radar. 
+
 
 
 
 ### 4.5.2 VFR traffic remaining in the circuit
 AIR control is responsible for managing circuit traffic.
 
-Once aircraft are ready for departure, they should be cleared for take-off in sequence. As they begin their crosswind turn (the first turn after departure) they shall be instructed to report when they are on the downwind with their intentions.
+Once aircraft are ready for departure, they should be cleared for take-off in sequence. VFR traffic reminging in circuit are allowed up to 2500 ft. Circuit east of airport not authorised outside 3 NM from ALA VOR. Circuit west of the airport not authorised over Sleimat or Al Yahar. As they begin their crosswind turn (the first turn after departure) they shall be instructed to report when they are on the downwind with their intentions.
 
 !!! example
     **Controller**: " A6-CTV, Report downwind with intentions."
@@ -113,4 +116,4 @@ Aircraft on the downwind should be passed the following information:
     **Controller**: " A6-CTV, report final runway 01, number 1, traffic is a DA42 on a 3.5 mile final runway 01."
 
 ### 4.5.3 VFR arrivals
-Inbound VFR aircraft shall be instructed to contact AIR with enough time such that two-way radio communications has been established before aircraft enter the aerodrome control zone. On first contact, AIR will pass circuit joining instructions, as well as any other pertinent information.
+Inbound VFR aircraft shall be instructed to contact AIR with enough time such that two-way radio communications has been established before aircraft enter the aerodrome control zone. On first contact, AIR will pass circuit joining instructions, cleared altitude and local QNH.

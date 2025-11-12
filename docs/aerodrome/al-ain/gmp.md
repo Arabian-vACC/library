@@ -104,7 +104,7 @@ VFR traffic shall be cleared via the most appropriate VFR route towards their de
 All VFR departures shall be assigned a discrete SSR code so that they may be identified on radar.
 
 ### 2.4.2 VFR Departures into controlled airspace
-VFR aircraft requesting clearance to climb into approach airspace (above 1500 ft) shall only be cleared after prior coordination with approach/departure control. Otherwise, they shall be instructed to remain outside controlled airspace after leaving the control zone.
+VFR aircraft requesting clearance to climb into approach airspace (above 2500 ft) shall only be cleared after prior coordination with approach/departure control. Otherwise, they shall be instructed to remain outside controlled airspace after leaving the control zone.
 
 All VFR departures shall be assigned a discrete SSR code so that they may be identified on radar.
 
