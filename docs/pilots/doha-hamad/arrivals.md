@@ -19,7 +19,7 @@ If the aircraft supports a secondary flight plan, pilots should preload an alter
 The standard approach at Doha-Hamad is the ILS, with independent parallel operations in effect. Pilots can expect a minimum diagonal separation of 3 NM from traffic on the opposite runway and 2 NM spacing from preceding aircraft on the opposite runway.
 
 !!! warning
-    With effect 07 NOV 2025 1600z, pilots assigned runway 34R for arrival can expect to be assigned the RNP T 34R approach due to a partial runway closure. This can be found in the latest AIRAC data.
+    With effect 07 NOV 2025 1600z, pilots assigned runway 34R for arrival can expect to be assigned the RNP T 34R approach due to a partial runway closure. This can be found in the latest AIRAC data. Arrivals on 16L can expect the RNP 16L approach.
 
 ## Speeds
 The speed limits and recommended speeds within different segments of the Doha terminal area is as follows:

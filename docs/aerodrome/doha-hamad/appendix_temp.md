@@ -18,7 +18,7 @@ The length of RWY 16L/34R will be reduced to 4270m. The vast majority of aircraf
 
 **34R Operations:** A2 becomes "full length" for departures, with A3 available as an intersection at the controller's discretion. Temporary arrival procedure RNP T 34R is available and can be found in the AIP Supplement and on Navigraph charts. **RRSM is suspended on RWY 34R.**
 
-**16L Operations:** The last point at which an aircraft can vacate is A2. Intersections available as normal. A temporary directive for departures is issued.
+**16L Operations:** The last point at which an aircraft can vacate is A2. Intersections available as normal. A temporary directive for departures is issued. **RRSM is suspended on RWY 16L.**
 
 ### 9.2.2 Phase 2
 The length of RWY 16L/34R will be reduced to 3030m. The majority of aircraft should still be able to depart from this runway length, however in the event that they are unable, 16R/34L should be used as the alternative.
@@ -28,10 +28,15 @@ RWY 16L/34R will be closed for an extended period, with all departures/arivvals 
 
 ## 9.3 Revised Procedures
 ### 9.3.1 Phase 1
-#### 9.3.1.1 Arriving Aircraft
+#### 9.3.1.1 Arriving Aircraft - 34R
 When arriving 34R, pilots shall expect the temporary RNP T 34R approach which accommodates the displaced threshold. This procedure is active from 07 NOV 2025 0000z until 18 MAR 2026 2359z.
 
 The standard vacate point for RWY 34R has been amended to A9 as part of this procedure.
+
+#### 9.3.1.1 Arriving Aircraft - 16L
+When arriving 16L, pilots shall expect the RNP 16L approach as the ILS is unavailable.
+
+The last available vacate point for 16L is A2.
 
 #### 9.3.1.2 Departing Aircraft - 34R
 Departing traffic shall be instructed to hold short taxiway A2 on either B or C and GMC should hand off traffic at the earliest opportunity to AIR to allow for appropriate sequencing to take place. Pilots not able to accept A2 for departure should be reassigned to RWY 34L for departure (refer to **3.3.2 RNP Radar Departures** where appropriate).
