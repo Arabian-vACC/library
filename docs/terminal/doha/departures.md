@@ -99,6 +99,8 @@ Where no conflicts are anticipated, aircraft may be cleared to climb to the high
 
 ### 4.2.3 Climb Procedure - Doha 33 / Hamad 34s
 
+***
+
 ## 4.3 Lateral Profile
 ### 4.3.1 General
 The lateral profile of Standard Instrument Departures (SIDs) within the Doha Terminal Maneuvering Area (TMA) is specifically designed to ensure separation between departing traffic, arriving traffic, and arrivals into adjacent airports.
