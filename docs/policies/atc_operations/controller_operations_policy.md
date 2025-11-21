@@ -209,7 +209,7 @@ Controllers may "subscribe" to specific roles on the Arabian vACC Discord server
 The following role is used by the Arabian vACC Marketing Department to request controllers to express their interest in specific positions for upcoming events.
 
 #### ATC Support Requests
-Controllers working top-down or handling excessive traffic may use this role to request support from lower-level controllers. This role is intended for situations where a controller is managing high-level traffic and requires assistance from a lower controller at a specific location.
+Controllers working top-down or handling excessive traffic may use this role to request support from lower-level controllers. This role is intended for situations where a controller is managing high-level traffic and requires assistance from a lower controller at a specific location. The role should be used in the discord channel 🚩│atc-marketplace 
 
 For example, a controller managing Dubai Arrivals while also handling traffic on the ground at multiple airports (e.g., Al-Maktoum, Dubai, and Sharjah) may use this role to request support from aerodrome controllers.
 
@@ -217,7 +217,7 @@ For example, a controller managing Dubai Arrivals while also handling traffic on
     @ATC Support Requests, Currently on OMDB_APP covering OMDB, OMDW, and OMSJ top-down with traffic on the ground. Would appreciate any aerodrome controllers.
 
 #### ATC Relief Requests
-Controllers planning to leave their position but whose departure would cause significant disruption should use this role. This includes situations where closing the position would increase the workload of a higher-level position within the top-down hierarchy.
+Controllers planning to leave their position but whose departure would cause significant disruption should use this role. This includes situations where closing the position would increase the workload of a higher-level position within the top-down hierarchy. The role should be used in the discord channel 🚩│atc-marketplace 
 
 For example, if you are on tower handling 12 departures and closing the position would significantly impact the approach or center controller's workload, this role should be used.
 
