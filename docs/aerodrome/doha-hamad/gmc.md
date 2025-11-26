@@ -124,7 +124,44 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 
     **Pilot**: "Taxi via W2, hold short J, QTR98K."
 
-### 4.4.2 Runway 16L departure taxi procedures
+### 4.4.2 Taxiway Reporting Points
+Mandatory taxiway reporting points have been introduced at Hamad. Aircraft are required to stop at these points unless explicitly instructed by ATC to proceed further. 
+
+!!! note
+    Taxiway reporting points are not currently provided in any generally available scenery. Until such a time as they are, pilots should not be expected to stop at them and should continue to be issued "hold short of taxiway" instructions as in the existing procedures to avoid confusion.
+
+Reporting points are outlined below:
+
+| **Runway** | **Reporting Point** | **Location**               |
+|------------|---------------------|----------------------------|
+|  16L/34R   | DUKAN               | Taxiway B, short of A12    |
+|            | FALAH               | Taxiway C, short of A12    |
+|            | MAKIN               | Taxiway B, short of A1     |
+|            | LAFAN               | Taxiway C, short of A1     |
+| Taxiway C  | OMRAN               | Taxiway C, between R and F |
+|  16R/34L   | FLORA               | Taxiway J, short of L11    |
+|            | NAJIM               | Taxiway K, short of L11    |
+|            | RAYAN               | Taxiway M, short of M13    |
+|            | ASTON               | Taxiway R, short of M      |
+|            | SHIPO               | Taxiway S, short of M      |
+|            | KATTY               | Taxiway J, short of L1     |
+|            | HARMO               | Taxiway K, short of L1     |
+|            | DAFNA               | Taxiway M, short of M2     |
+|            | NUSUK               | Taxiway R, short of K      |
+|            | DASHA               | Taxiway S, short of K      |
+|            | FALCO               | Taxiway K, short of R      |
+|            | FANAR               | Taxiway K, short of S      |
+
+
+!!! example
+    **Controller:** "Taxi via E4 and C, hold at LAFAN, short of taxiway A1."
+
+!!! warning
+    Handoff to the tower controller shall be intitiated earlier than the hold to allow for the appropriate sequencing to take place. For example, when taxiing to 34L, traffic should be passed to Tower when reaching the E1/A3 intersection on taxiway B/C, and similar for the other runways.
+
+
+
+### 4.4.3 Runway 16L departure taxi procedures
 | **Concourse/Apron**                             | **Instruction Details**                                                                                                         |
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | **Concourse A, C (West), D, Remote Transfer H** | Aircraft on taxiway W: taxi via H or W to join J, R, and B to hold short taxiway A10.                                           |
@@ -142,7 +179,7 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 |                                                 | Aircraft on taxiway Y: taxi to join K, R, and B to hold short taxiway A10.                                                      |
 | **Apron 6**                                     | Aircraft on taxiways S2 or S3: taxi to join R1, R, and B to hold short taxiway A10.                                             |
 
-### 4.4.3 Runway 16R departure taxi procedures
+### 4.4.4 Runway 16R departure taxi procedures
 | **Concourse/Apron**                             | **Instruction Details**                                                                                                         |
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | **Concourse A, C (West), D, Remote Transfer H** | Aircraft on taxiway W: taxi via K to hold short taxiway L10.                                                                    |
@@ -160,7 +197,7 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 |                                                 | Aircraft on taxiway Y: taxi to join K to hold short taxiway L10.                                                                |
 | **Apron 6**                                     | Aircraft on taxiways S2 or S3: taxi to join R1 and M to hold short taxiway L10.                                                 |
 
-### 4.4.4 Runway 34L departure taxi procedures
+### 4.4.5 Runway 34L departure taxi procedures
 | **Concourse/Apron**                             | **Instruction Details**                                                                                                                                           |
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Concourse A, C (West), D, Remote Transfer H** | Aircraft on taxiway W: taxi via L or L1 and hold short taxiway J.                                                                                                 |
@@ -179,7 +216,7 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 | **Apron 6**                                     | Aircraft on taxiway S2: taxi to join S3, P, and continue to holding points P1, P2, P3, P4, P5, P6, P7.                                                            |
 |                                                 | Aircraft on taxiway S4: taxi to join P, and continue to holding points P1, P2, P3, P4, P5, P6, P7.                                                                |
 
-### 4.4.5 Runway 34R departure taxi procedures
+### 4.4.6 Runway 34R departure taxi procedures
 | **Concourse/Apron**                             | **Instruction Details**                                                                                                                    |
 |-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | **Concourse A, C (West), D, Remote Transfer H** | Aircraft on taxiway W: taxi via H, then proceed through either W1 or W2, and continue on J, R, and B and hold short taxiway A2.            |
@@ -204,13 +241,14 @@ Arriving aircraft should not be handed off by AIR immediately upon landing. Inst
 
 Aircraft must avoid stopping on rapid exit taxiways and should proceed as follows, unless otherwise directed by the tower:  
 
-- **Vacating 16L:** Continue taxiing southbound via taxiway B.  
-- **Vacating 16R:** Continue southbound via taxiway K or M.  
-- **Vacating 16R with parking on Apron 5:** Expect a northbound turn onto taxiway K (HIRO does not apply).  
-- **Vacating 34L:** Continue northbound via taxiway M unless instructed to vacate to the east (HIRO does not apply when vacating east).  
-- **Vacating 34R:** Continue northbound via taxiway B.  
+| Runway | Taxi Route  |
+|:------:|:----------------------:|
+|   16L  |      Continue taxi via A6, hold short of C     |
+|   16R  |    Continue via taxiway K or M southbound. If parking stand is planned on Apron 5, expect northbound turn on to taxiway K    |
+|   34L  |    Continue via taxiway K or M southbound. If parking stand is planned on Apron 5, expect northbound turn on to taxiway K    |
+|   34R  |      Continue taxi via A6, hold short of C     |
 
-Therefore, GMC should assign an arrival stand to aircraft as soon as they appear on the arrival list, as this facilitates the assignment of the arrival runway for terminal controllers.  
+Therefore, GMC should assign an arrival stand to aircraft as early as able after they appear on the arrival list, as this facilitates the assignment of the arrival runway for terminal controllers.  
 
 Once the aircraft is handed off to GMC, they can be directed to their assigned stand.  
 

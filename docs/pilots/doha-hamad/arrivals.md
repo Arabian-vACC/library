@@ -67,11 +67,12 @@ Aircraft arriving on Runway 34L may experience glidepath signal fluctuations due
 ## Taxi
 After landing, aircraft must not stop on the rapid exit taxiways and shall continue taxiing according to the following procedures unless otherwise instructed by the tower controller:  
 
-- **Runway 16L:** Continue via B southbound.  
-- **Runway 16R:** Continue via K or M southbound.  
-- **Runway 16R (Apron 5 Parking):** Expect a northbound turn onto K (HIRO not applicable).  
-- **Runway 34L:** Continue via M northbound unless instructed to vacate to the east (if vacating east, HIRO not applicable).  
-- **Runway 34R:** Continue via B northbound.  
+| Runway | Taxi Route  |
+|:------:|:----------------------:|
+|   16L  |      Continue taxi via A6, hold short of C     |
+|   16R  |    Continue via taxiway K or M southbound. If parking stand is planned on Apron 5, expect northbound turn on to taxiway K    |
+|   34L  |    Continue via taxiway K or M southbound. If parking stand is planned on Apron 5, expect northbound turn on to taxiway K    |
+|   34R  |      Continue taxi via A6, hold short of C     |
 
 The following taxi diagrams depict the standard taxi routings. Note that it may be necessary for operational reasons to deviate from these routings and pilots should follow ATC instructions at all times.
 

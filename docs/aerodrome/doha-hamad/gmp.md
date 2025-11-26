@@ -71,27 +71,27 @@ For instance, flights departing the TMA toward the northeast will use runway 16L
     Assigning an incorrect runway for a given direction will cause EuroScope to default to a radar-vectored departure, such as KASIS, IVENA, PARES, or DEMBO. If one of these four departures appears, it indicates that the runway assigned does not match the intended direction of flight, and the runway assignment should be reviewed and corrected accordingly.
 
 !!! note
-    The TULUB and LUBET departure are available for both runways and should be assigned based on runway capacity and the current departure rate. Coordination with the relevant APP controller is required.
+    The TULUB and LUBET departure are available for both runways and should be assigned based on runway capacity and the current departure rate. Coordination with the relevant APP controller is required if departing TULUB/LUBET traffic from 16L/34R.
 
 | SID<br>16L   | Initial Climb | SID<br>16R   | Initial Climb | SID<br>34L   | Initial Climb | SID<br>34R   | Initial Climb |
 |--------------|---------------|--------------|---------------|--------------|---------------|--------------|---------------|
 | ALSEM2M      | 5000ft        | BUNDU2C      | 7000ft        | DATRI1W      | 4000ft        | ALSEM3E      | 4000ft        |
-| ALVEN2M      | 5000ft        | DATRI1C      | 7000ft        | **LUBET1A**  | 10000ft       | ALVEN3E      | 4000ft        |
+| ALVEN2M      | 5000ft        | DATRI1C      | 7000ft        | **LUBET2A**  | 10000ft       | ALVEN3E      | 4000ft        |
 | KASIS2       | 5000ft        | IVENA3       | 5000ft        | LUBET1W      | 4000ft        | BUNDU3E      | 4000ft        |
 | KUPRO1M      | 5000ft        | LUBET1C      | 6000ft        | PARES3       | 4000ft        | DEMBO3       | 4000ft        |
-| LUBET1M      | 5000ft        | TULUB1C      | 6000ft        | **TULUB1A**  | 10000ft       | KUPRO2E      | 4000ft        |
+| LUBET1M      | 5000ft        | TULUB1C      | 6000ft        | **TULUB2A**  | 10000ft       | KUPRO2E      | 4000ft        |
 | LUBET1Y      | 5000ft        | ULIKA1C      | 7000ft        | TULUB1W      | 4000ft        | LUBET2E      | 4000ft        |
-| TULUB1M      | 5000ft        |              |               | **ULIKA1A**  | 4000ft        | LUBET2Z      | 4000ft        |
+| TULUB1M      | 5000ft        |              |               | **ULIKA2A**  | 4000ft        | LUBET2Z      | 4000ft        |
 | VAXIN2M      | 5000ft        |              |               | ULIKA1W      | 4000ft        | TULUB2E      | 4000ft        |
 |              |               |              |               |              |               | VAXIN3E      | 4000ft        |
 <figure markdown>
   <figcaption>Table 3-1: RNAV SIDs</figcaption>
 </figure>
 
-!!! warning
-    The TULUB1A, LUBET1A and ULIKA1A are temporary procedures, so always check the latest NOTAMs for updates. The ULIKA1A departure is available from 22:00 to 01:00 UTC the following day, while the TULUB1A and LUBET1A are available from 07:00 to 04:00 UTC the following day.
+### 3.3.2 Continuous Climb Operations
+The TULUB2A, LUBET2A and ULIKA2A are specifically designed to allow continuous climb operations, maximising airspace efficiency and reducing fuel burn. These should be utilised where available, however it should be noted that there are time constraints applied to them. The ULIKA2A departure is available from 22:00 to 01:00 UTC the following day, while the TULUB2A and LUBET2A are available from 07:00 to 04:00 UTC the following day. vSID will issue these SIDs automatically based upon time of day, prioritising the continuous climb operations of the 2A SIDs where possible.
 
-### 3.3.2 RNP Radar Departure
+### 3.3.3 RNP Radar Departure
 The RNP radar departure procedure shall be used when aircraft are unable to accept a one of the published RNP departures. Whereas regular RNP departures follow a prescribed track until leaving the Doha TMA, the RNP radar departures proceed to a fix beyond the extended runway centerline before continuing along the transition out of the TMA.
 
 An RNP radar departure clearance shall contain the following information:
@@ -113,7 +113,7 @@ Aircraft on an RNP radar departure shall have the appropriate SID inserted on th
 
     **Controller**: "IGO1346, readback correct, QNH 1016, report ready for pushback."
 
-### 3.3.3 Radar Vector Departure
+### 3.3.4 Radar Vector Departure
 The radar vector departure procedure shall be used when aircraft are unable to accept an RNP departure, such as one with outdated nav data. Whereas RNP departures follow a prescribed track until leaving the Doha TMA, radar vector departures are given radar vectors to the first fix.
 
 A radar departure clearance shall contain the following information:

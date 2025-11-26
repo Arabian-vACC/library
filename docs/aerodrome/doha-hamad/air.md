@@ -39,6 +39,8 @@ The Final Approach Monitoring Controller will override the relevant Tower freque
 High Intensity Runway Operations for departing aircraft are in effect 24 hours a day. All checks should be completed when reaching the assigned holding point, and aircraft must line up without delay when cleared by ATC. Prompt action should be taken in response to take-off clearance. Whenever possible, intersection departures should be used.
 
 ### 5.3.1 Standard departure points
+Below are the points which pilots are recommended to plan for departure.
+
 <figure markdown>
 | Runway | Standard departure points |
 |:------:|:-------------------------:|
@@ -47,11 +49,14 @@ High Intensity Runway Operations for departing aircraft are in effect 24 hours a
 |   34L  |          L2/M3/M4         |
 |   34R  |             A2            |
 
-  <figcaption>Table 4-1: Standard departure points</figcaption>
+  <figcaption>Table 5-1: Standard departure points</figcaption>
 </figure>
 
 !!! warning
     Temporary procedures are in place from 07 NOV 2025 for operations on RWY 16L/34R due WIP. Please refer to section 9 - [Appendix - Temporary Procedures](/aerodrome/doha-hamad/appendix_temp/)
+
+!!! info
+    While these are the standard departure points pilots are expected to utilise for performance, they are **not** necessarily the same as those available for RRSM departures (see section 5.6)
 
 ### 5.3.2 Line up clearances
 Conditional line up instructions shall include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission. It is recommended to only have a maximum of two conditional line up clearances active at one i.e., one aircraft lining up behind a departure, and another aircraft lining up behind them.
@@ -98,7 +103,7 @@ If Doha Approach (East or West) is offline, all handoffs will be directed to Doh
 |   34L  | Doha Approach West |
 |   34R  | Doha Approach East |
 
-  <figcaption>Table 4-2: Doha Approach hand offs</figcaption>
+  <figcaption>Table 5-2: Doha Approach hand offs</figcaption>
 </figure>
 
 ### 5.3.6 Stopping a departure
@@ -126,7 +131,7 @@ On initial contact, aircraft shall be instructed to vacate at a designated taxiw
 |   34L  |    L6/M8    |
 |   34R  |      A5     |
 
-  <figcaption>Table 4-3: Standard runway exits</figcaption>
+  <figcaption>Table 5-3: Standard runway exits</figcaption>
 </figure>
 
 ### 5.4.2 Separation requirements
@@ -180,13 +185,32 @@ Once aircraft have been observed to be taxiing and completely clear of the RET, 
 ### 5.5.1 General
 As part of runway capacity enhancement initiative at Hamad International Airport, High Intensity Runway Operation (HIRO) is implemented. To achieve maximum landings per hour and reduce go-arounds due to an occupied runway by a preceding landing aircraft, runway occupancy times are to be reduced to a minimum.
 
-HIROs will be in force as per section 5.5.2 Conditions are taking place in Doha-Hamad
+During HIRO, pilots should only use standard rapid exit taxiways (RET’s) as outlined in **Table 5-4** and are encouraged to vacate the landing runway within 60 seconds. Pilots unable to comply with HIRO shall advise Tower on first contact.
 
-During HIRO operations, pilots shall only use standard rapid exit taxiways (RET’s) and are encouraged to vacate the landing runway within 60 seconds.
+<figure markdown>
+| Runway | Runway Exit |
+|:------:|:-----------:|
+|   16L  |      A7     |
+|   16R  |    L5/M7    |
+|   34L  |    L6/M8    |
+|   34R  |      A5     |
+
+  <figcaption>Table 5-4: HIRO Runway Exits</figcaption>
+</figure>
+
+When exiting the runway, pilots shall continue taxi as outlined in table 5-5, unless otherwise instructed by the Tower controller:
+
+| Runway | Taxi Route  |
+|:------:|:----------------------:|
+|   16L  |      Continue taxi via A6, hold short of C     |
+|   16R  |    Continue via taxiway K or M southbound. If parking stand is planned on Apron 5, expect northbound turn on to taxiway K    |
+|   34L  |    Continue via taxiway K or M southbound. If parking stand is planned on Apron 5, expect northbound turn on to taxiway K    |
+|   34R  |      Continue taxi via A6, hold short of C     |
+
 ### 5.5.2 Conditions for the application of HIROs
 HIRO will be in force when, runway surface condition is dry, and adverse weather conditions are not present. Controllers must ensure that pilots maintain 50kts while exiting on a Rapid Exit Taxiway (RET).
 
-If HIRO is in use, the ATC shall update the NOTAMs and select 'HIRO's in use' when clicking Airport Conditions. 
+HIRO is standard procedure at Hamad. When HIRO are not in use, the ATIS shall state "HIGH INTENSITY RUNWAY OPERATION SUSPENDED"
 
 ## 5.6 Reduced runway separation minima (RRSM)
 ### 5.6.1 Conditions for the application of RRSM
@@ -289,7 +313,7 @@ CAT II/III holding points must be used during LVO for departing aircraft (Table 
 |   34L  |  L2/P1/P2/P3/P4/P5   |
 |   34R  |          A2          |
 
-  <figcaption>Table 4-5: CATII/III holding points</figcaption>
+  <figcaption>Table 5-5: CATII/III holding points</figcaption>
 </figure>
 
 ## 5.8 Designated areas of responsibility
