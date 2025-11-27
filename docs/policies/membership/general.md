@@ -44,9 +44,9 @@ All members of VATSIM are expected to comply with the **VATSIM Code of Conduct**
 
 ---
 
-# 2. Controller Membership
+## 2. Controller Membership
 
-## 2.1 Transferring Controllers
+### 2.1 Transferring Controllers
 
 A **transferring controller** is defined as a VATSIM member seeking a permanent reassignment from their current vACC to the Arabian vACC. The following conditions apply:
 
@@ -64,7 +64,7 @@ This guide outlines the required steps and documentation for a successful transf
 
 ---
 
-## 2.2 Visiting Controllers
+### 2.2 Visiting Controllers
 
 A **visiting controller** is a VATSIM member who retains their primary home vACC but wishes to control within the Arabian vACC on an occasional basis. Visiting controllers must meet the following criteria:
 
@@ -78,7 +78,7 @@ Guide link:
 
 ---
 
-## 2.3 VATMENA Transfer and Visiting Policy Alignment
+### 2.3 VATMENA Transfer and Visiting Policy Alignment
 
 The Arabian vACC abides by Sections **7, 8, and 9** of the **VATMENA Membership Policy** regarding all inbound transfer and visiting controller requests.
 
@@ -87,9 +87,9 @@ The Arabian vACC abides by Sections **7, 8, and 9** of the **VATMENA Membership 
 
 ---
 
-# 3. Controller Activity Requirements
+## 3. Controller Activity Requirements
 
-## 3.1 Maintaining Currency
+### 3.1 Maintaining Currency
 
 To maintain operational readiness, all controllers assigned to the Arabian vACC must meet the following **minimum quarterly activity** requirement:
 
@@ -109,7 +109,7 @@ This supports **#ClearVision** and **#ClearMission** and complies with GCAP 9.4(
 
 ---
 
-## 3.2 Non-Compliance and Roster Removals
+### 3.2 Non-Compliance and Roster Removals
 
 Controllers failing to meet quarterly activity will:
 
@@ -120,7 +120,7 @@ Roster clean-ups occur the last day of **March, June, September, December** with
 
 ---
 
-## 3.3 Leave of Absence (LoA)
+### 3.3 Leave of Absence (LoA)
 
 Controllers may request an LoA if unable to meet requirements.
 
@@ -136,28 +136,28 @@ Controllers may cancel or modify LoA by notifying Membership. A recurrency sessi
 
 ---
 
-# 4. Reinstatement to Roster
+## 4. Reinstatement to Roster
 
-## 4.1 Resident Controllers
+### 4.1 Resident Controllers
 
 Removed residents may request reinstatement via **Discord support ticket** and must follow Training Policy reinstatement procedures.
 
 ---
 
-## 4.2 Visiting Controllers
+### 4.2 Visiting Controllers
 
 Removed visiting controllers may reapply **after 30 days** via Discord ticket, following Training Policy reinstatement procedures.
 
 ---
 
-## 4.3 Exemptions
+### 4.3 Exemptions
 
 - New visiting controllers in training are exempt  
 - Visiting controllers approved **within the current quarter** are exempt  
 
 ---
 
-# 5. Controller Conduct
+## 5. Controller Conduct
 
 Controllers must uphold professionalism and comply with:
 
@@ -173,13 +173,13 @@ Violations may lead to **immediate removal** without notice.
 
 ---
 
-## 5.1 Zero Tolerance for Misconduct
+### 5.1 Zero Tolerance for Misconduct
 
 Any hate speech, violence, derogatory remarks, or personal attacks result in **immediate permanent removal** and reporting to VATSIM.
 
 ---
 
-## 5.2 Conduct Within the Network
+### 5.2 Conduct Within the Network
 
 Residents represent the vACC everywhere. Speaking ill of **any** vACC or controller is prohibited.
 
@@ -188,16 +188,16 @@ Residents represent the vACC everywhere. Speaking ill of **any** vACC or control
 
 ---
 
-# 6. Disputes and Reporting
+## 6. Disputes and Reporting
 
-## 6.1 Reporting Issues
+### 6.1 Reporting Issues
 
 Submit issues via:  
 https://vats.im/arb/feedback
 
 ---
 
-## 6.2 Conflict Resolution Process
+### 6.2 Conflict Resolution Process
 
 If unresolved via form, submit a membership ticket using this format:
 
@@ -212,11 +212,11 @@ Escalation order:
 
 ---
 
-# 7. Events
+## 7. Events
 
 Membership works with Marketing on controller quality and attendance.
 
-## 7.1 Cancellations and No-Shows
+### 7.1 Cancellations and No-Shows
 
 All cancellations/no-shows are recorded. Controllers must notify Marketing using:
 
@@ -227,7 +227,7 @@ Also update your original availability post with **strikethrough**.
 
 ---
 
-# 8. Calendar Quarters
+## 8. Calendar Quarters
 
 | Quarter | Months |
 |---------|--------|
@@ -238,7 +238,7 @@ Also update your original availability post with **strikethrough**.
 
 ---
 
-# 9. Non-Compliance with this Policy
+## 9. Non-Compliance with this Policy
 
 Ignorance is not an acceptable defence.  
 Repeated violations will result in revocation of approvals.
