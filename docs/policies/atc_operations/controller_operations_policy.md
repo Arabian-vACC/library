@@ -11,7 +11,7 @@
 |       Revision      |                      02/2025                    |
 |    Effective Date   |                    06 APR 2025                  |
 |     Prepared by     |                   Kier - ACCARB4                |
-|     Approved by     |              Chriss Klosowski - ACCARB2         |
+|     Approved by     |              Chriss Klosowski - ACCARB1         |
 |   Next review date  |                    27 Nov 2026                  |
 | Cancelled documents |                          N/A                    |
 
@@ -22,7 +22,7 @@
 | 01/2025 | Initial Issue | 06 APR 2024    |
 | 02/2025 | Document review<br>Moved Controller Conduct to Membership Policy<br>Added more information with Discord roles | 27 NOV 25      |
 
-# 1. Scope
+## 1. Scope
 
 The **Arabian Virtual Area Control Center** (hereinafter referred to as **Arabian vACC** or **ARBvACC**) is a recognized subdivision within the **Middle East & North Africa Division (VATMENA)**, operating under the **Europe, Middle East, and Africa Region (VATEMEA)** of the **VATSIM Network**.
 
@@ -156,16 +156,16 @@ Controllers relieving others during peak hours must use a relief callsign (e.g.,
 
 ### 10.1 Discord presence
 
-For coordination purposes, at times when two or more adjacent controllers are online within Arabian vACC, controllers **should** remain present on Discord, to allow for smoother coordination.
+For coordination purposes, at times when two or more adjacent controllers are online within Arabian vACC, controllers **should** remain present on Discord, to allow for smoother coordination.  
 During events, controllers **must** remain present on Discord in relevant coordination channels, to allow for smoother coordination among adjacent controllers. Please see the Events Policy (section?) for more information
 
 !!! info
     A future solution is in the works by the Operations Department, to allow a more optimised technical coordination solution. 
 
-### 10.2  Discord Roles
+### 10.2 Discord Roles
 Controllers may "subscribe" to specific roles on the Arabian vACC Discord server to receive notifications whenever those roles are used for the following purposes outlined below. Specific roles are used to ping controllers for important updates and changes. All controllers MUST stay up to date with the 📌│fir-updates fForum channel to ensure they always have the latest sector files and are up to date with the latest Library changes.
 
-#### 10.3 ATC Support Requests
+#### 10.2.1 ATC Support Requests
 Controllers working top-down or handling excessive traffic may use this role to request support from lower-level controllers. This role is intended for situations where a controller is managing high-level traffic and requires assistance from a lower controller at a specific location. The role should be used in the discord channel 🚩│atc-marketplace and repeated incorrect use of this request may result in the revocation of the ability to use the role.
 
 For example, a controller managing Dubai Arrivals while also handling traffic on the ground at multiple airports (e.g., Al-Maktoum, Dubai, and Sharjah) may use this role to request support from aerodrome controllers.
@@ -173,26 +173,27 @@ For example, a controller managing Dubai Arrivals while also handling traffic on
 !!! example
     @ATC Support Requests, Currently on OMDB_APP covering OMDB, OMDW, and OMSJ top-down with traffic on the ground. Would appreciate any aerodrome controllers.
 
-#### 10.4 ATC Relief Requests
+#### 10.2.2 ATC Relief Requests
 Controllers planning to leave their position but whose departure would cause significant disruption should use this role. This includes situations where closing the position would increase the workload of a higher-level position within the top-down hierarchy. The role should be used in the discord channel 🚩│atc-marketplace and repeated incorrect use of this request may result in the revocation of the ability to use the role.
 
 !!! example
     @ATC Relief Requests, About to leave OTHH_1_TWR in 10 minutes, 10 aircraft on the ground with no DEL/GND with a busy OTDF_1_CTR above. Aerodrome relief would be appreciated.
 
-#### 10.5 ATC Event Requests
+#### 10.2.3 ATC Event Requests
 The following role is used by the Arabian vACC Events & Marketing Department to request controllers to express their interest in specific positions for upcoming events.
 
-#### 10.6 vACC Announcements      
+#### 10.2.4 vACC Announcements      
 The following role is used by the Arabian vACC Leadership team to inform controllers of important vACC annoucements.
 
-#### 10.7 Training Announcements      
+#### 10.2.5 Training Announcements      
 The following role is used by the Arabian vACC ATC Training Department to inform controllers if there is training sessions, updates to training or anything related to the ATC Training department.
 
-#### 10.8 Operational Announcements     
+#### 10.2.6 Operational Announcements     
 The following role is used by the Arabian vACC Operations Department to inform controllers of any SOP, Library, Sector file changes along with anything related to the Operations Department.
 
-#### 10.9 Marketing Announcements      
+#### 10.2.7 Marketing Announcements      
 The following role is used by the Arabian vACC Events & Marketing Department to inform controllers of any Events, Social media and anything else related to the Events & Marketing Department.
+
 
 ---
 
