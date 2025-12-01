@@ -48,17 +48,17 @@ Sector files for each FIR can be downloaded from the [AeroNav GNG website](https
 - [Muscat FIR (OOMM)](https://files.aero-nav.com/OOMM)
 - [Emirates FIR (OMAE)](https://files.aero-nav.com/OMAE)
 
-A detailed setup guide for installing Euroscope and the Arabian vACC sector files is available under the "Controller Software Setup" section of the [Arabian vACC Library](https://library.arabian-vacc.com/foundations/).
+A detailed setup guide for installing Euroscope and the Arabian vACC sector files is available under the "Controller Software Setup" section of the [Arabian vACC Library](https://library.arabianvacc.com/foundations/).
 
 ### 2.2.2 Audio Client(s)
 To communicate with pilots while controlling on the network, you must install an approved Audio for VATSIM client. Supported options include [Audio for VATSIM](https://audio.vatsim.net/docs/atc/euroscope) and [TrackAudio](https://github.com/pierr3/TrackAudio/releases/tag/1.3.1).
 
-A step-by-step setup guide for these audio clients can be found in the "Controller Software Setup" section of the [Arabian vACC Library](https://library.arabian-vacc.com/foundations/).
+A step-by-step setup guide for these audio clients can be found in the "Controller Software Setup" section of the [Arabian vACC Library](https://library.arabianvacc.com/foundations/).
 
 ### 2.2.3 vATIS Client
 To provide pilots with up-to-date aerodrome operational information, you will need the [vATIS Client](https://vatis.app/).
 
-A detailed setup guide for vATIS is available in the "Controller Software Setup" section of the [Arabian vACC Library](https://library.arabian-vacc.com/foundations/).
+A detailed setup guide for vATIS is available in the "Controller Software Setup" section of the [Arabian vACC Library](https://library.arabianvacc.com/foundations/).
 
 ### 2.2.4 Discord
 Discord serves as the primary communication platform for the Arabian vACC and is used for a range of purposes, including:
@@ -182,7 +182,7 @@ The ATC Training Department Director reserves the right to remove a member from 
 All forfeiture decisions will be made in alignment with the broader goals of maintaining fairness, efficiency, and high standards across the training program.
 
 # 5. Self-Study
-Students are expected to engage with the theoretical content provided in the [Arabian vACC Library](https://library.arabian-vacc.com) outside of their scheduled mentoring sessions. This includes, but is not limited to, reviewing assigned readings, practicing relevant skills, and deepening their understanding of core concepts. Mentors and instructors may also suggest additional resources or encourage observation of experienced controllers.
+Students are expected to engage with the theoretical content provided in the [Arabian vACC Library](https://library.arabianvacc.com) outside of their scheduled mentoring sessions. This includes, but is not limited to, reviewing assigned readings, practicing relevant skills, and deepening their understanding of core concepts. Mentors and instructors may also suggest additional resources or encourage observation of experienced controllers.
 
 After each mentoring session, mentors and instructors will provide comprehensive feedback. It is the student's responsibility to carefully review these reports and address any areas highlighted by the mentor for improvement. This may involve independent study on certain topics or revisiting specific techniques. Research consistently shows that students who actively engage with feedback and make necessary adjustments tend to progress more rapidly through training and perform better on exams.
 
@@ -418,7 +418,7 @@ Controllers who meet all the requirements above must submit a support ticket to 
 If a controller applies for a DEL/GND endorsement and later obtains their S2 rating, they will need to go through the same process again to obtain the next Tier 1 Dubai endorsement for TWR. Similarly, controllers holding an S3 rating and seeking the Tier 1 Dubai endorsement for TMA will need to follow the same process.
 
 ### 12.6.3 Theoretical Course & Examination
-The theoretical course for the specific Tier 1 Dubai endorsement is available through the [Arabian vACC Moodle](https://moodle.arabian-vacc.com/) platform. This course includes all relevant resources required to understand and operate the Dubai positions effectively.
+The theoretical course for the specific Tier 1 Dubai endorsement is available through the [Arabian vACC Moodle](https://moodle.arabianvacc.com/) platform. This course includes all relevant resources required to understand and operate the Dubai positions effectively.
 
 Access to the theoretical course will only be granted once the controller has met all eligibility criteria outlined above and has formally requested access. Access to the theoretical exam will be granted a week after being enrolled on the relevant Dubai Moodle course.
 
@@ -485,7 +485,7 @@ Before a controller is eligible to complete a Tier 2 AFIS endorsement, they must
 If controllers have met all the requirements listed above, they must submit a support ticket to the Arabian vACC ATC Training Department to express their interest in obtaining the AFIS endorsement. 
 
 ### 12.7.2 Theoretical Course & Examination
-The theoretical course for AFIS operations is available through the [Arabian vACC Moodle](https://moodle.arabian-vacc.com/) platform. This course includes all relevant resources required to understand and operate AFIS positions effectively.
+The theoretical course for AFIS operations is available through the [Arabian vACC Moodle](https://moodle.arabianvacc.com/) platform. This course includes all relevant resources required to understand and operate AFIS positions effectively.
 
 Access to the theoretical examination will only be granted once the controller has met all eligibility criteria outlined above and has formally requested access.
 
@@ -521,7 +521,7 @@ If controllers have met all the requirements listed above, they must submit a su
 If a controller applies for a TWR endorsement and later obtains their S2 rating, they will need to go through the same process again to obtain the next Tier 2 military endorsement for APP. Similarly, controllers holding a C1 rating and seeking the Tier 2 military endorsement for CTR will need to follow the same process.
 
 ### 12.8.2 Theoretical Course & Examination
-The theoretical course for military operations is available through the [Arabian vACC Moodle](https://moodle.arabian-vacc.com) platform. This course contains all essential materials required to understand and operate military positions effectively within the Arabian vACC.
+The theoretical course for military operations is available through the [Arabian vACC Moodle](https://moodle.arabianvacc.com) platform. This course contains all essential materials required to understand and operate military positions effectively within the Arabian vACC.
 
 Access to the theoretical examination will only be granted once the controller has met all eligibility criteria outlined above and has formally requested access.
 

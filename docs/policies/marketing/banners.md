@@ -40,7 +40,7 @@ Through consistent application of these rules, the Arabian vACC demonstrates pro
 
 ## General Guidelines
 ### Title & Logo
-Event titles must be **clear and easy to read**, ensuring members immediately understand what the event is about. The **Arabian vACC logo** must be clearly displayed using the correct variation for the background, and its usage must follow our [branding guidelines](https://library.arabian-vacc.com/vacc_documents/marketing/branding/).  
+Event titles must be **clear and easy to read**, ensuring members immediately understand what the event is about. The **Arabian vACC logo** must be clearly displayed using the correct variation for the background, and its usage must follow our [branding guidelines](https://library.arabianvacc.com/vacc_documents/marketing/branding/).  
 
 The **VATMENA logo** must also be displayed in accordance with the Division’s marketing guidelines. All logos should be **well-spaced** and presented at the **same size** for consistency and professionalism.
 
@@ -61,7 +61,7 @@ If images are used, ensure you have **permission to use them on behalf of the vA
 ### Controller Examination Banners
 Controller examination banners are subject to **stricter requirements**. Only the **official template** and **approved backgrounds** may be used.  
 
-The **titles and descriptions** of controller examinations must strictly follow the [**policy set by the Marketing Department**](https://library.arabian-vacc.com/policies/marketing/examinations/).
+The **titles and descriptions** of controller examinations must strictly follow the [**policy set by the Marketing Department**](https://library.arabianvacc.com/policies/marketing/examinations/).
 
 ### Colors
 Please use the **color palette defined in the branding guidelines**. Variations in **shades of the primary colors** are permitted.
