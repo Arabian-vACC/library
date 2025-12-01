@@ -61,8 +61,8 @@ Backgrounds must consist of either:
 ## Additional Guidelines
 For more detailed instructions on **banner creation**, please refer to the following guidelines:  
 
-- **Branding Guidelines:** [Arabian vACC Branding](https://library.arabian-vacc.com/vacc_documents/marketing/branding/)  
-- **Banner Guidelines:** [Arabian vACC Banners](https://library.arabian-vacc.com/vacc_documents/marketing/banners/)  
+- **Branding Guidelines:** [Arabian vACC Branding](https://library.arabianvacc.com/vacc_documents/marketing/branding/)  
+- **Banner Guidelines:** [Arabian vACC Banners](https://library.arabianvacc.com/vacc_documents/marketing/banners/)  
 
 It is **essential** that these guidelines are followed to ensure consistency and professionalism.
 

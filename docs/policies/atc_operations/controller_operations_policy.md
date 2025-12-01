@@ -110,7 +110,7 @@ Sessions under 30 minutes will not be counted toward the controller's quarterly 
 
 ### 7.1 General
 
-The [Arabian vACC ATC Booking System (Coming Soon™)](https://arabian-vacc.com) allows rated Resident or Visitor controllers to book ATC positions within the vACC. Bookings are also submitted to the VATSIM ATC system.
+The [Arabian vACC ATC Booking System (Coming Soon™)](https://arabianvacc.com) allows rated Resident or Visitor controllers to book ATC positions within the vACC. Bookings are also submitted to the VATSIM ATC system.
 
 ### 7.2 Booking a Position
 

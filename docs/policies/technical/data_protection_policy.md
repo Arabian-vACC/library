@@ -40,7 +40,7 @@ death from the misuse of this document.
 This document intends to outline the procedures employed by the Arabian vACC (Arabian vACC) to ensure data protection compliance with EU General Data Protection Regulation.
 
 ## Introduction
-* Arabian vACC refers to the community at https://arabian-vacc.com/. (“we”, “us”, “our”, “ourselves”, “the vACC”).
+* Arabian vACC refers to the community at https://arabianvacc.com/. (“we”, “us”, “our”, “ourselves”, “the vACC”).
 * VATMENA refers to the parent body of vACCs in the Middle East and North Africa division on VATSIM at http://vatsim.me/.
 * VATSIM refers to the organization at https://www.vatsim.net.
 * Discord refers to Discord at https://discord.com.

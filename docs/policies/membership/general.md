@@ -58,7 +58,7 @@ A **transferring controller** is defined as a VATSIM member seeking a permanent 
 
 To initiate a transfer request, please refer to the official guide:
 
-👉 [**Joining the Arabian vACC**](https://library.arabian-vacc.com/getting_started/joining_arabian/)
+👉 [**Joining the Arabian vACC**](https://library.arabianvacc.com/getting_started/joining_arabian/)
 
 This guide outlines the required steps and documentation for a successful transfer application.
 
@@ -74,7 +74,7 @@ A **visiting controller** is a VATSIM member who retains their primary home vACC
 
 Guide link:
 
-👉 [**Applying as a Visiting Controller**](https://library.arabian-vacc.com/getting_started/starting_atc_training/)
+👉 [**Applying as a Visiting Controller**](https://library.arabianvacc.com/getting_started/starting_atc_training/)
 
 ---
 
