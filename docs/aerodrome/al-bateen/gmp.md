@@ -8,23 +8,22 @@ Where the flight plan contains an invalid route, level or departure procedure, G
 ### 2.2.1 General
 GMP is responsible for issuing clearances for departing aircraft. Pilots may be expected to report the following information on first contact:
 
--   Callsign;
--   Aircraft type;
--   Apron aircraft is parked on;
+-   Callsign
+-   Aircraft type
+-   Apron aircraft is parked on
 -   Destination and requested flight level
 -   Souls on board
--   Current ATIS Information & QNH;
 
 To facilitate the most expeditious movement of ready aircraft, pilots not ready to pushback and start when instructed to do so by ATC shall expect to wait for further pushback instructions.
 
 ### 2.2.2 Information contained in a departure clearance
 An IFR clearance shall be in the following format:
 
--   Callsign;
--   Destination;
--   Departure procedure;
--   Initially cleared altitude;
--   Assigned SSR code;
+-   Callsign
+-   Destination
+-   Departure procedure
+-   Initially cleared altitude
+-   Assigned SSR code
 
 Departing aircraft shall be instructed to report ready for pushback.
 
@@ -189,7 +188,7 @@ VFR traffic shall be cleared via the most appropriate VFR route towards their de
 
 - **Left-hand** circuits shall be carried out by VFR traffic departing on runway 31
 - **Right-hand** circuits shall be carried out by VFR traffic departing on runway 13
-- Circuits shall be conducted at an altitude of ****1500ft**.
+- Circuits shall be conducted at an altitude of ****1500ft**
 - Only one aircraft is permitted in the circuit
 
 !!! Note

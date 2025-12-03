@@ -30,12 +30,11 @@ Controllers will assign a Standard Instrument Departure (SID) based on the first
 ## Voice Clearance
 Departing aircraft requiring clearance via voice shall contact Al Bateen Ground when ready for pushback and pass the following information:
 
--   Callsign;
--   Aircraft type;
--   Apron aircraft is parked on;
+-   Callsign
+-   Aircraft type
+-   Apron aircraft is parked on
 -   Destination and requested flight level
--   Souls on board;
--   Current ATIS Information & QNH;
+-   Persons on board
 
 !!! Example
     **Pilot:** Al Bateen ground, IFA6487, Information F, Bombardier Global Express, Apron C, with 2 souls on board, request clearance to Verona FL320
@@ -57,3 +56,18 @@ Pilots must comply with all taxi instructions, including holds. Taxi instruction
 On receipt of a line-up clearance pilots shall ensure, complying with safety and standard operating procedures, that they are able to line-up on the runway as soon as the preceding aircraft has commenced take-off roll.
 
 Wherever possible, pilots are encouraged to conduct a rolling takeoff to minimise runway occupancy time.
+
+# VFR Procedures
+## Traffic Remaining in the Circuit
+Traffic wishing to conduct circuits at Al Bateen shall expect clearance in line with the below procedures:
+
+- **Left hand** circuits for VFR traffic on runway 31
+- **Right hand** circuits for VFR traffic on runway 13
+- A maximum altitude of 1500 ft
+- One aircraft shall be permitted in the circuit at any given time
+
+## Traffic Leaving the CTR
+Standard VFR routes apply to all VFR traffic within the Al Bateen CTR, and can be found in the Abu Dhabi CTA VFR charts. Pilots looking to leave the zone in any direction can expect to be assigned one of these routings. If pilots have a specific routing request, they must pass this to the relevant controller when requesting clearance.
+
+!!! note
+    Traffic leaving the zone will require coordination between controllers. For this reason, pilots may be requested to reroute or VFR may be denied at times of increased traffic load.
