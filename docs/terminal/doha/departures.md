@@ -1,11 +1,11 @@
-# 4. Departures
-## 4.1 Longitudinal Separation
-### 4.1.1 Separation Requirements
+# 6. Departures
+## 6.1 Longitudinal Separation
+### 6.1.1 Separation Requirements
 Except as specified in Section 4.1.3, all aircraft departing the Doha Terminal Maneuvering Area (TMA) via a common exit point shall be separated by a minimum longitudinal distance of **8 nautical miles (NM)**, maintained as constant or increasing.
 
 If maintaining this separation is not feasible, the trailing aircraft shall be handed over to the next control sector or unit while either climbing or in level flight. The aircraft must be cleared to an altitude compliant with the Standard Instrument Departure (SID) exit restrictions once separation with preceding traffic is ensured.
 
-### 4.1.2 Speed Control
+### 6.1.2 Speed Control
 Aircraft may be instructed to maintain high speeds below 10,000 feet to maximize the capacity of the departure segment and to establish the required longitudinal separation at the earliest opportunity.
 
 Additionally, to reduce controller workload, aircraft may be instructed to maintain the published speeds specified on the Standard Instrument Departure (SID) procedures.
@@ -13,7 +13,7 @@ Additionally, to reduce controller workload, aircraft may be instructed to maint
 !!! example
     **Controller**: "QTR1Y, Doha Approach, identified, climb via SID to FL210."
 
-### 4.1.3 U.A.E FIR Flow Control
+### 6.1.3 U.A.E FIR Flow Control
 Special flow control procedures shall be applied to traffic entering the U.A.E. FIR destined for northern or southern U.A.E. airports. When multiple airports share a common FIR exit point, controllers must ensure that longitudinal separation between aircraft is established and maintained prior to the traffic reaching the FIR boundary.
 
 | Departure Aerodrome |             Arrival Aerodrome             | FIR Exit Point | Speed Control | Longitudinal Separation |
@@ -21,15 +21,15 @@ Special flow control procedures shall be applied to traffic entering the U.A.E. 
 |     OTHH & OTBD     | Northern U.A.E (OMDB/OMDW/OMSJ/OMRK/OMFJ) |      ALSEM     |   300 knots   |    20 NM (3 minutes)    |
 |     OTHH & OTBD     |      Southern U.A.E (OMAA/OMAD/OMAL)      |      KURPO     |   300 knots   |    20 NM (3 minutes)    |
 
-## 4.2 Climb
-### 4.2.1 General
-Climb clearances shall be issued in accordance with the published level restrictions and the procedures detailed in Sections 4.2.2 and 4.2.3. When an aircraft is expected to follow the vertical profile of the Standard Instrument Departure (SID), including all associated speed and level restrictions, the phraseology **“CLIMB VIA SID TO [cleared level]”** shall be used.
+## 6.2 Climb
+### 6.2.1 General
+Climb clearances shall be issued in accordance with the published level restrictions and the procedures detailed in Sections 6.2.2 and 6.2.3. When an aircraft is expected to follow the vertical profile of the Standard Instrument Departure (SID), including all associated speed and level restrictions, the phraseology **“CLIMB VIA SID TO [cleared level]”** shall be used.
 
-Sections 4.2.2 and 4.2.3 shall serve as a reference for understanding interactions between departure and arrival procedures within the Doha Terminal Maneuvering Area (TMA), under the assumption that all intersecting traffic flows are active.
+Sections 6.2.2 and 6.2.3 shall serve as a reference for understanding interactions between departure and arrival procedures within the Doha Terminal Maneuvering Area (TMA), under the assumption that all intersecting traffic flows are active.
 
 Where no conflicts are anticipated, aircraft may be cleared to climb to the highest permissible level, provided that prior coordination has
 
-### 4.2.2 Climb Procedure - Doha 15 / Hamad 16s
+### 6.2.2 Climb Procedure - Doha 15 / Hamad 16s
 <table><thead>
   <tr>
     <th>Departure Aerodrome</th>
@@ -97,16 +97,16 @@ Where no conflicts are anticipated, aircraft may be cleared to climb to the high
 !!! warning
     With effect 07 NOV 2025, departures from 16L are temporarily provided with heading 120 degrees on departure and will require vectors to rejoin their SID. Please see [Aerodrome Appendix - Temporary Procedures](/aerodrome/doha-hamad/appendix_temp/) for further information
 
-### 4.2.3 Climb Procedure - Doha 33 / Hamad 34s
+### 6.2.3 Climb Procedure - Doha 33 / Hamad 34s
 
-## 4.3 Lateral Profile
-### 4.3.1 General
+## 6.3 Lateral Profile
+### 6.3.1 General
 The lateral profile of Standard Instrument Departures (SIDs) within the Doha Terminal Maneuvering Area (TMA) is specifically designed to ensure separation between departing traffic, arriving traffic, and arrivals into adjacent airports.
 
 Direct routings may be issued to reduce track mileage when traffic conditions permit. However, such routings shall only be permitted during periods of low traffic density. When issuing direct routings, controllers must assess the potential for traffic conflicts and ensure that separation standards can be maintained.
 
 Limitations regarding the use of direct routings for arriving aircraft are outlined in Sections 4.3.2 and 4.3.3 and shall be strictly observed.
 
-### 4.3.2 Direct Routing Procedure - Doha 15 / Hamad 16s
+### 6.3.2 Direct Routing Procedure - Doha 15 / Hamad 16s
 
-### 4.3.3 Direct Routing Procedure - Doha 33 / hamad 34s
+### 6.3.3 Direct Routing Procedure - Doha 33 / hamad 34s
