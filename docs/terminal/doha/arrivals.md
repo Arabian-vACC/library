@@ -25,39 +25,53 @@ By default, aircraft should be assigned the STAR that allows for the shortest tr
 #### 3.1.2.1 Doha 15 / Hamad 16s
 | Procedure |        Type        | Length | Downwind |
 |:---------:|:------------------:|:------:|:--------:|
-|  ALKAN1F  |      Trombone      |  Long  |   West   |
-|  ALKAN1H  | Direct to Downwind |  Short |   East   |
-|  ALKAN1P  |      Trombone      |  Long  |   East   |
-|  LAEEB1F  | Direct to Downwind |  Short |   West   |
-|  LAEEB1K  |      Trombone      |  Long  |   West   |
-|  ORLEK1F  |      Trombone      |  Long  |   West   |
-|  TOSNA1P  | Direct to Downwind |  Short |   East   |
-|  TOSNA1T  |      Trombone      |  Long  |   East   |
-|  TOSNA2F  |      Trombone      |  Long  |   West   |
-|  TOVOX1P  | Direct to Downwind |  Short |   East   |
-|  TOVOX2F  |      Trombone      |  Long  |   West   |
-|  VEDED1F  |      Trombone      |  Long  |   West   |
-|  VEDED1H  | Direct to Downwind |  Short |   East   |
-|  VEDED1P  |      Trombone      |  Long  |   East   |
+|  HAYYA1K  |      Trombone      |  Long  |   West   | 
+|  HAYYA1F  |      Trombone      |  Long  |   West   | 
+|  HAYYA2H  | Direct to Downwind |  Short |   East   | 
+|  HAYYA1P  |      Trombone      |  Long  |   East   | 
+|  ALKAN1F  |      Trombone      |  Long  |   West   | 
+|  ALKAN2H  | Direct to Downwind |  Short |   East   | 
+|  ALKAN1P  |      Trombone      |  Long  |   East   | 
+|  LAEEB2F  | Direct to Downwind |  Short |   West   | 
+|  LAEEB2K  |      Trombone      |  Long  |   West   | 
+|  LAEEB1P  | Direct to Downwind |  Short |   East   | 
+|  ORLEK2F  |      Trombone      |  Long  |   West   | 
+|  ORLEK1P  | Direct to Downwind |  Short |   East   | 
+|  TOSNA1P  | Direct to Downwind |  Short |   East   | 
+|  TOSNA1T  |      Trombone      |  Long  |   East   | 
+|  TOSNA2F  |      Trombone      |  Long  |   West   | 
+|  TOVOX2P  | Direct to Downwind |  Short |   East   | 
+|  TOVOX2F  |      Trombone      |  Long  |   West   | 
+|  VEDED1F  |      Trombone      |  Long  |   West   | 
+|  VEDED2H  | Direct to Downwind |  Short |   East   | 
+|  VEDED1P  |      Trombone      |  Long  |   East   | 
 
 #### 3.1.2.2 Doha 33 / Hamad 34s
 | Procedure |        Type        | Length | Downwind |
 |:---------:|:------------------:|:------:|:--------:|
-|  ALKAN1L  |      Trombone      |  Long  |   West   |
-|  ALKAN1R  |      Trombone      |  Long  |   East   |
-|  ALKAN1V  | Direct to Downwind |  Short |   East   |
-|  LAEEB1J  |      Trombone      |  Long  |   West   |
-|  LAEEB1L  | Direct to Downwind |  Short |   West   |
-|  ORNEL1L  | Direct to Downwind |  Short |   West   |
-|  TOSNA1J  |      Trombone      |  Long  |   West   |
-|  TOSNA1R  | Direct to Downwind |  Short |   East   |
-|  TOSNA1V  |      Trombone      |  Long  |   East   |
-|  TOSNA2L  |      Trombone      |  Long  |   West   |
-|  TOVOX1R  | Direct to Downwind |  Short |   East   |
-|  TOVOX2L  |      Trombone      |  Long  |   West   |
-|  VEDED1L  |      Trombone      |  Long  |   West   |
-|  VEDED1R  |      Trombone      |  Long  |   East   |
-|  VEDED1V  | Direct to Downwind |  Short |   East   |
+|  HAYYA2L  |      Trombone      |  Long  |   West   | 
+|  HAYYA1J  |      Trombone      |  Long  |   West   | 
+|  HAYYA2R  |      Trombone      |  Long  |   East   | 
+|  HAYYA2V  | Direct to Downwind |  Short |   East   | 
+|  ALKAN2L  |      Trombone      |  Long  |   West   | 
+|  ALKAN2R  |      Trombone      |  Long  |   East   | 
+|  ALKAN2V  | Direct to Downwind |  Short |   East   | 
+|  LAEEB1J  |      Trombone      |  Long  |   West   | 
+|  LAEEB1R  |      Trombone      |  Long  |   East   | 
+|  LAEEB1L  | Direct to Downwind |  Short |   West   | 
+|  ORLEK1L  | Direct to Downwind |  Short |   West   | 
+|  ORLEK1R  | Direct to Downwind |  Short |   East   | 
+|  TOSNA2J  |      Trombone      |  Long  |   West   | 
+|  TOSNA2R  | Direct to Downwind |  Short |   East   | 
+|  TOSNA2V  |      Trombone      |  Long  |   East   | 
+|  TOSNA2L  |      Trombone      |  Long  |   West   | 
+|  TOVOX2R  | Direct to Downwind |  Short |   East   | 
+|  TOVOX2L  |      Trombone      |  Long  |   West   | 
+|  VEDED2L  |      Trombone      |  Long  |   West   | 
+|  VEDED2R  |      Trombone      |  Long  |   East   | 
+|  VEDED2V  | Direct to Downwind |  Short |   East   | 
+
+
 
 ### 3.1.3 Instrument Approach
 The ILS approach is typically the preferred approach type. Aircraft may be cleared for a visual approach provided the conditions outlined in Section 3.1.4 are met.  
@@ -94,12 +108,14 @@ To minimize controller workload, aircraft may also be instructed to adhere to th
 ### 3.2.2 Published and recommended speeds
 The speed limits and recommended speeds within different segments of the Doha terminal area is as follows:
 
-|  Speed Range  |              Arrival Segment              |
-|:-------------:|:-----------------------------------------:|
-| 230 - 210 kts |           Initial approach phase          |
-|    180 kts    | Base leg/closed heading to final approach |
-|    180 kts    |                Until 10 DME               |
-|    160 kts    |                Until 4 DME                |
+| Speed range     | Recommended/Published speeds                                                | Arrival segment                                                     |
+|-----------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------|
+| 210 - 250 knots | 230 - 250 knots                                                             | CTA                                                                 |
+| 190 - 230 knots | 210 knots; maximum for aircraft initiating turn from upwind to downwind leg | Approaching downwind                                                |
+| 180 - 210 knots | 190 knots; this must be enforced before handoff to Doha Director (DIR)      | From downwind to base leg                                           |
+| 170 - 210 knots | 170 - 190 knots                                                             | Closing heading to final                                            |
+| 160 - 190 knots | 170 - 190 knots                                                             | At 10 NM from touchdown                                             |
+| 160 knots       | 160 knots                                                                   | Until 4 NM                                                          |
 
 !!! note
     Aircraft subject to speed restrictions on final with DME constraints may be instructed by ATC to comply with "`STANDARD SPEEDS`" meaning pilots are expected to maintain these speeds until final approach.  
@@ -135,7 +151,11 @@ Intermediate levels may be assigned to ensure proper traffic separation between 
 
 ### 3.3.2 Descent Procedure - Doha 15 / Hamad 16s
 
+ Coming soon           
+
 ### 3.3.3 Descent Procedure - Doha 33 / Hamad 34s
+
+Coming Soon
 
 ## 3.4 Lateral Profile
 ### 3.4.1 General
@@ -151,9 +171,11 @@ During periods of high arrival traffic, direct routings may also be issued from 
 
 ### 3.4.3 Direct Routing Procedure - Doha 15 / Hamad 16s
 
+Coming soon
 
 ### 3.4.4 Direct Routing Procedure - Doha 33 / Hamad 34s
 
+Coming soon
 
 ## 3.5 Final Approach Sequencing
 ### 3.5.1 Final Descent
