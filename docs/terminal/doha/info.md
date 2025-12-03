@@ -3,12 +3,12 @@
 |                     |                                                   |
 |---------------------|---------------------------------------------------|
 |         Type        |                    Procedure                      |
-|       Revision      |                     XX/XXX                        |
-|    Effective Date   |                    XX XXX XXXX                    |
-|     Prepared by     |                                                   |
-|     Approved by     |             Chris Marriott - ACCARB1              |
-|   Next review date  |                    XX XXX XXXX                    |
-| Cancelled documents |                SOP XXXX R0X/XXXX                  |
+|       Revision      |                     01/2026                       |
+|    Effective Date   |                    01 Jan 2026                    |
+|     Prepared by     |         Kier - ACCARB4 & Shahzin - ACCARB31       |
+|     Approved by     |             Chriss Klosowski - ACCARB1            |
+|   Next review date  |                    01 Jan 2027                    |
+| Cancelled documents |                       N/A                         |
 
 # Record of Revisions
 <table><thead>
@@ -19,9 +19,9 @@
   </tr></thead>
 <tbody>
   <tr>
-    <td>XX/XXXX</td>
-    <td>Initial issue</td>
-    <td>XX XXX XXX</td>
+    <td>01/2026</td>
+    <td>Initial issue, Standarisation of TMA </td>
+    <td>01 Jan 2026</td>
   </tr>
 </tbody></table>
 

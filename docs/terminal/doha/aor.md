@@ -1,11 +1,11 @@
 # 3. Areas of Responsibility
 ## 3.1 General
 ### 3.1.1 Concept
-The Dubai CTA Areas of Responsibility (AoR) are designed to minimise the need for coordination between sectors when climbing and descending traffic. This reduces controller workload, and allows a predictable flow of traffic through a complex network of SIDs and STARs.
+The Doha TMA Areas of Responsibility (AoR) are designed to minimise the need for coordination between sectors when climbing and descending traffic. This reduces controller workload, and allows a predictable flow of traffic through a complex network of SIDs and STARs.
 
 These AoRs must be adhered to in order to prevent possible loss of separation between traffic.
 
-For easy identification, each AoR is represented by shaded areas of different intensity. The different shades represent different vertical extents of each AoR and thus mean that each sector will have a minimum or maximum altitude that traffic may be cleared to.  However, for clarity, each AoR has also been given an alphanumeric identifier which will be used to define their vertical extents hereunder and the specific transfer procedures which are detailed in section 4. 
+For easy identification, each AoR is represented by lined and coloured areas and shades of burgandy that are different intensities. The different shades represent different vertical extents of each AoR and thus mean that each sector will have a minimum or maximum altitude that traffic may be cleared to.  However, for clarity, each AoR has also been given an alphanumeric identifier which will be used to define their vertical extents hereunder and the specific transfer procedures which are detailed in section 4. 
 
 Although this may initially seem complex, the use of visual AoRs to represent climb and descent limits is far more intuitive and versatile than other methods.
 
