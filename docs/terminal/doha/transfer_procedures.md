@@ -1,6 +1,6 @@
 # 4. Transfer Procedures
 ## 4.1 General
-The transfer procedures mentioned hereunder shall be adhered to at all times. These procedures are release agreements between different Dubai CTA sectors, as well as between UAE enroute sectors and the Dubai CTA.
+The transfer procedures mentioned hereunder shall be adhered to at all times. These procedures are release agreements between different Doha TMA sectors.
 
 Any deviation from these procedures shall required coordination between all concerned sectors.
 
@@ -9,171 +9,164 @@ The AoRs represented hereunder with alphanumeric identifiers, are the same as th
 ## 4.2 Transfer from Arrivals (ARR) to Director (DIR)
 Traffic shall always be handed off to DIR with a speed restriction on **190 knots** unless otherwise coordinated (e.g. for a straight-in approach).
 
-In case it is not possible for ARR to transfer traffic at the agreed level as described hereunder, traffic may be transferred at **6000 ft**, **5000 ft**, and **4000 ft with vertical separation assured** without coordinating with DIR.
+Hand offs to DIR must be at **6000FT** when arriving on the downwind legs.
 
-## 4.3 CTA 30 operation
-### 4.3.1 Departure South (DEP 1)
-#### 4.3.1.1 Departing traffic
-| Departure airport | SID waypoint | Transfer procedure and release conditions |
+## 4.3 Hand off procedures
+### 4.3.1 34/33s
+#### 4.3.1.1 Departures - Doha 33 / Hamad 34s
+| Departure airport | SID waypoint | Transfer procedure and release conditions                                                                                                                                        |
+|-------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    OTHH/OTBD      |     LUBET    | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO.<br>Upon reaching DEBIL or EMISA Aircraft may be cleared to climb to 12000ft and handed off to Doha Radar,<br> Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. 
+|    OTHH/OTBD      |     LUBET    | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO.<br>Upon reaching DEBIL or EMISA Aircraft may be cleared to climb to 12000ft and handed off to Doha Radar,<br> Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. 
+|    OTHH/OTBD      |     LUBET    | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO.<br>Upon reaching DEBIL or EMISA Aircraft may be cleared to climb to 12000ft and handed off to Doha Radar,<br> Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. 
+|    OTHH/OTBD      |     LUBET    | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO.<br>Upon reaching DEBIL or EMISA Aircraft may be cleared to climb to 12000ft and handed off to Doha Radar,<br> Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. 
+|    OTHH/OTBD      |     LUBET    | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO.<br>Upon reaching DEBIL or EMISA Aircraft may be cleared to climb to 12000ft and handed off to Doha Radar,<br> Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. 
+|    OTHH/OTBD      |     LUBET    | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO.<br>Upon reaching DEBIL or EMISA Aircraft may be cleared to climb to 12000ft and handed off to Doha Radar,<br> Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. 
+|    OTHH/OTBD      |     LUBET    | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO.<br>Upon reaching DEBIL or EMISA Aircraft may be cleared to climb to 12000ft and handed off to Doha Radar,<br> Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. 
+|    OTHH/OTBD      |     LUBET    | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO.<br>Upon reaching DEBIL or EMISA Aircraft may be cleared to climb to 12000ft and handed off to Doha Radar,<br> Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. 
+
+#### 4.3.1.2 Departures - Doha 15 / Hamad 16s
+| Departure airport | SID waypoint | Transfer procedure and release conditions                                                                                                                                        |
+|-------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    OTHH/OTBD      |     LUBET    | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO.<br>Upon reaching DEBIL or EMISA Aircraft may be cleared to climb to 12000ft and handed off to Doha Radar,<br> Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. 
+|    OTHH/OTBD      |     LUBET    | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO.<br>Upon reaching DEBIL or EMISA Aircraft may be cleared to climb to 12000ft and handed off to Doha Radar,<br> Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. 
+|    OTHH/OTBD      |     LUBET    | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO.<br>Upon reaching DEBIL or EMISA Aircraft may be cleared to climb to 12000ft and handed off to Doha Radar,<br> Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. 
+|    OTHH/OTBD      |     LUBET    | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO.<br>Upon reaching DEBIL or EMISA Aircraft may be cleared to climb to 12000ft and handed off to Doha Radar,<br> Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. 
+|    OTHH/OTBD      |     LUBET    | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO.<br>Upon reaching DEBIL or EMISA Aircraft may be cleared to climb to 12000ft and handed off to Doha Radar,<br> Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. 
+|    OTHH/OTBD      |     LUBET    | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO.<br>Upon reaching DEBIL or EMISA Aircraft may be cleared to climb to 12000ft and handed off to Doha Radar,<br> Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. 
+|    OTHH/OTBD      |     LUBET    | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO.<br>Upon reaching DEBIL or EMISA Aircraft may be cleared to climb to 12000ft and handed off to Doha Radar,<br> Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. 
+|    OTHH/OTBD      |     LUBET    | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO.<br>Upon reaching DEBIL or EMISA Aircraft may be cleared to climb to 12000ft and handed off to Doha Radar,<br> Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. 
+
+#### 4.3.1.1 Arrivals - Doha 33 / Hamad 34s
+| Arrival airport   | SID waypoint | Transfer procedure and release conditions |
 |-------------------|--------------|-------------------------------------------|
-| OMDB | ANVIX | Initial **4000 ft**,<br> climb to **9000 ft** within **Area D1**,<br> transfer to **AMR** before **Area M1** boundary released for further climb |
-| OMDB | RIDAP, SENPA, NABIX | Initial **4000 ft**,<br> climb to **FL150**,<br> transfer to **ACC Delta** released for further climb |
-| OMDB | KUTLI | Initial **4000 ft**,<br> climb to **FL150**,<br> transfer to **ACC Hotel** released for further climb |
+| OMDB              | ANVIX | Initial **4000 ft**,<br> climb to **9000 ft** within **Area D1**,<br> transfer to **AMR** before **Area M1** boundary released for further climb |
+| OMDB              | RIDAP, SENPA, NABIX | Initial **4000 ft**,<br> climb to **FL150**,<br> transfer to **ACC Delta** released for further climb |
+| OMDB              | KUTLI | Initial **4000 ft**,<br> climb to **FL150**,<br> transfer to **ACC Hotel** released for further climb |
 | OMSJ | RIDAP, SENPA, NABIX | Transfer from **DEP 2 (North)** at **7000 ft**,<br> climb to **FL150** within **Area D1**,<br> transfer to **ACC Delta** released for further climb |
 | OMSJ | KUTLI | Transfer from **DEP 2 (North)** at **13,000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC Hotel** released for further climb |
 | OMDW | DAVMO | Transfer from **AMR** at **7000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC Romeo** released for further climb,<br> traffic to cross **Area A1** at or above **12,000 ft** |
 | OMDW | RIDAP, SENPA, NABIX | Transfer from **AMR** at **7000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC Delta** released for further climb |
 | OMRK | PUVAL | 
 
-#### 4.3.1.2 Arriving traffic
+#### 4.3.1.2 Arrivals - Doha 15 / Hamad 16s
 | Arrival airport   | STAR waypoint | Transfer procedure and release conditions |
 |-------------------|---------------|-------------------------------------------|
-| OMDB | LORID | Transfer from **ACC Hotel** at **FL160** released for further descent,<br> descend to **12,000 ft** within **Area M2**,<br> descend to **11,000 ft** within **Area M3**,<br> transfer to **ARR** at **11,000 ft** released for descent to **8000 ft** within **Area D1**,<br> transfer shall be early enough to facilitate **7000 ft** crossing restriction at DB528 |
+| OMDB              | LORID | Transfer from **ACC Hotel** at **FL160** released for further descent,<br> descend to **12,000 ft** within **Area M2**,<br> descend to **11,000 ft** within **Area M3**,<br> transfer to **ARR** at **11,000 ft** released for descent to **8000 ft** within **Area D1**,<br> transfer shall be early enough to facilitate **7000 ft** crossing restriction at DB528 |
 | OMSJ | LORID | Transfer from **ACC Hotel** at **FL160** released for further descent,<br> descend to **12,000 ft** within **Area M2**,<br> transfer to **DEP 2 (North)** before **Area A1** |
 | OMDW | GONVI | Transfer from **ACC West** at **FL160** released for further descent,<br> descend to **13,000 ft** within **Area D2** (minimum altitude within **Area A1**),<br> descend to **10,000 ft** within **Area D1**,<br> transfer to **AMR** before **Area M1** |
 | OMDW | DATOB | Transfer from **ACC West** at **FL160** released for further descent,<br> descend to **10,000 ft** within **Area D1**,<br> transfer to **AMR** before **Area M1** |
 | OMDW | PUVAL | Transfer from **DEP 2 (North)** at **12,000 ft**,<br> descend to **10,000 ft** within **Area A2**,<br> transfer to **AMR** before **Area M1** |
 
-### 4.3.2 Departure North (DEP 2)
-#### 4.3.2.1 Departing traffic
-| Departure airport | SID waypoint | Transfer procedure and release conditions |
-|-------------------|--------------|-------------------------------------------|
-| OMDB, OMSJ | DAVMO | Initial **4000 ft**,<br> climb to **5000 ft** within **Area A2**,<br> climb to **7000 ft** within **Area A1**,<br> climb to **FL150** within **Area D2**,<br> transfer to **ACC Romeo** released for further climb |
-| OMDB, OMSJ | IVURO | Initial **4000 ft**,<br> climb to **5000 ft** within **Area A2**,<br> climb to **7000 ft** within **Area A1**,<br> climb to **13,000 ft** within **Area D2**,<br> transfer to **ACC Romeo** released for further climb |
-| OMSJ | RIDAP, SENPA, NABIX | Initial **2000 ft**,<br> climb to **5000 ft** within **Area A2**,<br> climb to **7000 ft** within **Area D2** (maximum altitude within **Area A1**),<br> transfer to **DEP 1 (South)** |
-| OMSJ | ANVIX | Initial **3000 ft**,<br> climb to **13,000 ft**,<br> transfer to **AMR** if unable to reach **13,000 ft** by **Area F1** boundary,<br> otherwise transfer to **ACC East** at **FL150** if able to reach by **Area F1** boundary |
-| OMSJ | KUTLI | Initial **3000 ft**,<br> climb to to **13,000 ft**,<br> transfer to **DEP 1 (South)** if unable to reach **13,000 ft** by **Area F1** boundary,<br> otherwise transfer to **ACC East** at **FL150** if able to reach by **Area F1** boundary |
-| OMDW | NOLSU | Transfer from **AMR** at **12,000 ft**,<br> climb to **FL150**,<br> transfer to **ACC Romeo**, released for further climb |
-| OMRK | PUVAL | Transfer from **Ras Al Khaimah CTA** at **5000 ft** released for further climb,<br> climb to **13,000 ft**,<br> transfer to **DEP 1 (South)** if unable to reach **13,000 ft** by **Area F1** boundary,<br> otherwise transfer to **ACC Delta** at **FL150** if able to reach by **Area F1** boundary |
+## 4.4 Hand off Sectors
+#### 4.4.1.1 Departures - Doha 15 / Hamad 16s 
+| Departure Aerodrome | Runway |   SID   |                Handoff procedure             |
+|:-------------------:|:------:|:-------:|:--------------------------------------------:|
+|         OTHH        |   16L  | ALSEM2M |   Approach East → Radar North → U.A.E Radar  |
+|         OTHH        |   16L  | ALVEN2M |  Approach East → Radar North → Doha Control  |
+|         OTHH        |   16L  | KUPRO1M |   Approach East → Radar South → U.A.E Radar  |
+|         OTHH        |   16L  | LUBET1M |  Approach East → Radar North → Bahrain Radar |
+|         OTHH        |   16L  | LUBET1Y |  Approach East → Radar North → Bahrain Radar |
+|         OTHH        |   16L  | TULUB1M |  Approach East → Radar North → Bahrain Radar |
+|         OTHH        |   16L  | VAXIN2M |  Approach East → Radar North → Doha Control  |
+|         OTHH        |   16R  | BUNDU2C |   Approach West → Radar South → U.A.E Radar  |
+|         OTHH        |   16R  | DATRI1C | Approach West → Radar South → Jeddah Control |
+|         OTHH        |   16R  | LUBET1C |  Approach West → Radar North → Bahrain Radar |
+|         OTHH        |   16R  | TULUB1C |  Approach West → Radar North → Bahrain Radar |
+|         OTHH        |   16R  | ULIKA1C | Approach West → Radar South → Jeddah Control |
+|         OTBD        |   15   | ALSEM3S |   Approach West → Radar North → U.A.E Radar  |
+|         OTBD        |   15   | ALVEN3S |  Approach West → Radar North → Doha Control  |
+|         OTBD        |   15   | BUNDU3S |   Approach West → Radar South → U.A.E Radar  |
+|         OTBD        |   15   | DATRI1S | Approach West → Radar South → Jeddah Control |
+|         OTBD        |   15   | KUPRO1S |   Approach West → Radar South → U.A.E Radar  |
+|         OTBD        |   15   | LUBET2S |  Approach West → Radar North → Bahrain Radar |
+|         OTBD        |   15   | PATOM3S |  Approach West → Radar North → Bahrain Radar |
+|         OTBD        |   15   | TULUB2S |  Approach West → Radar North → Bahrain Radar |
+|         OTBD        |   15   | ULIKA1S | Approach West → Radar South → Jeddah Control |
+|         OTBD        |   15   | VAXIN3S |  Approach West → Radar South → Doha Control  |
+<figure markdown>
+  <figcaption>Table 4-3: Doha TMA departure handoffs (OTBD 15/OTHH 16s)</figcaption>
+</figure>
 
-#### 4.3.2.2 Arriving traffic
-| Arrival airport   | STAR waypoint | Transfer procedure and release conditions |
-|-------------------|---------------|-------------------------------------------|
-| OMDB | PUVAL | Transfer from **ACC Romeo** at **11,000 ft**,<br> transfer to **ARR** at **11,000 ft**, released for descent to **9000 ft** within **Area D2** |
-| OMSJ | PUVAL | Transfer from **ACC Romeo** at **10,000 ft** released for further descent,<br> descend to platform altitude within **Area D2**, ensuring traffic is below **5000 ft** before entering **Area A4** and below **3000 ft** before entering **Area A5** |
-| OMSJ | GONVI | Transfer from **ACC West** at 9,000 ft released for further descent,<br> descend to platform altitude within **Area D2**, ensuring traffic is below **5000 ft** before entering **Area A4** and below **3000 ft** before entering **Area A5** |
-| OMSJ | NOLSU | Transfer from **ACC Yankee** at **10,000 ft** released for further descent,<br> descend to platform altitude within **Area D2**, ensuring traffic is below **5000 ft** before entering **Area A4** and below **3000 ft** before entering **Area A5** |
-| OMSJ | LORID | Transfer from **DEP 1 (South)** at **12,000 ft**,<br> descend to platform altitude within **Area D2**, ensuring traffic is below **5000 ft** before entering **Area A4** and below **3000 ft** before entering **Area A5** |
-| OMRK | ALSIL | Transfer from **ACC Yankee** at **10,000 ft** released for further descent,<br> descend to **6000 ft** within **Area D2**,<br> transfer to **Ras Al Khaimah APP** released for further descent,<br> traffic to be below **7000 ft** before entering Ras Al Khaimah CTA |
+#### 4.4.1.2 Departures - Doha 33 / Hamad 34s
+| Departure Aerodrome | Runway |   SID   |                Handoff procedure             |
+|:-------------------:|:------:|:-------:|:--------------------------------------------:|
+|         OTHH        |   34L  | DATRI1W | Approach West → Radar South → Jeddah Control |
+|         OTHH        |   34L  | LUBET1A |  Approach West → Radar North → Bahrain Radar |
+|         OTHH        |   34L  | LUBET1W |  Approach West → Radar North → Bahrain Radar |
+|         OTHH        |   34L  | TULUB1A |  Approach West → Radar North → Bahrain Radar |
+|         OTHH        |   34L  | TULUB1W |  Approach West → Radar North → Bahrain Radar |
+|         OTHH        |   34L  | ULIKA1A | Approach West → Radar South → Jeddah Control |
+|         OTHH        |   34L  | ULIKA1W | Approach West → Radar South → Jeddah Control |
+|         OTHH        |   34R  | ALSEM2E |   Approach East → Radar North → U.A.E Radar  |
+|         OTHH        |   34R  | ALVEN3E |  Approach East → Radar North → Doha Control  |
+|         OTHH        |   34R  | BUNDU2E |   Approach East → Radar South → U.A.E Radar  |
+|         OTHH        |   34R  | KUPRO1E |   Approach East → Radar South → U.A.E Radar  |
+|         OTHH        |   34R  | LUBET2E |  Approach East → Radar North → Bahrain Radar |
+|         OTHH        |   34R  | LUBET2Z |  Approach East → Radar North → Bahrain Radar |
+|         OTHH        |   34R  | TULUB2E |  Approach East → Radar North → Bahrain Radar |
+|         OTHH        |   34R  | VAXIN2E |  Approach East → Radar North → Doha Control  |
+|         OTBD        |   33   | ALSEM3N |   Approach West → Radar North → U.A.E Radar  |
+|         OTBD        |   33   | ALVEN3N |  Approach West → Radar North → Doha Control  |
+|         OTBD        |   33   | BUNDU3N |   Approach West → Radar South → U.A.E Radar  |
+|         OTBD        |   33   | DATRI1N | Approach West → Radar South → Jeddah Control |
+|         OTBD        |   33   | KUPRO1N |   Approach West → Radar South → U.A.E Radar  |
+|         OTBD        |   33   | LUBET2N |  Approach West → Radar North → Bahrain Radar |
+|         OTBD        |   33   | PATOM3N |  Approach West → Radar North → Bahrain Radar |
+|         OTBD        |   33   | TULUB2N |  Approach West → Radar North → Bahrain Radar |
+|         OTBD        |   33   | ULIKA1N |  Approach West → Radar South → Bahrain Radar |
+|         OTBD        |   33   | VAXIN3N |  Approach West → Radar North → Doha Control  |
+<figure markdown>
+  <figcaption>Table 4-4: Doha TMA departure handoffs (OTBD 33/OTHH 34s)</figcaption>
+</figure>
 
-### 4.3.3 Arrivals (ARR)
-| Arrival airport   | STAR | Transfer procedure and release conditions |
-|-------------------|---------------|-------------------------------------------|
-| OMDB | IMPED 3C | Transfer from **ACC Yankee** at **10,000 ft** released for further descent,<br> descend to **8000 ft** within **Area F1**,<br> descend to **6000 ft** within **Area A4**,<br> descend to **4000 ft** within **Area A5**,<br> transfer to DIR before **Area F1** boundary at **190 knots** released for further descent |
-| OMDB | PUVAL 5C | Transfer from **DEP 2 (North)** at **11,000 ft** released for descent to **9000 ft**,<br> descend to **9000 ft** within **Area D2**,<br> descend to **6000 ft** within **Area A2**,<br> descend to **5000 ft** within **Area F1**,<br> transfer to DIR before DB513 at **190 knots** released for further descent |
-| OMDB | PUVAL 3D | Transfer from **DEP 2 (North)** at **11,000 ft** released for descent to **9000 ft**,<br> descend to **9000 ft** within **Area D2**,<br> descend to **8000 ft** within **Area A1**,<br> descend to **6000 ft** within **Area A2**,<br> descend to **4000 ft** within **Area F1**,<br> transfer to DIR before **Area A3** boundary at **190 knots** released for further descent |
-| OMDB | LORID 4C | Transfer from **DEP 1 (South)** at **11,000 ft** released for descent to **8000 ft**,<br> descend to **8000 ft** within **Area D1**,<br> descend to **6000 ft** within **Area A2**,<br> descend to **5000 ft** within **Area F1**,<br> transfer to DIR before DB513 at **190 knots** released for further descent |
-| OMDB | LORID 4D | Transfer from **DEP 1 (South)** at **11,000 ft** released for descent to **8000 ft**,<br> descend to **8000 ft** within **Area D1**,<br> descend to **6000 ft** within **Area A3**,<br> transfer to DIR before RARPI at **190 knots** released for further descent |
-| OMDB | VUTEB 4C | Transfer from **ACC West** at **10,000 ft** released for further descent,<br> descend to **8000 ft** within **Area A1**,<br> descend to **6000 ft** within **Area A2**,<br> descend to **5000 ft** within **Area F1**,<br> transfer to DIR before DB513 at **190 knots** released for further descent |
-| OMDB | VUTEB 4D | Transfer from **ACC West** at **10,000 ft** released for further descent,<br> descend to **8000 ft** within **Area A1**,<br> descend to **6000 ft** within **Area A2**,<br> descend to **4000 ft** within **Area F1**,<br> transfer to DIR before **Area A3** boundary at **190 knots** released for further descent |
+#### 4.4.1.3 Arrivals - Doha 15 / Hamad 16s
+| Arrival Aerodrome |   STAR  |                Handoff procedure               |
+|:-----------------:|:-------:|:----------------------------------------------:|
+|     OTBD/OTHH     | ALKAN1F |   Doha Control → Radar North → Approach West   |
+|     OTBD/OTHH     | ALKAN1H |   Doha Control → Radar North → Approach West   |
+|     OTBD/OTHH     | ALKAN1P |   Doha Control → Radar North → Approach East   |
+|     OTBD/OTHH     | HAYYA1F |   Bahrain Radar → Radar North → Approach West  |
+|     OTBD/OTHH     | HAYYA1H |   Bahrain Radar → Radar North → Approach East  |
+|     OTBD/OTHH     | HAYYA1P |   Bahrain Radar → Radar North → Approach East  |
+|     OTBD/OTHH     | LAEEB1F |  Jeddah Control → Radar South → Approach West  |
+|     OTBD/OTHH     | LAEEB1K |  Jeddah Control → Radar South → Approach West  |
+|     OTBD/OTHH     | ORLEK1F |  Jeddah Control → Radar South → Approach West  |
+|     OTBD/OTHH     | TOSNA1P |    U.A.E Radar → Radar South → Approach East   |
+|     OTBD/OTHH     | TOSNA1T |    U.A.E Radar → Radar North → Approach East   |
+|     OTBD/OTHH     | TOSNA2F |    U.A.E Radar → Radar South → Approach West   |
+|     OTBD/OTHH     | TOVOX1P |    U.A.E Radar → Radar South → Approach East   |
+|     OTBD/OTHH     | TOVOX2F |    U.A.E Radar → Radar South → Approach West   |
+|     OTBD/OTHH     | VEDED1F |   Doha Control → Radar North → Approach West   |
+|     OTBD/OTHH     | VEDED1H |   Doha Control → Radar North → Approach East   |
+|     OTBD/OTHH     | VEDED1P |   Doha Control → Radar North → Approach East   |
+<figure markdown>
+  <figcaption>Table 4-5: Doha TMA arrivals handoffs (OTBD 15/OTHH 16s)</figcaption>
+</figure>
 
-### 4.3.4 Director (DIR)
-| Arrival airport   | STAR waypoint | Transfer procedure and release conditions |
-|-------------------|---------------|-------------------------------------------|
-| OMDB | All | Transfer from **ARR** released for further descent,<br> descend to platform altitude |
+#### 4.4.1..4 Arrivals - Doha 33 / Hamad 34s
+| Arrival Aerodrome |   STAR  |                Handoff procedure               |
+|:-----------------:|:-------:|:----------------------------------------------:|
+|     OTBD/OTHH     | ALKAN1L |   Doha Control → Radar North → Approach West   |
+|     OTBD/OTHH     | ALKAN1R |   Doha Control → Radar North → Approach East   |
+|     OTBD/OTHH     | ALKAN1V |   Doha Control → Radar North → Approach East   |
+|     OTBD/OTHH     | HAYYA1L |   Bahrain Radar → Radar North → Approach West  |
+|     OTBD/OTHH     | HAYYA1R |   Bahrain Radar → Radar North → Approach East  |
+|     OTBD/OTHH     | HAYYA1V |   Bahrain Radar → Radar North → Approach East  |
+|     OTBD/OTHH     | LAEEB1J |  Jeddah Control → Radar South → Approach West  |
+|     OTBD/OTHH     | LAEEB1L |  Jeddah Control → Radar South → Approach West  |
+|     OTBD/OTHH     | ORNEL1L |  Jeddah Control → Radar South → Approach West  |
+|     OTBD/OTHH     | TOSNA1J |    U.A.E Radar → Radar North → Approach West   |
+|     OTBD/OTHH     | TOSNA1R |    U.A.E Radar → Radar South → Approach East   |
+|     OTBD/OTHH     | TOSNA1V |    U.A.E Radar → Radar North → Approach East   |
+|     OTBD/OTHH     | TOSNA2L |    U.A.E Radar → Radar South → Approach West   |
+|     OTBD/OTHH     | TOVOX1R |    U.A.E Radar → Radar South → Approach East   |
+|     OTBD/OTHH     | TOVOX2L |    U.A.E Radar → Radar South → Approach West   |
+|     OTBD/OTHH     | VEDED1L |   Doha Control → Radar North → Approach West   |
+|     OTBD/OTHH     | VEDED1R |   Doha Control → Radar North → Approach East   |
+|     OTBD/OTHH     | VEDED1V |   Doha Control → Radar North → Approach East   |
+<figure markdown>
+  <figcaption>Table 4-6: Doha TMA arrivals handoffs (OTBD 33/OTHH 34s)</figcaption>
+</figure>
 
-### 4.3.5 Al Maktoum Radar (AMR)
-#### 4.3.5.1 Departing traffic
-| Departure airport | SID waypoint | Transfer procedure and release conditions |
-|-------------------|--------------|-------------------------------------------|
-| OMDW | ANVIX | Initial **3000 ft**,<br> climb to to **7000 ft** within **Area M2**,<br> climb to **FL150** within **Area M1**,<br> transfer **ACC East** released for further climb |
-| OMDW | RIDAP, SENPA, NABIX, DAVMO | Climb to **7000 ft** within **Area M2** and **Area M3**,<br> transfer to **DEP 1 (South)** released for further climb |
-| OMDW | KUTLI | Initial **3000 ft**,<br> climb to to **7000 ft** within **Area M2**,<br> transfer to **Abu Dhabi APP West** released for further climb,<br> coordinated level up to **9000 ft** with Abu Dhabi available |
-| OMDW | NOLSU | Initial **3000 ft**,<br> climb to to **7000 ft** within **Area M2**,<br> climb to **12,000 ft** within **Area M1**,<br> transfer to **DEP 2 (North)** released for further climb,<br> traffic to cross **Area A3** above **9000 ft** |
-| OMDB | ANVIX | Transfer from **DEP 1 (South)** at **9000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC East** released for further climb |
-| OMSJ | ANVIX | Transfer from **DEP 2 (North)** at 1**3000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC East** released for further climb |
 
-#### 4.3.5.2 Arriving traffic
-| Arrival airport   | STAR waypoint | Transfer procedure and release conditions |
-|-------------------|---------------|-------------------------------------------|
-| OMDW | GONVI, DATOB, PUVAL | Transfer from **DEP 1 (South)** at **10,000 ft**,<br> descend within **Area M1** to platform altitude |
-| OMDW | LORID, ELOVU | Transfer from **Abu Dhabi APP West** at **9000 ft** released for further descent,<br> descend within **Area M2** and **Area M1** to platform altitude |
-| OMDW | GERUL | Transfer from **ACC Delta** at **10,000 ft** released for further descent,<br> descend within **Area M2** and **Area M1** to platform altitude |
-| OMDW | GIDIS | Transfer from **ACC East** at **10,000 ft** released for further descent,<br> descend within **Area M1** to platform altitude |
-| OMDW | UMAMI | Transfer from **ACC Yankee** at **12,000 ft** released for further descent,<br> descend within **Area M1** to platform altitude |
-
-## 4.4 CTA 12 operation
-### 4.4.1 Departure South (DEP 1)
-#### 4.4.1.1 Departing traffic
-| Departure airport | SID waypoint | Transfer procedure and release conditions |
-|-------------------|--------------|-------------------------------------------|
-| OMDB | ANVIX | Initial **4000 ft**,<br> climb to to **5000 ft** within **Area A2**,<br> transfer to **AMR** before **Area M1** boundary released for further climb |
-| OMDB | RIDAP, SENPA, NABIX | Climb to **5000 ft** within **Area A2**,<br> climb to **FL150** within **Area D1**,<br> transfer to **ACC Delta** released for further climb |
-| OMDB | KUTLI | Initial **4000 ft**,<br> climb to **5000 ft** within **Area A2**,<br> climb to **FL150** within **Area D1**,<br> transfer to **ACC Hotel** released for further climb |
-| OMSJ | RIDAP, SENPA, NABIX | Transfer from **DEP 2 (North)** at **11,000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC Delta** released for further climb |
-| OMSJ | KUTLI | Transfer from **DEP 2 (North)** at **11,000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC Hotel** released for further climb |
-| OMDW | RIDAP, SENPA, NABIX | Transfer from **AMR** at **9000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC Delta** released for further climb |
-| OMDW | DAVMO | Transfer from **AMR** at **9000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC Romeo** released for further climb |
-| OMRK | PUVAL | 
-
-#### 4.4.1.2 Arriving traffic
-| Arrival airport   | STAR waypoint | Transfer procedure and release conditions |
-|-------------------|---------------|-------------------------------------------|
-| OMDB | LORID | Transfer from **ACC Hotel** at **FL160** released for further descent,<br> descend to **12,000 ft** within **Area M2**,<br> descend to **11,000 ft** within **Area M3**,<br> descend to **6000 ft** within **Area D1**,<br> transfer to **ARR** released for further descent |
-| OMSJ | LORID | Transfer from **ACC Hotel** at **FL160** released for further descent,<br> descend to **12,000 ft** within **Area M2**,<br> descend to **11,000 ft** within **Area M3**,<br> descend to **8000 ft** within **Area D1**,<br> transfer to **ARR** released for further descent |
-| OMDW | GONVI | Transfer from **ACC West** at **FL160** released for further descent,<br> descend to **13,000 ft** within **Area D2** (minimum altitude within **Area A4**),<br> descend to **10,000 ft** within **Area F1**,<br> transfer to **AMR** before **Area M1** |
-| OMDW | DATOB | Transfer from **ACC West** at **FL160** released for further descent,<br> descend to **10,000 ft** within **Area A3** (minimum altitude within **Area D1**),<br> transfer to **AMR** before **Area M1** |
-| OMDW | PUVAL | Transfer from **DEP 2 (North)** at **12,000 ft**,<br> descend to **10,000 ft** within **Area A2** (minimum altitude within **Area D1**),<br> transfer to **AMR** before **Area M1** |
-
-### 4.4.2 Departure North (DEP 2)
-#### 4.4.2.1 Departing traffic
-| Departure airport | SID waypoint | Transfer procedure and release conditions |
-|-------------------|--------------|-------------------------------------------|
-| OMDB | DAVMO | Initial **4000 ft**,<br> climb to **5000 ft** within **Area A2**,<br> climb to **7000 ft** within **Area A1**,<br> climb to **FL150** within **Area D2**,<br> transfer to **ACC Romeo** released for further climb |
-| OMDB | IVURO | Initial **4000 ft**,<br> climb to **5000 ft** within **Area A2**,<br> climb to **7000 ft** within **Area A1**,<br> climb to **13,000 ft** within **Area D2**,<br> transfer to **ACC Romeo** released for further climb |
-| OMSJ | RIDAP, SENPA, NABIX | Initial **3000 ft**,<br> climb to **5000 ft** within **Area A2**,<br> climb to **11,000 ft** within **Area D2**,<br> transfer to **DEP 1 (South)**,<br> traffic to cross **Area A4** above **9000 ft** |
-| OMSJ | ANVIX | Initial **2000 ft**,<br> climb to **5000 ft** within **Area A2**,<br> climb to **7000 ft** within **Area D2** (maximum altitude within **Area A1**),<br> transfer to **AMR** before by **Area F1** boundary,<br> otherwise transfer to **ACC East** at **FL150** if able to reach by **Area F1** boundary |
-| OMSJ | DAVMO | Initial **3000 ft**,<br> climb to **5000 ft** within **Area A2**,<br> climb to **FL150** within **Area D2**,<br> transfer to **ACC Romeo** released for further climb |
-| OMSJ | IVURO | Initial **3000 ft**,<br> climb to **5000 ft** within **Area A2**,<br> climb to **13,000 ft** within **Area D2**,<br> transfer to **ACC Romeo** released for further climb |
-| OMSJ | KUTLI | Initial **3000 ft**,<br> climb to **5000 ft** within **Area A2**,<br> climb to **11,000 ft** within **Area D2**,<br> transfer to **DEP 1 (South)** released for further climb,<br> traffic to cross **Area A5** above **9000 ft** |
-| OMDW | NOLSU | Transfer from **AMR** at **12,000 ft**,<br climb to **FL150**,<br> transfer to **ACC Romeo** released for further climb |
-| OMRK | PUVAL | Transfer from **Ras Al Khaimah APP** at **5000 ft** released for further climb,<br> climb to **11,000 ft**,<br> transfer to **DEP 1 (South)** released for further climb |
-
-#### 4.4.2.2 Arriving traffic
-| Arrival airport   | STAR waypoint | Transfer procedure and release conditions |
-|-------------------|---------------|-------------------------------------------|
-| OMDB | PUVAL | Transfer from **ACC Romeo** at **11,000 ft**,<br> transfer to **ARR** at **11,000 ft**, released for descent to **9000 ft** within **Area D2** |
-| OMSJ | PUVAL | Transfer from **ACC Romeo** at **10,000 ft** released for further descent,<br> descend to platform altitude within **Area D2**, ensuring traffic is below **5000 ft** before entering **Area A4** and below **3000 ft** before entering **Area A5** |
-| OMSJ | GONVI | Transfer from **ACC West** at 9,000 ft released for further descent,<br> descend to platform altitude within **Area D2**, ensuring traffic is below **5000 ft** before entering **Area A4** and below **3000 ft** before entering **Area A5** |
-| OMSJ | NOLSU | Transfer from **ACC Yankee** at **10,000 ft** released for further descent,<br> descend to platform altitude within **Area D2**, ensuring traffic is below **5000 ft** before entering **Area A4** and below **3000 ft** before entering **Area A5** |
-| OMSJ | LORID | Transfer from ARR at **5000 ft**,<br> descend to platform altitude within **Area A4** and **Area A5**, ensuring traffic is below **3000 ft** before entering **Area A5** |
-| OMRK | ALSIL | Transfer from **ACC Yankee** at **10,000 ft** released for further descent,<br> descend to **6000 ft** within **Area D2**,<br> transfer to **Ras Al Khaimah APP** released for further descent,<br> traffic to be below **7000 ft** before entering Ras Al Khaimah CTA |
-
-### 4.4.3 Arrivals (ARR)
-| Arrival airport   | STAR | Transfer procedure and release conditions |
-|-------------------|---------------|-------------------------------------------|
-| OMDB | IMPED 3B | Transfer from **ACC Yankee** at **10,000 ft** released for further descent,<br> descend to **8000 ft** within **Area A1**,<br> descend to **6000 ft** within **Area A2**,<br> descend to **5000 ft** within **Area F1**,<br> transfer to DIR before DB421 at **190 knots** released for further descent |
-| OMDB | IMPED 3E | Transfer from **ACC Yankee** at **10,000 ft** released for further descent,<br> descend to **8000 ft** within **Area A1**,<br> descend to **6000 ft** within **Area A2**,<br> descend to **4000 ft** within **Area A3**,<br> transfer to DIR before DB407 at **190 knots** released for further descent |
-| OMDB | PUVAL 5B | Transfer from **DEP 2 (North)** at **11,000 ft** released for descent to **9000 ft** within **Area D2**,<br> descend to **9000 ft** within **Area D2**,<br> descend to **6000 ft** within **Area A2**,<br> descend to **4000 ft** within **Area A5**,<br> transfer to DIR before DB421 at **190 knots** released for further descent |
-| OMDB | PUVAL 2E | Transfer from **DEP 2 (North)** at **11,000 ft** released for descent to **9000 ft** within **Area D2**,<br> descend to **9000 ft** within **Area D2**,<br> descend to **6000 ft** within **Area A2**,<br> descend to **5000 ft** within **Area F1**,<br> transfer to DIR before DB407 at **190 knots** released for further descent |
-| OMDB | LORID 1E | Transfer from **DEP 1 (South)** at **6000 ft** released for further descent,<br> descend to **4000 ft**,<br> transfer to DIR before DB403 at **190 knots** released for further descent |
-| OMDB | VUTEB 3B | Transfer from **ACC West** at **10,000 ft** released for further descent,<br> descend to **8000 ft** within **Area F1**,<br> descend to **6000 ft** within **Area A4**,<br> descend to **4000 ft** within **Area A5**,<br> transfer to DIR before **Area F1** boundary at **190 knots** released for further descent |
-| OMSJ | LORID 3K | Transfer from **DEP 1 (South)** at **8000 ft** released for further descent,<br> descend to **5000 ft**,<br> transfer to **DEP 2 (North)** before **Area A4** |
-
-### 4.4.4 Director (DIR)
-| Arrival airport   | STAR waypoint | Transfer procedure and release conditions |
-|-------------------|---------------|-------------------------------------------|
-| OMDB | All | Transfer from **ARR** released for further descent,<br> descend to platform altitude |
-
-!!! important
-    Ensure traffic is not cleared below Burj Khalifa radar minimum altitude of 4000 ft
-
-### 4.4.5 Al Maktoum Radar (AMR)
-#### 4.4.5.1 Departing traffic
-| Departure airport | SID waypoint | Transfer procedure and release conditions |
-|-------------------|--------------|-------------------------------------------|
-| OMDW | ANVIX | Initial **3000 ft**,<br> climb to **FL150**,<br> transfer **ACC East** released for further climb |
-| OMDW | RIDAP, SENPA, NABIX, DAVMO | Climb to **9000 ft** within **Area M1**,<br> transfer to **DEP 1 (South)** released for further climb |
-| OMDW | KUTLI | Initial **3000 ft**,<br> climb to **7000 ft** within **Area M1**,<br> transfer to **Abu Dhabi APP West** released for further climb,<br> coordinated level up to **9000 ft** with Abu Dhabi available |
-| OMDW | NOLSU | Initial **3000 ft**,<br> climb to **12,000 ft** within **Area M1**,<br> transfer to **DEP 2 (North)** released for further climb,<br> traffic to cross **Area A1** above 11000 ft |
-| OMDB | ANVIX | Transfer from **DEP 1 (South)** at **5000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC East** released for further climb |
-| OMSJ | ANVIX | Transfer from **DEP 2 (North)** at **7000 ft** released for further climb,<br> climb to **FL150**,<br> transfer to **ACC East** released for further climb |
-
-#### 4.4.5.2 Arriving traffic
-| Arrival airport   | STAR waypoint | Transfer procedure and release conditions |
-|-------------------|---------------|-------------------------------------------|
-| OMDW | GONVI, DATOB, PUVAL | Transfer from **DEP 1 (South)** at **10,000 ft**,<br> descend within **Area M1** to platform altitude |
-| OMDW | LORID, ELOVU | Transfer from **Abu Dhabi APP West** at **9000 ft** released for further descent,<br> descend within **Area M2** and **Area M1** to platform altitude |
-| OMDW | GERUL | Transfer from **ACC Delta** at **10,000 ft** released for further descent,<br> descend within **Area M2** and **Area M1** to platform altitude |
-| OMDW | GIDIS | Transfer from **ACC East** at **10,000 ft** released for further descent,<br> descend within **Area M1** to platform altitude |
-| OMDW | UMAMI | Transfer from **ACC Yankee** at **12,000 ft** released for further descent,<br> descend within **Area M1** to platform altitude |
