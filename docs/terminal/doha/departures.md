@@ -1,7 +1,7 @@
-# 6. Departures
-## 6.1 Longitudinal Separation
-### 6.1.1 Separation Requirements
-Except as specified in Section 6.1.3, all aircraft departing the Doha Terminal Maneuvering Area (TMA) via a common exit point shall be separated by a minimum longitudinal distance of **8 nautical miles (NM)**, maintained as constant or increasing.
+# 4. Departures
+## 4.1 Longitudinal Separation
+### 4.1.1 Separation Requirements
+Except as specified in Section 4.1.3, all aircraft departing the Doha Terminal Maneuvering Area (TMA) via a common exit point shall be separated by a minimum longitudinal distance of **8 nautical miles (NM)**, maintained as constant or increasing.
 
 If maintaining this separation is not feasible, the trailing aircraft shall be handed over to the next control sector or unit while either climbing or in level flight. The aircraft must be cleared to an altitude compliant with the Standard Instrument Departure (SID) exit restrictions once separation with preceding traffic is ensured.
 

@@ -3,6 +3,9 @@ sort_type: natural
 nav:
     - info.md
     - general_information.md
-    - general_procedures.md
+    - separation.md
+    - entry_exit.md
+    - equipment.md
+    - loa.md
     - sectors.md
     - appendix_agreedlevels.md
