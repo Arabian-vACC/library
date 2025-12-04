@@ -1,7 +1,7 @@
-# 4. Departures
-## 4.1 Longitudinal Separation
-### 4.1.1 Separation Requirements
-Except as specified in Section 4.1.3, all aircraft departing the Doha Terminal Maneuvering Area (TMA) via a common exit point shall be separated by a minimum longitudinal distance of **8 nautical miles (NM)**, maintained as constant or increasing.
+# 6. Departures
+## 6.1 Longitudinal Separation
+### 6.1.1 Separation Requirements
+Except as specified in Section 6.1.3, all aircraft departing the Doha Terminal Maneuvering Area (TMA) via a common exit point shall be separated by a minimum longitudinal distance of **8 nautical miles (NM)**, maintained as constant or increasing.
 
 If maintaining this separation is not feasible, the trailing aircraft shall be handed over to the next control sector or unit while either climbing or in level flight. The aircraft must be cleared to an altitude compliant with the Standard Instrument Departure (SID) exit restrictions once separation with preceding traffic is ensured.
 
@@ -30,74 +30,47 @@ Sections 6.2.2 and 6.2.3 shall serve as a reference for understanding interactio
 Where no conflicts are anticipated, aircraft may be cleared to climb to the highest permissible level, provided that prior coordination has
 
 ### 6.2.2 Climb Procedure - Doha 15 / Hamad 16s
-<table><thead>
-  <tr>
-    <th>Departure Aerodrome</th>
-    <th>Runway</th>
-    <th>SID</th>
-    <th>Climb Procedure</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>OTHH</td>
-    <td>16L</td>
-    <td>ALSEM2M</td>
-    <td>Doha Approach: Aircraft shall be restricted to 5,000 ft or below at KASIS. Upon passing KASIS, aircraft may be cleared to climb to FL150.<br>Doha Radar: Aircraft shall be maintained at FL150 until they are clear of inbound traffic via TOSNA and TOVOX. Thereafter, aircraft may be cleared to FL210 or a lower coordinated level by ALSEM.</td>
-  </tr>
-  <tr>
-    <td>OTHH</td>
-    <td>16L</td>
-    <td>ALVEN2M</td>
-    <td>Doha Approach: Aircraft shall be restricted to 4,000 ft or above at DERTI, Upon passing DERTI, aircraft shall be cleared to 5,000 ft at GIDOS. Passing GIDOS 7,000 ft or above or 8,000 ft or below at PASIS.<br>Doha Radar: Aircraft shall be maintained at FL150 or a lower coordinated level at ALVEN until they are clear of inbound traffic via HAYYA and VEDED.</td>
-  </tr>
-  <tr>
-    <td>OTHH</td>
-    <td>16L</td>
-    <td>KUPRO1M</td>
-    <td>Doha Approach: Aircraft shall be restricted to 5,000 ft or below at KASIS. Upon passing KASIS, aircraft may be cleared to climb to FL150.<br>Doha Radar: Aircraft shall be maintained at FL150 until they are clear of inbound traffic via TOSNA and TOVOX. Thereafter, aircraft may be cleared to FL250 or a lower coordinated level by KUPRO.<br></td>
-  </tr>
-  <tr>
-    <td>OTHH</td>
-    <td>16L</td>
-    <td>LUBET1M</td>
-    <td>Doha Approach: Aircraft shall be restricted to 4,000 ft or above at DERTI, Upon passing DERTI, aircraft shall be cleared to 5,000 ft at GIDOS. Passing GIDOS 7,000 ft or above or 8,000 ft or below at PASIS.<br>Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET.</td>
-  </tr>
-  <tr>
-    <td>OTHH</td>
-    <td>16L</td>
-    <td>LUBET1Y</td>
-    <td>Doha Approach: Aircraft shall be restricted to 4,000 ft or above at DERTI, Upon passing DERTI, aircraft shall be cleared to 5,000 ft at GIDOS. Passing GIDOS 7,000 ft or above or 8,000 ft or below at PASIS.<br>Doha Radar: Aircraft shall be maintained at 13,000 ft or a lower coordinated level at DEBIL until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL160 or a higher coordinated level by PATOM and further climb to FL180 or higher by LUBET.<br></td>
-  </tr>
-  <tr>
-    <td>OTHH</td>
-    <td>16L</td>
-    <td>TULUB1M</td>
-    <td>Doha Approach: Aircraft shall be restricted to 4,000 ft or above at DERTI, Upon passing DERTI, aircraft shall be cleared to 5,000 ft at GIDOS. Passing GIDOS 7,000 ft or above or 8,000 ft or below at PASIS.<br>Doha Radar: Aircraft shall be maintained at 13,000 ft or a lower coordinated level at DEBIL until they are clear of inbound traffic via HAYYA and VEDED.Thereafter, aircraft may be cleared to FL160 or a higher coordinated level by PATOM and further climb to FL180 or higher by TULUB.</td>
-  </tr>
-  <tr>
-    <td>OTHH</td>
-    <td>16L</td>
-    <td>VAXIN2M</td>
-    <td>Doha Approach: Aircraft shall be restricted to 5,000 ft or below at KASIS. Upon passing KASIS, aircraft may be cleared to climb to FL150.<br>Doha Radar: Aircraft shall be maintained at FL150 until they are clear of inbound traffic via TOSNA and TOVOX. Thereafter, aircraft may be cleared to FL150 or a higher coordinated level by VAXIN.<br></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody></table>
+| Departure Aerodrome | Runway | SID       | Climb Procedure |
+|---------------------|--------|-----------|-----------------|
+| OTHH                | 16L    | ALSEM2M   | Doha Approach: Aircraft shall be restricted to 5,000 ft or below at KASIS. Upon passing KASIS, aircraft may be cleared to climb to FL150.<br>Doha Radar: Aircraft shall be maintained at FL150 until they are clear of inbound traffic via TOSNA and TOVOX. Thereafter, aircraft may be cleared to FL210 or a lower coordinated level by ALSEM. |
+| OTHH                | 16L    | ALVEN2M   | Doha Approach: Aircraft shall be restricted to 4,000 ft or above at DERTI. Upon passing DERTI, aircraft shall be cleared to 5,000 ft at GIDOS. Passing GIDOS 7,000 ft or above or 8,000 ft or below at PASIS.<br>Doha Radar: Aircraft shall be maintained at FL150 or a lower coordinated level at ALVEN until they are clear of inbound traffic via HAYYA and VEDED. |
+| OTHH                | 16L    | KUPRO1M   | Doha Approach: Aircraft shall be restricted to 5,000 ft or below at KASIS. Upon passing KASIS, aircraft may be cleared to climb to FL150.<br>Doha Radar: Aircraft shall be maintained at FL150 until they are clear of inbound traffic via TOSNA and TOVOX. Thereafter, aircraft may be cleared to FL250 or a lower coordinated level by KUPRO. |
+| OTHH                | 16L    | LUBET1M   | Doha Approach: Aircraft shall be restricted to 4,000 ft or above at DERTI. Upon passing DERTI, aircraft shall be cleared to 5,000 ft at GIDOS. Passing GIDOS 7,000 ft or above or 8,000 ft or below at PASIS.<br>Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED. Thereafter, aircraft may be cleared to FL180 or a higher coordinated level by LUBET. |
+| OTHH                | 16L    | LUBET1Y   | Doha Approach: Aircraft shall be restricted to 4,000 ft or above at DERTI. Upon passing DERTI, aircraft shall be cleared to 5,000 ft at GIDOS. Passing GIDOS 7,000 ft or above or 8,000 ft or below at PASIS.<br>Doha Radar: Aircraft shall be maintained at 13,000 ft or a lower coordinated level at DEBIL until they are clear of inbound traffic via HAYYA and VEDED. Thereafter, aircraft may be cleared to FL160 or a higher coordinated level by PATOM and further climb to FL180 or higher by LUBET. |
+| OTHH                | 16L    | TULUB1M   | Doha Approach: Aircraft shall be restricted to 4,000 ft or above at DERTI. Upon passing DERTI, aircraft shall be cleared to 5,000 ft at GIDOS. Passing GIDOS 7,000 ft or above or 8,000 ft or below at PASIS.<br>Doha Radar: Aircraft shall be maintained at 13,000 ft or a lower coordinated level at DEBIL until they are clear of inbound traffic via HAYYA and VEDED. Thereafter, aircraft may be cleared to FL160 or a higher coordinated level by PATOM and further climb to FL180 or higher by TULUB. |
+| OTHH                | 16L    | VAXIN2M   | Doha Approach: Aircraft shall be restricted to 5,000 ft or below at KASIS. Upon passing KASIS, aircraft may be cleared to climb to FL150.<br>Doha Radar: Aircraft shall be maintained at FL150 until they are clear of inbound traffic via TOSNA and TOVOX. Thereafter, aircraft may be cleared to FL150 or a higher coordinated level by VAXIN. |
+| OTHH                | 16R    | 1234567   | ----------------- |
+| OTHH                | 16R    | 1234567   | ----------------- |
+| OTHH                | 16R    | 1234567   | ----------------- |
+| OTHH                | 16R    | 1234567   | ----------------- |
+| OTHH                | 16R    | 1234567   | ----------------- |
+| OTHH                | 16R    | 1234567   | ----------------- |
+| OTHH                | 16R    | 1234567   | ----------------- |
+| OTHH                | 16R    | 1234567   | ----------------- |
 
 !!! warning
     With effect 07 NOV 2025, departures from 16L are temporarily provided with heading 120 degrees on departure and will require vectors to rejoin their SID. Please see [Aerodrome Appendix - Temporary Procedures](/aerodrome/doha-hamad/appendix_temp/) for further information
 
 ### 6.2.3 Climb Procedure - Doha 33 / Hamad 34s
+| Departure Aerodrome | Runway | SID       | Climb Procedure   |
+|---------------------|--------|-----------|-------------------|
+| OTHH                | 34R    | 1234567   | ----------------- |
+| OTHH                | 34R    | 1234567   | ----------------- |
+| OTHH                | 34R    | 1234567   | ----------------- |
+| OTHH                | 34R    | 1234567   | ----------------- |
+| OTHH                | 34R    | 1234567   | ----------------- |
+| OTHH                | 34R    | 1234567   | ----------------- |
+| OTHH                | 34R    | 1234567   | ----------------- |
+| OTHH                | 34R    | 1234567   | ----------------- |
+| OTHH                | 34L    | 1234567   | ----------------- |
+| OTHH                | 34L    | 1234567   | ----------------- |
+| OTHH                | 34L    | 1234567   | ----------------- |
+| OTHH                | 34L    | 1234567   | ----------------- |
+| OTHH                | 34L    | 1234567   | ----------------- |
+| OTHH                | 34L    | 1234567   | ----------------- |
+| OTHH                | 34L    | 1234567   | ----------------- |
+| OTHH                | 34L    | 1234567   | ----------------- |
+
 
 ## 6.3 Lateral Profile
 ### 6.3.1 General

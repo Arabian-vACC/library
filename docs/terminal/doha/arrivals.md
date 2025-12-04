@@ -150,8 +150,31 @@ Aircraft should not be cleared to descend below the current minimum radar altitu
 Intermediate levels may be assigned to ensure proper traffic separation between arrivals. When traffic is being handed off to the Final Approach (FIN) sector, aircraft shall not be cleared below 6000 ft.
 
 ### 3.3.2 Descent Procedure - Doha 15 / Hamad 16s
+| Arrival Aerodrome   | Runway |   STAR    | Descent Procedure |
+|---------------------|--------|-----------|-------------------|
+| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
+| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
+| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
+| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
+| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
+| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
+| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
+| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
+| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
+
 
 ### 3.3.3 Descent Procedure - Doha 33 / Hamad 34s
+| Arrival Aerodrome   | Runway |   STAR    | Descent Procedure |
+|---------------------|--------|-----------|-------------------|
+| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
+| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
+| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
+| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
+| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
+| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
+| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
+| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
+| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
 
 ## 5.4 Lateral Profile
 ### 5.4.1 General

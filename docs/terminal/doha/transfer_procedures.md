@@ -9,7 +9,7 @@ The AoRs represented hereunder with alphanumeric identifiers, are the same as th
 ## 4.2 Transfer from Arrivals (ARR) to Director (DIR)
 Traffic shall always be handed off to DIR with a speed restriction on **190 knots** unless otherwise coordinated (e.g. for a straight-in approach).
 
-Hand offs to DIR must be at **6000FT** when arriving on the downwind legs.
+Hand offs to DIR must be at **4000FT** when arriving on the downwind legs.
 
 ## 4.3 Hand off procedures
 ### 4.3.1 34/33s
