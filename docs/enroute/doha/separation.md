@@ -18,7 +18,7 @@ The following wake turbulence separation minima apply in en-route airspace betwe
 
 - **Heavy** behind **Heavy**: No additional separation required beyond standard lateral, vertical, or longitudinal minima.
 - **Medium** behind **Heavy**: Minimum 4 NM lateral or longitudinal separation.
-- **Light** behind **Heavy**: Minimum 5 NM lateral or longitudinal separation.
+- **Light** behind **Heavy**: Minimum 7 NM lateral or longitudinal separation.
 - **Light** behind **Medium**: Minimum 5 NM lateral or longitudinal separation.
 
 Controllers must apply these minima when vectoring or sequencing aircraft with differing wake turbulence categories in en-route sectors, especially when aircraft are operating on converging or same tracks. If the required wake turbulence separation cannot be assured by lateral or vertical means, longitudinal spacing must be increased accordingly.
