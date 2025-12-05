@@ -38,24 +38,7 @@ Clearances for direct routing to waypoints, radar vectors before the downwind le
 
 Handoffs between controllers must be conducted early enough to allow the next sectors to facilitate continuous climb or descent, provided no conflicts exist with other traffic and separation is maintained.  
 
-### 2.4.3 Sectors - Doha TMA
-|    Logon   |       Sector       |  Radio Callsign |                   Area of Responsibility                  |
-|:----------:|:------------------:|:---------------:|:---------------------------------------------------------:|
-| DOH_R1_APP |    Radar (North)   |   "DOHA RADAR"  | Departure services for: ALSEM, ALVEN, LUBET, TULUB, VAXIN |
-|            |                    |                 |      Arrival services for: ALKAN, HAYYA, TOSNA, VEDED     |
-| DOH_R2_APP |    Radar (South)   |   "DOHA RADAR"  |     Departure Services for: BUNDU, DATRI, KUPRO, ULIKA    |
-|            |                    |                 | Arrival services provided for: LAEEB, ORLEK, TOSNA, TOVOX |
-| DOH_A1_APP |   Approach (East)  | "DOHA APPROACH" |           Departures/Arrivals for runway 16L/34R          |
-| DOH_A2_APP |   Approach (West)  | "DOHA APPROACH" |      Departures/Arrivals for runways 16R/34L & 15/33      |
-| DOH_F1_APP |   Director (East)  | "DOHA DIRECTOR" |        Final approach sequencing for runway 16L/34R       |
-| DOH_F2_APP | Director (Central) | "DOHA DIRECTOR" |        Final approach sequencing for runway 16R/34L       |
-| DOH_F3_APP |   Director (West)  | "DOHA DIRECTOR" |         Final approach sequencing for runway 15/33        |
-<figure markdown>
-  <figcaption>Table 2-1: Doha TMA areas of responsibility</figcaption>
-</figure>
-
-
-### 2.4.4 Sector order
+### 2.4.3 Sector order
 Unless explicitly authorized by the Arabian vACC staff, sectors within the Doha TMA must be opened in the specified order.  
 
 Each active sector requires a prerequisite sector to be online before further divisions of the TMA are made. If a prerequisite sector goes offline, the TMA must revert to the previous configuration.  
@@ -71,5 +54,5 @@ Sectors not included in this priority order may be opened at any time.
   <figcaption>Table 2-6: Sector order of login</figcaption>
 </figure>
 
-### 2.4.6 Sector top-down coverage
+### 2.4.4 Sector top-down coverage
 When the lower sector is offline, Doha Radar shall provide top-down coverage for Doha in addition to its designated areas of responsibility. This responsibility transitions to Doha Approach when it is online. Controllers are strongly encouraged to obtain the Tier-2 Military Endorsement to ensure proficiency in delivering military air traffic services at Al-Udeid Airbase (OTBH).
