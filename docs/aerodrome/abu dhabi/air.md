@@ -1,14 +1,12 @@
 # 5. Air Control Procedures
 ## 5.1 General provisions
-
 Air Control (AIR) is responsible for all aerodrome movements on runways and their associated taxiways. AIR shall also ensure separation between IFR and VFR aircraft that are arriving at and
 departing the aerodrome, as well as VFR aircraft operating within the aerodrome control zone.
 
 ## 5.2 Runway configuration
-### 5.2.1 Simultaneous operation of instrument runways (SOIR)
-The Abu Dhabi International Airport runways are 2,000 metres apart and comply with ICAO requirements for Simultaneous Operations of Instrument Runways (SOIR).
-Segregated Runway Operations, i.e. one runway exclusively for arrivals and one exclusively for departures, are normally in use during busy arrival and departure times.
+The Abu Dhabi International Airport runways are 2,000 metres apart and comply with ICAO requirements for Simultaneous Operations of Instrument Runways (SOIR). Segregated Runway Operations, i.e. one runway exclusively for arrivals and one exclusively for departures, are normally in use during busy arrival and departure times.
 
+### 5.2.1 Simultaneous operation of instrument runways (SOIR)
 - Dependent Parallel Instrument Approaches shall be used as per ICAO Doc 9643 SOIR Mode 2 during peak arrival times and at other times as required by ATC with minimum 3 NM separation.
 - During periods of reduced traffic demand, single runway, mixed-mode operations are used.
 - During inbound peak-hours aircraft can expect to be vectored to either of the parallel runways to optimize the arrival sequence.
@@ -24,10 +22,20 @@ During SOIR pilots should take special care to comply with all ATC instructions 
 - Military aircraft operating from OMAA north of runway 13L / 31R will be required to cross runway 13L / 31R to facilitate access to and from the military apron.
 - Military aircraft can be expected to depart from runway 13L / 31R and arrival aircraft shouldbe aware that there may be departing traffic with possible increased arrival spacing to facilitate.
 
-
 During SOIR, in the event of a blockage/unserviceability on the arrival runway, ATC will initiate single runway, mixed-mode operations and reposition aircraft to the available runway accordingly.
 
 Training flights will not be facilitated at Abu Dhabi International Airport during parallel runway Operations.
+
+The standard configuration prefers 31L for departing traffic and 31R for arriving traffic, with the flexibility to move traffic between the runways as necessary to best manage traffic flow.
+
+### 5.2.2 Segregated Runway Operations
+During periods of busy arrivals and departures, Segregated Runway Operations are used, whereby one runway is utilised exclusively for departures, and one for arrivals. The relevant runway should be selected in the ATIS setup for each, with the condition "PARALLEL RWY OPS IN PROGRESS" selected.
+
+### 5.2.3 Single Runway Operations
+When a runway is closed for any reason, the relevant active runway should be selected, with the appropriate closed runway selected in the NOTAMs.
+
+!!! info
+    vATIS has various configurations. Note that SRO profiles do not automatically denote a runway closure, which should be selected through the NOTAMs. These profiles can be utlised during segregated runway operations as well as single runway operations with the appropriate NOTAM/Airport Conditions attached.
 
 ## 5.3 Departure procedures
 ### 5.3.1 Standard departure points
