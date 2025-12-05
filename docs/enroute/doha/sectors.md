@@ -1,6 +1,6 @@
 # 6. Sector Specific
 <figure markdown>
-![Doha FIR - Sectorization Overview](img/Doha_FIR_Enroute.png)
+![Doha FIR - Sectorization Overview](img/Doha_FIR_Enroute_Sectors.png)
 </figure>
 
 ## 6.1 Sector N
