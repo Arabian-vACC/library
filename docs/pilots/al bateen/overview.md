@@ -16,7 +16,7 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
 
 | Simulator      | Freeware                    | Payware                            |
 |----------------|-----------------------------|------------------------------------|
-| MSFS           | [flightsim.to] (https://flightsim.to/file/100673/omad-al-bateen-ecexutive-airport-abu-dhabi) |                                    |
+| MSFS           | [flightsim.to](https://flightsim.to/file/100673/omad-al-bateen-ecexutive-airport-abu-dhabi) |                                    |
 | X-Plane        |                             |                                    |
 | Prepar3D V4/V5 |                             |                                    |
 
@@ -29,4 +29,4 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
 | OMAA_2_APP | Abu Dhabi Radar West    | 128.100   | - Departure/Approach Position                                     |
 
 !!! note
-    Al Bateen does not have an ATIS frequency. Abu Dhabi ATIS can be utilised for information purposes when online. If Abu Dhabi is not online, weather and operational information can be requested from Al Bateen Ground/Tower.
+    Al Bateen does not have a dedicated ATIS frequency. Abu Dhabi ATIS can be utilised for information purposes when online. If Abu Dhabi is not online, weather and operational information can be requested from Al Bateen Ground/Tower.
