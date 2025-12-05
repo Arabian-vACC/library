@@ -3,12 +3,12 @@
 |                     |                                                   |
 |---------------------|---------------------------------------------------|
 |         Type        |                    Procedure                      |
-|       Revision      |                     XX/XXX                        |
-|    Effective Date   |                    XX XXX XXXX                    |
-|     Prepared by     |                                                   |
+|       Revision      |                     01/2025                       |
+|    Effective Date   |                    05/12/2025                     |
+|     Prepared by     |                  Steven - 1774511                 |
 |     Approved by     |             Chriss Klosowski - ACCARB1            |
-|   Next review date  |                    XX XXX XXXX                    |
-| Cancelled documents |                SOP XXXX R0X/XXXX                  |
+|   Next review date  |                    05/12/2026                     |
+| Cancelled documents |                       NIL                         |
 
 ## Record of Revisions
 <table><thead>
@@ -19,9 +19,9 @@
   </tr></thead>
 <tbody>
   <tr>
-    <td>XX/XXXX</td>
+    <td>01/2025</td>
     <td>Initial issue</td>
-    <td>XX XXX XXX</td>
+    <td>05/12/2025</td>
   </tr>
 </tbody></table>
 
