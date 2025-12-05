@@ -152,29 +152,52 @@ Intermediate levels may be assigned to ensure proper traffic separation between 
 ### 3.3.2 Descent Procedure - Doha 15 / Hamad 16s
 | Arrival Aerodrome   | Runway |   STAR    | Descent Procedure |
 |---------------------|--------|-----------|-------------------|
-| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
-| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
-| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
-| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
-| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
-| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
-| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
-| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
-| OTHH/OTBD           | 15/16s | 1234567   | ----------------- |
+| OTHH/OTBD           | 15/16s | HAYYA1K   | ----------------- |
+| OTHH/OTBD           | 15/16s | HAYYA1F   | ----------------- |
+| OTHH/OTBD           | 15/16s | HAYYA2H   | ----------------- |
+| OTHH/OTBD           | 15/16s | HAYYA1P   | ----------------- |
+| OTHH/OTBD           | 15/16s | ALKAN1F   | ----------------- |
+| OTHH/OTBD           | 15/16s | ALKAN2H   | ----------------- |
+| OTHH/OTBD           | 15/16s | ALKAN1P   | ----------------- |
+| OTHH/OTBD           | 15/16s | LAEEB2F   | ----------------- |
+| OTHH/OTBD           | 15/16s | LAEEB2K   | ----------------- |
+| OTHH/OTBD           | 15/16s | LAEEB1P   | ----------------- |
+| OTHH/OTBD           | 15/16s | ORLEK2F   | ----------------- |
+| OTHH/OTBD           | 15/16s | ORLEK1P   | ----------------- |
+| OTHH/OTBD           | 15/16s | TOSNA1P   | ----------------- |
+| OTHH/OTBD           | 15/16s | TOSNA1T   | ----------------- |
+| OTHH/OTBD           | 15/16s | TOSNA2F   | ----------------- |
+| OTHH/OTBD           | 15/16s | TOVOX2P   | ----------------- |
+| OTHH/OTBD           | 15/16s | TOVOX2F   | ----------------- |
+| OTHH/OTBD           | 15/16s | VEDED1F   | ----------------- |
+| OTHH/OTBD           | 15/16s | VEDED2H   | ----------------- |
+| OTHH/OTBD           | 15/16s | VEDED1P   | ----------------- |
 
 
 ### 3.3.3 Descent Procedure - Doha 33 / Hamad 34s
 | Arrival Aerodrome   | Runway |   STAR    | Descent Procedure |
 |---------------------|--------|-----------|-------------------|
-| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
-| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
-| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
-| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
-| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
-| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
-| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
-| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
-| OTHH/OTBD           | 33/34s | 1234567   | ----------------- |
+| OTHH/OTBD           | 33/34s | HAYYA2L   | ----------------- |
+| OTHH/OTBD           | 33/34s | HAYYA1J   | ----------------- |
+| OTHH/OTBD           | 33/34s | HAYYA2R   | ----------------- |
+| OTHH/OTBD           | 33/34s | HAYYA2V   | ----------------- |
+| OTHH/OTBD           | 33/34s | ALKAN2L   | ----------------- |
+| OTHH/OTBD           | 33/34s | ALKAN2R   | ----------------- |
+| OTHH/OTBD           | 33/34s | ALKAN2V   | ----------------- |
+| OTHH/OTBD           | 33/34s | LAEEB1J   | ----------------- |
+| OTHH/OTBD           | 33/34s | LAEEB1R   | ----------------- |
+| OTHH/OTBD           | 33/34s | LAEEB1L   | ----------------- |
+| OTHH/OTBD           | 33/34s | ORLEK1L   | ----------------- |
+| OTHH/OTBD           | 33/34s | ORLEK1R   | ----------------- |
+| OTHH/OTBD           | 33/34s | TOSNA2J   | ----------------- |
+| OTHH/OTBD           | 33/34s | TOSNA2R   | ----------------- |
+| OTHH/OTBD           | 33/34s | TOSNA2V   | ----------------- |
+| OTHH/OTBD           | 33/34s | TOSNA2L   | ----------------- |
+| OTHH/OTBD           | 33/34s | TOVOX2R   | ----------------- |
+| OTHH/OTBD           | 33/34s | TOVOX2L   | ----------------- |
+| OTHH/OTBD           | 33/34s | VEDED2L   | ----------------- |
+| OTHH/OTBD           | 33/34s | VEDED2R   | ----------------- |
+| OTHH/OTBD           | 33/34s | VEDED2V   | ----------------- |
 
 ## 5.4 Lateral Profile
 ### 5.4.1 General

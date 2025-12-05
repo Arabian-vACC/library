@@ -39,14 +39,12 @@ Where no conflicts are anticipated, aircraft may be cleared to climb to the high
 | OTHH                | 16L    | LUBET1Y   | Doha Approach: Aircraft shall be restricted to 4,000 ft or above at DERTI. Upon passing DERTI, aircraft shall be cleared to 5,000 ft at GIDOS. Passing GIDOS 7,000 ft or above or 8,000 ft or below at PASIS.<br>Doha Radar: Aircraft shall be maintained at 13,000 ft or a lower coordinated level at DEBIL until they are clear of inbound traffic via HAYYA and VEDED. Thereafter, aircraft may be cleared to FL160 or a higher coordinated level by PATOM and further climb to FL180 or higher by LUBET. |
 | OTHH                | 16L    | TULUB1M   | Doha Approach: Aircraft shall be restricted to 4,000 ft or above at DERTI. Upon passing DERTI, aircraft shall be cleared to 5,000 ft at GIDOS. Passing GIDOS 7,000 ft or above or 8,000 ft or below at PASIS.<br>Doha Radar: Aircraft shall be maintained at 13,000 ft or a lower coordinated level at DEBIL until they are clear of inbound traffic via HAYYA and VEDED. Thereafter, aircraft may be cleared to FL160 or a higher coordinated level by PATOM and further climb to FL180 or higher by TULUB. |
 | OTHH                | 16L    | VAXIN2M   | Doha Approach: Aircraft shall be restricted to 5,000 ft or below at KASIS. Upon passing KASIS, aircraft may be cleared to climb to FL150.<br>Doha Radar: Aircraft shall be maintained at FL150 until they are clear of inbound traffic via TOSNA and TOVOX. Thereafter, aircraft may be cleared to FL150 or a higher coordinated level by VAXIN. |
-| OTHH                | 16R    | 1234567   | ----------------- |
-| OTHH                | 16R    | 1234567   | ----------------- |
-| OTHH                | 16R    | 1234567   | ----------------- |
-| OTHH                | 16R    | 1234567   | ----------------- |
-| OTHH                | 16R    | 1234567   | ----------------- |
-| OTHH                | 16R    | 1234567   | ----------------- |
-| OTHH                | 16R    | 1234567   | ----------------- |
-| OTHH                | 16R    | 1234567   | ----------------- |
+| OTHH                | 16R    | BUNDU2C   | ----------------- |
+| OTHH                | 16R    | DATRI1C   | ----------------- |
+| OTHH                | 16R    | LUBET1C   | ----------------- |
+| OTHH                | 16R    | TULUB1C   | ----------------- |
+| OTHH                | 16R    | ULIKA1C   | ----------------- |
+
 
 !!! warning
     With effect 07 NOV 2025, departures from 16L are temporarily provided with heading 120 degrees on departure and will require vectors to rejoin their SID. Please see [Aerodrome Appendix - Temporary Procedures](/aerodrome/doha-hamad/appendix_temp/) for further information
@@ -54,22 +52,21 @@ Where no conflicts are anticipated, aircraft may be cleared to climb to the high
 ### 6.2.3 Climb Procedure - Doha 33 / Hamad 34s
 | Departure Aerodrome | Runway | SID       | Climb Procedure   |
 |---------------------|--------|-----------|-------------------|
-| OTHH                | 34R    | 1234567   | ----------------- |
-| OTHH                | 34R    | 1234567   | ----------------- |
-| OTHH                | 34R    | 1234567   | ----------------- |
-| OTHH                | 34R    | 1234567   | ----------------- |
-| OTHH                | 34R    | 1234567   | ----------------- |
-| OTHH                | 34R    | 1234567   | ----------------- |
-| OTHH                | 34R    | 1234567   | ----------------- |
-| OTHH                | 34R    | 1234567   | ----------------- |
-| OTHH                | 34L    | 1234567   | ----------------- |
-| OTHH                | 34L    | 1234567   | ----------------- |
-| OTHH                | 34L    | 1234567   | ----------------- |
-| OTHH                | 34L    | 1234567   | ----------------- |
-| OTHH                | 34L    | 1234567   | ----------------- |
-| OTHH                | 34L    | 1234567   | ----------------- |
-| OTHH                | 34L    | 1234567   | ----------------- |
-| OTHH                | 34L    | 1234567   | ----------------- |
+| OTHH                | 34R    | ALSEM3E   | ----------------- |
+| OTHH                | 34R    | ALVEN3E   | ----------------- |
+| OTHH                | 34R    | BUNDU3E   | ----------------- |
+| OTHH                | 34R    | KUPRO2E   | ----------------- |
+| OTHH                | 34R    | LUBET2E   | ----------------- |
+| OTHH                | 34R    | LUBET2Z   | ----------------- |
+| OTHH                | 34R    | TULUB2E   | ----------------- |
+| OTHH                | 34R    | VAXIN3E   | ----------------- |
+| OTHH                | 34L    | DATRI1W   | ----------------- |
+| OTHH                | 34L    | LUBET2A   | ----------------- |
+| OTHH                | 34L    | LUBET1W   | ----------------- |
+| OTHH                | 34L    | TULUB2A   | ----------------- |
+| OTHH                | 34L    | TULUB1W   | ----------------- |
+| OTHH                | 34L    | ULIKA2A   | ----------------- |
+| OTHH                | 34L    | ULIKA1W   | ----------------- |
 
 
 ## 6.3 Lateral Profile
