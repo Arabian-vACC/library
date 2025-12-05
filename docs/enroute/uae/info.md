@@ -6,7 +6,7 @@
 |       Revision      |                     01/2025                       |
 |    Effective Date   |                    XX XXX XXXX                    |
 |     Prepared by     |                                                   |
-|     Approved by     |             Chris Marriott - ACCARB1              |
+|     Approved by     |             Chriss Klosowski - ACCARB1             |
 |   Next review date  |                    XX XXX XXXX                    |
 | Cancelled documents |                SOP XXXX R0X/XXXX                  |
 
