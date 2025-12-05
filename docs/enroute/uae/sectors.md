@@ -1,6 +1,6 @@
 # 6. Sector Specific
 <figure markdown>
-![U.A.E FIR - Sectorization Overview](img/uae_enroute_sectors.png)
+![U.A.E FIR - Sectorization Overview](img/uae_lower_sectors.png)
 </figure>
 
 ## 6.1 Sector A
@@ -162,5 +162,5 @@ This policy ensures consistent coordination, efficient traffic handling, and pro
 ## 6.14 Sector Top-down Coverage
 When the lower sector is offline, in addition to the designated areas of responsbility, top-down sector coverage shall be as follows:
 <figure markdown>
-![U.A.E FIR - Sectorization Overview](img/uae_bandbox_sectors.png)
+![U.A.E FIR - Sectorization Overview](img/uae_upper_sectors.png)
 </figure>
