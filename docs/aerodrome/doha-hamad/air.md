@@ -91,7 +91,7 @@ During off-peak times, this separation minima may be disregarded, and standard s
 | Departure Aerodrome |             Arrival Aerodrome             | FIR Exit Point | Longitudinal Separation |
 |:-------------------:|:-----------------------------------------:|:--------------:|:-----------------------:|
 |     OTHH & OTBD     | Northern U.A.E (OMDB/OMDW/OMSJ/OMRK/OMFJ) |      ALSEM     |        3 minutes        |
-|     OTHH & OTBD     |      Southern U.A.E (OMAA/OMAD/OMAL)      |      KURPO     |        3 minutes        |
+|     OTHH & OTBD     |      Southern U.A.E (OMAA/OMAD/OMAL)      |      KUPRO     |        3 minutes        |
 
 <figcaption>Table 5-2: Doha Approach hand offs</figcaption>
 </figure>
