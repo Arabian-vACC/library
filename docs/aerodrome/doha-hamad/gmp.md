@@ -154,10 +154,10 @@ The Arabian vACC Operations Department maintains an up-to-date route database on
 | Destination                                                            | Level Restriction | Routing                       |
 |------------------------------------------------------------------------|-------------------|-------------------------------|
 | Northern Emirates (OMDB, OMDW, OMFJ, OMFJ, OMRK, OMDM) (FL210 @ ASTOG) | FL210             | ALSEM L305 ASTOG              |
-| Southern Emirates (OMAA, OMAD, OMAM, OMAL) (Max FL210)                 | FL270             | KUPRO                         |
+| Southern Emirates (OMAA, OMAD, OMAM, OMAL)                             | FL270 (FL210 to OMAA, OMAD, OMAM, OMAL) | KUPRO   |
 | Transiting Tehran FIR (FL230 @ DASUT)                                  | FL230             | VAXIN T800 DASUT              |
-| Transiting Tehran FIR (FL190 @ RAGAS)                                  | FL190             | ALVEN T430 RAGAS              |
-| Bahrain (OBBI, OBBS, OBKH)                                             | 12,000ft          | TULUB B457 / M444 / T444 KINID|
+| Transiting Tehran FIR (FL190 @ RAGAS)                                  | FL190             | ALVEN P550 RAGAS              |
+| Bahrain (OBBI, OBBS, OBKH)                                             | 12,000ft          | TULUB                         |
 | Transiting Bahrain FIR onwards landing Kuwait FIR                      | FL260             | TULUB B457 KINID              |
 | Transiting Jeddah FIR onwards landing Kuwait FIR                       | FL260             | TULUB M444 KINID              |
 | Transiting Kuwait FIR                                                  | FL260             | LUBET T934 IMLAD              |
