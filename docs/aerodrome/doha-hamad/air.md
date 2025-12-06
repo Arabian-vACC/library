@@ -84,6 +84,18 @@ Except as provided in 5.3.4.2, succeeding aircraft on the same SID shall be sepa
 #### 5.3.5.3 Low visibility and IMC
 During low visibility operations and during IMC, departing aircraft shall not be cleared for take-off when there is an arriving aircraft within **4 NM** of the landing runway threshold.
 
+#### 5.3.5.4 U.A.E FIR Flow Control
+Special flow control procedures may be required for traffic entering the U.A.E FIR via certain entry points after departure from Doha airports during peak departure times as notified by U.A.E ACC.
+During off-peak times, this separation minima may be disregarded, and standard separation minima of **2 minutes** may be applied.
+
+| Departure Aerodrome |             Arrival Aerodrome             | FIR Exit Point | Longitudinal Separation |
+|:-------------------:|:-----------------------------------------:|:--------------:|:-----------------------:|
+|     OTHH & OTBD     | Northern U.A.E (OMDB/OMDW/OMSJ/OMRK/OMFJ) |      ALSEM     |        3 minutes        |
+|     OTHH & OTBD     |      Southern U.A.E (OMAA/OMAD/OMAL)      |      KURPO     |        3 minutes        |
+
+<figcaption>Table 5-2: Doha Approach hand offs</figcaption>
+</figure>
+
 ### 5.3.5 IFR handoff procedure
 #### 5.3.5.1 General
 IFR departures shall be transferred to the next frequency upon passing 1,000 feet, as specified in Section 5.3.3, to allow adequate time for frequency change and to maintain an uninterrupted climb profile..
@@ -103,7 +115,7 @@ If Doha Approach (East or West) is offline, all handoffs will be directed to Doh
 |   34L  | Doha Approach West |
 |   34R  | Doha Approach East |
 
-  <figcaption>Table 5-2: Doha Approach hand offs</figcaption>
+  <figcaption>Table 5-3: Doha Approach hand offs</figcaption>
 </figure>
 
 ### 5.3.6 Stopping a departure
@@ -131,7 +143,7 @@ On initial contact, aircraft shall be instructed to vacate at a designated taxiw
 |   34L  |    L6/M8    |
 |   34R  |      A5     |
 
-  <figcaption>Table 5-3: Standard runway exits</figcaption>
+  <figcaption>Table 5-4: Standard runway exits</figcaption>
 </figure>
 
 ### 5.4.2 Separation requirements
@@ -195,7 +207,7 @@ During HIRO, pilots should only use standard rapid exit taxiways (RET’s) as ou
 |   34L  |    L6/M8    |
 |   34R  |      A5     |
 
-  <figcaption>Table 5-4: HIRO Runway Exits</figcaption>
+  <figcaption>Table 5-5: HIRO Runway Exits</figcaption>
 </figure>
 
 When exiting the runway, pilots shall continue taxi as outlined in table 5-5, unless otherwise instructed by the Tower controller:
@@ -313,7 +325,7 @@ CAT II/III holding points must be used during LVO for departing aircraft (Table 
 |   34L  |  L2/P1/P2/P3/P4/P5   |
 |   34R  |          A2          |
 
-  <figcaption>Table 5-5: CATII/III holding points</figcaption>
+  <figcaption>Table 5-6: CATII/III holding points</figcaption>
 </figure>
 
 ## 5.8 Designated areas of responsibility
