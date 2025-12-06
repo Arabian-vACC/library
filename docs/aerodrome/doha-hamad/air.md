@@ -93,7 +93,7 @@ During off-peak times, this separation minima may be disregarded, and standard s
 |     OTHH & OTBD     | Northern U.A.E (OMDB/OMDW/OMSJ/OMRK/OMFJ) |      ALSEM     |        3 minutes        |
 |     OTHH & OTBD     |      Southern U.A.E (OMAA/OMAD/OMAL)      |      KUPRO     |        3 minutes        |
 
-<figcaption>Table 5-2: Doha Approach hand offs</figcaption>
+<figcaption>Table 5-2: U.A.E FIR Flow Control</figcaption>
 </figure>
 
 ### 5.3.5 IFR handoff procedure
