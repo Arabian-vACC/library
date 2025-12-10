@@ -30,7 +30,25 @@ There is **no UHF or HF radio coverage simulated on VATSIM** for the Doha FIR. A
 Controllers and pilots should be aware of potential communication delays in these zones and apply appropriate separation and coordination procedures accordingly.
 
 ## 4.5 Squawk Code Management
-Squawk codes are distributed based on flight type and routing.
+Squawk codes are distributed based on flight type and routing as follows:
+
+- **Hamad Departure Squawk**  
+  `2101-2177`
+  `3201-3277`
+  *Assigned to IFR departures from Doha destined outside the FIR.*
+
+- **Doha FIR Transit Squawk**  
+  `1501-1577`
+  *Applicable for overflights transiting the FIR.*  
+
+- **Doha FIR Inbound Squawk**  
+  `4601-4677`
+  *Assigned to inbound flights with destinations within Doha.*   
+
+- **Hamad & Doha Domestic Squawk**  
+  `4601-4677`  
+  *Assigned to domestic flights entirely within Doha.*  
+ 
 
 ### 4.5.1 Operational Notes
 - **Squawk codes are assigned automatically** by the system upon flight plan activation or radar identification.
