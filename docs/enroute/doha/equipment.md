@@ -35,6 +35,7 @@ Squawk codes are distributed based on flight type and routing as follows:
 - **Hamad Departure Squawk**  
   `2101-2177`
   `3201-3277`
+  `1501-1577`
   *Assigned to IFR departures from Doha destined outside the FIR.*
 
 - **Doha FIR Transit Squawk**  
@@ -47,6 +48,7 @@ Squawk codes are distributed based on flight type and routing as follows:
 
 - **Hamad & Doha Domestic Squawk**  
   `4601-4677`  
+  `6501-6577`
   *Assigned to domestic flights entirely within Doha.*  
  
 
