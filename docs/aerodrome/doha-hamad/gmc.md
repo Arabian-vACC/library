@@ -384,6 +384,6 @@ When transferring control between controllers, aircraft must not be cleared beyo
 ### 4.6.3 Splitting procedure
 When a single GMC controller is online, they shall manage all surface movement areas from the GMC 1 position. 
 
-Unless otherwise authorized by Arabian vACC staff, GMP (Hamad Delivery) must be online before a second or third GMC (Hamad Ground) positions can be opened.
+Unless otherwise authorized by Arabian vACC staff, GMP (Hamad Delivery) must be online before a second or third GMC (Hamad Ground) position may be opened.
 
 If GMP is not online, GMC shall assume the responsibilities of the lower controller.
