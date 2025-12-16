@@ -39,11 +39,11 @@ Where no conflicts are anticipated, aircraft may be cleared to climb to the high
 | OTHH                | 16L    | LUBET1Y   | Doha Approach: Aircraft shall be restricted to 4,000 ft or above at DERTI. Upon passing DERTI, aircraft shall be cleared to 5,000 ft at GIDOS. Passing GIDOS 7,000 ft or above or 8,000 ft or below at PASIS.<br>Doha Radar: Aircraft shall be maintained at 13,000 ft or a lower coordinated level at DEBIL until they are clear of inbound traffic via HAYYA and VEDED. Thereafter, aircraft may be cleared to FL160 or a higher coordinated level by PATOM and further climb to FL180 or higher by LUBET. |
 | OTHH                | 16L    | TULUB1M   | Doha Approach: Aircraft shall be restricted to 4,000 ft or above at DERTI. Upon passing DERTI, aircraft shall be cleared to 5,000 ft at GIDOS. Passing GIDOS 7,000 ft or above or 8,000 ft or below at PASIS.<br>Doha Radar: Aircraft shall be maintained at 13,000 ft or a lower coordinated level at DEBIL until they are clear of inbound traffic via HAYYA and VEDED. Thereafter, aircraft may be cleared to FL160 or a higher coordinated level by PATOM and further climb to FL180 or higher by TULUB. |
 | OTHH                | 16L    | VAXIN2M   | Doha Approach: Aircraft shall be restricted to 5,000 ft or below at KASIS. Upon passing KASIS, aircraft may be cleared to climb to FL150.<br>Doha Radar: Aircraft shall be maintained at FL150 until they are clear of inbound traffic via TOSNA and TOVOX. Thereafter, aircraft may be cleared to FL150 or a higher coordinated level by VAXIN. |
-| OTHH                | 16R    | BUNDU2C   | ----------------- |
-| OTHH                | 16R    | DATRI1C   | ----------------- |
-| OTHH                | 16R    | LUBET1C   | ----------------- |
-| OTHH                | 16R    | TULUB1C   | ----------------- |
-| OTHH                | 16R    | ULIKA1C   | ----------------- |
+| OTHH                | 16R    | BUNDU2C   | Doha Approach: Aircraft shall be restricted to 7,000 ft or below at KIREB. Upon passing KIREB, aircraft may be cleared to climb to FL150.<br>Doha Radar: Aircraft shall be maintained at FL150 until they are clear of inbound traffic via TOSNA and TOVOX. Thereafter, aircraft may be cleared to FL150 or a higher coordinated level by BUNDU.|
+| OTHH                | 16R    | DATRI1C   | Doha Approach: Aircraft shall be restricted to 7,000 ft or below at SOLAL. Upon passing SOLAL, aircraft may be cleared to climb to FL160 and thereafter handed off to the appropriate controller thereafter to be cleared for a furthur climb.
+| OTHH                | 16R    | LUBET1C   | Doha Approach: Aircraft shall be restricted to 6,000 ft or below at KUTER, 9,000ft by GIRKA, and 12,000ft by ENELI. Upon passing ENELI, aircraft may be cleared to climb to FL170.<br>Doha Radar: Aircraft shall be maintained at FL170 until they are clear of inbound traffic via HAYYA and VEDED. Thereafter, aircraft may be cleared to a higher coordinated level by LUBET.|
+| OTHH                | 16R    | TULUB1C   | Doha Approach: Aircraft shall be restricted to 6,000 ft or below at KUTER, 9,000ft by GIRKA, and 12,000ft by ENELI. Upon passing ENELI, aircraft may be cleared to climb to FL160.<br>Doha Radar: Aircraft shall be maintained at FL160 until they are clear of inbound traffic via HAYYA and VEDED. Thereafter, aircraft may be cleared to a higher coordinated level by TULUB.|
+| OTHH                | 16R    | ULIKA1C   | Doha Approach: Aircraft shall be restricted to 7,000 ft or below at MURKI. Upon passing MURKI, aircraft may be cleared to climb to FL160.<br>Doha Radar: Aircraft shall be maintained at FL160 until they are clear of inbound traffic via ORLEK and LAEEB. Thereafter, aircraft may be cleared to a higher coordinated level by ULIKA.|
 
 
 !!! warning
@@ -52,21 +52,21 @@ Where no conflicts are anticipated, aircraft may be cleared to climb to the high
 ### 6.2.3 Climb Procedure - Doha 33 / Hamad 34s
 | Departure Aerodrome | Runway | SID       | Climb Procedure   |
 |---------------------|--------|-----------|-------------------|
-| OTHH                | 34R    | ALSEM3E   | ----------------- |
-| OTHH                | 34R    | ALVEN3E   | ----------------- |
-| OTHH                | 34R    | BUNDU3E   | ----------------- |
-| OTHH                | 34R    | KUPRO2E   | ----------------- |
-| OTHH                | 34R    | LUBET2E   | ----------------- |
-| OTHH                | 34R    | LUBET2Z   | ----------------- |
-| OTHH                | 34R    | TULUB2E   | ----------------- |
-| OTHH                | 34R    | VAXIN3E   | ----------------- |
-| OTHH                | 34L    | DATRI1W   | ----------------- |
+| OTHH                | 34R    | ALSEM3E   | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at ALPED. Upon passing ALPED, aircraft may be cleared to climb to FL150.<br>Doha Radar: Aircraft shall be maintained at FL150 until they are clear of inbound traffic via TOSNA and TOVOX. Thereafter, aircraft may be cleared to a higher coordinated level by ALSEM. |
+| OTHH                | 34R    | ALVEN3E   | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at DEMBO. Upon passing DEMBO, aircraft may be cleared to climb to FL150.<br>Doha Radar: Aircraft shall be maintained at FL150 until they are clear of inbound traffic via HAYYA and VEDED. Thereafter, aircraft may be cleared to a higher coordinated level by ALVEN. |
+| OTHH                | 34R    | BUNDU3E   | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at SERGA. Upon passing SERGA, aircraft may be cleared to climb to FL150.<br>Doha Radar: Aircraft shall be maintained at FL150 until they are clear of inbound traffic via TOSNA and TOVOX. Thereafter, aircraft may be cleared to a higher coordinated level by BUNDU. |
+| OTHH                | 34R    | KUPRO2E   | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at SERGA. Upon passing SERGA, aircraft may be cleared to climb to FL150.<br>Doha Radar: Aircraft shall be maintained at FL150 until they are clear of inbound traffic via TOSNA and TOVOX. Thereafter, aircraft may be cleared to a higher coordinated level by KUPRO. |
+| OTHH                | 34R    | LUBET2E   | Doha Approach: Aircraft shall be restricted to 4,000 ft or above at DEMBO. Upon passing DEMBO, aircraft shall be cleared to FL170.<br>Doha Radar: Aircraft shall be maintained at FL170 or a lower coordinated level at IMSUN until they are clear of inbound traffic via HAYYA and VEDED. Thereafter, aircraft may be cleared to FL170 or a higher coordinated level by LUBET. |
+| OTHH                | 34R    | LUBET2Z   | Doha Approach: Aircraft shall be restricted to 4,000 ft or above at DEMBO. Upon passing DEMBO, aircraft shall be cleared to FL160.<br>Doha Radar: Aircraft shall be maintained at FL160 or a lower coordinated level at PATOM until they are clear of inbound traffic via HAYYA and VEDED. Thereafter, aircraft may be cleared to FL170 or a higher coordinated level by LUBET. |
+| OTHH                | 34R    | TULUB2E   | Doha Approach: Aircraft shall be restricted to 4,000 ft or above at DEMBO. Upon passing DEMBO, aircraft shall be cleared to FL160.<br>Doha Radar: Aircraft shall be maintained at FL160 or a lower coordinated level at PATOM until they are clear of inbound traffic via HAYYA and VEDED. Thereafter, aircraft may be cleared to FL160 or a higher coordinated level by TULUB. |
+| OTHH                | 34R    | VAXIN3E   |Doha Approach: Aircraft shall be restricted to 7,000 ft or below at ULEMI. Upon passing ULEMI, aircraft may be cleared to climb to FL150.<br>Doha Radar: Aircraft shall be maintained at FL150 until they are clear of inbound traffic via HAYYA and VEDED. Thereafter, aircraft may be cleared to a higher coordinated level by VAXIN.|
+| OTHH                | 34L    | DATRI1W   | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at PARES, 7,000ft or below at ORBIV. Upon passing ORBIV, aircraft may be cleared to climb to FL160.<br>Doha Radar: Aircraft shall be maintained at FL160 until they are clear of inbound traffic via TOSNA and TOVOX. Thereafter, aircraft may be cleared to a higher coordinated level by DATRI. |
 | OTHH                | 34L    | LUBET2A   | ----------------- |
-| OTHH                | 34L    | LUBET1W   | ----------------- |
+| OTHH                | 34L    | LUBET1W   | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at PARES. Upon passing PARES, aircraft may be cleared to climb to FL160.<br>Doha Radar: Aircraft shall be maintained at FL160 passing PATOM until they are clear of inbound traffic via HAYYA and VEDED. Thereafter, aircraft may be cleared to FL170 or a higher coordinated level by LUBET. |
 | OTHH                | 34L    | TULUB2A   | ----------------- |
-| OTHH                | 34L    | TULUB1W   | ----------------- |
+| OTHH                | 34L    | TULUB1W   | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at PARES. Upon passing PARES, aircraft may be cleared to climb to FL160.<br>Doha Radar: Aircraft shall be maintained at FL160 passing PATOM until they are clear of inbound traffic via HAYYA and VEDED. Thereafter, aircraft may be cleared to a higher coordinated level by TULUB. |
 | OTHH                | 34L    | ULIKA2A   | ----------------- |
-| OTHH                | 34L    | ULIKA1W   | ----------------- |
+| OTHH                | 34L    | ULIKA1W   | Doha Approach: Aircraft shall be restricted to 4,000 ft or below at PARES, 7,000ft or below at IVIXU. Upon passing IVIXU, aircraft may be cleared to climb to FL160.<br>Doha Radar: Aircraft shall be maintained at FL160 until they are clear of inbound traffic via ORLEK and LAEEB. Thereafter, aircraft may be cleared to a higher coordinated level by ULIKA. |
 
 
 ## 6.3 Lateral Profile
@@ -79,4 +79,38 @@ Limitations regarding the use of direct routings for arriving aircraft are outli
 
 ### 6.3.2 Direct Routing Procedure - Doha 15 / Hamad 16s
 
+| Departure aerodrome |     SID     | Direct | Conditions | Coordination sectors |
+|---------------------|-------------|--------|------------|----------------------|
+|        OTHH         |   ALSEM2M   | ------ | ---------- | -------------------- |
+|        OTHH         |   ALVEM2M   | ------ | ---------- | -------------------- |
+|        OTHH         |   KUPRO1M   | ------ | ---------- | -------------------- |
+|        OTHH         |   LUBET1M   | ------ | ---------- | -------------------- |
+|        OTHH         |   LUBET1Y   | ------ | ---------- | -------------------- |
+|        OTHH         |   TULUB1M   | ------ | ---------- | -------------------- |
+|        OTHH         |   VAXIN2M   | ------ | ---------- | -------------------- |
+|        OTHH         |   BUNDU2C   | ------ | ---------- | -------------------- |
+|        OTHH         |   DATRI1C   | ------ | ---------- | -------------------- |
+|        OTHH         |   LUBET1C   | ------ | ---------- | -------------------- |
+|        OTHH         |   TULUB1C   | ------ | ---------- | -------------------- |
+|        OTHH         |   ULIKA1C   | ------ | ---------- | -------------------- |
+
 ### 6.3.3 Direct Routing Procedure - Doha 33 / hamad 34s
+
+| Departure aerodrome |     SID     | Direct | Conditions | Coordination sectors |
+|---------------------|-------------|--------|------------|----------------------|
+|        OTHH         |   ALSEM3E   | ------ | ---------- | -------------------- |
+|        OTHH         |   ALVEM3E   | ------ | ---------- | -------------------- |
+|        OTHH         |   BUNDU3E   | ------ | ---------- | -------------------- |
+|        OTHH         |   KUPRO2E   | ------ | ---------- | -------------------- |
+|        OTHH         |   LUBET2E   | ------ | ---------- | -------------------- |
+|        OTHH         |   LUBET2Z   | ------ | ---------- | -------------------- |
+|        OTHH         |   VAXIN3E   | ------ | ---------- | -------------------- |
+|        OTHH         |   TULUB2E   | ------ | ---------- | -------------------- |
+|        OTHH         |   DATRI1W   | ------ | ---------- | -------------------- |
+|        OTHH         |   LUBET1W   | ------ | ---------- | -------------------- |
+|        OTHH         |   ULIKA2A   | ------ | ---------- | -------------------- |
+|        OTHH         |   ULIKA1W   | ------ | ---------- | -------------------- |
+|        OTHH         |   LUBET2A   | ------ | ---------- | -------------------- |
+|        OTHH         |   LUBET1W   | ------ | ---------- | -------------------- |
+|        OTHH         |   TULUB2A   | ------ | ---------- | -------------------- |
+|        OTHH         |   TULUB1W   | ------ | ---------- | -------------------- |
