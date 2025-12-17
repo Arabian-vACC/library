@@ -81,36 +81,35 @@ Limitations regarding the use of direct routings for arriving aircraft are outli
 
 | Departure aerodrome |     SID     | Direct | Conditions | Coordination sectors |
 |---------------------|-------------|--------|------------|----------------------|
-|        OTHH         |   ALSEM2M   | ------ | ---------- | -------------------- |
-|        OTHH         |   ALVEM2M   | ------ | ---------- | -------------------- |
-|        OTHH         |   KUPRO1M   | ------ | ---------- | -------------------- |
-|        OTHH         |   LUBET1M   | ------ | ---------- | -------------------- |
-|        OTHH         |   LUBET1Y   | ------ | ---------- | -------------------- |
-|        OTHH         |   TULUB1M   | ------ | ---------- | -------------------- |
-|        OTHH         |   VAXIN2M   | ------ | ---------- | -------------------- |
-|        OTHH         |   BUNDU2C   | ------ | ---------- | -------------------- |
-|        OTHH         |   DATRI1C   | ------ | ---------- | -------------------- |
-|        OTHH         |   LUBET1C   | ------ | ---------- | -------------------- |
-|        OTHH         |   TULUB1C   | ------ | ---------- | -------------------- |
-|        OTHH         |   ULIKA1C   | ------ | ---------- | -------------------- |
+|        OTHH         |   ALSEM2M   | GOBLU  | No traffic via TOSNA or TOVOX | APP E to RDR N |
+|        OTHH         |   ALVEM2M   | ALVEN  | Traffic above 8,000ft  | APP E to RDR N |
+|        OTHH         |   KUPRO1M   | KUPRO  | No traffic via TOSNA or TOVOX | pre-coordinated |
+|        OTHH         |   LUBET1M   | GIBIN  | Traffic above 4,000ft and no conflict with OTHH ARRs | APP E to RDR N |
+|        OTHH         |   LUBET1Y   | PATOM  | Traffic above 10,000ft cleared of D28 | pre-coordinated |
+|        OTHH         |   TULUB1M   | TULUB  | Traffic above FL150 cleared of P43 | pre-coordinated |
+|        OTHH         |   VAXIN2M   | GOBLU  | No traffic via TOSNA or TOVOX | APP E to RDR N |
+|        OTHH         |   BUNDU2C   | BUNDU  | Traffic above 10,000ft cleared of D28 | pre-coordinated |
+|        OTHH         |   DATRI1C   | DATRI  | Traffic above 3,000ft and no conflicts with TOVOX or TOSNA ARRs | APP W to RDR S |
+|        OTHH         |   LUBET1C   | PATOM  | Traffic above FL150 cleared of R62, and P43 | pre-coordinated |
+|        OTHH         |   TULUB1C   | PATOM  | Traffic above FL150 cleared of R62, and P43 | pre-coordinated |
+|        OTHH         |   ULIKA1C   | ULIKA  | Must be confident that traffic will pass ULIKA above FL200 and clear of D17 | pre-coordinated |
 
 ### 6.3.3 Direct Routing Procedure - Doha 33 / hamad 34s
 
 | Departure aerodrome |     SID     | Direct | Conditions | Coordination sectors |
 |---------------------|-------------|--------|------------|----------------------|
-|        OTHH         |   ALSEM3E   | ------ | ---------- | -------------------- |
-|        OTHH         |   ALVEM3E   | ------ | ---------- | -------------------- |
-|        OTHH         |   BUNDU3E   | ------ | ---------- | -------------------- |
-|        OTHH         |   KUPRO2E   | ------ | ---------- | -------------------- |
-|        OTHH         |   LUBET2E   | ------ | ---------- | -------------------- |
-|        OTHH         |   LUBET2Z   | ------ | ---------- | -------------------- |
-|        OTHH         |   VAXIN3E   | ------ | ---------- | -------------------- |
-|        OTHH         |   TULUB2E   | ------ | ---------- | -------------------- |
+|        OTHH         |   ALSEM3E   | ALSEM  | No conflicts with OTHH ARRs | APP E to RDR N |
+|        OTHH         |   ALVEM3E   | ALVEN  | No conflicts with OTHH ARRs via HAYYA or VEDED | pre-coordinated |
+|        OTHH         |   BUNDU3E   | BUNDU  | Traffic above 4,000ft, no conflicts with OTHH ARRs | APP E to RDR S |
+|        OTHH         |   KUPRO2E   | KUPRO  | No conflicts with OTHH ARRs  | APP E to RDR S |
+|        OTHH         |   LUBET2E   | MISEL  | No conflicts with OTHH ARRs or TULUB/LUBET DEPs | pre-coordinated |
+|        OTHH         |   TULUB2E   | ALNAK  | No conflicts with TULUB2A/1W or LUBET2A/1W DEPs on 34L and OTHH ARRs | pre-coordinated |
+|        OTHH         |   VAXIN3E   | VAXIN  | No conflicts with OTHH ARRs | pre-coordinated |
+|        OTHH         |   LUBET2A   | PATOM  | Traffic above FL150 cleared of R62 and P43 | pre-coordinated |
+|        OTHH         |   LUBET1W   | PATOM  | Traffic above FL150 cleared of R62 and P43 | pre-coordinated |
 |        OTHH         |   DATRI1W   | ------ | ---------- | -------------------- |
-|        OTHH         |   LUBET1W   | ------ | ---------- | -------------------- |
 |        OTHH         |   ULIKA2A   | ------ | ---------- | -------------------- |
 |        OTHH         |   ULIKA1W   | ------ | ---------- | -------------------- |
-|        OTHH         |   LUBET2A   | ------ | ---------- | -------------------- |
-|        OTHH         |   LUBET1W   | ------ | ---------- | -------------------- |
-|        OTHH         |   TULUB2A   | ------ | ---------- | -------------------- |
-|        OTHH         |   TULUB1W   | ------ | ---------- | -------------------- |
+|        OTHH         |   TULUB2A   | PATOM  | Traffic above FL150 cleared of R62 and P43 | pre-coordinated |
+|        OTHH         |   TULUB1W   | PATOM  | Traffic above FL150 cleared of R62 and P43 | pre-coordinated |
+|        OTHH         |   LUBET2Z   | ALNAK  | No conflicts with TULUB2A/1W or LUBET2A/1W DEPs on 34L and OTHH ARRs | pre-coordinated |

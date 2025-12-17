@@ -177,27 +177,27 @@ Intermediate levels may be assigned to ensure proper traffic separation between 
 ### 3.3.3 Descent Procedure - Doha 33 / Hamad 34s
 | Arrival Aerodrome   | Runway |   STAR    | Descent Procedure |
 |---------------------|--------|-----------|-------------------|
-| OTHH/OTBD           | 33/34s | HAYYA2L   | ----------------- |
-| OTHH/OTBD           | 33/34s | HAYYA1J   | ----------------- |
-| OTHH/OTBD           | 33/34s | HAYYA2R   | ----------------- |
-| OTHH/OTBD           | 33/34s | HAYYA2V   | ----------------- |
-| OTHH/OTBD           | 33/34s | ALKAN2L   | ----------------- |
-| OTHH/OTBD           | 33/34s | ALKAN2R   | ----------------- |
-| OTHH/OTBD           | 33/34s | ALKAN2V   | ----------------- |
-| OTHH/OTBD           | 33/34s | LAEEB1J   | ----------------- |
-| OTHH/OTBD           | 33/34s | LAEEB1R   | ----------------- |
-| OTHH/OTBD           | 33/34s | LAEEB1L   | ----------------- |
-| OTHH/OTBD           | 33/34s | ORLEK1L   | ----------------- |
-| OTHH/OTBD           | 33/34s | ORLEK1R   | ----------------- |
-| OTHH/OTBD           | 33/34s | TOSNA2J   | ----------------- |
-| OTHH/OTBD           | 33/34s | TOSNA2R   | ----------------- |
-| OTHH/OTBD           | 33/34s | TOSNA2V   | ----------------- |
-| OTHH/OTBD           | 33/34s | TOSNA2L   | ----------------- |
-| OTHH/OTBD           | 33/34s | TOVOX2R   | ----------------- |
-| OTHH/OTBD           | 33/34s | TOVOX2L   | ----------------- |
-| OTHH/OTBD           | 33/34s | VEDED2L   | ----------------- |
-| OTHH/OTBD           | 33/34s | VEDED2R   | ----------------- |
-| OTHH/OTBD           | 33/34s | VEDED2V   | ----------------- |
+| OTHH/OTBD           | 33/34s | HAYYA2L   | Traffic shall be level at FL170 at VELAM and cleared to descend to FL150 inbound VUTAN. Thereafter, RDR N shall descend aircraft to be at 12,000 ft inbound LUBAK, followed by further descent as appropriate to between 8,000 ft - 3,500 ft |
+| OTHH/OTBD           | 33/34s | HAYYA1J   | Traffic shall be restricted to FL150 until clear of OT-R062. Once clear, they may be cleared to descend to 10,000 ft to be leveled by GINTO, then stepped down as appropriate by to between 8,000 ft - 6,000 ft, and given furthur descend by FIN C/W from 6,000ft - 3,500ft |
+| OTHH/OTBD           | 33/34s | HAYYA2R   | Traffic must be at FL170 at VELAM, and instructed to descend to FL150 inbound VUTAN. Thereafter RDR N must accordingly descend traffic to be at 12,000ft inbound LUBAK, and handed off to APP E for furthur descend to 8,000ft inbound EGNUG, and appropriately instruct them to descend 6,000ft - 2,500ft on the downwind leg by FIN E   |
+| OTHH/OTBD           | 33/34s | HAYYA2V   | Traffic shall be level at FL170 at VELAM and cleared to descend to FL150 inbound VUTAN. Thereafter, aircraft shall be cleared to descend to 12,000 ft inbound LUBAK, with APP E issuing further descent to between 8,000 ft and 6,000 ft. Thereafter FIN E issuing down from 6,000ft - 2,500ft once established on the downwind leg |
+| OTHH/OTBD           | 33/34s | ALKAN2L   | Traffic shall be instructed by RDR N to descend to FL150 - 12,000ft upon entering the Trombone. Moreover APP W issuing 11,000ft inbound KATED, and furthur down to 8,000ft - 6,000ft, and handed over to FIN C/W to be issued 6,000ft - 3,500ft upon being handed over.  |
+| OTHH/OTBD           | 33/34s | ALKAN2R   | Traffic must accordingly be instructed by RDR N to descend to be at 12,000ft inbound LUBAK, and handed off to APP E for furthur descend to 8,000ft inbound EGNUG, and appropriately instruct them to descend 6,000ft - 2,500ft on the downwind leg by FIN E |
+| OTHH/OTBD           | 33/34s | ALKAN2V   | Aircraft shall be cleared to descend to 12,000 ft inbound LUBAK, with APP E issuing further descent to between 8,000 ft and 6,000 ft. Thereafter FIN E issuing down from 6,000ft - 2,500ft once established on the downwind leg |
+| OTHH/OTBD           | 33/34s | LAEEB1J   | Aircraft must be instructed to descend FL150 - 13,000ft to be leveled by LAEEB. Thereafter furthur descend to 10,000ft by GINTO, and then issued to descend furthur to 8,000ft - 6000ft, and handed over to FIN C/W to descend 6,000ft - 3,500ft upon being handed over |
+| OTHH/OTBD           | 33/34s | LAEEB1R   | Aircraft must be instructed to descend FL150 - 13,000ft to be leveled by LAEEB. Thereafter, shall be descended accordingly when clear of TOSNA and TOVOX arrivals down to 12,000ft - 6,000ft by APP E, and issued furthur descend to 6000ft - 3,500ft by FIN E |
+| OTHH/OTBD           | 33/34s | LAEEB1L   | Aircraft must be instructed to descend FL150 - 13,000ft to be leveled by LAEEB, and issued furthur descend to 6,000ft, and handed over to FIN C/W for furthur down to 6,000ft - 3,500ft |
+| OTHH/OTBD           | 33/34s | ORLEK1L   | Aircraft shall be instructed to descend 10,000ft to be leveled by GINTO, upon leaving GINTO they shall be issued furthur descend by APP W to 8,000ft - 6,000ft. Thereafter, handed over to FIN C/W to be issued 6,000ft - 3,500ft upon entering the downwind leg |
+| OTHH/OTBD           | 33/34s | ORLEK1R   | Aircraft shall be instructed to descend 10,000ft to be leveled by GINTO, upon leaving GINTO they shall be accordingly descended to 8,000ft - 6,000ft upon reaching EGNUG, and issued furthur descend from 6,000ft - 3,500ft by FIN E |
+| OTHH/OTBD           | 33/34s | TOSNA2J   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and descended accordingly to 12,000ft by RDR N, and handed over to APP W to issue 12,000ft - 6,000ft. Moreover, descended to 6,000ft - 3,500ft by FIN C/W |
+| OTHH/OTBD           | 33/34s | TOSNA2R   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and issued down to 12,000ft by KIVAM from RDR S. Thereafter, handed over to APP E to issue 12,000ft - 6,000ft, and accordingly be descended to 6,000ft - 2,500ft by FIN E |
+| OTHH/OTBD           | 33/34s | TOSNA2V   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and issued down to 12,000ft by LUBAK from RDR N. Thereafter, handed over to APP E to issue 12,000ft - 6,000ft, and accordingly be descended to 6,000ft - 2,500ft by FIN E |
+| OTHH/OTBD           | 33/34s | TOSNA2L   | Aircraft shall be instructed to descend to FL220 to be leveled by TOSNA, and issued down to 12,000ft by KIVAM from RDR S. Thereafter, handed over to APP W to issue 12,000ft - 6,000ft, and accordingly be descended to 6,000ft - 3,500ft by FIN C/W |
+| OTHH/OTBD           | 33/34s | TOVOX2R   | Aircraft shall be cleared to descend to FL180 to be level by TOVOX, and issued down to 12,000ft by KIVAM from RDR S. Thereafter, handed over to APP E to issue 12,000ft - 6,000ft, and accordingly be descended to 6,000ft - 2,500ft by FIN E|
+| OTHH/OTBD           | 33/34s | TOVOX2L   | Aircraft shall be cleared to descend to FL180 to be level by TOVOX, then furthur descended to 12,000 ft by KIVAM under RDR S. Thereafter, traffic is handed over to APP W for descent from 12,000 ft to 6,000 ft, with FIN C/W issuing furthur descent to between 6,000 ft and 3,500 ft |
+| OTHH/OTBD           | 33/34s | VEDED2L   | Aircraft shall be cleared to descend to FL180 to be level by VEDED, then furthur descended to FL170 - 12,000ft upon entering the trombone. Thereafter RDR N must accordingly descend traffic to be at 12,000ft inbound LUBAK, and handed off to APP W for furthur descend to 11,000ft - 6,000ft inbound KATED, and appropriately instruct them to descend 6,000ft - 2,500ft on the downwind leg by FIN C/W |
+| OTHH/OTBD           | 33/34s | VEDED2R   | Aircraft shall be cleared to descend to FL180 to be level by VEDED, then furthur descended to FL170 - 12,000ft upon entering the trombone. Thereafter RDR N must accordingly descend traffic to be at 12,000ft inbound LUBAK, and handed off to APP E for furthur descend to 8,000ft inbound EGNUG, and appropriately instruct them to descend 6,000ft - 2,500ft on the downwind leg by FIN E |
+| OTHH/OTBD           | 33/34s | VEDED2V   | Traffic shall be level at FL180 at VEDED and cleared to descend to FL150 inbound VUTAN. Thereafter, aircraft shall be cleared to descend to 12,000 ft inbound LUBAK, with APP E issuing further descent to between 8,000 ft and 6,000 ft. Moreover, FIN E issuing down from 6,000ft - 2,500ft once established on the downwind leg |
 
 ## 5.4 Lateral Profile
 ### 5.4.1 General
@@ -213,11 +213,54 @@ During periods of high arrival traffic, direct routings may also be issued from 
 
 ### 5.4.3 Direct Routing Procedure - Doha 15 / Hamad 16s
 
-Coming soon
+| Arrival aerodrome |     STAR     | Direct | Conditions | Coordination sectors |
+|-------------------|--------------|--------|------------|----------------------|
+|    OTHH/OTBD      |    HAYYA1K   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    HAYYA1F   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    HAYYA2H   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    HAYYA1P   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    ALKAN1F   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    ALKAN2H   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    ALKAN1P   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    LAEEB2F   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    LAEEB2K   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    LAEEB1P   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    ORLEK2F   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    ORLEK1P   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    TOSNA1P   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    TOSNA1T   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    TOSNA2F   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    TOVOX2F   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    TOVOX2P   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    VEDED1F   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    VEDED2H   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    VEDED1P   | ------ | ---------- | -------------------- |
 
 ### 5.4.4 Direct Routing Procedure - Doha 33 / Hamad 34s
 
-Coming soon
+| Arrival aerodrome |     STAR     | Direct | Conditions | Coordination sectors |
+|-------------------|--------------|--------|------------|----------------------|
+|    OTHH/OTBD      |    HAYYA2L   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    HAYYA2R   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    HAYYA2V   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    HAYYA1J   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    ALKAN2L   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    ALKAN2R   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    ALKAN2V   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    LAEEB1J   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    LAEEB1L   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    LAEEB1R   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    ORLEK1L   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    ORLEK1R   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    TOSNA2J   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    TOSNA2L   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    TOSNA2R   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    TOSNA2V   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    TOVOX2L   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    TOVOX2R   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    VEDED2L   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    VEDED2R   | ------ | ---------- | -------------------- |
+|    OTHH/OTBD      |    VEDED2V   | ------ | ---------- | -------------------- |
 
 ## 3.5 Final Approach Sequencing
 ### 3.5.1 Final Descent
