@@ -89,10 +89,8 @@ Limitations regarding the use of direct routings for arriving aircraft are outli
 |        OTHH         |   TULUB1M   | TULUB  | Traffic above FL150 cleared of P43 | pre-coordinated |
 |        OTHH         |   VAXIN2M   | GOBLU  | No traffic via TOSNA or TOVOX | APP E to RDR N |
 |        OTHH         |   BUNDU2C   | BUNDU  | Traffic above 10,000ft cleared of D28 | pre-coordinated |
-|        OTHH         |   DATRI1C   | DATRI  | Traffic above 3,000ft and no conflicts with TOVOX or TOSNA ARRs | APP W to RDR S |
 |        OTHH         |   LUBET1C   | PATOM  | Traffic above FL150 cleared of R62, and P43 | pre-coordinated |
 |        OTHH         |   TULUB1C   | PATOM  | Traffic above FL150 cleared of R62, and P43 | pre-coordinated |
-|        OTHH         |   ULIKA1C   | ULIKA  | Must be confident that traffic will pass ULIKA above FL200 and clear of D17 | pre-coordinated |
 
 ### 6.3.3 Direct Routing Procedure - Doha 33 / hamad 34s
 
@@ -107,9 +105,9 @@ Limitations regarding the use of direct routings for arriving aircraft are outli
 |        OTHH         |   VAXIN3E   | VAXIN  | No conflicts with OTHH ARRs | pre-coordinated |
 |        OTHH         |   LUBET2A   | PATOM  | Traffic above FL150 cleared of R62 and P43 | pre-coordinated |
 |        OTHH         |   LUBET1W   | PATOM  | Traffic above FL150 cleared of R62 and P43 | pre-coordinated |
-|        OTHH         |   DATRI1W   | ------ | ---------- | -------------------- |
-|        OTHH         |   ULIKA2A   | ------ | ---------- | -------------------- |
-|        OTHH         |   ULIKA1W   | ------ | ---------- | -------------------- |
 |        OTHH         |   TULUB2A   | PATOM  | Traffic above FL150 cleared of R62 and P43 | pre-coordinated |
 |        OTHH         |   TULUB1W   | PATOM  | Traffic above FL150 cleared of R62 and P43 | pre-coordinated |
 |        OTHH         |   LUBET2Z   | ALNAK  | No conflicts with TULUB2A/1W or LUBET2A/1W DEPs on 34L and OTHH ARRs | pre-coordinated |
+
+!!! warning
+    Direct routings are not permitted on the **ULIKA** & **DATRI** SIDs due to airspace restrictions within the Doha FIR.
