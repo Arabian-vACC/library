@@ -46,7 +46,7 @@ By default, aircraft should be assigned the STAR that allows for the shortest tr
 |  VEDED2H  | Direct to Downwind |  Short |   East   | 
 |  VEDED1P  |      Trombone      |  Long  |   East   | 
 
-#### 3.1.2.2 Doha 33 / Hamad 34s
+#### 5.1.2.2 Doha 33 / Hamad 34s
 | Procedure |        Type        | Length | Downwind |
 |:---------:|:------------------:|:------:|:--------:|
 |  HAYYA2L  |      Trombone      |  Long  |   West   | 
@@ -73,7 +73,7 @@ By default, aircraft should be assigned the STAR that allows for the shortest tr
 
 
 
-### 3.1.3 Instrument Approach
+### 5.1.3 Instrument Approach
 The ILS approach is typically the preferred approach type. Aircraft may be cleared for a visual approach provided the conditions outlined in Section 3.1.4 are met.  
 
 While RNP approaches are available, they should only be assigned if specifically requested by the pilot or if other circumstances, such as ILS unserviceability, necessitate their use.
@@ -137,8 +137,8 @@ However, it is recommended that traffic be instructed to maintain a maximum spee
 
 High speeds may be allowed in the terminal area (TMA) as long as the aircraft is not expected to make turns exceeding 30 degrees of course change in any given arrival segment, and provided the traffic level and controller workload permit.
 
-## 3.3 Descent profile
-### 3.3.1 General
+## 5.3 Descent profile
+### 5.3.1 General
 Descent clearances must be issued in accordance with published level restrictions and the procedures outlined in Sections 3.3.2 and 3.3.3.  
 
 When aircraft are expected to follow the STAR vertical profile and comply with all published speed and level restrictions, the phrase "`DESCEND VIA STAR TO <cleared level>`" shall be used.  
@@ -149,7 +149,7 @@ Aircraft should not be cleared to descend below the current minimum radar altitu
 
 Intermediate levels may be assigned to ensure proper traffic separation between arrivals. When traffic is being handed off to the Final Approach (FIN) sector, aircraft shall not be cleared below 6000 ft.
 
-### 3.3.2 Descent Procedure - Doha 15 / Hamad 16s
+### 5.3.2 Descent Procedure - Doha 15 / Hamad 16s
 | Arrival Aerodrome   | Runway |   STAR    | Descent Procedure |
 |---------------------|--------|-----------|-------------------|
 | OTHH/OTBD           | 15/16s | HAYYA1K   | ----------------- |
@@ -174,7 +174,7 @@ Intermediate levels may be assigned to ensure proper traffic separation between 
 | OTHH/OTBD           | 15/16s | VEDED1P   | ----------------- |
 
 
-### 3.3.3 Descent Procedure - Doha 33 / Hamad 34s
+### 5.3.3 Descent Procedure - Doha 33 / Hamad 34s
 | Arrival Aerodrome   | Runway |   STAR    | Descent Procedure |
 |---------------------|--------|-----------|-------------------|
 | OTHH/OTBD           | 33/34s | HAYYA2L   | Traffic shall be level at FL170 at VELAM and cleared to descend to FL150 inbound VUTAN. Thereafter, RDR N shall descend aircraft to be at 12,000 ft inbound LUBAK, followed by further descent as appropriate to between 8,000 ft - 3,500 ft |
@@ -203,7 +203,7 @@ Intermediate levels may be assigned to ensure proper traffic separation between 
 ### 5.4.1 General
 The lateral design of Standard Terminal Arrival Routes (STARs) within the Doha Terminal Maneuvering Area (TMA) ensures separation between arriving traffic, departing aircraft, and arrivals to adjacent airports. However, when traffic conditions allow, controllers may authorize direct routings to aircraft in order to reduce track miles and improve efficiency.
 
-### 3.4.2 Direct Routings
+### 5.4.2 Direct Routings
 Direct routings within the Doha Terminal Maneuvering Area (TMA) shall only be issued when traffic levels are low and operational conditions permit. Prior to issuing a direct routing, controllers must assess the potential for conflicts with other traffic. Limitations and guidance on permissible direct routings for arriving aircraft are outlined in Sections 3.4.3 and 3.4.4.
 
 During periods of high arrival traffic, direct routings may also be issued from the “trombone” segment of the arrival procedure directly to a fix on the downwind leg. This technique is preferred over vectoring in high-density scenarios, as it aids in sequencing and reduces overall controller workload.
@@ -264,8 +264,8 @@ During periods of high arrival traffic, direct routings may also be issued from 
 
     Aicrafts on the LAEEB1J, or the ORLEK1L/R arrival shall not be given a direct due to the airspace restrictions within the Doha FIR.
 
-## 3.5 Final Approach Sequencing
-### 3.5.1 Final Descent
+## 5.5 Final Approach Sequencing
+### 5.5.1 Final Descent
 Descent for final approach shall be issued to the appropriate platform altitude for the respective runway, as specified in Section 3.5.3.
 
 Clearances to descend below the platform altitude are generally not recommended. However, such clearances may be issued provided the descent does not go below the minimum radar vectoring altitude (MRVA) for the respective sector and horizontal separation with other traffic is assured.
@@ -283,11 +283,11 @@ If prescribed separation cannot be maintained, aircraft may be instructed to mai
 
 When vectoring aircraft from the downwind leg, a standard 90-degree base leg and a 30-degree intercept angle to the final approach course shall be used.
 
-### 3.5.3 Longitudinal Separation Requirements
-#### 3.5.3.1 Single Runway Operations
+### 5.5.3 Longitudinal Separation Requirements
+#### 5.5.3.1 Single Runway Operations
 During single-runway operations at Doha-Hamad and Doha Airports, a minimum longitudinal separation of **7 nautical miles (NM)** shall be maintained between arriving aircraft, unless alternate separation has been coordinated with the appropriate AIR controller.
 
-#### 3.5.3.2 Low Visibility Operations
+#### 5.5.3.2 Low Visibility Operations
 Under Low Visibility Operations (LVO), a minimum longitudinal separation of **7 nautical miles (NM)** shall be strictly applied between all arriving aircraft.
 
 ### 5.5.4 Platform Altitudes
@@ -305,7 +305,7 @@ Aircraft establishing on final approach at Doha-Hamad International Airport shal
 |  ILS |   34R  | 2,500 ft before the FAP |
 |  RNP |   34R  | 2,500 ft before the FAP |
 
-##### 3.5.4.2 Doha (OTBD)
+##### 5.5.4.2 Doha (OTBD)
 Aircraft establishing on final approach at Doha International Airport shall be cleared to the platform altitudes specified below. These altitudes are mandatory for all operations and shall be strictly observed, particularly during independent parallel approach procedures.
 | Type | Runway | Platform Altitude       |
 |:----:|:------:|-------------------------|
