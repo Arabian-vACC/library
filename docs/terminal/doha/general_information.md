@@ -3,7 +3,7 @@
 ### 1.1.1 List of ATS callsigns
 |           Radio Callsign          | Logon Callsign | Abbreviation | Frequency (Mhz) |
 |:---------------------------------:|:--------------:|:------------:|:---------------:|
-|             Doha Tower            |   OTBD_1_TWR   |      AIR      |     118.900     |
+|             Doha Tower            |    OTBD_TWR    |      AIR     |     118.900     |
 |           Al-Udaid Tower          |    OTBH_TWR    |      AIR     |     135.500     |
 |         Hamad Tower (East)        |   OTHH_1_TWR   |     AIR E    |     118.525     |
 |         Hamad Tower (West)        |   OTHH_2_TWR   |     AIR W    |     118.025     |

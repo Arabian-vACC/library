@@ -1,6 +1,6 @@
 # 6. Sector Specific
 <figure markdown>
-![U.A.E FIR - Sectorization Overview](img/uae_lower_sectors.png)
+![U.A.E FIR - Sectorization Overview](img/uae_enroute_sectors.png)
 </figure>
 
 ## 6.1 Sector A
@@ -144,10 +144,10 @@ Longitudinal separation minima as per Section 2.2.2.2 apply.
 
 ## 6.12 Sector Y
 ### 6.12.1 Radar & Radio Limitations
-Sector Y manages traffic via TONVO, MENSA, PUXIL, VAXAS, GISMO, and KUPMA.
+Sector Y manages traffic via 
 
 ### 6.12.2 Typical Traffic Flows & Conflicts
-Sector Y handles inbound traffic into the Dubai TMA routing via IMPED.
+Sector W handles enroute traffic, as well as inbounds into the Dubai TMA via IMPED.
 
 ### 6.12.3 Coordination Requirements
 Longitudinal separation minima as per Section 2.2.2.2 apply.
@@ -162,5 +162,6 @@ This policy ensures consistent coordination, efficient traffic handling, and pro
 ## 6.14 Sector Top-down Coverage
 When the lower sector is offline, in addition to the designated areas of responsbility, top-down sector coverage shall be as follows:
 <figure markdown>
-![U.A.E FIR - Sectorization Overview](img/uae_upper_sectors.png)
+![U.A.E FIR - Sectorization Overview](img/uae_bandbox_sectors.png)
 </figure>
+
