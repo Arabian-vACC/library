@@ -3,7 +3,9 @@
 
 ---
 # Membership Policy
+
 ## Policy Information
+
 ### Control Details
 |                     |                            |
 |---------------------|----------------------------|
@@ -25,20 +27,27 @@
 | 02/2021 | Major changes to Section 1.2: Transferring controllers, with a new process aligned with VATMENA policy. | 01 APR 2021 |
 | 10/2021 | Changes to Section 1.1.1: General visiting controller policy,<br>Changes to Section 2.1: Controller inactivity. | 01 OCT 2021 |
 | 01/2025 | Full policy rewrite to ensure full compliance with VATSIM’s Global Controller Administration Policy (GCAP), Transfer & Visiting Controller Policy, and VATMENA Divisional Policies,<br>Removed Emirates vACC branding and updated to align with the new Arabian vACC branding, including the addition of two additional FIRs. | 10 APR 2025 |
-| 02/2025 | Added references to Tier 1 standarised training as defined in the Arabian vACC Training Policy | 18 AUG 2025 |
-| 03/2025 | Additions to policy, such as: <br> Clauses for easier referring, <br> Controller conduct policy <br> Dispute and reporting, <br> Event policy, <br> Rewrite of Controller Activity Requirement <br> Standard calender quarters| 12 SEP 2025 |
+| 02/2025 | Added references to Tier 1 standardised training as defined in the Arabian vACC Training Policy | 18 AUG 2025 | 
+| 03/2025 | Additions to policy, such as: <br> Clauses for easier referring, <br> Controller conduct policy <br> Dispute and reporting, <br> Event policy, <br> Rewrite of Controller Activity Requirement <br> Standard calendar quarters| 12 SEP 2025 | 
 
-## Organization
+---
+
+## 1. Organization
+
 The **Arabian Virtual Area Control Center** (hereinafter referred to as **Arabian vACC** or **ARBvACC**) is a recognized subdivision within the **Middle East & North Africa Division (VATMENA)**, operating under the **Europe, Middle East, and Africa Region (VATEMEA)** of the **VATSIM Network**.
 
 The Arabian vACC is responsible for the provision, management, and facilitation of Air Traffic Control (ATC) services on the VATSIM network across the airspaces of **Oman**, **Qatar**, and the **United Arab Emirates**. These services are delivered in accordance with the vACC's guiding values of **#ClearVision** and **#ClearMission**, aiming to uphold a high standard of realism and operational excellence.
 
 As part of its core responsibilities, the Arabian vACC oversees the training and certification of controllers operating within the **Muscat FIR (OOMM)**, **Doha FIR (OTDF)**, and **U.A.E FIR (OMAE)**.
 
-All members of VATSIM are expected to comply with the **VATSIM Code of Conduct** and **Code of Regulations**, which serve as the foundational rules governing behavior and operations across the network.
+All members of VATSIM are expected to comply with the **VATSIM Code of Conduct** and **Code of Regulations**, which serve as the foundational rules governing behaviour and operations across the network.
 
-# 1. Controller Membership
-## 1.1 Transferring Controllers
+---
+
+## 2. Controller Membership
+
+### 2.1 Transferring Controllers
+
 A **transferring controller** is defined as a VATSIM member seeking a permanent reassignment from their current vACC to the Arabian vACC. The following conditions apply:
 
 - The controller may hold **any ATC rating**.
@@ -49,192 +58,187 @@ A **transferring controller** is defined as a VATSIM member seeking a permanent 
 
 To initiate a transfer request, please refer to the official guide:
 
-👉 [**Joining the Arabian vACC**](https://library.arabian-vacc.com/getting_started/joining_arabian/)
+👉 [**Joining the Arabian vACC**](https://library.arabianvacc.com/getting_started/joining_arabian/)
 
 This guide outlines the required steps and documentation for a successful transfer application.
 
-## 1.2 Visting Controllers
+---
+
+### 2.2 Visiting Controllers
+
 A **visiting controller** is a VATSIM member who retains their primary home vACC but wishes to control within the Arabian vACC on an occasional basis. Visiting controllers must meet the following criteria:
 
-- Applicants must possess an **S2 ATC rating for VATMENA residents** or an **S3 ATC rating for non-VATMENA residents**, in compliance with the **VATSIM Global Controller Administration Policy (GCAP)** and **VATSIM Transfer Visiting Controller Policy (TVCP)**.
+- Applicants must possess an **S2 ATC rating for VATMENA residents** or an **S3 ATC rating for non-VATMENA residents**, in compliance with **GCAP** and **TVCP**.
 - Must comply with the **Arabian vACC Training Policy** and **operational procedures**.
 - Acceptance is subject to staff discretion and space availability.
 
-To apply as a visitor, please consult the official visiting controller guide:
+Guide link:
 
-👉 [**Applying as a Visiting Controller**](https://library.arabian-vacc.com/getting_started/starting_atc_training/)
+👉 [**Applying as a Visiting Controller**](https://library.arabianvacc.com/getting_started/starting_atc_training/)
 
-This guide provides step-by-step instructions for submitting your application and preparing for operations within the Arabian vACC.
+---
 
-## 1.3 VATMENA Transfer and Visiting Policy Alignment
-The Arabian vACC abides by Sections **7, 8, and 9** of the **VATMENA Membership Policy** regarding all inbound transfer and visiting controller requests. Please note:
+### 2.3 VATMENA Transfer and Visiting Policy Alignment
 
-- **Transfer controllers** are not considered full division members until all onboarding and training requirements have been met.
-- **Visiting controllers** will not be added to the Arabian vACC ATC roster until all initial approvals and training prerequisites are fulfilled.
+The Arabian vACC abides by Sections **7, 8, and 9** of the **VATMENA Membership Policy** regarding all inbound transfer and visiting controller requests.
 
-# 2. Controller Activity Requirements
-## 2.1 Maintaining currency
+- **Transfer controllers** are not full division members until onboarding steps are completed.  
+- **Visiting controllers** are not added to the ATC roster until all approvals and prerequisites are fulfilled.
 
-To maintain a high level of operational readiness and service, all controllers assigned to the Arabian vACC are required to meet the following **minimum quarterly activity** threshold:
+---
+
+## 3. Controller Activity Requirements
+
+### 3.1 Maintaining Currency
+
+To maintain operational readiness, all controllers assigned to the Arabian vACC must meet the following **minimum quarterly activity** requirement:
 
 | Category     | Hours Requirement                                  | Notes                                          |
 |--------------|--------------------------------------------------|------------------------------------------------|
 | Unrestricted | Minimum of 3 hours per quarter in highest approved position  | Hours do not count towards Tier 1 hour requirement |
 | Tier 1       | Minimum of 3 hours per quarter in highest approved position | Hours count towards unrestricted total          |
 
+Additional rules:
 
-* **Hours controlled on a Tier 2 facility only count towards restricted hours, and as such do not count for the Tier 1 requirement.**
+- Hours on Tier 2 facilities only apply to restricted hours (not Tier 1).  
+- Sessions under **30 minutes** do not count.
 
-* **Sessions below 30 minutes are also not counted towards your monthly requirement, as per the operations policy.**
+Calendar quarters are defined in Membership Policy clause 7.
 
-Calendar quarter are those as defined in the Arabian vACC Membership Policy, clause 7.
+This supports **#ClearVision** and **#ClearMission** and complies with GCAP 9.4(c)(i) and VATMENA Policy.
 
-This activity requirement supports the Arabian vACC's core values of **#ClearVision** and **#ClearMission**, ensuring service consistency and procedural compliance with [GCAP policy 9.4(c)(i)](https://cdn.vatsim.net/policy-documents/GCAP_v1.1_Release.pdf) and divisional policy [VATMENA_POL_TRP_R01-2025](https://cdn.vatsim.me/policies/VATMENA_POL_TRP_R01-2025.pdf).
+---
 
-## 2.2 Non-Compliance and Roster Removals
-Controllers who fail to meet the quarterly activity requirement will be:
+### 3.2 Non-Compliance and Roster Removals
 
-- Removed from the Arabian vACC roster;
-- Have all **endorsements and position approvals revoked**.
+Controllers failing to meet quarterly activity will:
 
-**Roster cleanups** are conducted on the final day of March, June, September, and December. A general notice will be issued on the Arabian vACC Discord server 2 to 4 weeks in advance.
-## 2.3 Leave of Absence (LoA)
-Controllers may request a **Leave of Absence (LoA)** if unable to meet activity requirements. The following conditions apply:
+- Be removed from the Arabian vACC roster  
+- Have **all endorsements and approvals revoked**
 
-| Step / Topic            | Details                                                                                      |
-|------------------------|----------------------------------------------------------------------------------------------|
-| Submission             | Submit a support ticket via the Arabian vACC Discord, titled **"Leave of Absence Request"**  |
-| Reason                 | Provide a valid reason for the request. Approval is subject to staff discretion.             |
-| Duration               | LoA duration: up to 90 days, with one renewal allowed unless extended by written approval from the Membership Director or designee. |
-| Activity Requirement   | Controllers on LoA are exempt from the activity requirement and will be marked as “Not Approved” on the roster. |
-| Revocation             | If a controller is found actively controlling on the network during their LoA, the leave will be immediately revoked. |
+Roster clean-ups occur the last day of **March, June, September, December** with advance notice on Discord.
 
+---
 
-Controllers may **cancel or modify** their LoA by notifying the Membership Department. Upon completion, the controller will return to their previously approved status. A **recurrency session** may be required if the LoA was extended.
+### 3.3 Leave of Absence (LoA)
 
-# 3. Reinstatement to Roster
-## 3.1 Resident Controllers
-Resident controllers removed from the roster due to inactivity may request reinstatement to the controller roster. This is done by submitting a **support ticket via Discord**. Once accepted for reinstatement, they shall follow the process as defined in the Arabian vACC Training Policy "Reinstatement to Roster" section.
+Controllers may request an LoA if unable to meet requirements.
 
-## 3.2 Visiting Controllers
-Visiting controllers removed from the roster for inactivity or other reasons (such as disciplinary or failure to meet competency requirements) may **reapply after a minimum of 30 days**. This is done by submitting a **support ticket via Discord**. Once accepted for reinstatement, they shall follow the process as defined in the Arabian vACC Training Policy "Reinstatement to Roster" section.
+| Step / Topic | Details |
+|--------------|---------|
+| Submission | Submit Discord support ticket titled **"Leave of Absence Request"** |
+| Reason | Valid reason required; approval discretionary |
+| Duration | Up to 90 days; one renewal allowed unless extended |
+| Activity Requirement | Exempt during LoA; marked as “Not Approved” |
+| Revocation | LoA revoked if controlling on the network during approved leave |
 
-#### **3.3 Exemptions**:
+Controllers may cancel or modify LoA by notifying Membership. A recurrency session may be required after extended leave.
 
-- New visiting controllers actively engaged in training are exempt from the quarterly activity requirement.
-- Visiting controllers approved **within the current quarter** are also exempt.
+---
 
-# 4. Controller Conduct
-Controllers in the Arabian vACC must uphold professionalism and adhere to the following standards:
+## 4. Reinstatement to Roster
 
-* Adherence to VATSIM Regulations
-Controllers must comply with the VATSIM Code of Conduct and Code of Regulations.
+### 4.1 Resident Controllers
 
-* Good Standing Requirement
-Controllers must remain in good standing with the Arabian vACC, VATMENA, VATEMEA, and the VATSIM network.
+Removed residents may request reinstatement via **Discord support ticket** and must follow Training Policy reinstatement procedures.
 
-* Violation Consequences
-Controllers found violating the VATSIM Code of Conduct, regardless of role (controller, pilot, or observer), will be immediately removed from the Arabian vACC roster. No prior notice will be given for such removal.
+---
 
-* Compliance with Policies and Procedures
-Controllers must comply with all applicable Arabian vACC standards, policies, and procedures, including:
+### 4.2 Visiting Controllers
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>The Arabian vACC Training System</td>
-    </tr>
-    <tr>
-      <td>SOPs (Standard Operating Procedures)</td>
-    </tr>
-    <tr>
-      <td>vMATS (Virtual Manual of Air Traffic Services)</td>
-    </tr>
-    <tr>
-      <td>Operational Changes</td>
-    </tr>
-    <tr>
-      <td>Letters of Agreement (LoAs)</td>
-    </tr>
-  </tbody>
-</table>
+Removed visiting controllers may reapply **after 30 days** via Discord ticket, following Training Policy reinstatement procedures.
 
-## 4.1 Zero Tolerance for Misconduct
-Hate speech, violence, derogatory remarks, or personal attacks directed at pilots or fellow controllers will result in **immediate and permanent removal** from the Arabian vACC, with further reporting to the VATSIM network.
+---
 
-## 4.2 Conduct within the network
-Additionally, any resident of the Arabian vACC personally represents our morals and values. As such, it is in no way accepted for our residents to speak ill towards **any** controller or vACC, even outside of our own scope. <br> 
-If these issues are reported by any member of the Vatsim network, you will initially receive a formal warning. Any subsequent behaviour will result in immediate termination from the roster and an escelation to the division.
+### 4.3 Exemptions
 
-### Failure to comply with the conduct guidelines may lead to disciplinary action, including removal of controlling privileges.
+- New visiting controllers in training are exempt  
+- Visiting controllers approved **within the current quarter** are exempt  
 
-# 5. Disputes and Reporting
+---
 
-## 5.1 Reporting Issues
+## 5. Controller Conduct
 
-Controllers can report non-compliance via [this form](https://vats.im/arb/feedback).
+Controllers must uphold professionalism and comply with:
 
-## 5.2 Conflict Resolution Process
-If the feedback form does not sufficiently address the issue, controllers should first contact the vACC Membership Director by submitting a membership ticket. The ticket should follow the format below:
+- VATSIM Code of Conduct  
+- VATSIM Code of Regulations  
+- vACC Training System  
+- SOPs  
+- vMATS  
+- Operational Changes  
+- LoAs  
 
-|Item              | Description                                                |
-|------------------|------------------------------------------------------------|
-| Conflict With     | [Name and CID of the individual involved]                 |
-| Describe Conflict | [Brief summary of the issue]                              |
-| Evidence          | [Relevant screenshots, logs, or supporting documentation] |
+Violations may lead to **immediate removal** without notice.
 
-If the issue remains unresolved after this step, it should be referred to the vACC Director or Deputy Director for informal mediation. Should the matter still not be resolved, it may be escalated to the Division Director or the Division Conflict Resolution Manager (DCRM) for further action.
+---
 
-# 6. Events
-### Membership works directly with Marketing to ensure compliance with all relevant policies and to identify opportunities for improving event controller quality and attendance:
+### 5.1 Zero Tolerance for Misconduct
 
-## 6.1 Cancellations and No-Shows
-All cancellations and no-shows for events are recorded. Controllers should only sign up for an event if they can commit to attending. In unavoidable circumstances, controllers must notify the Marketing Department as soon as possible using both of the methods below:
-* **Notify the person responsible for rostering**
-<table>
-  <thead>
-    <tr>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Post in the signup forum on Discord</td>
-    </tr>
-    <tr>
-      <td>Submit a Support Ticket to the Marketing Department</td>
-    </tr>
-  </tbody>
-</table>
+Any hate speech, violence, derogatory remarks, or personal attacks result in **immediate permanent removal** and reporting to VATSIM.
 
-* **Update the original availability post**
-<table>
-  <thead>
-    <tr>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Use strikethrough text to indicate the change and avoid confusion.</td>
-    </tr>
-  </tbody>
-</table>
+---
 
-# 7. Calender Quarters
+### 5.2 Conduct Within the Network
 
-| Quarter | Months Covered       |
-|---------|----------------------|
-| Q1      | January – March      |
-| Q2      | April – June         |
-| Q3      | July – September     |
-| Q4      | October – December   |
+Residents represent the vACC everywhere. Speaking ill of **any** vACC or controller is prohibited.
 
+- First offence → formal warning  
+- Second offence → immediate removal + escalation  
 
-# 8. Non-compliance with this Policy
-Ignorance of policies is not an acceptable defense. It is each member’s responsibility to stay informed of the latest procedures. Repeated violations will result in the revocation of approvals.
+---
+
+## 6. Disputes and Reporting
+
+### 6.1 Reporting Issues
+
+Submit issues via:  
+https://vats.im/arb/feedback
+
+---
+
+### 6.2 Conflict Resolution Process
+
+If unresolved via form, submit a membership ticket using this format:
+
+| Item | Description |
+|------|-------------|
+| Conflict With | [Name + CID] |
+| Describe Conflict | [Summary] |
+| Evidence | [Screenshots/logs] |
+
+Escalation order:  
+**Membership Director → vACC Director / Deputy Director → DCRM / Division Director**
+
+---
+
+## 7. Events
+
+Membership works with Marketing on controller quality and attendance.
+
+### 7.1 Cancellations and No-Shows
+
+All cancellations/no-shows are recorded. Controllers must notify Marketing using:
+
+- **Post in signup forum**  
+- **Submit Support Ticket to Marketing**
+
+Also update your original availability post with **strikethrough**.
+
+---
+
+## 8. Calendar Quarters
+
+| Quarter | Months |
+|---------|--------|
+| Q1 | Jan–Mar |
+| Q2 | Apr–Jun |
+| Q3 | Jul–Sep |
+| Q4 | Oct–Dec |
+
+---
+
+## 9. Non-Compliance with this Policy
+
+Ignorance is not an acceptable defence.  
+Repeated violations will result in revocation of approvals.

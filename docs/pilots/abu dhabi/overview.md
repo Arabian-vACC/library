@@ -38,7 +38,7 @@ Since 2023, passenger operations have been based out of Terminal A. Passenger ai
 | Presidential Flight Apron |          1 to 17              |       Government and state aircraft      |
 
 !!! info
-    All arriving aircraft will be assigned stands by our stand assigner. Commercial passenger aircraft can expect to be accommodated on Apron 6, and cargo can expect Apron 5
+    All arriving aircraft will be assigned stands by our stand assigner. Commercial passenger aircraft can expect to be accommodated on Apron 6, and cargo can expect Apron 5. During busy periods other aprons may be assigned. Please make the ground controller aware if you have scenery limitations.
 
 ## Air Traffic Control Positions
 

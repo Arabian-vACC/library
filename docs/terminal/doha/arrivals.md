@@ -46,7 +46,7 @@ By default, aircraft should be assigned the STAR that allows for the shortest tr
 |  VEDED2H  | Direct to Downwind |  Short |   East   | 
 |  VEDED1P  |      Trombone      |  Long  |   East   | 
 
-#### 5.1.2.2 Doha 33 / Hamad 34s
+#### 3.1.2.2 Doha 33 / Hamad 34s
 | Procedure |        Type        | Length | Downwind |
 |:---------:|:------------------:|:------:|:--------:|
 |  HAYYA2L  |      Trombone      |  Long  |   West   | 

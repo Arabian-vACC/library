@@ -16,6 +16,17 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
 
 | Simulator      | Freeware                    | Payware                            |
 |----------------|-----------------------------|------------------------------------|
-| MSFS           |                             |                                    |
+| MSFS           | [flightsim.to](https://flightsim.to/file/100673/omad-al-bateen-ecexutive-airport-abu-dhabi) |                                    |
 | X-Plane        |                             |                                    |
 | Prepar3D V4/V5 |                             |                                    |
+
+## Air Traffic Control Positions
+| Login Code |  Radio Callsign         | Frequency | Area of Responsibility                                            |
+|:----------:|:-----------------------:|:---------:|-------------------------------------------------------------------|
+| OMAD_GND   | Al Bateen Ground        | 120.375   | - All IFR & VFR Clearances and Ground Movements                   |
+| OMAD_TWR   | Al Bateen Tower         | 119.900   | - Primary Tower Position                                          |
+| OMAA_1_APP | Abu Dhabi Radar Central | 124.400   | - Departure/Approach Position                                     |
+| OMAA_2_APP | Abu Dhabi Radar West    | 128.100   | - Departure/Approach Position                                     |
+
+!!! note
+    Al Bateen does not have a dedicated ATIS frequency. Abu Dhabi ATIS can be utilised for information purposes when online. If Abu Dhabi is not online, weather and operational information can be requested from Al Bateen Ground/Tower.

@@ -251,9 +251,17 @@ Due to unexpected traffic developments or a departing aircraft taking longer to 
 
     **Pilot**: "TAKING OFF, SPEEDBIRD 106."
 
-    **Controller**: "PQR, HOLD POSITION, CANCEL TAKE-OFF CLEARANCE, I SAY AGAIN CANCEL TAKE-OFF DUE <Reason> ACKNOWLEDGE."
+    **Controller**: "PQR, HOLD POSITION, CANCEL TAKE-OFF CLEARANCE, I SAY AGAIN CANCEL TAKE-OFF DUE (reason) ACKNOWLEDGE."
 
     **Pilot**: "HOLDING/STOPPING, PQR."
+
+In the situation that an aircraft has already commenced the take off roll, the pilot shall be instructed to **stop.**
+
+!!! example
+    **Controller:** "SAUDIA 557, STOP IMMEDIATELY, I SAY AGAIN, STOP IMMEDIATELY DUE (reason)"
+
+!!! Warning
+    The instruction to stop must be given early enough such that the aircraft does not reach its decision speed. Therefore, aerodrome controllers must be vigilant and remain aware of the location of traffic and all times as well as runway incursion hotspots.
 
 When a pilot abandons the take-off maneuver, the **control tower** should be informed as soon as practicable. The pilot should also request **assistance** or **taxi instructions** as needed.  
 

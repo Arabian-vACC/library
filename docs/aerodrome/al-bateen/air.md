@@ -44,21 +44,16 @@ During off-peak times, this separation minima may be disregarded, and standard s
 | KANIP |      LARBI     | 3 minutes               |
 
   <figcaption>Table 4-1: Flow control procedures for traffic entering the Muscat FIR</figcaption>
+
 </figure>
 
 ### 4.3.4 Stopping a departure
-Aircraft that have commenced their take-off roll may be instructed to stop immediately to avert a collision due to a runway incursion or any other dangerous situation.
+Aircraft that have commenced their take-off roll may be instructed to stop immediately to avert a collision due to a runway incursion or any other dangerous situation, inline with section 3.3.3 of the Radiotelephony Manual
 
 !!! Warning
     The instruction to stop must be given early enough such that the aircraft does not reach its decision speed. Therefore, aerodrome controllers must be vigilant and remain aware of the location of traffic and all times as well as runway incursion hotspots.
 
-!!! Example
-    **Controller:** IFA6922, Stop immediately, I say again stop immediately, vehicle entering the runway!
-
 For aircraft that have been given a take-off clearance, but have not yet started the roll, they should be instructed to hold position and the take-off clearance must be cancelled along with the reason for cancellation.
-
-!!! Example
-    **Controller:** IFA772, hold position, cancel takeoff clearance, I say again cancel takeoff clearance, aircraft entering the runway, acknowledge.
 
 ## 4.4 Arrival procedures
 ### 4.4.1 General
@@ -107,8 +102,9 @@ Aircraft climbing into controlled airspace shall be handed off to departure cont
 ### 4.5.2 VFR traffic remaining in the circuit
 AIR control is responsible for managing circuit traffic.
 
-**Left-Hand** Circuits shall be conducted on runway 13 not above an altitude 1500ft.
-**Right-Hand** Circuits shall be conducted on runway 31 not above an altitude of 1500ft
+- **Left-Hand** Circuits shall be conducted on runway 13 not above an altitude 1500ft.
+- **Right-Hand** Circuits shall be conducted on runway 31 not above an altitude of 1500ft
+- One aircraft shall be permitted within the circuit at any given time
 
 Once aircraft are ready for departure, they should be cleared for take-off in sequence. As they begin their crosswind turn (the first turn after departure) they shall be instructed to report when they are on the downwind with their intentions.
 
@@ -119,7 +115,10 @@ Aircraft may request either a touch and go (where the aircraft lands and immedia
 
 Once AIR is aware of the aircraft’s request, they may be sequenced to the runway, with due consideration given to runway occupancy time.
 
-Aircraft on the downwind should be passed the following information: - Expected runway; - Sequence; - Traffic information if applicable
+Aircraft on the downwind should be passed the following information: 
+- Expected runway
+- Sequence
+- Traffic information if applicable
 
 !!! Example
     **Controller:** A6-PAB, report final runway 31, number 1, traffic is a C172 on a 2 mile final runway 31.
