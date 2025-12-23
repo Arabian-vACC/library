@@ -4,18 +4,18 @@ The Ground Movement Controller (GMC) is responsible for managing aircraft moveme
 
 Arriving aircraft are assigned a stand and instructed to taxi as appropriate.
 
-## 4.2 Departure pushback procedures
-### 4.2.1 General pushback procedures
+## 4.2 Departure Pushback Procedures
+### 4.2.1 General Pushback Procedures
 When aircraft have been handed off from GMP, they shall be fully ready for pushback, and have reached their TOBT. Assuming no obstructions, they should be instructed to push back immediately.
 
 !!! warning
-    Traffic will be handed over from GMP with a **monitor** instruction and the **FREQ** tag will be applied in Euroscope. Once the **FREQ** status is showing, pilots have been transferred to GMC and can be called up by the GMC controller to push.
+    Traffic shall be handed over from GMP with a **monitor** instruction and the **FREQ** tag shall be applied in Euroscope. Once the **FREQ** status is showing, pilots have been transferred to GMC and can be called up by the GMC controller to push.
 
 Aircraft ready for push that are not squawking their assigned transponder code shall be instructed to hold position and squawk the correct code. They must not be allowed to move until doing so. Pushback direction is based primarily on aircraft location and runway configuration.
 
 In accordance with the pushback restrictions laid down in 4.2, aircraft shall generally be pushed back facing the departure runway threshold unless otherwise specified.
 
-### 4.2.2 Pushback types
+### 4.2.2 Pushback Types
 #### 4.2.2.1 Standard Pushback Clearance
 A pushback clearance must include the stand at which aircraft is located and an instruction to “FACE NORTH”, “FACE EAST”, “FACE SOUTH” and “FACE WEST” as appropriate to runway configuration and stand number.
 
@@ -50,7 +50,7 @@ Conditional pushback instructions may also be issued if an aircraft is taxiing b
 !!! example
     **Controller**: "ETD611, Abu Dhabi Ground, from stand 614 push and start approved, abeam stand 613, face East"
 
-#### 4.2.3.2 Additional Pushback restrictions
+#### 4.2.3.2 Additional Pushback Restrictions
 ##### 4.2.3.2.1 Apron 1
 Stand 101:
 
@@ -79,8 +79,8 @@ Parking on stand 122 or 133 is permitted if an aircraft has completed pushback f
 
 Aircraft on stands 123, 134, 135, 136 and 103 which request to start engine(s) on parking stand shall be unable to execute the standard pushback onto taxiway E9 or taxiway E11 facing north due to issues created by the jet blast towards the adjacent service road.
 
-## 4.3 Departure taxi procedures
-### 4.3.1 General departure taxi procedures
+## 4.3 Departure Taxi Procedures
+### 4.3.1 General Departure Taxi Procedures
 Aircraft taxi instructions to join the appropriate taxiway shall take into consideration the pushback procedures laid down in 4.2.
 
 Caution must be exercised where departure taxi routings intersect or are expected to cross arrival taxi routes and rapid exit taxiways.
@@ -93,7 +93,7 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
     **ATC**: “ETD89G, TAXI VIA ECHO 8, ECHO, HOLDING POINT ECHO 15”
 
 
-### 4.3.2 Dual runway 31L/R departure taxi procedures
+### 4.3.2 Dual Runway 31L/R Departure Taxi Procedures
 When departing from 31L, aircraft pushing back on apron 1 shall be instructed to taxi via E9 or E11 to join E and taxi to holding point E15.
 Aircraft on apron 2 shall be instructed to taxi via E13 or E14 to join E and taxi to holding point E15.
 
@@ -109,7 +109,7 @@ Aircraft departing from 31R from the south side of the airfield shall be instruc
 
 ***(See 7.2.1)***
 
-### 4.3.3 Dual runway 13L/R departure taxi procedures
+### 4.3.3 Dual Runway 13L/R Departure Taxi Procedures
 When departing from 13L, aircraft pushing back on apron 1 shall be instructed to taxi via E9 or E11 to join E and taxi to holding point E2 or E3.
 
 Aircraft on apron 2 shall be instructed to taxi via E13 or E14 to join E and taxi to holding point E2 or E3. Caution must be exercised at taxiway E13 and E10 intersection as this may be in use by arriving aircraft on 13R.
@@ -124,13 +124,13 @@ Westbound traffic flow on E between E10 and E7 must be used with caution as thes
 
 ***(See 7.2.2)***
 
-## 4.4 Arrival taxi procedures
-### 4.4.1 General arrival taxi procedures
+## 4.4 Arrival Taxi Procedures
+### 4.4.1 General Arrival Taxi Procedures
 Arriving aircraft shall not immediately be handed off by AIR. They must instead be given an initial taxi instruction to keep traffic flowing and ensure the rapid exit taxiways are kept clear. Therefore, GMC shall assign an arrival stand to aircraft when they are on final approach.
 
 Once the aircraft is handed off to GMC, they may be taxied to their stand.
 
-### 4.4.2 Runway 31L/R arrival taxi procedures
+### 4.4.2 Runway 31L/R Arrival Taxi Procedures
 Aircraft landing on 31L shall vacate onto E8 and shall be given an initial taxi towards E6, or right on E depending on the stand assignment described in 4.4.4. After initial taxi is issued by AIR, aircraft are handed off to GMC.
 
 Aircraft shall vacate 31R onto an appropriate exit taxiway and shall then be instructed to join B before being handed off to GMC. Aircraft shall taxi via H when the operations mode is arrival only for 31R, otherwise they shall be instructed to taxi via G. Aircraft shall cross 31L at H.
@@ -143,7 +143,7 @@ Aircraft parking on apron 6 shall join via K3, K6, L3, M3 or M4 and taxi as appr
 
 ***(See 7.2.1)***
 
-### 4.4.3 Runway 13L/R arrival taxi procedures
+### 4.4.3 Runway 13L/R Arrival Taxi Procedures
 Aircraft shall vacate 13R onto E10 and shall be given an initial taxi towards E13. After initial taxi is issued by AIR, aircraft are handed off to GMC.
 
 Aircraft shall vacate 13L onto an appropriate exit taxiway and shall then be instructed to join B before being handed off to GMC. Aircraft shall taxi via H when the operations mode is arrival only for 13L, otherwise they shall be instructed to taxi via G. Aircraft shall cross 13R at H.
@@ -152,7 +152,7 @@ Aircraft parking on te south side of the airport shall be instructed to taxi via
 
 ***(See 7.2.2)***
 
-### 4.4.4 Stand allocation procedure
+### 4.4.4 Stand Allocation Procedure
 Aircraft shall be assigned stands automatically using the StandAssigner system. If this is not possible, aircraft shall be assigned a stand in accordance with the following procedure:
 
 <figure markdown>
@@ -171,22 +171,22 @@ Aircraft shall be assigned stands automatically using the StandAssigner system. 
   <figcaption>Table 4-2: Stand allocation procedure</figcaption>
 </figure>
 
-### 4.4.10 Stand restrictions
+### 4.4.10 Stand Restrictions
 Stand 101-103,401-410 and 801-805 Aircraft code – Maximum code E
 Stand 111-136,201-222 and 619-632 Aircraft code – Maximum code F
 
 ***(See 6.2.3)***
 
-## 4.5 Low visibility operations (LVO)
-### 4.5.1 LVO taxi routes
+## 4.5 Low Visibility Operations (LVO)
+### 4.5.1 LVO Taxi Routes
 When LVO is in force, aircraft shall not cross the landing runway as far as practicable.
 
 Aircraft shall only be issued taxi instructions in accordance with the designated LVO taxi routes.
 
 Only CAT II/III holding points may be used during LVO (4.7.2).
 
-## 4.6 Designated areas of responsibility
-### 4.6.1 GMC positions
+## 4.6 Designated Areas of Responsibility
+### 4.6.1 GMC Positions
 Abu Dhabi has three GMC positions, GMC 1, GMC 2 and GMC 3.
 
 GMC 1 controls aircraft movements on the following areas and their associated taxiways:
@@ -211,15 +211,13 @@ GMC 3 controls aircraft movements on the following areas and their associated ta
 
 ***(See 2.2)***
 
-### 4.6.2 Handoff procedures
+### 4.6.2 Handoff Procedures
 Where transfer of control is to be made between controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller.
 Intermediate holding points may be used to satisfy this requirement.
 
-### 4.6.3 Splitting procedure
+### 4.6.3 Splitting Procedure
 When there is only one GMC online, they shall cover all surface movement areas from the GMC 1 position.
 
 Unless otherwise authorised by UAE vACC staff, GMP (Abu Dhabi Delivery) must be online before two GMC (Abu Dhabi Ground) positions are be opened.
 
 When GMP is not online, GMC shall assume the responsibility of the lower controller.
-
-

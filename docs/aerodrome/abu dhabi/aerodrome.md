@@ -38,8 +38,6 @@
 | Abu Dhabi CTA 3 (Control Terminal Area North)    |        G         |   SFC to 1500ft       | 13 000 ft             | FL 150             |
 | Abu Dhabi CTA 3 (Control Terminal Area North)    |        C         |   1500ft to 3000ft    | 13 000 ft             | FL 150             |
 
-
-
 ## 1.3 Radio navigation aids
 | Type                     | Identifier   | Frequency   |
 |:------------------------:|:------------:|:-----------:|
@@ -48,7 +46,6 @@
 | ILS/DME (RWY13L)         | IIAS         | 110.300Mhz  |
 | ILS/DME (RWY13R)         | IIAE         | 109.150Mhz  |
 | VOR/DME                  | ADV          | 114.250Mhz  |
-
 
 ## 1.4 Runways
 ### 1.4.1 Runway physical characteristics
