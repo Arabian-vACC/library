@@ -1,5 +1,5 @@
 # 4. Ground Movement Procedures
-## 4.1 General provisions
+## 4.1 General Provisions
 The Ground Movement Controller (GMC) is responsible for managing aircraft movements on all aerodrome movement areas except for runways and their associated taxiways. Departing aircraft aregiven pushback instructions and instructions to taxi to the runway holding point.
 
 Arriving aircraft are assigned a stand and instructed to taxi as appropriate.

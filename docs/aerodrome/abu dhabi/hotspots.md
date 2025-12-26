@@ -1,5 +1,5 @@
 # 6. Aerodrome Incursion Hotspots
-## 6.1 General guidance
+## 6.1 General Guidance
 Due to the complex layout of the aerodrome, several areas exist which are prone to taxiway/runway incursions. Controllers must exercise caution and remain vigilant when aircraft are operating in these areas. The diagram below displays critical areas in Abu Dhabi
 
 ## 6.2 Hotspot A
