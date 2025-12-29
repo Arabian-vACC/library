@@ -39,10 +39,7 @@ Aircraft shall be separated on departure in accordance with standard IFR departu
 During low visibility operations and during IMC, departing aircraft shall not be cleared for take-off when there is an arriving aircraft within **4 NM** of the landing runway threshold.
 
 ### 5.3.5 IFR Handoff Procedure
-Departing IFR aircraft shall be transferred to **Muscat Approach**. If the TMA controller is not online, handoff shall be made to **Muscat Control**.
-
-- Handoff shall be initiated **when the aircraft passes 1,000 ft**.  
-- This ensures sufficient time for frequency change and helps prevent level-offs during the initial climb.
+Departing IFR aircraft shall be transferred to **Muscat Approach**. If the TMA controller is not online, handoff shall be made to **Muscat Control**. The handoff is automatic as the departure frequency is provided alongside the take-off clearance.
 
 ### 5.3.6 Stopping a Departure
 Aircraft that have commenced their take-off roll may be instructed to stop immediately to avert a collision due to a runway incursion or any other dangerous situation. 

@@ -7,8 +7,8 @@
 | Magnetic Variation / Annual Change | 2° E (2017) / +0.05° |
 | Transition Altitude / Level        | 13,000 ft / FL150    |
 
-## 1.2 Air traffic services
-### 1.2.1 List of ATS callsigns
+## 1.2 Air Traffic Services
+### 1.2.1 List of ATS Callsigns
 | Radio Callsign              | Logon Callsign   | Abbreviation   | Frequency   |
 |:---------------------------:|:----------------:|:--------------:|:-----------:|
 | Dubai ATIS (Departure)      | OMDB_D_ATIS      | ATIS           | 131.700     |
@@ -24,13 +24,13 @@
 | Dubai Director              | OMDB_F_APP       | DIR            | 127.900     |
 | Dubai Tower (Information)   | OMDB_I_TWR       | FIS            | 126.775     |
 
-### 1.2.2 ATS airspace
+### 1.2.2 ATS Airspace
 | Airspace                    | Classification   | Vertical Limits    | Transition Altitude   | Transition Level   |
 |:---------------------------:|:----------------:|:------------------:|:---------------------:|:------------------:|
 | Dubai CTA (Terminal Area)   | C                | 1500 ft to FL155   | 13 000 ft             | FL 150             |
 | Dubai CTR (Control Zone)    | D                | SFC to 1500 ft     | 13 000 ft             | FL 150             |
 
-## 1.3 Radio navigation aids
+## 1.3 Radio Navigation Aids
 | Type            | Identifier   | Frequency   |
 |:---------------:|:------------:|:-----------:|
 | ILS/DME (12R)   | IDBE         | 109.50      |
@@ -39,7 +39,7 @@
 | ILS/DME (30L)   | IDBW         | 111.30      |
 
 ## 1.4 Runways
-### 1.4.1 Runway physical characteristics
+### 1.4.1 Runway Physical Characteristics
 | Runway Designation   | True/Magnetic Bearing     | Dimensions (m)   |
 |:--------------------:|:-------------------------:|:----------------:|
 | 12R                  | 121° / 119°               | 4447 x 60        |
@@ -47,7 +47,7 @@
 | 30R                  | 301° / 299°               | 4351 x 60        |
 | 30L                  | 301° / 299°               | 4447 x 60        |
 
-### 1.4.2 Declared distances (take-off)
+### 1.4.2 Declared Distances (Take Off)
 <table><thead>
   <tr>
     <th>Runway</th>
@@ -147,7 +147,7 @@
   </tr>
 </tbody></table>
 
-### 1.4.3 Declared distances (landing)
+### 1.4.3 Declared Distances (Landing)
 | Runway | Landing Distance Available (at Threshold) |
 |:------:|:-----------------------------------------:|
 |   30L  |                   4315 m                  |
