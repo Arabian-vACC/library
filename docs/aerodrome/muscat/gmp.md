@@ -6,7 +6,7 @@ Where the flight plan contains an invalid route, level, or departure procedure, 
 
 GMP is also responsible for minimizing taxiway delays and taxiway congestion for departing aircraft. During times of increased departure activity, aircraft are held at the gate to save fuel and lessen taxiway congestion.
 
-## 3.2 Departure clearance
+## 3.2 Departure Clearance
 ### 3.2.1 General
 GMP is responsible for issuing clearances for departing aircraft. Pilots may be expected to report the following information on first contact: 
 
@@ -17,7 +17,7 @@ GMP is responsible for issuing clearances for departing aircraft. Pilots may be 
 - Destination;
 - Requested flight level;
 
-### 3.2.2 Information contained in a departure clearance
+### 3.2.2 Information Contained in a Departure Clearance
 An IFR clearance shall be in the following format:
 
 - Callsign;
@@ -27,9 +27,12 @@ An IFR clearance shall be in the following format:
 - Initially cleared altitude;
 - Assigned SSR code
 
+!!! note
+    Only the first part of the flight plan **from the end of the SID up to the exit point of the Muscat FIR** needs to be read in the clearance. General rules on the FIR exit points can be found in 3.5
+
 GMP shall obtain a full readback of the clearance. If the pilot does not report the current ATIS letter on first contact, GMP shall pass the current ATIS letter and QNH.
 
-Departing aircraft shall be instructed to remain on the delivery frequency and report ready to push before being handed off to GMC. This is so aircraft may be held at the gate, as per the procedures laid down in 2.6.
+Departing aircraft shall be instructed to remain on the delivery frequency and report ready to push before being handed off to GMC. This is so aircraft may be held at the gate as necessary for sequencing and flow management.
 
 !!! example
     **Pilot**: "Muscat Clearance Delivery, OMS735, Airbus A320 NEO, information R, stand 105, requesting FL310, to Hyderabad."
@@ -40,27 +43,27 @@ Departing aircraft shall be instructed to remain on the delivery frequency and r
 
     **Controller**: "OMS735, readback correct, QNH 1016, report ready for pushback."
 
-### 3.2.3 Datalink clearance (DCL)
-Muscat Aerodrome does not support the issuance of departure clearances via datalink (ACARS). All clearances shall be obtained through voice communication.
+!!! note
+    Muscat Aerodrome does not support the issuance of departure clearances via datalink (ACARS). All clearances shall be obtained through voice communication.
 
-### 3.2.4 Aircraft requiring a reroute
+### 3.2.3 Aircraft Requiring a Reroute
 Aircraft requiring a reroute shall be communicated through voice communication or via private message.
 
-### 3.2.5 Voice clearance
-Aircraft requesting clearance via voice shall be given a voice clearance as per the format in 3.2.2.
-
 ## 3.3 Departure Procedures
-### 3.3.1 RNAV Standard instrument departures
+### 3.3.1 RNAV Standard Instrument Departures
 Muscat has published RNAV Standard Instrument Departures (SIDs), which are the preferred departure procedures for IFR aircraft. However, as of the current publication, these RNAV SIDs are suspended due to ongoing aerodrome and airspace restructuring.
 
 In the interim, only four temporary SIDs are in use. As such, only the following SIDs shall be assigned:
 
+<figure markdown>
 | Runway |   SID   | Initial Climb |
 |:------:|:-------:|:-------------:|
 |   08L  | MURMA1N |    3,000 ft   |
 |   08R  |  S08R D |    3,000 ft   |
 |   26L  |  S26L D |    3,000 ft   |
 |   26R  | ITLAK1N |    3,000 ft   |
+  <figcaption>Table 3-1: SID Initial Climbs</figcaption>
+</figure>
 
 These temporary SIDs require aircraft to maintain runway heading on departure climbing to 3,000 feet. Departing aircraft can expect to receive radar vectors from Muscat Approach to join their filed airways.
 
@@ -69,7 +72,7 @@ In the absence of an online Approach controller, pilots are responsible for self
 !!! warning
     Runway 08R/26L is fully operational in the real world. However, in most simulator sceneries, this runway is either nonexistent or still under construction. Therefore, by default, this runway shall not be used and may only be assigned when requested by the pilot and confirmed to be available in their scenery.
 
-## 3.4 Rerouting aircraft
+## 3.4 Rerouting Aircraft
 An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 3-2. 
 
 Several routing restrictions exist within Muscat airspace and are detailed in the Oman Route Manual which must be complied with when issuing a departure clearance. 
@@ -81,6 +84,8 @@ The Arabian vACC Operations Department maintains an up-to-date route database on
 !!! example
     **Controller**: "OMS735, cleared to Hyderabad via the ITLAK1N departure, SEVLA - Q250 - KIPOL - N881 - RASKI, flight planned route. maintain altitude 3,000 ft, squawk 4701."
 
+## 3.5 Standard Routing
+<figure markdown>
 <table><thead>
   <tr>
     <th>Destination</th>
@@ -139,19 +144,21 @@ The Arabian vACC Operations Department maintains an up-to-date route database on
     <td>Z890 BUBAS</td>
   </tr>
 </tbody></table>
+  <figcaption>Table 3-2: Standard routings to exit the Muscat FIR</figcaption>
+</figure>
 
-## 3.5 Requested cruising level
-### 3.5.1 Level restrictions
+## 3.6 Requested Cruising Level
+### 3.6.1 Level Restrictions
 Aircraft routes out of the aerodrome must comply with all routing and level restrictions as described in section 3.1 of Arabian MATS P1, Arabian Route Manual and Table 3-2. This is based on direction and type of flight. 
 
 Should an aircraft file an invalid cruise level, GMP shall advise the aircraft of this when delivering the clearance. In all cases, the next lowest valid cruise level shall be assigned, and the aircraft advised.
 
-## 3.6 Runway change procedure
+## 3.7 Runway Change Procedure
 AIR shall provide ample notice to GMP before changing runway configuration. The last departure using the old configuration shall be coordinated between AIR, GMP, GMC and approach/departure. 
 
 Aircraft that have already been cleared to depart using the old configuration shall be re-cleared if they have not already requested pushback.
 
-## 3.8 VFR aircraft
+## 3.8 VFR Traffic
 VFR traffic clearances are managed by AIR at the holding point. When an aircraft first contacts the delivery frequency, it must provide the following information:
 
 - Callsign;
@@ -180,10 +187,10 @@ Upon handoff from the delivery controller, the Ground controller shall taxi the 
 
 Once the aircraft reaches the designated holding point, it shall be transferred to the Tower frequency, where the pilot will receive their VFR departure clearance.
 
-### 3.8.1 VFR departures into uncontrolled airspace
+### 3.8.1 VFR Departures into Uncontrolled Airspace
 VFR flight activity should be planned in accordance to published VFR charts, specifically the “**Muscat Visual Approach**” chart for VFR traffic navigating out of the Muscat CTR into neighbouring airspaces. GMP may use the appropriate charts as per the requirements of the pilot’s intentions in accordance with 3.7.1 and 3.7.2.
 
-### 3.7.1 VFR Departures into Controlled Airspace
+### 3.8.2 VFR Departures into Controlled Airspace
 VFR traffic shall be cleared via the most appropriate VFR route towards their destination. As Muscat Approach operates within the Muscat CTR (Class C), coordination with Muscat Approach is required when online for all VFR departures.
 
 All VFR departures shall initially be assigned a squawk code of 7000. Muscat Approach may issue a discrete squawk code for identification purposes if necessary.
@@ -197,7 +204,7 @@ All VFR departures shall initially be assigned a squawk code of 7000. Muscat App
 
       **Controller:** A4O-OAD, readback correct. QNH 1004, Report ready for departure.
 
-### 3.7.2 VFR Traffic Remaining in Circuit
+### 3.8.3 VFR Traffic Remaining in Circuit
 All VFR aircraft shall be instructed to conduct circuits to the north of the aerodrome (left-hand circuits for 08L and right-hand circuits for 26R) at an altitude of 1,000 ft.
 
 All VFR departures shall initially be assigned a squawk code of 7000. Muscat Tower may issue a discrete squawk code for identification purposes if necessary.
