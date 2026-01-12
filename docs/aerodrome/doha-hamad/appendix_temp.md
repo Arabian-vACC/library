@@ -89,7 +89,7 @@ Due to this temporary procedure:
 
 Aircraft departing from RWY 16R may continue to receive datalink clearances
 
-  !!! example
+!!! example
     **Pilot**: "Hamad Clearance Delivery, QTR1Y, Boeing 777-300ER, information A, stand C10, requesting FL210, to Dubai."
 
     **Controller**: "QTR1Y, Hamad Clearance Delivery, information A correct, cleared to Dubai via the ALSEM2M departure. When passing 500 ft, turn left heading 120 degrees, climb to altitude 4000ft, expect to rejoin assigned SID, squawk 0550."
