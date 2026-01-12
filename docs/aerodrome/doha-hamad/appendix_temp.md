@@ -70,7 +70,7 @@ When arriving 16L, pilots shall expect the temporary RNP T 16L approach as the I
 The last available vacate point for 16L is A2.
 
 #### 9.3.2.3 Departing Aircraft - 34R
-Departing traffic shall be instructed to hold short taxiway A1 on either B or C and GMC should hand off traffic at the earliest opportunity to AIR to allow for appropriate sequencing to take place.(MORE TO ADD)
+Departing traffic shall be instructed to hold short taxiway A1 on either B or C and GMC should hand off traffic at the earliest opportunity to AIR to allow for appropriate sequencing to take place.
 
 #### 9.3.2.4 Departing Aircraft - 16L
 RWY 16L departures shall be restricted to Medium aircraft (e.g. A320/B737) and Small categories departing via A6. This procedure is active from 15 JAN 2026 0000z until 16 APR 2026 2359z.
