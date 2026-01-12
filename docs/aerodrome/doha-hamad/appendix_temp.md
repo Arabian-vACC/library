@@ -57,3 +57,48 @@ When handed off to the relevant departure frequency, the appropriate controller 
 
 #### 9.3.1.3 ATIS Configuration
 The ATIS profile will be updated to reflect the changes in the 34R approach for all configurations.
+
+### 9.3.2 Phase 2
+#### 9.3.2.1 Arriving Aircraft - 34R
+When arriving 34R, pilots shall expect the temporary RNP T 34R approach which accommodates the displaced threshold. This procedure is active from 07 NOV 2025 0000z until 18 MAR 2026 2359z.
+
+The standard vacate point for RWY 34R has been amended to A9 as part of this procedure.
+
+#### 9.3.2.2 Arriving Aircraft - 16L
+When arriving 16L, pilots shall expect the temporary RNP T 16L approach as the ILS is unavailable.
+
+The last available vacate point for 16L is A2.
+
+#### 9.3.2.3 Departing Aircraft - 34R
+Departing traffic shall be instructed to hold short taxiway A1 on either B or C and GMC should hand off traffic at the earliest opportunity to AIR to allow for appropriate sequencing to take place.
+
+#### 9.3.2.4 Departing Aircraft - 16L
+RWY 16L departures shall be restricted to Medium aircraft (e.g. A320/B737) and Small categories departing via A6. This procedure is active from 15 JAN 2026 0000z until 16 APR 2026 2359z.
+Heavy and Super aircraft shall depart RWY 16R.
+
+Traffic cleared from RWY 16L shall be provided with their SID as normal, but additionally shall be issued the instruction:
+
+“Passing 500 ft, turn left heading 120 degrees, climb to altitude 4000 ft, expect to rejoin assigned SID.”
+
+This instruction constitutes a temporary change to the standard initial climb for all RWY 16L SIDs and remains in effect until 21 January at 23:59 UTC, after which standard SID procedures shall resume.
+
+Due to this temporary procedure:
+
+- Datalink clearances shall not be provided for RWY 16L.
+- Pilots shall be instructed to revert to voice.
+
+Aircraft departing from RWY 16R may continue to receive datalink clearances
+
+  !!! example
+    **Pilot**: "Hamad Clearance Delivery, QTR1Y, Boeing 777-300ER, information A, stand C10, requesting FL210, to Dubai."
+
+    **Controller**: "QTR1Y, Hamad Clearance Delivery, information A correct, cleared to Dubai via the ALSEM2M departure. When passing 500 ft, turn left heading 120 degrees, climb to altitude 4000ft, expect to rejoin assigned SID, squawk 0550."
+
+    **Pilot**: "Cleared to Dubai via the ALSEM2M departure, passing 500 ft, turn left heading 120 degrees, climb to altitude 4000ft, squawk 0550, QTR1Y."
+
+    **Controller**: "QTR1Y, readback correct, QNH 1012, report ready for pushback."
+
+When handed off to the relevant departure frequency, the appropriate controller will provide vectors to rejoin the SID.
+
+#### 9.3.2.5 ATIS Configuration
+The ATIS profile will be updated to reflect the changes in the 16L approach for all configurations.
