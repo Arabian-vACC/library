@@ -19,7 +19,7 @@ The appropriate Enhanced Wake Turbulence Separation (eWTS) minima shall always b
 
 ## 2.3 Dubai CTA Runway Configuration
 ### 2.3.1 Dubai (OMDB) and Sharjah (OMSJ)
-Due to the interactions between the departure and arrival procedures, the runway direction in the Dubai CTA is determined by the active runway configuration at Dubai International (OMDB). This means that Sharjah (OMSJ) shall always operate in the sane runway configuration as Dubai.
+Due to the interactions between the departure and arrival procedures, the runway direction in the Dubai CTA is determined by the active runway configuration at Dubai International (OMDB). This means that Sharjah (OMSJ) shall always operate in the same runway configuration as Dubai.
 
 ### 2.3.2 Al Maktoum (OMDW)
 Al Maktoum (OMDW) may operate in a runway configuration that is independent from Dubai and Sharjah.
