@@ -60,7 +60,6 @@ The ATIS profile will be updated to reflect the changes in the 34R approach for 
 
 ### 9.3.2 Phase 2
 #### 9.3.2.1 Arriving Aircraft - 34R
-When arriving 34R, pilots shall expect the temporary RNP T 34R approach which accommodates the displaced threshold. This procedure is active from 07 NOV 2025 0000z until 18 MAR 2026 2359z.
 
 The standard vacate point for RWY 34R has been amended to A9 as part of this procedure.
 
@@ -72,19 +71,26 @@ The last available vacate point for 16L is A2.
 #### 9.3.2.3 Departing Aircraft - 34R
 Departing traffic shall be instructed to hold short taxiway A1 on either B or C and GMC should hand off traffic at the earliest opportunity to AIR to allow for appropriate sequencing to take place.
 
-#### 9.3.2.4 Departing Aircraft - 16L
-RWY 16L departures shall be restricted to Medium aircraft (e.g. A320/B737) and Small categories departing via A6. This procedure is active from 15 JAN 2026 0000z until 16 APR 2026 2359z.
-Heavy and Super aircraft shall depart RWY 16R.
+Traffic cleared from RWY 34R shall be provided with their SID as normal, but additionally shall be issued the Temporary departure instruction 'ALVEMI 2' (AL2):
 
-Traffic cleared from RWY 16L shall be provided with their SID as normal, but additionally shall be issued the instruction:
+“Passing 500 ft, turn right heading 020 degrees, climb to altitude 4000 ft, expect to rejoin assigned SID.”
+
+This instruction constitutes a temporary change to the standard initial climb for all RWY 34R SIDs and remains in effect until 12 April at 23:59 UTC, after which standard SID procedures shall resume.
+
+#### 9.3.2.4 Departing Aircraft - 16L
+RWY 16L departures shall be advised to depart from A8/A9. This procedure is active from 15 January 2026 0000z until 12 APR 2026 2359z.
+
+A388 are NOT AUTHORIZED to line up via A8 and shall not be instructed to do so.
+
+Traffic cleared from RWY 16L shall be provided with their SID as normal, but additionally shall be issued the Temporary departure instruction 'TARVEX 2' (TA2):
 
 “Passing 500 ft, turn left heading 120 degrees, climb to altitude 4000 ft, expect to rejoin assigned SID.”
 
-This instruction constitutes a temporary change to the standard initial climb for all RWY 16L SIDs and remains in effect until 21 January at 23:59 UTC, after which standard SID procedures shall resume.
+This instruction constitutes a temporary change to the standard initial climb for all RWY 16L SIDs and remains in effect until 12 April at 23:59 UTC, after which standard SID procedures shall resume.
 
 Due to this temporary procedure:
 
-- Datalink clearances shall not be provided for RWY 16L.
+- Datalink clearances shall not be provided for RWY 34R/16L.
 - Pilots shall be instructed to revert to voice.
 
 Aircraft departing from RWY 16R may continue to receive datalink clearances
