@@ -12,7 +12,7 @@ Dubai has “standard departure points” from which pilots are expected to base
 <figure markdown>
 | Runway | Standard departure points |
 |:------:|:-------------------------:|
-|   30L  |          K15/M18A         |
+|   30L  |          K15A/M18A         |
 |   30R  |          M13/N8A          |
 |   12L  |          M1C/N1C          |
 |   12R  |             K5            |
