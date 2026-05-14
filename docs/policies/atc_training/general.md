@@ -8,11 +8,11 @@
 |                     |                                                    |
 |---------------------|----------------------------------------------------|
 |         Type        |                      Policy                        |
-|       Revision      |                      02/2025                       |
-|    Effective Date   |                     18 AUG 2025                    |
-|     Prepared by     | Chriss Klosowski - ACCARB1 & Suprojit Paul - ACCARB3 |
-|     Approved by     | Chriss Klosowski - ACCARB1                         |
-|   Next review date  |                       18 AUG 2026                  |
+|       Revision      |                      02/2026                       |
+|    Effective Date   |                     15 MAY 2026                    |
+|     Prepared by     | Ali Ismail - ARBEVT|
+|     Approved by     | Rohan Sturdy - ACCARB1                         |
+|   Next review date  |                       30 NOV 2026                  |
 | Cancelled documents |                   Arabian ATC TRP                  |
 
 ### Record of Revisions
@@ -22,6 +22,7 @@
 | 01/2025 | Complete rewrite of the Training Policy.<br>Introduction of a new Foundations section specifically for ATC students.<br>Definition and criteria for joining and maintaining position on the Waiting List added.<br>Controller activity requirements for all ratings (S1 and above) formalized in line with the Arabian vACC Membership Policy.<br>Clear definition of a Training Plan, including all prerequisites and enrolment criteria.<br>Increased emphasis on self-study and its critical role in training progress.<br>Full rewrite of the Solo Validations and Examinations sections for clarity and consistency.<br>Grading Criteria reviewed and refined for practical assessments.<br>Major updates to the ATC Training structure:<br>Removal of direct-entry Tier 1 endorsements.<br>Introduction of observer hour requirements.<br>Minimum 50-hour experience requirement before progressing to each higher rating.<br>Introduction and explanation of Training Facilities concept.<br>Split of Dubai Tier 1 endorsements into: DEL/GND (S1), TWR (S2), TMA (S3)<br>Preparatory groundwork laid for implementation of Tier 2 endorsements covering AFIS and Military operations. | 01 JUL 2025 |
 | 02/2025 | Implemented standardised process for Tier 1 training and rating re-instatement,<br>Updated grading sheet definitions | 18 AUG 2025 |
 | 03/2025 | Added clauses for easy referral | 18 AUG 2025 |
+| 02/2026 | <br> Updated the links in the policy to comply with the new website. <br> Rephrased the policy to redirect training with the new MENA HQ as Hayya is discontinued. <br> Updated standardised process for Tier 1 training. <br> Re-added Direct-entry Tier-1 endorsements. <br> Addition of a Public Training Tracker with detailed phases. <br>Added clauses for visiting. <br> Added Mentor Leave of Absence. <br> Changed the minimum hour requirement for Observers. <br>    | 09 MAY 2026 |
 
 # 1. Scope
 Welcome to the Arabian vACC ATC Training Policy. This document serves as a comprehensive guide for all aspiring and current controllers within the vACC. Whether you are just beginning your journey as a Student Controller or progressing toward Center positions, this policy will outline the expectations, procedures, and pathways that support your growth and success within the network.
@@ -48,17 +49,17 @@ Sector files for each FIR can be downloaded from the [AeroNav GNG website](https
 - [Muscat FIR (OOMM)](https://files.aero-nav.com/OOMM)
 - [Emirates FIR (OMAE)](https://files.aero-nav.com/OMAE)
 
-A detailed setup guide for installing Euroscope and the Arabian vACC sector files is available under the "Controller Software Setup" section of the [Arabian vACC Library](https://library.arabianvacc.com/foundations/).
+A detailed setup guide for installing Euroscope and the Arabian vACC sector files is available under the "Controller Software Setup" section of the [Arabian vACC Library](https://library.vatsim-arabian.com/getting_started/euroscope/).
 
 ### 2.2.2 Audio Client(s)
 To communicate with pilots while controlling on the network, you must install an approved Audio for VATSIM client. Supported options include [Audio for VATSIM](https://audio.vatsim.net/docs/atc/euroscope) and [TrackAudio](https://github.com/pierr3/TrackAudio/releases/tag/1.3.1).
 
-A step-by-step setup guide for these audio clients can be found in the "Controller Software Setup" section of the [Arabian vACC Library](https://library.arabianvacc.com/foundations/).
+A step-by-step setup guide for these audio clients can be found in the "Controller Software Setup" section of the [Arabian vACC Library](https://library.vatsim-arabian.com/getting_started/audio/).
 
 ### 2.2.3 vATIS Client
 To provide pilots with up-to-date aerodrome operational information, you will need the [vATIS Client](https://vatis.app/).
 
-A detailed setup guide for vATIS is available in the "Controller Software Setup" section of the [Arabian vACC Library](https://library.arabianvacc.com/foundations/).
+A detailed setup guide for vATIS is available in the "Controller Software Setup" section of the [Arabian vACC Library](https://library.vatsim-arabian.com/getting_started/vatis/).
 
 ### 2.2.4 Discord
 Discord serves as the primary communication platform for the Arabian vACC and is used for a range of purposes, including:
@@ -103,9 +104,78 @@ The calendar quarters are defined as follows:
 - **Quarter 3 (Q3) - 1st July to 30th September**
 - **Quarter 4 (Q4) - 1st October to 31st December**
 
+## 3.4 Public Training Tracker
+
+To ensure transparency in the training process, the Arabian vACC maintains a public training tracker which displays the current position of students within the training queue.
+
+The tracker allows members to monitor their relative position within the waiting list and understand their progression through the training phases.
+
+Positions within the tracker are determined based on the order in which eligible students request training and may be adjusted based on operational considerations, mentor availability, and student readiness.
+
+The [training tracker](https://docs.google.com/spreadsheets/d/15Ppl-6fRt3HN5VkWdnxtpe16XTiR1RgBqWlVgm9OfPQ/edit?gid=0#gid=0) is maintained by the ATC Training Department and is made public.
+
+!!! Note Callout
+    Placement within the tracker is generally determined on a first-come-first-served basis, subject to adjustments made by the ATC Training Department where operational requirements, mentor availability, or training readiness justify a deviation..
+
+
+## 3.5 Training Queue Phases
+To ensure fair allocation of training resources and maintain transparency in the training pipeline, the Arabian vACC operates a phased queue system for students awaiting and undergoing training.
+
+| Phase   | Rank       | Description     |
+| ------- | ---------- | --------------- |
+| Phase 1 | Rank 21+   | Wating List     |
+| Phase 2 | Rank 11–20 | Self-Study      |
+| Phase 3 | Rank 1-10  | Active Training |
+
+
+### 3.5.1 Phase 1 – Waiting List (Rank 21+ on the Public Training Tracker)
+
+Students in Phase 1 remain on the waiting list until training capacity becomes available.
+
+Students may monitor their position through the **Arabian vACC public training tracker**.
+
+**While on the waiting list, students are encouraged to:**
+
+- Observe controllers on the network
+
+- Review training materials and SOPs
+
+- Ensure their contact details remain up to date
+
+**Failure to respond to official communication within 72 hours may result in removal from the waiting list.**
+
+
+### 3.5.2 Phase  – Self-Study (Rank 11-20 on the Public Training Tracker)
+
+Students in Phase 2 are preparing for future practical training while awaiting placement in the Active Training phase.
+
+**During this phase students are expected to:**
+
+- Review the Arabian vACC Training Policy and all relevant local SOP documentation.
+
+- Complete any assigned Moodle theoretical modules where applicable.
+
+- Observe active controllers on the VATSIM network to become familiar with local procedures and phraseology.
+
+Phase 2 is intended to ensure that students are **well-prepared before entering active practical training.**
+
+Students in this phase may also be required to confirm or select their designated training aerodrome, subject to approval by the ATC Training Department.
+
+### 3.5.3 Phase  – Active Training (Rank 1-10 on the Public Training Tracker)
+
+**During this phase:**
+
+- A dedicated training thread or communication channel may be established for coordination with the assigned mentor.
+
+- Practical mentoring sessions are scheduled based on student availability and mentor availability.
+
+- Students are expected to maintain accurate availability on the Discord Training Threads/VATMENA HQ and respond promptly to session scheduling requests.
+
+The focus of this phase is **hands-on training, skill development, and direct mentor interaction.**
+
 # 4. Training Plan
 ## 4.1 Eligibility
-To be eligible for enrollment in a training plan on Hayya, students must meet the following criteria:
+To be eligible for enrollment in a training plan on the VATMENA HQ, students must meet the following criteria:
 
 - Be a **resident of the Arabian vACC** and in **good standing**.
 - Have successfully completed the **relevant divisional rating exam**.
@@ -139,17 +209,18 @@ Training may be conducted within any of the Arabian vACC's three FIRs, with the 
 - **Enroute (C1)**
     - Doha FIR (OTDF)
     - Muscat FIR (OOMS)
-    - Emirates FIR (OMAE)  
+    - Emirates FIR (OMAE)
+    
       - *Note: Controllers seeking Enroute training within the Emirates FIR must possess all Tier 1 endorsements. In the absence of these endorsements, if the member still wishes to do training in the Emirates FIR, training will be limited to the UAE South Sector, which excludes the Dubai CTA.*
 
 ## 4.3 Training Engagement and Availability Expectations
 ATC training within the Arabian vACC is a rigorous process. Given the high number of students and the limited number of available mentors and instructors, training resources must be used efficiently. To support this, members enrolled in a training plan are expected to demonstrate consistent engagement and flexibility.
 
 ### 4.3.1 Availability Requirements
-- **Maintaining Availability**: Students must keep their availability in Hayya up-to-date at all times while holding a position within a training plan.
-- **Active Session Requests**: An active session request in Hayya is required at all times. This allows mentors and instructors to identify and accept training opportunities efficiently.
+- **Maintaining Availability**: Students must keep their availability on the VATMENA HQ up-to-date at all times while holding a position within a training plan.
+- **Active Session Requests**: An active session request on the VATMENA HQ is required at all times. This allows mentors and instructors to identify and accept training opportunities efficiently.
 - **Diverse Availability**: Students should aim to provide a wide range of availability—including daytime, evenings, and weekends—where possible. As mentors and instructors may be located in different time zones, flexibility significantly increases the likelihood of receiving training sessions.
-- **Session Cancellations**: If a student needs to cancel a scheduled session or withdraw a session request, they must either remove their availability in Hayya or notify their mentor or instructor directly.
+- **Session Cancellations**: If a student needs to cancel a scheduled session or withdraw a session request, they must either remove their availability on the VATMENA HQ or notify their mentor or instructor directly.
 
 #### 4.3.2 Leave of Absence
 If a student is unable to participate in training for an extended period while enrolled in a training plan, they must notify the Arabian vACC ATC Training Department by submitting a support ticket via the Arabian vACC Discord server. Requests for a break will be reviewed on a case-by-case basis. The department will make every effort to accommodate personal circumstances, but clear communication is essential.
@@ -167,7 +238,7 @@ To increase the likelihood of receiving training sessions, students are strongly
 To ensure fairness to all students awaiting entry into a training plan, spots may be forfeited for reasons under the following conditions:
 
 - The member becomes **inactive on the Arabian vACC roster**.
-- The member **fails to maintain availability or submit a session request in Hayya within one week** of receiving a reminder.
+- The member **fails to maintain availability or submit a session request on the VATMENA HQ within one week** of receiving a reminder.
 - The member **fails to maintain availability or submit a session request after receiving three consecutive reminders**.
 - The member **fails to attend three scheduled mentoring sessions** without prior notice (“no-shows”).
 
@@ -181,6 +252,18 @@ The ATC Training Department Director reserves the right to remove a member from 
 
 All forfeiture decisions will be made in alignment with the broader goals of maintaining fairness, efficiency, and high standards across the training program.
 
+### 4.4.2 Queue Phase Adjustments
+
+**To ensure efficient use of training resources, the following adjustments to queue phases may occur:**
+
+- If a student in Phase 1 (Active Training) is unable to provide availability for a period exceeding one week, the student may be moved to Phase 2 (Self-Study) until availability resumes.
+
+- If the student does not resume availability within a further two weeks, the student may be moved to Phase 3 (Waiting List).
+
+- Students returning from Phase 2 or Phase 3 will be reinserted into the queue based on availability and training capacity.
+
+These measures ensure that available training slots are allocated to students who are actively able to participate in training.
+
 # 5. Self-Study
 Students are expected to engage with the theoretical content provided in the [Arabian vACC Library](https://library.arabianvacc.com) outside of their scheduled mentoring sessions. This includes, but is not limited to, reviewing assigned readings, practicing relevant skills, and deepening their understanding of core concepts. Mentors and instructors may also suggest additional resources or encourage observation of experienced controllers.
 
@@ -193,6 +276,12 @@ In aviation, there are no "stupid" questions—it's always better to ask than to
 
 # 7. Attending a Mentoring Session
 Mentoring sessions will be conducted via the [Arabian vACC Discord Server](https://community.vatsim.net/), which offers the ability to use screen-sharing when necessary. Students should join the waiting room promptly, fully prepared with their controlling software configured and any necessary resources at hand, ready to begin the session as soon as their mentor or instructor moves them into the training room.
+
+## 7.1 Mentor Leave of Absence
+
+Mentors who are unable to accept students or conduct mentoring sessions for a period of two to three weeks are encouraged to notify the ATC Training Department and request a **Leave of Absence (LoA)**.
+
+Mentors who remain unavailable for a period exceeding **two months** may be temporarily removed from the active mentor roster. Mentors may be reinstated once they confirm their availability to resume mentoring duties.
 
 !!! info
     Due to local regulations in the U.A.E, where VOIP services like Discord are blocked, students residing in the U.A.E will not be able to conduct their sessions through Discord. In such cases, an alternative communication platform may be used, subject to agreement between the student and their mentor or instructor. While it is possible to use a VPN to bypass these restrictions, the Arabian vACC does not support or endorse the use of VPNs.
@@ -289,7 +378,7 @@ Observers within the Arabian vACC who hold an S1 rating are eligible to request 
 Before an observer is eligible to progress towards their S1 rating, they must meet the following requirements:
 
 - Be **an Arabian vACC Resident**.
-- Have accumulated a **minimum of 25 hours** observing in the Arabian vACC.
+- Have accumulated a **minimum of 30 hours** observing in the Arabian vACC.
 
 Observers who meet all of the above requirements must submit a support ticket to the Arabian vACC ATC Training Department to express their interest in progressing to the S1 rating. They will then be added to the waiting list.
 
@@ -403,11 +492,11 @@ Before a controller is eligible to complete a Tier 1 Dubai endorsement, they mus
 
 Additional requirements based on the endorsement being pursued:
 
-- **Dubai DEL/GND** – Minimum of 25 hours on the S1 rating  
-- **Dubai TWR** – Minimum of 25 hours on the S2 rating  
-- **Dubai TMA** – Minimum of 35 hours on the S3 rating  
+- **Dubai DEL/GND** – Minimum of 30 hours on the S1 rating  
+- **Dubai TWR** – Minimum of 30 hours on the S2 rating  
+- **Dubai TMA** – Minimum of 30 hours on the S3 rating  
 
-| Inadmissable hours | Description |
+| Inadmissable Hours | Description |
 |---------------------------|--------------|
 | **Sandbagged Hours** | Hours on low-traffic stations or sessions with low to no traffic can be deemed inadmissible towards the Tier 1 endorsement by the handling staff member. |
 | **Short Sessions** | Any session below 30 minutes is inadmissable towards the T1 endorsement. |
@@ -451,11 +540,11 @@ Practical training will be as follows:
 - One practical assessment session online on the network where the student is graded on an assessment scoresheet
 
 ### 12.6.8 Granting of Tier 1 Approvals
-After successfully completing the practical phase and once a mentor or instructor is satisfied with the controller's performance such that the student is deemed "Competent", the endorsement will be added to the controller's profile on Hayya.
+After successfully completing the practical phase and once a mentor or instructor is satisfied with the controller's performance such that the student is deemed "Competent", the endorsement will be added to the controller's profile on the VATMENA HQ.
 
 At any point, if the controller fails to meet the required level of competency during the practical assessment, they will be deemed "Not Yet Competent" and they must reapply for Tier 1 approvals **after a minimum of 30 days from the day of the assessment**.
 
-Controllers are not permitted to connect on any Dubai positions until the endorsement is visible on the controller roster on Hayya.
+Controllers are not permitted to connect on any Dubai positions until the endorsement is visible on the controller roster on the VATMENA HQ.
 
 ### 12.6.9 Endorsement Flow Chart
 <figure markdown>
@@ -491,7 +580,7 @@ Access to the theoretical examination will only be granted once the controller h
 
 Upon successful completion of the theoretical examination, the controller must submit a support ticket to the Arabian vACC ATC Training Department confirming they have passed and completed the theoretical examination. Once the department has verified the result, the AFIS endorsement will be added to the controller's profile.
 
-Controllers are not permitted to connect on any AFIS positions until the endorsement is visible on the controller roster on Hayya.
+Controllers are not permitted to connect on any AFIS positions until the endorsement is visible on the controller roster on the VATMENA HQ.
 
 ## 12.8 Military
 All military positions within the Arabian vACC, located in the Doha (OTDF), Muscat (OOMM), and U.A.E (OMAE) FIRs, are classified as Tier 2 positions under the GCAP policy.
@@ -527,20 +616,51 @@ Access to the theoretical examination will only be granted once the controller h
 
 Upon successful completion of the theoretical examination, the controller must submit a support ticket to the Arabian vACC ATC Training Department confirming they have passed the assessment. Once the department has verified the result, the military endorsement will be added to the controller's profile.
 
-Controllers are not permitted to connect on any military positions until the endorsement is visible on their controller roster in Hayya.
+Controllers are not permitted to connect on any military positions until the endorsement is visible on their controller roster in the VATMENA HQ.
+
+## 12.9 Visiting Controller Induction
+
+Controllers visiting the Arabian vACC are processed through a simplified queue structure designed to verify familiarity with local procedures.
+
+To ensure visiting controllers develop adequate familiarity with regional procedures, a structured progression pathway is implemented. Visiting controllers are required to gain operational experience across Arabian vACC FIRs in a sequential manner before accessing higher complexity environments.
+
+The progression path is defined as follows in the order shown:
+
+- One airport within Muscat FIR (OOMM) or Doha/Emirates FIR (OTDF/OMAE) – Up to 10 hours (excluding Dubai FIR).
+- A second different airport within Muscat FIR (OOMM) or Doha/Emirates FIR (OTDF/OMAE) – Up to 10 hours (excluding Dubai FIR).
+- Dubai FIR (OMDB) – Eligibility of Tier-1 is granted upon completion of the above.
+
+All required hours must be completed on active controlling positions within the Arabian vACC and may be reviewed by the ATC Training Department for validity.
+
+The visiting controller queue operates as follows:
+
+| Phase           | Sequence | Description               |
+| --------------- | -------- | ------------------------- |
+| Active Training | 1–5      | Practical familiarisation |
+| Waiting List    | 6+       | Awaiting availability     |
+
+During the Active Training phase, visiting controllers may be scheduled for a familiarisation session with a mentor or instructor to verify their understanding of Arabian vACC procedures and phraseology.
+
+Controllers requesting authorization for Tier 1 positions (e.g., Dubai OMDB) are required to complete additional competency checks in accordance with the Tier 1 endorsement program.
+
+Visitors requesting non-Tier 1 positions may receive controlling authorization following a successful familiarisation session.
+
+Exceptions to the visiting controller progression pathway may only be granted by the Arabian vACC Director or the ATC Training Director.
+
+In the absence of these roles, exception requests must be submitted to and approved by the VATMENA Board.
 
 # 13. Reinstatement to Roster
 ## 13.1 Unrestricted Positions
 A controller may be reinstated to the controller roster for all **unrestricted positions** (i.e. all positions except those defined as Tier 1) after roster removal subject to the following requirements:
 
-- The controller reads and acknowledges all necessary SOP documents that are applicable to their rating
-- The controller completes one familiarisation session with an Arbain vACC Mentor approved to instruct up the applicant's rating
+- The controller reads and acknowledges all necessary SOP documents that are applicable to their rating.
+- The controller completes at least one familiarisation session with an Arabain vACC Mentor approved to mentor up to the applicant's rating.
 
 ## 13.2 Tier 1 Positions
 A controller may be reinstated to the controller roster for **Tier 1 positions** after roster removal subject to the following requirements:
 
-- The controller is in good standing and does not have any adverse feedback against them
-- The controller reads and acknowledges all necessary SOP documents that are applicable to the Tier 1 position
+- The controller is in good standing and does not have any adverse feedback against them.
+- The controller reads and acknowledges all necessary SOP documents that are applicable to the Tier 1 position.
 - The controller demonstrates acceptable competency in a **practical assessment session** on the online network. At the discretion of the instructor, this may be a fully top-down assessment.
 
 If the controller is deemed "Competent" during the assessment, Tier 1 approvals will be reinstated. In case the controller is deemed "Not Yet Competent" they must reapply for Tier 1 approvals **after a minimum of 30 days from the day of the assessment**.
