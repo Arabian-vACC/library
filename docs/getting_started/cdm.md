@@ -48,8 +48,7 @@ During a controller handover, the current master (old controller) will change to
 | `.cdm lvo`                                         | Toggle LVP's on or off.                                                                     |
 | `.cdm recover {airport}`                           | In case of CTD (crashed to desktop), it tries to recover the latest time status backed up in the server.      |
 | `.cdm help`                                        | Sends a message with the available commands.                                                |
-cd "c:\Users\Ibrah\Downloads\library-master\library-master"
-.\.venv\Scripts\python.exe -m mkdocs serve
+
 ## Functions and Colours
 
 ### TOBT
