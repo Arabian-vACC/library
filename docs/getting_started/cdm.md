@@ -15,7 +15,9 @@ CDM (Collaborative Decision Making), manages demand and capacity across the netw
 | `TSAC`      | Target Start-Up Approval Communicated|
 | `ASAT`      | Actual Start-Up Approval Time        |
 | `ASRT`      | Actual Start-Up Request Time         |
+| `TTOT`      | Target Take Off Time                 |  
 | `CTOT`      | Calculated Take Off Time             |
+
 
 ### Activating CDM
 1. The plugin is split into 2 roles, "master" and "slave". The "master" should be the lowest ATC position, usually delivery.
@@ -35,12 +37,13 @@ CDM (Collaborative Decision Making), manages demand and capacity across the netw
 
 ### Controller Change
 
-During a controller handover, the current master (old controller) will change to a slave using `.cdm slave {airport}`, the new controller will then use the `.cdm master {airport}` command to become the new master.
+During a controller handover, the current master (old controller) will change to a slave using `.cdm slave {airport}`, the new controller will then use the `.cdm master {airport}` command to become the new master. Once the new master has done this, the new controller will also need to run the `.cdm resetmaster {airport}` command.
 
 ## Commands
 
 | Command                                            | Description                                                                                 |
 | :------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| `.cdm resetmaster {airport}`                       | Resets the master for the new controller                                                    |
 | `.cdm refresh`                                     | Force the refresh phase to do it now.                                                       |
 | `.cdm master {airport}`                            | Become the master of the selected airport.                                                  |
 | `.cdm slave {airport}`                             | Turn back to slave of the selected airport.                                                 |
@@ -96,11 +99,11 @@ Shows the status from the CDM Network
 
 ### Delivery (DEL)
 
-When CDM is in use, pilot's should call for clearance as normal, however DEL should inform the pilot of their CTOT.
+When CDM is in use, pilot's should call for clearance as normal, however DEL should inform the pilot of their TSAT.
 
 !!! info "Phraseology"
 
-    UAE101, readback correct, QNH 1001 information A is current, CTOT 1203
+    UAE101, readback correct, QNH 1001 information A is current, TSAT 1203
 
 
 When the pilot calls for start, the master should left click the TOBT column to generate timings (if not already there).
@@ -114,7 +117,7 @@ If the aircraft calls prior to the ±5 minute window, shown in a ![Light Green](
 
 !!! info "Phraseology"
 
-    UAE101, CTOT 1203, hold position
+    UAE101, TSAT 1203, hold position
 
 !!! warning
 
