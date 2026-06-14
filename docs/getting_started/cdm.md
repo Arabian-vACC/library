@@ -151,7 +151,7 @@ Pilots are able to submit their own slot (TOBT) time through [vats.im/vdgs](http
      If there TOBT/TSAT is showing white, it just means that they have pushed regardless of whether it was on time or not.
 
 ??? Question: "Do pilots NEED to submit their TOBT via the link?"
-     The answer is NO! If the aerodrome is quiet and it won't affect you, when they call for push, just follow procedures and left click the TOBT column to add their timings and you can push them!
+     No. If traffic at the aerodrome is light and it won’t cause any delays, you can manage this manually. When the pilot requests pushback, simply follow standard procedures, left-click the TOBT column to input their timings, and approve the pushback. 
      
 
 ---
