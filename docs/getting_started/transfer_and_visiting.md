@@ -26,7 +26,6 @@ This ensures compliance with both global and regional procedures.
 
 The **Arabian vACC** is part of the **Middle East & North Africa Division (VATMENA)** and includes the following **three FIRs**:
 
-- **Doha FIR**
 - **Muscat FIR**
 - **U.A.E FIR**
 

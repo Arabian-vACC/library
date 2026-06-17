@@ -69,10 +69,8 @@ To solve this:
 
 - ✅ Muscat TMA SOP – Fully completed  
 - ✅ Muscat Aerodrome SOP  
-- ✅ Hamad Aerodrome SOP  
 - ✅ Abu Dhabi Aerodrome SOP (TMA still in progress)  
 - ✅ Sharjah Aerodrome SOP  
-- ⏳ Doha TMA SOP – Near completion  
 - ⏳ Abu Dhabi TMA SOP – In progress  
 
 ---
@@ -101,7 +99,7 @@ For those going **OBS → S1**, the majority of the work is now in your hands wi
   👉 [Getting Started, vATIS](https://library.arabianvacc.com/getting_started/vatis/)
 
 - **vATIS Update Requirement:**  
-  All controllers must update their vATIS client, refresh their profiles to the latest automatic ones: 👉 [Arabian vACC, vATIS Profiles](https://github.com/Arabian-vACC/vATIS-Profiles/releases) and ensure correct **Airport Conditions & NOTAMs** are selected (*looking at you, Hamad controllers – “HIRO INFORCE”*).  
+  All controllers must update their vATIS client, refresh their profiles to the latest automatic ones: 👉 [Arabian vACC, vATIS Profiles](https://github.com/Arabian-vACC/vATIS-Profiles/releases) and ensure correct **Airport Conditions & NOTAMs** are selected.  
 
 - **Controller Operations Policy:**  
   👉 [Controller Operations Policy](https://library.arabianvacc.com/policies/atc_operations/controller_operations_policy/)<br>Covers connection procedures, minimum session time, Discord presence, relief callsigns, and more.  
