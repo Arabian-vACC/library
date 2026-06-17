@@ -10,7 +10,7 @@ At Ras Al Khaimah the prefered runway configuration is RWY34 which may be utiliz
 
 ## 4.3 Departure procedures
 ### 4.3.1 Standard departure points
-At Ras Al Khaimah full length is usally used with the aiorcvrfat backtarckign the active runway. However some light acrft may be able to depart from S or N.  
+At Ras Al Khaimah full length is usally used with the aircraft backtracking the active runway. However some light aircraft may be able to depart from S or N.  
 
 ### 4.3.2 Line up and Backtrack clearances
 Aircraft that have reached the runway holding points for departure shall be told to backtrack line-up once the runway is vacant and there is room to maneuver the aircraft onto the runway.
