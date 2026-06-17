@@ -15,7 +15,9 @@ CDM (Collaborative Decision Making), manages demand and capacity across the netw
 | `TSAC`      | Target Start-Up Approval Communicated|
 | `ASAT`      | Actual Start-Up Approval Time        |
 | `ASRT`      | Actual Start-Up Request Time         |
+| `TTOT`      | Target Take Off Time                 |  
 | `CTOT`      | Calculated Take Off Time             |
+
 
 ### Activating CDM
 1. The plugin is split into 2 roles, "master" and "slave". The "master" should be the lowest ATC position, usually delivery.
@@ -35,12 +37,13 @@ CDM (Collaborative Decision Making), manages demand and capacity across the netw
 
 ### Controller Change
 
-During a controller handover, the current master (old controller) will change to a slave using `.cdm slave {airport}`, the new controller will then use the `.cdm master {airport}` command to become the new master.
+During a controller handover, the current master (old controller) will change to a slave using `.cdm slave {airport}`, the new controller will then use the `.cdm master {airport}` command to become the new master. Once the new master has done this, the new controller will also need to run the `.cdm resetmaster {airport}` command.
 
 ## Commands
 
 | Command                                            | Description                                                                                 |
 | :------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| `.cdm resetmaster {airport}`                       | Resets the master for the new controller                                                    |
 | `.cdm refresh`                                     | Force the refresh phase to do it now.                                                       |
 | `.cdm master {airport}`                            | Become the master of the selected airport.                                                  |
 | `.cdm slave {airport}`                             | Turn back to slave of the selected airport.                                                 |
@@ -96,11 +99,11 @@ Shows the status from the CDM Network
 
 ### Delivery (DEL)
 
-When CDM is in use, pilot's should call for clearance as normal, however DEL should inform the pilot of their CTOT.
+When CDM is in use, pilot's should call for clearance as normal, however DEL should inform the pilot of their TSAT.
 
 !!! info "Phraseology"
 
-    UAE101, readback correct, QNH 1001 information A is current, CTOT 1203
+    UAE101, readback correct, QNH 1001 information A is current, TSAT 1203
 
 
 When the pilot calls for start, the master should left click the TOBT column to generate timings (if not already there).
@@ -114,7 +117,7 @@ If the aircraft calls prior to the ±5 minute window, shown in a ![Light Green](
 
 !!! info "Phraseology"
 
-    UAE101, CTOT 1203, hold position
+    UAE101, TSAT 1203, hold position
 
 !!! warning
 
@@ -139,5 +142,16 @@ The AIR controller should make use of the TTOT/CTOT timings to determine the dep
 ## Pilot Submitted TOBT
 
 Pilots are able to submit their own slot (TOBT) time through [vats.im/vdgs](https://vats.im/vdgs). Through this system, pilots are able to manually input their TOBT and view their TTOT/CTOT among other information.
+
+## Frequently Asked Questions
+??? Question: "What is the difference between TOBT and TSAT?"
+     TOBT is the time the pilot would like to push without delays or traffic taken into consideration. TSAT includes all of this, the time the pilot would like to push added with delays, SID intervals as well as traffic around the Gulf.
+
+??? Question: "Does white mean they have pushed on time?"
+     If there TOBT/TSAT is showing white, it just means that they have pushed regardless of whether it was on time or not.
+
+??? Question: "Do pilots NEED to submit their TOBT via the link?"
+     No. If traffic at the aerodrome is light and it won’t cause any delays, you can manage this manually. When the pilot requests pushback, simply follow standard procedures, left-click the TOBT column to input their timings, and approve the pushback. 
+     
 
 ---
