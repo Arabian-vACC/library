@@ -187,7 +187,7 @@ Enter the CTR via MOR maintaining 500 FT. After MOR, route INT, SEF, and IZB to 
   <figcaption>Table 1-2: Helicopters arriving and departing OTBD.</figcaption>
 </figure>
 
-![VFR Helicopter Route Chart](../img/Helicopter Route Chart.png)
+![VFR Helicopter Route Chart](../../../../docs/pilots/img/Helicopter%20Route%20Chart.png)
 
 #### VFR Civil Fixed Wing Aircraft Operations
 ##### Visual Reporting Points
