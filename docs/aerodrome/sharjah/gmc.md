@@ -15,7 +15,7 @@ Aircraft requesting pushback that are not squawking their assigned transponder c
 | 1A, 1B, 1C |    Z14    |    North    |
 |  9 to 11   |    Z11    |    North    |
 |  13 to 18  |    Z10    |    North    |
-|  21 to 26  |    Z10    |    North    |
+|  21 to 26  |    Z9   |    North    |
 |  50 to 61  |    Z8     |    North    |
 |   2 to 8   |     A     |    East     |
 
