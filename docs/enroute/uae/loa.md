@@ -4,8 +4,8 @@ Letters of Agreement (LoAs) are formal documents established between adjacent FI
 
 The following Letters of Agreement are available:
 
-- [U.A.E & Doha FIR](https://drive.google.com/file/d/1AynmymjWrinCSVr6mJ4aq-wk0LlRZMNi/view?usp=sharing)
-- [U.A.E & Bahrain FIR](https://drive.google.com/file/d/1AynmymjWrinCSVr6mJ4aq-wk0LlRZMNi/view?usp=sharing)
+- [🔗 U.A.E & Doha FIR](Arabian Letter of Agreement Khaleej.pdf "Opens in new tab"){target="_blank"}
+- [🔗 U.A.E & Bahrain FIR](Arabian Letter of Agreement Khaleej.pdf "Opens in new tab"){target="_blank"}
 - U.A.E & Muscat FIR  (soon™)
 - U.A.E & Jeddah FIR  (soon™)
 - U.A.E & Tehran FIR  (soon™)
