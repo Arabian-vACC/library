@@ -1,8 +1,8 @@
 title: Policies
 nav:
     - Overview: index.md
-    - ATC Training Department: atc_training
-    - ATC Operations Department: atc_operations
-    - Marketing Department: marketing
-    - Membership Department: membership
-    - Technical Department: technical
+    - ATC Training Department: atc_training/
+    - ATC Operations Department: atc_operations/
+    - Marketing Department: marketing/
+    - Membership Department: membership/
+    - Technical Department: technical/

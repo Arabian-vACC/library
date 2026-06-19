@@ -10,7 +10,7 @@
 |         Type        |                      Policy                        |
 |       Revision      |                      02/2026                       |
 |    Effective Date   |                     15 MAY 2026                    |
-|     Prepared by     | Ali Ismail - ARBEVT|
+|     Prepared by     | Ali Ismail - ARB5|
 |     Approved by     | Rohan Sturdy - ACCARB1                         |
 |   Next review date  |                       30 NOV 2026                  |
 | Cancelled documents |                   Arabian ATC TRP                  |
@@ -22,7 +22,7 @@
 | 01/2025 | Complete rewrite of the Training Policy.<br>Introduction of a new Foundations section specifically for ATC students.<br>Definition and criteria for joining and maintaining position on the Waiting List added.<br>Controller activity requirements for all ratings (S1 and above) formalized in line with the Arabian vACC Membership Policy.<br>Clear definition of a Training Plan, including all prerequisites and enrolment criteria.<br>Increased emphasis on self-study and its critical role in training progress.<br>Full rewrite of the Solo Validations and Examinations sections for clarity and consistency.<br>Grading Criteria reviewed and refined for practical assessments.<br>Major updates to the ATC Training structure:<br>Removal of direct-entry Tier 1 endorsements.<br>Introduction of observer hour requirements.<br>Minimum 50-hour experience requirement before progressing to each higher rating.<br>Introduction and explanation of Training Facilities concept.<br>Split of Dubai Tier 1 endorsements into: DEL/GND (S1), TWR (S2), TMA (S3)<br>Preparatory groundwork laid for implementation of Tier 2 endorsements covering AFIS and Military operations. | 01 JUL 2025 |
 | 02/2025 | Implemented standardised process for Tier 1 training and rating re-instatement,<br>Updated grading sheet definitions | 18 AUG 2025 |
 | 03/2025 | Added clauses for easy referral | 18 AUG 2025 |
-| 02/2026 | <br> Updated the links in the policy to comply with the new website. <br> Rephrased the policy to redirect training with the new MENA HQ as Hayya is discontinued. <br> Updated standardised process for Tier 1 training. <br> Re-added Direct-entry Tier-1 endorsements. <br> Addition of a Public Training Tracker with detailed phases. <br>Added clauses for visiting. <br> Added Mentor Leave of Absence. <br> Changed the minimum hour requirement for Observers. <br>    | 09 MAY 2026 |
+| 02/2026 | <br> Updated the links in the policy to comply with the new website. <br> Rephrased the policy to redirect training with the new MENA HQ as Hayya is discontinued. <br> Updated standardised process for Tier 1 training. <br> Re-added Direct-entry Tier-1 endorsements. <br> Addition of a Public Training Tracker with detailed phases. <br>Added clauses for visiting. <br> Added Mentor Leave of Absence. <br> Changed the minimum hour requirement for Observers. <br> Removed Section 12.8 Military until such endorsement are given to the FIRs   | 21 JUN 2026 |
 
 # 1. Scope
 Welcome to the Arabian vACC ATC Training Policy. This document serves as a comprehensive guide for all aspiring and current controllers within the vACC. Whether you are just beginning your journey as a Student Controller or progressing toward Center positions, this policy will outline the expectations, procedures, and pathways that support your growth and success within the network.
@@ -546,19 +546,6 @@ At any point, if the controller fails to meet the required level of competency d
 
 Controllers are not permitted to connect on any Dubai positions until the endorsement is visible on the controller roster on the VATMENA HQ.
 
-### 12.6.9 Endorsement Flow Chart
-<figure markdown>
-![Dubai Tier-1 DEL/GND Endorsement Flow](img/tier1_dubai_delgnd_flow.png)
-</figure>
-
-<figure markdown>
-![Dubai Tier-1 TWR Endorsement Flow](img/tier1_dubai_twr_flow.png)
-</figure>
-
-<figure markdown>
-![Dubai Tier-1 TMA Endorsement Flow](img/tier1_dubai_tma_flow.png)
-</figure>
-
 ## 12.7 AFIS
 All Aerodrome Flight Information Service (AFIS) positions within the Arabian vACC, located in the Doha (OTDF), Muscat (OOMM), and U.A.E (OMAE) FIRs, are classified as Tier 2 positions under the GCAP policy.
 
@@ -582,43 +569,7 @@ Upon successful completion of the theoretical examination, the controller must s
 
 Controllers are not permitted to connect on any AFIS positions until the endorsement is visible on the controller roster on the VATMENA HQ.
 
-## 12.8 Military
-All military positions within the Arabian vACC, located in the Doha (OTDF), Muscat (OOMM), and U.A.E (OMAE) FIRs, are classified as Tier 2 positions under the GCAP policy.
-
-As such, controllers must obtain a dedicated Tier 2 military endorsement before they are authorized to control any military position within these FIRs. This endorsement confirms that the controller has demonstrated the necessary knowledge and operational competence to manage military traffic in accordance with established procedures and standards.
-
-The following military-specific endorsements are available:
-
-- **Military TWR** – For controllers holding an S2 rating  
-- **Military APP** – For controllers holding an S3 rating  
-- **Military CTR** – For controllers holding a C1 rating  
-
-### 12.8.1 Eligibility
-Before a controller is eligible to complete a Tier 2 military endorsement, they must meet the following requirements:
-
-- Be **active on the Arabian vACC Controller Roster**  
-- Have **no significant negative feedback** on record
-
-Additional requirements based on the endorsement being pursued:
-
-- **Military TWR** – Minimum of 50 hours on the S2 rating  
-- **Military APP** – Minimum of 50 hours on the S2 rating  
-- **Military CTR** – Minimum of 50 hours on the C1 rating  
-
-If controllers have met all the requirements listed above, they must submit a support ticket to the Arabian vACC ATC Training Department to express their interest in obtaining the military endorsement. 
-
-If a controller applies for a TWR endorsement and later obtains their S2 rating, they will need to go through the same process again to obtain the next Tier 2 military endorsement for APP. Similarly, controllers holding a C1 rating and seeking the Tier 2 military endorsement for CTR will need to follow the same process.
-
-### 12.8.2 Theoretical Course & Examination
-The theoretical course for military operations is available through the [Arabian vACC Moodle](https://moodle.arabianvacc.com) platform. This course contains all essential materials required to understand and operate military positions effectively within the Arabian vACC.
-
-Access to the theoretical examination will only be granted once the controller has met all eligibility criteria outlined above and has formally requested access.
-
-Upon successful completion of the theoretical examination, the controller must submit a support ticket to the Arabian vACC ATC Training Department confirming they have passed the assessment. Once the department has verified the result, the military endorsement will be added to the controller's profile.
-
-Controllers are not permitted to connect on any military positions until the endorsement is visible on their controller roster in the VATMENA HQ.
-
-## 12.9 Visiting Controller Induction
+## 12.8 Visiting Controller Induction
 
 Controllers visiting the Arabian vACC are processed through a simplified queue structure designed to verify familiarity with local procedures.
 

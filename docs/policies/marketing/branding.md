@@ -69,17 +69,17 @@ The logo was designed by **Naman Gaur (1506377)** following the merger of the **
 The white color suggests neutrality, simplicity, and versatility, providing high contrast on darker backgrounds and making the logo adaptable for various digital and print applications. Chrome yellow represents the desert, optimism, and energy, aligning with the vACC’s hashtags: #clearmission & #clearvision
 
 <figure markdown>
-![Arabian vACC - Logos](../img/arbvacc_logo_contrast.jpg)
+![Arabian vACC - Logos](img/arbvacc_logo_contrast.jpg)
 </figure>
 
 ### Color Palette
 <figure markdown>
-![Arabian vACC - Color Palette](../img/arbvacc_color_palette.png)
+![Arabian vACC - Color Palette](img/arbvacc_color_palette.png)
 </figure>
 
 ### Logo Guidelines
 The logo may be used in either its **positive** or **negative** variant, depending on the background. There are also **all-black** and **all-white** variants available, intended for **special cases only**.
 
 <figure markdown>
-![Arabian vACC - Color Palette](../img/arbvacc_logo_guidelines.jpg)
+![Arabian vACC - Color Palette](img/arbvacc_logo_guidelines.jpg)
 </figure>
