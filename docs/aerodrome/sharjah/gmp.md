@@ -283,7 +283,7 @@ VFR traffic wishing to remain in the circuit shall be cleared only after prior c
 
 As per possible restrictions mentioned in 2.8, VFR traffic may be encouraged to carry out circuits at neighbouring aerodromes such as OMDW, and OMRK during periods of increased IFR activity and due to restrictions to aircraft type. GMC must coordinate with AIR control and Arrivals/Departures control in such cases and relay the information to the pilot in accordance with 2.7.1 or 2.7.2.
 
-VFR circuits shall not be permitted out of OMSB if any of the aforementioned restrictions from AIR and Approach/Departure control is in effect. 
+VFR circuits shall not be permitted out of OMSJ if any of the aforementioned restrictions from AIR and Approach/Departure control is in effect. 
 
 All VFR circuit traffic shall be assigned a discrete SSR code so that they may be identified on radar.
 
