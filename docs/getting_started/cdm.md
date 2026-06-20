@@ -144,13 +144,13 @@ The AIR controller should make use of the TTOT/CTOT timings to determine the dep
 Pilots are able to submit their own slot (TOBT) time through [vats.im/vdgs](https://vats.im/vdgs). Through this system, pilots are able to manually input their TOBT and view their TTOT/CTOT among other information.
 
 ## Frequently Asked Questions
-??? Question: "What is the difference between TOBT and TSAT?"
+??? Question "What is the difference between TOBT and TSAT?"
      TOBT is the time the pilot would like to push without delays or traffic taken into consideration. TSAT includes all of this, the time the pilot would like to push added with delays, SID intervals as well as traffic around the Gulf.
 
-??? Question: "Does white mean they have pushed on time?"
+??? Question "Does white mean they have pushed on time?"
      If there TOBT/TSAT is showing white, it just means that they have pushed regardless of whether it was on time or not.
 
-??? Question: "Do pilots NEED to submit their TOBT via the link?"
+??? Question "Do pilots NEED to submit their TOBT via the link?"
      No. If traffic at the aerodrome is light and it won’t cause any delays, you can manage this manually. When the pilot requests pushback, simply follow standard procedures, left-click the TOBT column to input their timings, and approve the pushback. 
      
 
