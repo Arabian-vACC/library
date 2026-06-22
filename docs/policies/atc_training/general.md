@@ -27,7 +27,7 @@
 # 1. Scope
 Welcome to the Arabian vACC ATC Training Policy. This document serves as a comprehensive guide for all aspiring and current controllers within the vACC. Whether you are just beginning your journey as a Student Controller or progressing toward Center positions, this policy will outline the expectations, procedures, and pathways that support your growth and success within the network.
 
-Our training spans three key FIRs across the Middle East: Muscat (OOMM) and the United Arab Emirates (OMAE). Through consistent standards, region-specific procedures, and a focus on real-world accuracy, we aim to deliver a high-quality experience that mirrors real ATC operations while being accessible to all levels of experience.
+Our training spans two key FIRs across the Middle East: Muscat (OOMM) and the United Arab Emirates (OMAE). Through consistent standards, region-specific procedures, and a focus on real-world accuracy, we aim to deliver a high-quality experience that mirrors real ATC operations while being accessible to all levels of experience.
 
 Our approach balances theory and practice, with a progression system designed to build your skills one rating at a time. This policy will guide you through that journey — from initial onboarding to rating advancement, endorsement acquisition, and beyond.
 
