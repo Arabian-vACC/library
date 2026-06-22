@@ -22,7 +22,7 @@ A partial or full **radar outage** may require a transition from radar to **proc
 - Once radar is restored, verify all targets against position reports before resuming standard surveillance-based separation.
 
 ## 17.3 CPDLC/Surveillance Failure
-Although CPDLC is not yet operational within the Doha, Emirates and Muscat FIRs, sector files are CPDLC-ready. If using Hoppie or simulated CPDLC services and a failure occurs:
+Although CPDLC is not yet operational within the Emirates and Muscat FIRs, sector files are CPDLC-ready. If using Hoppie or simulated CPDLC services and a failure occurs:
 
 - **Revert to standard voice communication** procedures.
 - Advise pilots to disregard any pending uplinks and resume voice contact.
