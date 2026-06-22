@@ -36,7 +36,7 @@
 
 The **Arabian Virtual Area Control Center** (hereinafter referred to as **Arabian vACC** or **ARBvACC**) is a recognized subdivision within the **Middle East & North Africa Division (VATMENA)**, operating under the **Europe, Middle East, and Africa Region (VATEMEA)** of the **VATSIM Network**.
 
-The Arabian vACC is responsible for the provision, management, and facilitation of Air Traffic Control (ATC) services on the VATSIM network across the airspaces of **Oman**, **Qatar**, and the **United Arab Emirates**. These services are delivered in accordance with the vACC's guiding values of **#ClearVision** and **#ClearMission**, aiming to uphold a high standard of realism and operational excellence.
+The Arabian vACC is responsible for the provision, management, and facilitation of Air Traffic Control (ATC) services on the VATSIM network across the airspaces of **Oman** and the **United Arab Emirates**. These services are delivered in accordance with the vACC's guiding values of **#ClearVision** and **#ClearMission**, aiming to uphold a high standard of realism and operational excellence.
 
 As part of its core responsibilities, the Arabian vACC oversees the training and certification of controllers operating within the **Muscat FIR (OOMM)**, **Doha FIR (OTDF)**, and **U.A.E FIR (OMAE)**.
 
