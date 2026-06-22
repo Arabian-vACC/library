@@ -887,6 +887,6 @@ When an aircraft is required to hold en-route, the controller should issue holdi
 
     **Pilot**: "HOLD AT IMPED, FL220, EMIRATES 4CK."
 
-    **Controller**: "EMIRATES 4CK, HOLD AT VUTEB, FL160."
+    **Controller**: "UAE4CK, enter the hold at VUTEB as published, FL160."
 
     **Pilot**: "HOLD AT VUTEB, FL160, EMIRATES 4CK."
