@@ -27,7 +27,7 @@
 # 1. Scope
 Welcome to the Arabian vACC ATC Training Policy. This document serves as a comprehensive guide for all aspiring and current controllers within the vACC. Whether you are just beginning your journey as a Student Controller or progressing toward Center positions, this policy will outline the expectations, procedures, and pathways that support your growth and success within the network.
 
-Our training spans three key FIRs across the Middle East: Doha (OTDF), Muscat (OOMM), and the United Arab Emirates (OMAE). Through consistent standards, region-specific procedures, and a focus on real-world accuracy, we aim to deliver a high-quality experience that mirrors real ATC operations while being accessible to all levels of experience.
+Our training spans three key FIRs across the Middle East: Muscat (OOMM) and the United Arab Emirates (OMAE). Through consistent standards, region-specific procedures, and a focus on real-world accuracy, we aim to deliver a high-quality experience that mirrors real ATC operations while being accessible to all levels of experience.
 
 Our approach balances theory and practice, with a progression system designed to build your skills one rating at a time. This policy will guide you through that journey — from initial onboarding to rating advancement, endorsement acquisition, and beyond.
 
@@ -45,7 +45,6 @@ The ATC Operations Department releases updated sector files every AIRAC cycle to
 
 Sector files for each FIR can be downloaded from the [AeroNav GNG website](https://files.aero-nav.com/), with direct links to each FIR below:
 
-- [Doha FIR (OTDF)](https://files.aero-nav.com/OTDF)
 - [Muscat FIR (OOMM)](https://files.aero-nav.com/OOMM)
 - [Emirates FIR (OMAE)](https://files.aero-nav.com/OMAE)
 
@@ -577,8 +576,8 @@ To ensure visiting controllers develop adequate familiarity with regional proced
 
 The progression path is defined as follows in the order shown:
 
-- One airport within Muscat FIR (OOMM) or Doha/Emirates FIR (OTDF/OMAE) – Up to 10 hours (excluding Dubai FIR).
-- A second different airport within Muscat FIR (OOMM) or Doha/Emirates FIR (OTDF/OMAE) – Up to 10 hours (excluding Dubai FIR).
+- One airport within Muscat FIR (OOMM) or Emirates FIR (OMAE) – Up to 10 hours (excluding Dubai FIR).
+- A second different airport within Muscat FIR (OOMM) or Emirates FIR (OMAE) – Up to 10 hours (excluding Dubai FIR).
 - Dubai FIR (OMDB) – Eligibility of Tier-1 is granted upon completion of the above.
 
 All required hours must be completed on active controlling positions within the Arabian vACC and may be reviewed by the ATC Training Department for validity.
