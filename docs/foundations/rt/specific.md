@@ -68,7 +68,12 @@ Controllers must actively listen to, and insist upon, a correct **readback** to 
     **Pilot**: "INFORMATION CHARLIE, QNH 1018, WILCO, EMIRATES 587."
 
 ### 3.1.3 Correct readback
-If the aircraft's readback is correct, the clearance delivery controller should respond with the phrase **“READBACK CORRECT”**. The controller should then provide details of the **active ATIS letter** along with the **local QNH**.
+If the aircraft's readback is correct, the clearance delivery controller should respond with the phrase **“READBACK CORRECT”**. The controller should then provide details of the **active ATIS letter** along with the **local QNH**.'
+
+!!! example
+    **Controller**: "ARABIA 214, [READBACK] CORRECT, INFORMATION ALPHA, QNH 999 HECTOPASCALS, REPORT READY FOR PUSH AND START."
+
+    **Pilot**: "INFORMATION ALPHA, QNH 999 HECTOPASCALS, WILCO, ARABIA 214."
 
 ### 3.1.4 Incorrect readback
 If an aircraft's readback is incorrect, the controller shall transmit **“NEGATIVE, I SAY AGAIN”**, followed by the correct version of the clearance or instruction.
