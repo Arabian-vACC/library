@@ -576,8 +576,8 @@ To ensure visiting controllers develop adequate familiarity with regional proced
 
 The progression path is defined as follows in the order shown:
 
-- One airport within Muscat FIR (OOMM) or Emirates FIR (OMAE) – Up to 10 hours (excluding Dubai FIR).
-- A second different airport within Muscat FIR (OOMM) or Emirates FIR (OMAE) – Up to 10 hours (excluding Dubai FIR).
+- One airport within Muscat FIR (OOMM) or Emirates FIR (OMAE) – Up to 10 hours (excluding OMDB).
+- A second different airport within Muscat FIR (OOMM) or Emirates FIR (OMAE) – Up to 10 hours (excluding OMDB).
 - Emirates FIR (OMDB) – Eligibility of Tier-1 is granted upon completion of the above.
 
 All required hours must be completed on active controlling positions within the Arabian vACC and may be reviewed by the ATC Training Department for validity.
