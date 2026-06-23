@@ -67,20 +67,13 @@ Controllers must actively listen to, and insist upon, a correct **readback** to 
 
     **Pilot**: "INFORMATION CHARLIE, QNH 1018, WILCO, EMIRATES 587."
 
-#### 3.1.2.4 Doha Specific
-!!! example
-    **Controller**: "QATARI 35B, CLEARED TO MUNICH, TULUB1W DEPARTURE, CLIMB VIA THE SID TO ALTITUDE 4000 FEET, SQUAWK 2615."
-
-    **Pilot**: "CLEARED TO MUNICH, TULUB1W DEPARTURE, CLIMB VIA THE SID TO ALTITUDE 4000 FEET, SQUAWK 2615, QATARI 35B"
-
-    **Controller**: "QATARI 35B, [READBACK] CORRECT, INFORMATION X-RAY, QNH 1013, REPORT READY FOR PUSH AND START."
-
-    **Pilot**: "INFORMATION X-RAY, QNH 1015, WILCO, QATARI 35B."
-
-At Doha, the **runway is not specified** in the clearance because the **SIDs are runway-dependent**. The Qatar AIP explicitly states that pilots should **avoid asking for the runway** on frequency.  
-
 ### 3.1.3 Correct readback
-If the aircraft's readback is correct, the clearance delivery controller should respond with the phrase **“READBACK CORRECT”**. The controller should then provide details of the **active ATIS letter** along with the **local QNH**.
+If the aircraft's readback is correct, the clearance delivery controller should respond with the phrase **“READBACK CORRECT”**. The controller should then provide details of the **active ATIS letter** along with the **local QNH**.'
+
+!!! example
+    **Controller**: "ARABIA 214, [READBACK] CORRECT, INFORMATION ALPHA, QNH 999 HECTOPASCALS, REPORT READY FOR PUSH AND START."
+
+    **Pilot**: "INFORMATION ALPHA, QNH 999 HECTOPASCALS, WILCO, ARABIA 214."
 
 ### 3.1.4 Incorrect readback
 If an aircraft's readback is incorrect, the controller shall transmit **“NEGATIVE, I SAY AGAIN”**, followed by the correct version of the clearance or instruction.
@@ -899,6 +892,6 @@ When an aircraft is required to hold en-route, the controller should issue holdi
 
     **Pilot**: "HOLD AT IMPED, FL220, EMIRATES 4CK."
 
-    **Controller**: "EMIRATES 4CK, HOLD AT VUTEB, FL160."
+    **Controller**: "UAE4CK, enter the hold at VUTEB as published, FL160."
 
-    **Pilot**: "HOLD AT VUTEB, FL160, EMIRATES 4CK."
+    **Pilot**: "Enter the hold at VUTEB as published, FL160, UAE4CK."
