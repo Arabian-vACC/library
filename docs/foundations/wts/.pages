@@ -5,7 +5,5 @@ nav:
     - application.md
     - icao_separation.md
     - ewts_separation.md
-    - recat_separation.md
     - icao_wake.md
     - ewts_wake.md
-    - recat_wake.md
