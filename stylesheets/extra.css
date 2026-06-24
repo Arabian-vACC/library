@@ -1,0 +1,140 @@
+/*Primary Thematic Colors*/
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: rgb(23, 30, 44);
+  --md-accent-fg-color: rgb(23, 30, 44);
+  --md-footer-fg-color: rgb(23, 30, 44);
+  --md-card-a: rgba(209, 213, 218, 0.6);
+  --md-card-a-hover: rgb(209, 213, 218);
+  --md-default-table-header-text: #fff;
+  --md-top: var(--md-default-bg-color);
+  --md-typeset-link: rgb(250, 172, 2);
+  --md-typeset-link-hover: rgba(250, 172, 2, 0.7);
+  --md-typeset-a-color: rgb(250, 172, 2);
+  --hotline: #fff820a1;
+  --coldline: #35b9ff66;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #171e2c;
+  --md-accent-fg-color: rgba(69, 88, 110, 0.9);
+  --md-primary-fg-color: #fff;
+  --md-card-a: #1b253b;
+  --md-card-a-hover: #293858;
+  --md-default-table-header-text: #fff;
+  --md-top: #1b253b;
+  --md-typeset-link: rgb(250, 172, 2);
+  --md-typeset-link-hover: rgba(250, 172, 2, 0.7);
+  --md-typeset-a-color: rgb(250, 172, 2);
+  --hotline: #b7b10291;
+  --coldline: #16aeff6e;
+}
+
+/*Header Modifications*/
+.md-typeset h1 {
+  color: var(--md-primary-fg-color);
+}
+
+h2 {
+  color: var(--md-primary-fg-color);
+}
+
+h3 {
+  color: var(--md-primary-fg-color);
+}
+
+h4 {
+  color: var(--md-primary-fg-color);
+}
+
+.md-typeset h2 {
+  font-size: 1.6em;
+}
+
+.md-typeset h3 {
+  font-size: 1.4em;
+}
+
+.md-typeset h4 {
+  font-weight: normal;
+  font-size: 1.15em;
+}
+
+.md-typeset h5 {
+  color: var(--md-primary-fg-color);
+  font-size: 0.9em;
+  text-transform: none;
+}
+
+/* highlighting */
+.md-typeset mark {
+  /* ==text== */
+  background-color: #faac02;
+  color: white;
+  text-decoration: none;
+}
+
+/*.md-typeset ins {  !* ^^text^^ *!*/
+/*    background-color: #594a47;*/
+/*    color: white;*/
+/*    text-decoration: none;*/
+/*}*/
+.md-typeset del {
+  /* ~~text~~ */
+  background-color: #271b2b;
+  color: white;
+  text-decoration: none;
+}
+
+.md-typeset code {
+  background-color: #7a7a7a82;
+  border-radius: 0.25rem;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  font-size: .90em;
+  padding: 0 .2941176471em;
+  word-break: break-word;
+}
+
+.md-typeset a {
+  color: var(--md-typeset-link)
+}
+
+.md-typeset a:hover {
+  color: var(--md-typeset-link-hover)
+}
+
+/*Standardize Font Awesome CSS Styling*/
+.discord {
+  font-size: 20px;
+}
+
+.github {
+  font-size: 20px;
+}
+
+/*Table Styling*/
+.md-typeset table:not([class]) th {
+  font-weight: bold;
+  background-color: #faac02;
+  color: var(--md-default-table-header-text);
+}
+
+.md-typeset table:not([class]) td {
+  border-top: .05rem solid var(--md-default-fg-color--lightest);
+  padding: .2375em 1.25em;
+  vertical-align: top;
+}
+
+/* Tasklist */
+.md-typeset [type=checkbox]:checked+.task-list-indicator:before {
+  background-color: #faac02;
+}
+
+/* Coord Examples */
+.hotline {
+  background-color: var(--hotline);
+}
+
+.coldline {
+  background-color: var(--coldline);
+}
