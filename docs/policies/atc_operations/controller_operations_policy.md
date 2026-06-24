@@ -93,14 +93,7 @@ If consent is denied, the streaming controller must move to a separate Discord c
 
 ## 6. Minimum Session Time
 
-Controllers are required to meet the following session time requirements:
-
-| Position | Minimum Session Time |
-|:--------:|:--------------------:|
-| DEL/GND |      30 Minutes      |
-| TWR     |      30 Minutes      |
-| DEP/APP |      30 Minutes      |
-| CTR     |      30 Minutes      |
+Controllers are required to control for a minimum of 30 minutes.
 
 Sessions under 30 minutes will not be counted toward the controller's quarterly total. Repeated non-compliance may lead to disciplinary action.
 
