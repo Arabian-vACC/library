@@ -1,0 +1,221 @@
+/* Main Elements */
+.md-main {
+    flex-grow: 1;
+}
+
+.md-main__inner {
+    display: flex;
+    height: 100%;
+}
+
+.container {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-image: url("../../assets/hero-image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-position-y: center;
+    background-position-x: center;
+}
+
+.hero {
+    color: var(--md-primary-bg-color);
+    display: flex;
+    align-items: end;
+}
+
+.hero .hero-items {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero-items .left {
+    width: 60%;
+}
+
+.hero-items .right {
+    display: flex;
+    align-items: end;
+}
+
+.hero .hero-items h1 {
+    color: currentColor;
+    font-family: Mulish;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0 0 0.25rem;
+}
+
+.hero .hero-items p {
+    margin: 0;
+}
+
+.hero .md-button {
+    margin-top: .5rem;
+    margin-right: .5rem;
+    color: var(--md-primary-bg-color)
+}
+
+.hero .md-button--primary {
+    background-color: var(--md-primary-bg-color);
+    color: var(--md-accent-fg-color);
+    border-color: var(--md-primary-bg-color)
+}
+
+.hero .md-button:focus,
+.hero .md-button:hover {
+    background-color: var(--md-accent-fg-color);
+    color: #ffffff;
+    border-color: var(--md-accent-fg-color)
+}
+
+.hero-items {
+}
+
+
+/* Features below hero */
+
+.lowerSection {}
+
+.feature {
+    font-family: Mulish;
+    font-weight: 300;
+    box-sizing: border-box;
+}
+
+.feature h2 {
+    color: var(--md-primary-fg-color);
+    font-weight: 400;
+    font-size: 25px;
+    line-height: normal;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    display: inline-block;
+    border-bottom: 1px solid #f1f5f9;
+    padding-bottom: 5px;
+}
+
+.feature .cards {
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+}
+
+.feature .cards .card {
+    margin: 20px 5px 0px;
+}
+
+.feature .card a {
+    display: block;
+    background: var(--md-card-a);
+    color: var(--md-primary-fg-color);
+    transition: background-color 0.2s ease;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
+
+.feature .card a:hover {
+    background-color: var(--md-card-a-hover);
+    color: var(--md-primary-fg-color)
+}
+
+.feature .card a h3 {
+    margin-top: 8px;
+}
+
+
+/* Additional Responsive Styling */
+
+@media screen and (max-width:480px) {
+    .container {
+        padding-top: 1.5rem;
+        background: url("../../assets/hero-image.png"), rgba(29, 30, 38, 0.5);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-blend-mode: overlay;
+        background-position: 35%;
+    }
+
+    .hero h1 {
+        font-size: 2rem;
+    }
+
+    .hero .hero-items {
+        display: block;
+        padding: 1.5rem;
+    }
+
+    .hero-items .left { display: block; width: 100%; }
+    .hero-items .right a { margin-top: 1rem;}
+
+    .feature h2 {
+        margin-left: 20px;
+    }
+
+    .feature .cards {
+        flex-direction: column;
+    }
+
+    
+}
+
+@media screen and (min-width: 481px) and (max-width: 899px) {
+    .container {
+        background-color: rgba(29, 30, 38, 0.5)
+    }
+
+    .hero .hero-items {
+        display: block;
+        padding: 1.5rem;
+    }
+
+    .hero-items .left { display: block; width: 100%; }
+    .hero-items .right a { margin-top: 1rem;}
+
+    .lowerSection {
+        padding: 0 1.5rem;
+    }
+
+    .feature .cards {
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width:900px) {
+    .md-sidebar--secondary {
+        display: none
+    }
+
+    .hero {
+        min-height: 600px;
+    }
+
+    .hero-items {
+        padding: 0 2rem;
+    }
+
+    .hero-content {
+        max-width: 20rem;
+        margin-top: 2rem;
+        margin-bottom: 2.5rem;
+        margin-right: 4rem;
+        align-items: center;
+    }
+
+    .feature h2 {
+        margin-left: 10px;
+    }
+}
+
+@media screen and (min-width:1120px) {
+    .md-sidebar--primary {
+        display: none
+    }
+
+    .feature h2 {
+        margin-left: 20px;
+    }
+}
