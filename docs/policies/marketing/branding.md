@@ -56,12 +56,12 @@ For detailed guidelines on banner creation, usage, and specifications, please re
 🔗 [View Examination Banner Policy](https://library.vatsim-arabian.com/policies/marketing/examinations/)
 
 ## The thoughts behind the logo
-The logo was designed by **Naman Gaur (1506377)** following the merger of the **Bahrain & Qatar, Emirates, and Muscat vACCs**. It features a modern, clean, and professional design, emphasizing clarity and precision. The design incorporates an oryx, symbolizing the unity of the three countries, and is minimalistic, reinforcing simplicity and elegance. 
+The logo was designed by **Naman Gaur (1506377)** following the merger of the **Bahrain & Qatar, Emirates, and Muscat vACCs**. It features a modern, clean, and professional design, emphasizing clarity and precision. The design incorporates an oryx, symbolizing the unity of the three countries, and is minimalistic, reinforcing simplicity and elegance. This was then updated in June 2026 by **Ibrahim Dave (1699621)** following the removal of the OTDF FIR from the Arabian vACC leaving OMAE and OOMM.
 
 The white color suggests neutrality, simplicity, and versatility, providing high contrast on darker backgrounds and making the logo adaptable for various digital and print applications. Chrome yellow represents the desert, optimism, and energy, aligning with the vACC’s hashtags: #clearmission & #clearvision
 
 <figure markdown>
-![Arabian vACC - Logos](img/arbvacc_logo_contrast.jpg)
+![Arabian vACC - Logos](img/arbvacc_logo_contrast.png)
 </figure>
 
 ### Color Palette
@@ -73,5 +73,5 @@ The white color suggests neutrality, simplicity, and versatility, providing high
 The logo may be used in either its **positive** or **negative** variant, depending on the background. There are also **all-black** and **all-white** variants available, intended for **special cases only**.
 
 <figure markdown>
-![Arabian vACC - Color Palette](img/arbvacc_logo_guidelines.jpg)
+![Arabian vACC - Color Palette](img/arbvacc_logo_guidelines.png)
 </figure>

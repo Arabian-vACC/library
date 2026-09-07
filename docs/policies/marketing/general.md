@@ -40,13 +40,13 @@ Events organized by the **Arabian vACC** or those in which the vACC participates
 - **VATMENA Discord** ([community.vatsim.net](https://community.vatsim.net))  
     - Discord Calendar & Announcements  
 - **Arabian vACC Social Media**  
-    - N/A as pasrt of the restructure. To be added.
+    - N/A as part of the restructure. To be added.
 - **myVATSIM Events Calendar** ([my.vatsim.net](https://my.vatsim.net))  
 
 The Marketing Department strives to:
 
-- Publish **controller examinations** with at least **2 weeks’ notice** or when examiner/s have been conlcuded and chosen.  
-- Publish **events** with at least **2 weeks’ notice**.  
+- Publish **controller examinations** with at least **1 weeks’ notice** or when examiner/s have been conlcuded and chosen.  
+- Publish **events** with at least **1 weeks’ notice**.  
 - Publish **rosters** for rostered events **no later than the night before** the event. And at **least 48 hours** prior a large event.  
 
 Requests for ATC coverage from **virtual airlines** or other vACCs are generally **not published in the calendar** and usually require only a staffing announcement, this clause is overruled with VA's that are partnered with the Arabian vACC.
@@ -98,7 +98,7 @@ The **event roster** is generally published **no later than the night before the
 All cancellations and no-shows for events are **recorded**. Controllers should **only sign up for an event if they can commit** to attending. In unavoidable circumstances, controllers must notify the **Events Department** as soon as possible using both of the methods below:
 
 - **Notify the person responsible for rostering**  
-    - Post in the signup forum on Discord with pining the events department.
+    - Post in the signup forum on Discord and ping the events department.
 
 - **Update the original availability post**  
     - Use the link send in the sign up forms to make amendments.
