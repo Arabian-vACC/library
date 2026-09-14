@@ -69,10 +69,21 @@ In Dubai, if datalink clearances are unavailable, voice clearances will be provi
 !!! warning
     Clearance delivery will not provide push and start clearance. However, remain on the clearance delivery frequency; do not switch to the ground frequency on your own. You must report fully ready on the delivery frequency—this includes having the jetway disconnected, tug connected, and chocks removed. Delivery will advise when to switch to the appropriate ground frequency, based on the current airport departure rate.
 
-### Airport Collaborative Decision Making (A-CDM)
-Dubai has implemented **A**irport **C**ollaborative **D**ecision **M**aking (**A-CDM**) procedures to ensure efficient operations and reduce time spent at the holding point. Pilots are required to adhere to assigned A-CDM times. When A-CDM procedures are in effect, this will be announced in the ATIS. Pilots should set their **T**arget **O**ff **B**lock **T**ime (**TOBT**) and update it whenever their estimate changes by more than 5 minutes using the [VATMENA vACDM Pilot Interface](https://vacdm.vatsim.me), aiding controllers in departure planning.
+## Collaborative Decision Making (CDM)
+Dubai International Airport has a system called **Collaborative Decision Making (CDM)** procedures which are in use at all times to ensure efficient operations and reduce time spent at the holding point. Pilots are required to adhere to assigned CDM times. Pilots should set their **Target Off Block Time (TOBT)** and update it whenever their estimate changes by more than 5 minutes using the [VDGS Pilot Interface](https://vats.im/vdgs), aiding controllers in departure planning.
 
-If you are unfamiliar with A-CDM procedures, please refer to the [A-CDM pilot guide](https://vacdm.net/docs/pilot/use-vacdm).
+If you are unfamiliar with CDM procedures, please refer to the [CDM pilot guide.](https://viffsys.com/docs.html)
+
+### CDM Regulations
+Please follow the procedures below in accordance with the airport briefing charts and CDM policy:
+
+- **🖥️ TOBT must be submitted via [vats.im/vdgs](https://vats.im/vdgs)**
+- **⏳ Clearance must be requested no later than 25 minutes before EOBT**
+- **🕒 Pushback must occur within ±2 minutes of the assigned TSAT**
+- **⚠️ If unable to push back within +5 minutes after TSAT:**
+  - **📞 Inform ATC**
+  - **🔄 Submit a new TOBT via VDGS for a new TSAT**
+- **🚫 Do not contact ATC or report ready for start-up prior to your startup window which can be found on the [VDGS website.](https://vats.im/vdgs)**
 
 ## Push and Start
 Once clearance delivery releases you to the designated ground frequency, pilots may request push and start clearance. Upon initial contact, the ground controller may provide various types of pushback instructions. Pilots must ensure they can comply with these instructions; if unable, they must inform the ground controller.
