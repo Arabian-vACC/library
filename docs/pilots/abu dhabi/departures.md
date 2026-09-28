@@ -59,6 +59,22 @@ Departing aircraft requiring clearance via voice shall contact Abu Dhabi Deliver
 !!! warning
     Confirmation that you are "ready for pushback" requires that the tug is attached and you are able to push immediately upon receipt of clearance
 
+## Collaborative Decision Making (CDM)
+Zayed International Airport has a system called **Collaborative Decision Making (CDM)** procedures which are in use at all times to ensure efficient operations and reduce time spent at the holding point. Pilots are required to adhere to assigned CDM times. Pilots should set their **Target Off Block Time (TOBT)** and update it whenever their estimate changes by more than 5 minutes using the [VDGS Pilot Interface](https://vats.im/vdgs), aiding controllers in departure planning.
+
+If you are unfamiliar with CDM procedures, please refer to the [CDM pilot guide.](https://viffsys.com/docs.html)
+
+### CDM Regulations
+Please follow the procedures below in accordance with the airport briefing charts and CDM policy:
+
+- **🖥️ TOBT must be submitted via [vats.im/vdgs](https://vats.im/vdgs)**
+- **⏳ Clearance must be requested no later than 25 minutes before EOBT**
+- **🕒 Pushback must occur within ±2 minutes of the assigned TSAT**
+- **⚠️ If unable to push back within +5 minutes after TSAT:**
+  - **📞 Inform ATC**
+  - **🔄 Submit a new TOBT via VDGS for a new TSAT**
+- **🚫 Do not contact ATC or report ready for start-up prior to your startup window which can be found on the [VDGS website.](https://vats.im/vdgs)**
+
 ## Push and Start
 Once push and start clearance is received, it is valid for 1 minute - pilots must ensure that pushback commences promptly. ATC may cancel or delay a pushback clearance based on operational requirements. Tug release points are in use at Abu Dhabi, however these will not be mentioned in push clearances. Pushback clearance will include
 
