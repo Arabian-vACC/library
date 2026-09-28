@@ -65,7 +65,7 @@ To optimise traffic flow and minimise frequency congestion, the following maximu
 
 | Online sector | Max number of aircraft |
 |---------------|------------------------|
-| OMDB_APP      | up to 8<br>(up to 12 permiited if DIR online) |
+| OMDB_APP      | up to 8<br>(up to 12 permitted if DIR online) |
 | OMDB_F_APP    | up to 6                |
 | OMDB_1_DEP    | up to 10               |
 | OMDB_2_DEP    | up to 10               |
